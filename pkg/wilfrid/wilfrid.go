@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
-	"net/url"
+	"net/http/cookiejar"
 	"strings"
 )
 
@@ -66,67 +66,68 @@ type coursePair struct {
 	Description string `json:"description"`
 }
 
+var client *http.Client
+
 //Start function begins the scraping
 func Start() {
 
+	//creating global  http client
+	cookieJar, _ := cookiejar.New(nil)
+	client = &http.Client{
+		Jar: cookieJar,
+	}
+
 	// Getting  list of terms and JSESSIONID
 
+	fmt.Println("Getting Terms and  SessionID")
 	ps, sessionID := getCourses()
 
 	// Printing for test purposes
-	fmt.Println("JSESSIONID\t", sessionID)
+	fmt.Printf("SeessionID is %s and there are %d terms the 1st one is %s with code %s\n", sessionID, len(ps), ps[0].Description, ps[0].Code)
+
 	for i, p := range ps {
-		fmt.Println(i, "\t", p.Code, "\t", p.Description)
-	}
+		if i > 0 {
+			break
+		}
 
-	// Switching to partiqual term by sending post request
-	resp := postSession(ps[0].Code, sessionID)
+		fmt.Printf("Processing %d term with code %s and description %s\n", i, p.Code, p.Description)
+		fmt.Println("Sending post request to switch term for current Session ID")
+		resp := postSession(p.Code, sessionID)
+		fmt.Printf("Post response is %s no errors\n", strings.TrimSpace(string(resp)))
+		fmt.Printf("Getting classes for the %s term\n", p.Code)
+		classes, xSessionID := getClasses(p.Code, sessionID)
+		if xSessionID != "" {
+			sessionID = xSessionID
+		}
+		if len(classes) > 0 {
+			fmt.Printf("For %s term we got %d classes from %s to %s \n", p.Code, len(classes), classes[0].Description, classes[len(classes)-1].Description)
+		} else {
+			fmt.Println("No classes for ", p.Code)
+			continue
+		}
 
-	//Printing response for test purposes
-	fmt.Println(resp)
+		fmt.Printf("Walking classes for %s term\n", p.Code)
+		for _, class := range classes {
+			tds := browseClasses(class.Code, p.Code, sessionID)
+			fmt.Printf("Got %d results for class %s\n", len(tds), class.Code)
+			for _, td := range tds {
+				fmt.Println(td.Term, "\t", td.TermDesc)
+			}
+			break
 
-	terms := getClasses(ps[0].Code, sessionID)
+		}
 
-	var codes []string
-	for i, p := range terms {
-		fmt.Println(i, "\t", p.Code, "\t", p.Description)
-		codes = append(codes, p.Code)
-
-	}
-
-	tds := browseClasses(strings.Join(codes, ","), ps[0].Code, sessionID)
-
-	//fmt.Printf()
-
-	for _, td := range tds {
-		fmt.Printf("%#v\n", td)
 	}
 
 }
 
 func browseClasses(subject, term, sessionID string) []theData {
-	/*
-	 */
-	/*
-		https://loris.wlu.ca/register/ssb/searchResults/searchResults?txt_subject=AN%2CAR
-			&txt_term=202105
-			&startDatepicker=
-			&endDatepicker=
-			&uniqueSessionId=dr3g01599058908377
-			&pageOffset=0
-			&pageMaxSize=50
-			&sortColumn=subjectDescription
-			&sortDirection=asc
-	*/
-	/*
-		link:="https://loris.wlu.ca/register/ssb/searchResults/searchResults?txt_subject=AN%2CAR%2CAB&txt_term=202105&startDatepicker=&endDatepicker=&uniqueSessionId=B277DF4F512288E9BB721E616D2CFC72&pageOffset=0&pageMaxSize=10&sortColumn=subjectDescription&sortDirection=asc"
-	*/
 
 	link := fmt.Sprintf("https://loris.wlu.ca/register/ssb/searchResults/searchResults?txt_subject=%s&txt_term=%s&startDatepicker=&endDatepicker=&uniqueSessionId=%s&pageOffset=0&pageMaxSize=10&sortColumn=subjectDescription&sortDirection=asc",
-		url.QueryEscape(subject), term, sessionID)
+		subject, term, sessionID)
 	fmt.Println(link)
 
-	client := &http.Client{}
+	//client := &http.Client{}
 	req, err := http.NewRequest("GET", link, nil)
 	if err != nil {
 		log.Fatal(err)
@@ -138,7 +139,7 @@ func browseClasses(subject, term, sessionID string) []theData {
 	req.Header.Set("Connection", "keep-alive")
 	req.Header.Set("Upgrade-Insecure-Requests", "1")
 	req.Header.Set("Cache-Control", "max-age=0")
-	req.Header.Set("Cookie", "f5avrbbbbbbbbbbbbbbbb=FHGBEJFABJPIMMAHKOBAGGEANDKJHMGACDPAKLHDECJOMBLIPLEKJFMNNCGBDCGOEGADNNHOODJMHDEKHNJAJPHGENEODLPLKKFFFMIKOCILDDMLBAILGEIDGPFKBMLD; f5_cspm=1234; JSESSIONID=ABAB97167A4713D1812C1F1CAD2E1F17; _ga=GA1.2.803802487.1598984858; _gid=GA1.2.991047408.1598984858; BIGipServerpool_prodlorisregister=1096157706.24353.0000; BIGipServerpool_prodlorisbanextension=1029048842.18213.0000")
+	req.Header.Set("Cookie", "f5avrbbbbbbbbbbbbbbbb=FHGBEJFABJPIMMAHKOBAGGEANDKJHMGACDPAKLHDECJOMBLIPLEKJFMNNCGBDCGOEGADNNHOODJMHDEKHNJAJPHGENEODLPLKKFFFMIKOCILDDMLBAILGEIDGPFKBMLD; f5_cspm=1234; JSESSIONID="+sessionID+"; _ga=GA1.2.803802487.1598984858; _gid=GA1.2.991047408.1598984858; BIGipServerpool_prodlorisregister=1096157706.24353.0000; BIGipServerpool_prodlorisbanextension=1029048842.18213.0000")
 	resp, err := client.Do(req)
 	if err != nil {
 		log.Fatal(err)
@@ -158,15 +159,14 @@ func browseClasses(subject, term, sessionID string) []theData {
 
 }
 
+//TODO
 func getCourseDesc(sessionID string) {
 	//https://loris.wlu.ca/register/ssb/searchResults/getCourseDescription
 }
 
-func getClasses(term, sessionID string) []coursePair {
-	// https://loris.wlu.ca/register/ssb/classSearch/get_subject?searchTerm=&term=202101&offset=1&max=10&uniqueSessionId=j4h1m1598984856906&_=1598990860994
-	client := &http.Client{}
+func getClasses(term, sessionID string) ([]coursePair, string) {
 	req, err := http.NewRequest("GET",
-		fmt.Sprintf("https://loris.wlu.ca/register/ssb/classSearch/get_subject?searchTerm=&term=202101&offset=1&max=10&uniqueSessionId=%s&_=1598990860994", sessionID),
+		fmt.Sprintf("https://loris.wlu.ca/register/ssb/classSearch/get_subject?searchTerm=&term=%s&offset=1&max=150&uniqueSessionId=%s&=1598990860994", term, sessionID),
 		nil)
 	if err != nil {
 		log.Fatal(err)
@@ -179,12 +179,24 @@ func getClasses(term, sessionID string) []coursePair {
 	req.Header.Set("DNT", "1")
 	req.Header.Set("Connection", "keep-alive")
 	req.Header.Set("Referer", "https://loris.wlu.ca/register/ssb/term/termSelection?mode=search")
-	//req.Header.Set("Cookie", "f5avrbbbbbbbbbbbbbbbb=IEDKECFBPIFCBOCPOBLHMONHNIPLANEMPBKCMDNHMDOFIALDHKIEGLOKLHNAFGPIGEIDAOGPOCPHMAJGENDACCGPEJPOPGMOEBLBEJIAMGFEGBEPJBPAMOKIFIILOIOF; JSESSIONID=E786E31604C131FFFB3216F2FFA7D9FC; BIGipServerpool_prodlorisregister=1045826058.24353.0000; BIGipServerpool_prodlorisbanextension=1029048842.18213.0000; _ga=GA1.2.803802487.1598984858; _gid=GA1.2.991047408.1598984858; _gat=1")
+	req.Header.Set("Cookie", "f5avrbbbbbbbbbbbbbbbb=IEDKECFBPIFCBOCPOBLHMONHNIPLANEMPBKCMDNHMDOFIALDHKIEGLOKLHNAFGPIGEIDAOGPOCPHMAJGENDACCGPEJPOPGMOEBLBEJIAMGFEGBEPJBPAMOKIFIILOIOF; JSESSIONID="+sessionID+"; BIGipServerpool_prodlorisregister=1045826058.24353.0000; BIGipServerpool_prodlorisbanextension=1029048842.18213.0000; _ga=GA1.2.803802487.1598984858; _gid=GA1.2.991047408.1598984858; _gat=1")
 	resp, err := client.Do(req)
 	if err != nil {
 		log.Fatal(err)
 	}
+	var xSessionID string
+	cookies := resp.Cookies()
+	for _, c := range cookies {
+		//fmt.Printf("%#v\n", c)
+		if c.Name == "JSESSIONID" {
+			xSessionID = c.Value
+			break
+		}
+	}
 
+	if xSessionID != "" && xSessionID != sessionID {
+		fmt.Printf("SessionIDs are different! %s\t%s\n", sessionID, xSessionID)
+	}
 	body, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
 		log.Fatal(err)
@@ -196,7 +208,7 @@ func getClasses(term, sessionID string) []coursePair {
 		log.Fatal(err)
 	}
 
-	return p
+	return p, xSessionID
 
 }
 
@@ -204,7 +216,7 @@ func getClasses(term, sessionID string) []coursePair {
 //state so the client will be able to browse
 //classes
 func postSession(term, sessionID string) string {
-	client := &http.Client{}
+	//client := &http.Client{}
 	var data = strings.NewReader(`term=` + term + `&studyPath=&studyPathText=&startDatepicker=&endDatepicker=&uniqueSessionId=` + sessionID)
 	req, err := http.NewRequest("POST", "https://loris.wlu.ca/register/ssb/term/search?mode=search", data)
 	if err != nil {
@@ -237,7 +249,7 @@ func postSession(term, sessionID string) string {
 //because everythign there depends on JSESSIONID (yeah stupid)
 func getCourses() ([]coursePair, string) {
 	var sessionID string
-	client := &http.Client{}
+	//client := &http.Client{}
 	req, err := http.NewRequest("GET", "https://loris.wlu.ca/register/ssb/classSearch/getTerms?searchTerm=&offset=1&max=30&_=1598984877083", nil)
 	if err != nil {
 		log.Fatal(err)
