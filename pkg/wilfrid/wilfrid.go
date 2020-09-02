@@ -111,7 +111,8 @@ func Start() {
 			tds := browseClasses(class.Code, p.Code, sessionID)
 			fmt.Printf("Got %d results for class %s\n", len(tds), class.Code)
 			for _, td := range tds {
-				fmt.Println(td.Term, "\t", td.TermDesc)
+				fmt.Println(td.Term, "\t", td.CourseReferenceNumber)
+				getCourseDesc(td.Term, td.CourseReferenceNumber)
 			}
 			break
 
@@ -121,9 +122,38 @@ func Start() {
 
 }
 
+// getCourseDesc get descritption of the course
+func getCourseDesc(term, courseReferenceNumber string) {
+	var data = strings.NewReader(fmt.Sprintf(`term=%s&courseReferenceNumber=%s&first=first`, term, courseReferenceNumber))
+	req, err := http.NewRequest("POST", "https://loris.wlu.ca/register/ssb/searchResults/getClassDetails", data)
+	if err != nil {
+		log.Fatal(err)
+	}
+	req.Header.Set("User-Agent", "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) Gecko/20100101 Firefox/80.0")
+	req.Header.Set("Accept", "text/html, */*; q=0.01")
+	req.Header.Set("Accept-Language", "en-US,en;q=0.5")
+	req.Header.Set("X-Synchronizer-Token", "2239a4b4-d4dc-42da-9ca3-7065bf3f158f")
+	req.Header.Set("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8")
+	req.Header.Set("X-Requested-With", "XMLHttpRequest")
+	req.Header.Set("Origin", "https://loris.wlu.ca")
+	req.Header.Set("DNT", "1")
+	req.Header.Set("Connection", "keep-alive")
+	req.Header.Set("Referer", "https://loris.wlu.ca/register/ssb/classSearch/classSearch")
+	//req.Header.Set("Cookie", "f5avrbbbbbbbbbbbbbbbb=CHCGGIOPBBFJCDBDDFELOANJPKPLNJEMIFMBGALIFKAKJHNLHAODKGEEKCMFJPCJGICDOLAPHHHAGBNOOEPAOLDNFPNHHCLGPOCFOOODIONBGKGANNGIDKMONIDHIGKN; f5_cspm=1234; JSESSIONID=A4B0E71002DB9CE6DA8C812C5C1796BC; _ga=GA1.2.803802487.1598984858; _gid=GA1.2.991047408.1598984858; BIGipServerpool_prodlorisregister=1096157706.24353.0000; BIGipServerpool_prodlorisbanextension=1029048842.18213.0000")
+	resp, err := client.Do(req)
+	if err != nil {
+		log.Fatal(err)
+	}
+	bodyText, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		log.Fatal(err)
+	}
+	fmt.Printf("%s\n", bodyText)
+}
+
 func browseClasses(subject, term, sessionID string) []theData {
 
-	link := fmt.Sprintf("https://loris.wlu.ca/register/ssb/searchResults/searchResults?txt_subject=%s&txt_term=%s&startDatepicker=&endDatepicker=&uniqueSessionId=%s&pageOffset=0&pageMaxSize=10&sortColumn=subjectDescription&sortDirection=asc",
+	link := fmt.Sprintf("https://loris.wlu.ca/register/ssb/searchResults/searchResults?txt_subject=%s&txt_term=%s&startDatepicker=&endDatepicker=&uniqueSessionId=%s&pageOffset=0&pageMaxSize=100&sortColumn=subjectDescription&sortDirection=asc",
 		subject, term, sessionID)
 	fmt.Println(link)
 
@@ -149,7 +179,7 @@ func browseClasses(subject, term, sessionID string) []theData {
 		log.Fatal(err)
 	}
 
-	//fmt.Println(string(body))
+	fmt.Println(string(body))
 	var g theClass
 	if err := json.Unmarshal(body, &g); err != nil {
 		log.Fatal(err)
@@ -157,11 +187,6 @@ func browseClasses(subject, term, sessionID string) []theData {
 
 	return g.Data
 
-}
-
-//TODO
-func getCourseDesc(sessionID string) {
-	//https://loris.wlu.ca/register/ssb/searchResults/getCourseDescription
 }
 
 func getClasses(term, sessionID string) ([]coursePair, string) {
