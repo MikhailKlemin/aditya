@@ -6,8 +6,60 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"net/url"
 	"strings"
 )
+
+type theClass struct {
+	Success              bool      `json:"success"`
+	TotalCount           int       `json:"totalCount"`
+	Data                 []theData `json:"data"`
+	PageOffset           int       `json:"pageOffset"`
+	PageMaxSize          int       `json:"pageMaxSize"`
+	SectionsFetchedCount int       `json:"sectionsFetchedCount"`
+	PathMode             string    `json:"pathMode"`
+	SearchResultsConfigs []struct {
+		Config  string `json:"config"`
+		Display string `json:"display"`
+		Title   string `json:"title"`
+		Width   string `json:"width"`
+	} `json:"searchResultsConfigs"`
+	ZtcEncodedImage string `json:"ztcEncodedImage"`
+}
+
+type theData struct {
+	ID                      int    `json:"id"`
+	Term                    string `json:"term"`
+	TermDesc                string `json:"termDesc"`
+	CourseReferenceNumber   string `json:"courseReferenceNumber"`
+	PartOfTerm              string `json:"partOfTerm"`
+	CourseNumber            string `json:"courseNumber"`
+	Subject                 string `json:"subject"`
+	SubjectDescription      string `json:"subjectDescription"`
+	SequenceNumber          string `json:"sequenceNumber"`
+	CampusDescription       string `json:"campusDescription"`
+	ScheduleTypeDescription string `json:"scheduleTypeDescription"`
+
+	CourseTitle string `json:"courseTitle"`
+
+	CreditHours float64 `json:"creditHours"`
+
+	MaximumEnrollment int `json:"maximumEnrollment"`
+	Enrollment        int `json:"enrollment"`
+
+	SeatsAvailable int `json:"seatsAvailable"`
+
+	WaitCapacity  int `json:"waitCapacity"`
+	WaitCount     int `json:"waitCount"`
+	WaitAvailable int `json:"waitAvailable"`
+
+	CreditHourHigh      float64 `json:"creditHourHigh"`
+	CreditHourLow       int     `json:"creditHourLow"`
+	CreditHourIndicator string  `json:"creditHourIndicator"`
+	OpenSection         bool    `json:"openSection"`
+	IsSectionLinked     bool    `json:"isSectionLinked"`
+	SubjectCourse       string  `json:"subjectCourse"`
+}
 
 type coursePair struct {
 	Code        string `json:"code"`
@@ -16,24 +68,101 @@ type coursePair struct {
 
 //Start function begins the scraping
 func Start() {
+
+	// Getting  list of terms and JSESSIONID
+
 	ps, sessionID := getCourses()
 
+	// Printing for test purposes
 	fmt.Println("JSESSIONID\t", sessionID)
 	for i, p := range ps {
 		fmt.Println(i, "\t", p.Code, "\t", p.Description)
 	}
 
-	resp := postSession(ps[1].Code, sessionID)
-	fmt.Println(resp)
-	terms := getTerm(sessionID)
+	// Switching to partiqual term by sending post request
+	resp := postSession(ps[0].Code, sessionID)
 
+	//Printing response for test purposes
+	fmt.Println(resp)
+
+	terms := getClasses(ps[0].Code, sessionID)
+
+	var codes []string
 	for i, p := range terms {
 		fmt.Println(i, "\t", p.Code, "\t", p.Description)
+		codes = append(codes, p.Code)
+
+	}
+
+	tds := browseClasses(strings.Join(codes, ","), ps[0].Code, sessionID)
+
+	//fmt.Printf()
+
+	for _, td := range tds {
+		fmt.Printf("%#v\n", td)
 	}
 
 }
 
-func getTerm(sessionID string) []coursePair {
+func browseClasses(subject, term, sessionID string) []theData {
+	/*
+	 */
+	/*
+		https://loris.wlu.ca/register/ssb/searchResults/searchResults?txt_subject=AN%2CAR
+			&txt_term=202105
+			&startDatepicker=
+			&endDatepicker=
+			&uniqueSessionId=dr3g01599058908377
+			&pageOffset=0
+			&pageMaxSize=50
+			&sortColumn=subjectDescription
+			&sortDirection=asc
+	*/
+	/*
+		link:="https://loris.wlu.ca/register/ssb/searchResults/searchResults?txt_subject=AN%2CAR%2CAB&txt_term=202105&startDatepicker=&endDatepicker=&uniqueSessionId=B277DF4F512288E9BB721E616D2CFC72&pageOffset=0&pageMaxSize=10&sortColumn=subjectDescription&sortDirection=asc"
+	*/
+
+	link := fmt.Sprintf("https://loris.wlu.ca/register/ssb/searchResults/searchResults?txt_subject=%s&txt_term=%s&startDatepicker=&endDatepicker=&uniqueSessionId=%s&pageOffset=0&pageMaxSize=10&sortColumn=subjectDescription&sortDirection=asc",
+		url.QueryEscape(subject), term, sessionID)
+	fmt.Println(link)
+
+	client := &http.Client{}
+	req, err := http.NewRequest("GET", link, nil)
+	if err != nil {
+		log.Fatal(err)
+	}
+	req.Header.Set("User-Agent", "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:80.0) Gecko/20100101 Firefox/80.0")
+	req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8")
+	req.Header.Set("Accept-Language", "en-US,en;q=0.5")
+	req.Header.Set("DNT", "1")
+	req.Header.Set("Connection", "keep-alive")
+	req.Header.Set("Upgrade-Insecure-Requests", "1")
+	req.Header.Set("Cache-Control", "max-age=0")
+	req.Header.Set("Cookie", "f5avrbbbbbbbbbbbbbbbb=FHGBEJFABJPIMMAHKOBAGGEANDKJHMGACDPAKLHDECJOMBLIPLEKJFMNNCGBDCGOEGADNNHOODJMHDEKHNJAJPHGENEODLPLKKFFFMIKOCILDDMLBAILGEIDGPFKBMLD; f5_cspm=1234; JSESSIONID=ABAB97167A4713D1812C1F1CAD2E1F17; _ga=GA1.2.803802487.1598984858; _gid=GA1.2.991047408.1598984858; BIGipServerpool_prodlorisregister=1096157706.24353.0000; BIGipServerpool_prodlorisbanextension=1029048842.18213.0000")
+	resp, err := client.Do(req)
+	if err != nil {
+		log.Fatal(err)
+	}
+	body, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	//fmt.Println(string(body))
+	var g theClass
+	if err := json.Unmarshal(body, &g); err != nil {
+		log.Fatal(err)
+	}
+
+	return g.Data
+
+}
+
+func getCourseDesc(sessionID string) {
+	//https://loris.wlu.ca/register/ssb/searchResults/getCourseDescription
+}
+
+func getClasses(term, sessionID string) []coursePair {
 	// https://loris.wlu.ca/register/ssb/classSearch/get_subject?searchTerm=&term=202101&offset=1&max=10&uniqueSessionId=j4h1m1598984856906&_=1598990860994
 	client := &http.Client{}
 	req, err := http.NewRequest("GET",
