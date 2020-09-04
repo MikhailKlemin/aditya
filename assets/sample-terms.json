@@ -1,0 +1,152 @@
+[
+    {
+        "TermID": 12,
+        "TermName": "Fall 2017 (View Only)",
+        "TermCode": "201709"
+    },
+    {
+        "TermID": 15,
+        "TermName": "Fall 2016 (View Only)",
+        "TermCode": "201609"
+    },
+    {
+        "TermID": 20,
+        "TermName": "Winter 2015 (View Only)",
+        "TermCode": "201501"
+    },
+    {
+        "TermID": 29,
+        "TermName": "Winter 2012 (View Only)",
+        "TermCode": "201201"
+    },
+    {
+        "TermID": 19,
+        "TermName": "Spring 2015 (View Only)",
+        "TermCode": "201505"
+    },
+    {
+        "TermID": 24,
+        "TermName": "Fall 2013 (View Only)",
+        "TermCode": "201309"
+    },
+    {
+        "TermID": 26,
+        "TermName": "Winter 2013 (View Only)",
+        "TermCode": "201301"
+    },
+    {
+        "TermID": 21,
+        "TermName": "Fall 2014 (View Only)",
+        "TermCode": "201409"
+    },
+    {
+        "TermID": 22,
+        "TermName": "Spring 2014 (View Only)",
+        "TermCode": "201405"
+    },
+    {
+        "TermID": 27,
+        "TermName": "Fall 2012 (View Only)",
+        "TermCode": "201209"
+    },
+    {
+        "TermID": 4,
+        "TermName": "Spring 2020 (View Only)",
+        "TermCode": "202005"
+    },
+    {
+        "TermID": 10,
+        "TermName": "Spring 2018 (View Only)",
+        "TermCode": "201805"
+    },
+    {
+        "TermID": 23,
+        "TermName": "Winter 2014 (View Only)",
+        "TermCode": "201401"
+    },
+    {
+        "TermID": 28,
+        "TermName": "Spring 2012 (View Only)",
+        "TermCode": "201205"
+    },
+    {
+        "TermID": 2,
+        "TermName": "Winter 2021",
+        "TermCode": "202101"
+    },
+    {
+        "TermID": 6,
+        "TermName": "Fall 2019 (View Only)",
+        "TermCode": "201909"
+    },
+    {
+        "TermID": 7,
+        "TermName": "Spring 2019 (View Only)",
+        "TermCode": "201905"
+    },
+    {
+        "TermID": 8,
+        "TermName": "Winter 2019 (View Only)",
+        "TermCode": "201901"
+    },
+    {
+        "TermID": 5,
+        "TermName": "Winter 2020 (View Only)",
+        "TermCode": "202001"
+    },
+    {
+        "TermID": 14,
+        "TermName": "Winter 2017 (View Only)",
+        "TermCode": "201701"
+    },
+    {
+        "TermID": 30,
+        "TermName": "Fall 2011 (View Only)",
+        "TermCode": "201109"
+    },
+    {
+        "TermID": 25,
+        "TermName": "Spring 2013 (View Only)",
+        "TermCode": "201305"
+    },
+    {
+        "TermID": 1,
+        "TermName": "Spring 2021",
+        "TermCode": "202105"
+    },
+    {
+        "TermID": 9,
+        "TermName": "Fall 2018 (View Only)",
+        "TermCode": "201809"
+    },
+    {
+        "TermID": 11,
+        "TermName": "Winter 2018 (View Only)",
+        "TermCode": "201801"
+    },
+    {
+        "TermID": 18,
+        "TermName": "Fall 2015 (View Only)",
+        "TermCode": "201509"
+    },
+    {
+        "TermID": 3,
+        "TermName": "Fall 2020",
+        "TermCode": "202009"
+    },
+    {
+        "TermID": 13,
+        "TermName": "Spring 2017 (View Only)",
+        "TermCode": "201705"
+    },
+    {
+        "TermID": 16,
+        "TermName": "Spring 2016 (View Only)",
+        "TermCode": "201605"
+    },
+    {
+        "TermID": 17,
+        "TermName": "Winter 2016 (View Only)",
+        "TermCode": "201601"
+    }
+]

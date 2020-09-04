@@ -1,0 +1,1082 @@
+[
+    {
+        "SubjectID": 7,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 23,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 49,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 92,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 98,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 109,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 128,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 80,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 119,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 159,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 166,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 173,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 91,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 97,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 124,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 135,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 27,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 79,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 82,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 84,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 112,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 171,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 54,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 87,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 94,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 111,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 142,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 169,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 177,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 15,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 22,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 39,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 69,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 123,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 137,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 162,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 8,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 21,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 55,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 81,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 150,
+        "TermID": 12,
+        "SubjectName": "Business",
+        "SubjectCode": "BU"
+    },
+    {
+        "SubjectID": 163,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 1,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 17,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 47,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 107,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 116,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 143,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 40,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 61,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 103,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 113,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 141,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 10,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 52,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 130,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 18,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 71,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 138,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 140,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 175,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 73,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 100,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 118,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 158,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 164,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 174,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 32,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 62,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 96,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 4,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 46,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 65,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 108,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 129,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 147,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 155,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 2,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 13,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 34,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 77,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 101,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 136,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 165,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 45,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 95,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 99,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 127,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 151,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 179,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 16,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 25,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 41,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 115,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 117,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 126,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 157,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 172,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 9,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 42,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 51,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 74,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 90,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 106,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 131,
+        "TermID": 12,
+        "SubjectName": "Brantford Foundations",
+        "SubjectCode": "BF"
+    },
+    {
+        "SubjectID": 102,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 114,
+        "TermID": 12,
+        "SubjectName": "Brantford Foundations",
+        "SubjectCode": "BF"
+    },
+    {
+        "SubjectID": 121,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 30,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 35,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 59,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 63,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 144,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 146,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 12,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 29,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 31,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 72,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 152,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 168,
+        "TermID": 12,
+        "SubjectName": "Business Technology Management",
+        "SubjectCode": "MB"
+    },
+    {
+        "SubjectID": 3,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 33,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 110,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 178,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 104,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 19,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 20,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 36,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 58,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 64,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 67,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 89,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 139,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 161,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 88,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 50,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 56,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 125,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 176,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 28,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 70,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 86,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 132,
+        "TermID": 12,
+        "SubjectName": "Business",
+        "SubjectCode": "BU"
+    },
+    {
+        "SubjectID": 6,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 14,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 53,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 120,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 156,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 180,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 154,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 43,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 57,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 75,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 85,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 105,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 133,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 134,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 170,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 24,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 26,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 68,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 145,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 167,
+        "TermID": 12,
+        "SubjectName": "Business",
+        "SubjectCode": "BU"
+    },
+    {
+        "SubjectID": 5,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 38,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 44,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 83,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 93,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 149,
+        "TermID": 12,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 153,
+        "TermID": 12,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 122,
+        "TermID": 12,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 11,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 37,
+        "TermID": 12,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 48,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 60,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 66,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 76,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 78,
+        "TermID": 12,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 148,
+        "TermID": 12,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 160,
+        "TermID": 12,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    }
+]

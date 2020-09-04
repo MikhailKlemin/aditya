@@ -1,0 +1,27 @@
+{
+    "termId": 1,
+    "subjectId": 1,
+    "subjectDescription": "Anthropology",
+    
+    "courseCode": "AN",
+    "numbericCode": 100,
+    "campus": "Online Learning",
+    "courseTitle": "Cultures Today",
+    "description": "An introduction to the study of world cultures, focusing on the exploration of ethnographic case studies and the development of inter-cultural competencies through a problem-based approach, including participation in the Community Action Project developed by the Center for a Public Anthropology. \n\nExclusions:  AN101.",
+    "courseReferenceNumber": "470",
+    "section": "OC1",
+    "Prerequisite": "",
+    "CrossListed": "",
+    "Enrollment": {
+        "Enrolled": {
+            "Actual": 0,
+            "Max": 100,
+            "Available": 100
+        },
+        "Waitlist": {
+            "Actual": 0,
+            "Max": 50,
+            "Available": 50
+        }
+    }
+}
