@@ -1,0 +1,1670 @@
+[
+    {
+        "SubjectID": 177,
+        "TermID": 3,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 209,
+        "TermID": 3,
+        "SubjectName": "German",
+        "SubjectCode": "GM"
+    },
+    {
+        "SubjectID": 270,
+        "TermID": 3,
+        "SubjectName": "UW-Recreation",
+        "SubjectCode": "17"
+    },
+    {
+        "SubjectID": 36,
+        "TermID": 1,
+        "SubjectName": "Kinesiology \u0026 Physical Ed",
+        "SubjectCode": "KP"
+    },
+    {
+        "SubjectID": 123,
+        "TermID": 2,
+        "SubjectName": "Interdisciplinary Studies",
+        "SubjectCode": "ISHS"
+    },
+    {
+        "SubjectID": 168,
+        "TermID": 2,
+        "SubjectName": "Water Science",
+        "SubjectCode": "WASC"
+    },
+    {
+        "SubjectID": 196,
+        "TermID": 3,
+        "SubjectName": "Economics",
+        "SubjectCode": "EC"
+    },
+    {
+        "SubjectID": 265,
+        "TermID": 3,
+        "SubjectName": "UW-Korean",
+        "SubjectCode": "KO"
+    },
+    {
+        "SubjectID": 92,
+        "TermID": 2,
+        "SubjectName": "Criminology",
+        "SubjectCode": "CC"
+    },
+    {
+        "SubjectID": 158,
+        "TermID": 2,
+        "SubjectName": "UW-Actuarial Science",
+        "SubjectCode": "36"
+    },
+    {
+        "SubjectID": 64,
+        "TermID": 1,
+        "SubjectName": "UW-Computational Mathematics",
+        "SubjectCode": "CX"
+    },
+    {
+        "SubjectID": 116,
+        "TermID": 2,
+        "SubjectName": "Health Studies",
+        "SubjectCode": "HS"
+    },
+    {
+        "SubjectID": 153,
+        "TermID": 2,
+        "SubjectName": "Sociology",
+        "SubjectCode": "SY"
+    },
+    {
+        "SubjectID": 246,
+        "TermID": 3,
+        "SubjectName": "Religion\u0026Culture",
+        "SubjectCode": "RE"
+    },
+    {
+        "SubjectID": 262,
+        "TermID": 3,
+        "SubjectName": "UW-English as Second Language",
+        "SubjectCode": "EL"
+    },
+    {
+        "SubjectID": 19,
+        "TermID": 1,
+        "SubjectName": "English",
+        "SubjectCode": "EN"
+    },
+    {
+        "SubjectID": 62,
+        "TermID": 1,
+        "SubjectName": "UW-Applied Mathematics",
+        "SubjectCode": "AP"
+    },
+    {
+        "SubjectID": 85,
+        "TermID": 2,
+        "SubjectName": "CONESTOGA-Arts",
+        "SubjectCode": "ART"
+    },
+    {
+        "SubjectID": 164,
+        "TermID": 2,
+        "SubjectName": "UW-Pure Mathematics",
+        "SubjectCode": "PM"
+    },
+    {
+        "SubjectID": 47,
+        "TermID": 1,
+        "SubjectName": "Physics",
+        "SubjectCode": "PC"
+    },
+    {
+        "SubjectID": 60,
+        "TermID": 1,
+        "SubjectName": "Theology",
+        "SubjectCode": "TH"
+    },
+    {
+        "SubjectID": 103,
+        "TermID": 2,
+        "SubjectName": "Environmental Studies",
+        "SubjectCode": "ES"
+    },
+    {
+        "SubjectID": 232,
+        "TermID": 3,
+        "SubjectName": "Master Science",
+        "SubjectCode": "MS"
+    },
+    {
+        "SubjectID": 242,
+        "TermID": 3,
+        "SubjectName": "Policing",
+        "SubjectCode": "PD"
+    },
+    {
+        "SubjectID": 23,
+        "TermID": 1,
+        "SubjectName": "Fine Arts",
+        "SubjectCode": "FI"
+    },
+    {
+        "SubjectID": 29,
+        "TermID": 1,
+        "SubjectName": "Global Studies",
+        "SubjectCode": "GS"
+    },
+    {
+        "SubjectID": 149,
+        "TermID": 2,
+        "SubjectName": "Science",
+        "SubjectCode": "SC"
+    },
+    {
+        "SubjectID": 161,
+        "TermID": 2,
+        "SubjectName": "UW-Computational Mathematics",
+        "SubjectCode": "CX"
+    },
+    {
+        "SubjectID": 65,
+        "TermID": 1,
+        "SubjectName": "UW-Computer Science",
+        "SubjectCode": "05"
+    },
+    {
+        "SubjectID": 145,
+        "TermID": 2,
+        "SubjectName": "Political Science",
+        "SubjectCode": "PO"
+    },
+    {
+        "SubjectID": 231,
+        "TermID": 3,
+        "SubjectName": "Master Finance",
+        "SubjectCode": "MF"
+    },
+    {
+        "SubjectID": 240,
+        "TermID": 3,
+        "SubjectName": "Philosophy",
+        "SubjectCode": "PP"
+    },
+    {
+        "SubjectID": 13,
+        "TermID": 1,
+        "SubjectName": "Criminology",
+        "SubjectCode": "CC"
+    },
+    {
+        "SubjectID": 146,
+        "TermID": 2,
+        "SubjectName": "Psychology",
+        "SubjectCode": "PS"
+    },
+    {
+        "SubjectID": 32,
+        "TermID": 1,
+        "SubjectName": "Human Biology",
+        "SubjectCode": "HN"
+    },
+    {
+        "SubjectID": 223,
+        "TermID": 3,
+        "SubjectName": "International Public Policy",
+        "SubjectCode": "IP"
+    },
+    {
+        "SubjectID": 86,
+        "TermID": 2,
+        "SubjectName": "CONESTOGA-Digital Media",
+        "SubjectCode": "DME"
+    },
+    {
+        "SubjectID": 154,
+        "TermID": 2,
+        "SubjectName": "Spanish",
+        "SubjectCode": "SP"
+    },
+    {
+        "SubjectID": 230,
+        "TermID": 3,
+        "SubjectName": "Management Analytics",
+        "SubjectCode": "MGTA"
+    },
+    {
+        "SubjectID": 235,
+        "TermID": 3,
+        "SubjectName": "Medieval Studies",
+        "SubjectCode": "ML"
+    },
+    {
+        "SubjectID": 237,
+        "TermID": 3,
+        "SubjectName": "Music",
+        "SubjectCode": "MU"
+    },
+    {
+        "SubjectID": 4,
+        "TermID": 1,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 75,
+        "TermID": 2,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 45,
+        "TermID": 1,
+        "SubjectName": "North American Studies",
+        "SubjectCode": "NO"
+    },
+    {
+        "SubjectID": 61,
+        "TermID": 1,
+        "SubjectName": "UW-Actuarial Science",
+        "SubjectCode": "36"
+    },
+    {
+        "SubjectID": 125,
+        "TermID": 2,
+        "SubjectName": "International Education",
+        "SubjectCode": "INED"
+    },
+    {
+        "SubjectID": 187,
+        "TermID": 3,
+        "SubjectName": "Communication Studies",
+        "SubjectCode": "CS"
+    },
+    {
+        "SubjectID": 192,
+        "TermID": 3,
+        "SubjectName": "Cultural Studies",
+        "SubjectCode": "KS"
+    },
+    {
+        "SubjectID": 201,
+        "TermID": 3,
+        "SubjectName": "Environmental Studies",
+        "SubjectCode": "ES"
+    },
+    {
+        "SubjectID": 15,
+        "TermID": 1,
+        "SubjectName": "Cultural Studies",
+        "SubjectCode": "KS"
+    },
+    {
+        "SubjectID": 30,
+        "TermID": 1,
+        "SubjectName": "Health Studies",
+        "SubjectCode": "HS"
+    },
+    {
+        "SubjectID": 131,
+        "TermID": 2,
+        "SubjectName": "Law \u0026 Society",
+        "SubjectCode": "LY"
+    },
+    {
+        "SubjectID": 17,
+        "TermID": 1,
+        "SubjectName": "Education",
+        "SubjectCode": "EU"
+    },
+    {
+        "SubjectID": 129,
+        "TermID": 2,
+        "SubjectName": "Labour Studies \u0026 Career Dev't",
+        "SubjectCode": "WORK"
+    },
+    {
+        "SubjectID": 57,
+        "TermID": 1,
+        "SubjectName": "Spanish",
+        "SubjectCode": "SP"
+    },
+    {
+        "SubjectID": 169,
+        "TermID": 2,
+        "SubjectName": "Women's Studies",
+        "SubjectCode": "WS"
+    },
+    {
+        "SubjectID": 221,
+        "TermID": 3,
+        "SubjectName": "Interdisciplinary Studies",
+        "SubjectCode": "UU"
+    },
+    {
+        "SubjectID": 2,
+        "TermID": 1,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 53,
+        "TermID": 1,
+        "SubjectName": "Social Entrepreneurship",
+        "SubjectCode": "SE"
+    },
+    {
+        "SubjectID": 250,
+        "TermID": 3,
+        "SubjectName": "Social and Environ Justice",
+        "SubjectCode": "SOJE"
+    },
+    {
+        "SubjectID": 208,
+        "TermID": 3,
+        "SubjectName": "Geology",
+        "SubjectCode": "GL"
+    },
+    {
+        "SubjectID": 225,
+        "TermID": 3,
+        "SubjectName": "Kinesiology \u0026 Physical Ed",
+        "SubjectCode": "KP"
+    },
+    {
+        "SubjectID": 243,
+        "TermID": 3,
+        "SubjectName": "Political Science",
+        "SubjectCode": "PO"
+    },
+    {
+        "SubjectID": 11,
+        "TermID": 1,
+        "SubjectName": "Communication Studies",
+        "SubjectCode": "CS"
+    },
+    {
+        "SubjectID": 31,
+        "TermID": 1,
+        "SubjectName": "History",
+        "SubjectCode": "HI"
+    },
+    {
+        "SubjectID": 159,
+        "TermID": 2,
+        "SubjectName": "UW-Applied Mathematics",
+        "SubjectCode": "AP"
+    },
+    {
+        "SubjectID": 191,
+        "TermID": 3,
+        "SubjectName": "Cultural Analysis \u0026 Social Thy",
+        "SubjectCode": "CQ"
+    },
+    {
+        "SubjectID": 96,
+        "TermID": 2,
+        "SubjectName": "Digital Humanities",
+        "SubjectCode": "DH"
+    },
+    {
+        "SubjectID": 157,
+        "TermID": 2,
+        "SubjectName": "Theology",
+        "SubjectCode": "TH"
+    },
+    {
+        "SubjectID": 97,
+        "TermID": 2,
+        "SubjectName": "Digital Media \u0026 Journalism",
+        "SubjectCode": "DMJN"
+    },
+    {
+        "SubjectID": 107,
+        "TermID": 2,
+        "SubjectName": "Geography",
+        "SubjectCode": "GG"
+    },
+    {
+        "SubjectID": 227,
+        "TermID": 3,
+        "SubjectName": "Language and Literature",
+        "SubjectCode": "LL"
+    },
+    {
+        "SubjectID": 245,
+        "TermID": 3,
+        "SubjectName": "Public Safety",
+        "SubjectCode": "SAFE"
+    },
+    {
+        "SubjectID": 12,
+        "TermID": 1,
+        "SubjectName": "Computer Science",
+        "SubjectCode": "CP"
+    },
+    {
+        "SubjectID": 73,
+        "TermID": 1,
+        "SubjectName": "Women's Studies",
+        "SubjectCode": "WS"
+    },
+    {
+        "SubjectID": 172,
+        "TermID": 3,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 188,
+        "TermID": 3,
+        "SubjectName": "Community Engagement Option",
+        "SubjectCode": "CMEG"
+    },
+    {
+        "SubjectID": 134,
+        "TermID": 2,
+        "SubjectName": "Master Finance",
+        "SubjectCode": "MF"
+    },
+    {
+        "SubjectID": 162,
+        "TermID": 2,
+        "SubjectName": "UW-Computer Science",
+        "SubjectCode": "05"
+    },
+    {
+        "SubjectID": 222,
+        "TermID": 3,
+        "SubjectName": "International Education",
+        "SubjectCode": "INED"
+    },
+    {
+        "SubjectID": 63,
+        "TermID": 1,
+        "SubjectName": "UW-Combinatorics\u0026Opt",
+        "SubjectCode": "04"
+    },
+    {
+        "SubjectID": 212,
+        "TermID": 3,
+        "SubjectName": "Global Governance",
+        "SubjectCode": "GV"
+    },
+    {
+        "SubjectID": 87,
+        "TermID": 2,
+        "SubjectName": "CONESTOGA-Entrepreneurship",
+        "SubjectCode": "ENT"
+    },
+    {
+        "SubjectID": 275,
+        "TermID": 3,
+        "SubjectName": "User Experience Design",
+        "SubjectCode": "UX"
+    },
+    {
+        "SubjectID": 34,
+        "TermID": 1,
+        "SubjectName": "Interdisciplinary Studies",
+        "SubjectCode": "UU"
+    },
+    {
+        "SubjectID": 76,
+        "TermID": 2,
+        "SubjectName": "Arabic",
+        "SubjectCode": "AB"
+    },
+    {
+        "SubjectID": 267,
+        "TermID": 3,
+        "SubjectName": "UW-Mathematical Business",
+        "SubjectCode": "MW"
+    },
+    {
+        "SubjectID": 272,
+        "TermID": 3,
+        "SubjectName": "UW-Speech Communication",
+        "SubjectCode": "SM"
+    },
+    {
+        "SubjectID": 197,
+        "TermID": 3,
+        "SubjectName": "Education",
+        "SubjectCode": "EU"
+    },
+    {
+        "SubjectID": 236,
+        "TermID": 3,
+        "SubjectName": "Mediterranean Studies",
+        "SubjectCode": "MI"
+    },
+    {
+        "SubjectID": 59,
+        "TermID": 1,
+        "SubjectName": "Technology Management",
+        "SubjectCode": "TM"
+    },
+    {
+        "SubjectID": 77,
+        "TermID": 2,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 82,
+        "TermID": 2,
+        "SubjectName": "Brantford Foundations",
+        "SubjectCode": "BF"
+    },
+    {
+        "SubjectID": 93,
+        "TermID": 2,
+        "SubjectName": "Cultural Analysis \u0026 Social Thy",
+        "SubjectCode": "CQ"
+    },
+    {
+        "SubjectID": 133,
+        "TermID": 2,
+        "SubjectName": "Management Analytics",
+        "SubjectCode": "MGTA"
+    },
+    {
+        "SubjectID": 193,
+        "TermID": 3,
+        "SubjectName": "Data Science",
+        "SubjectCode": "DATA"
+    },
+    {
+        "SubjectID": 21,
+        "TermID": 1,
+        "SubjectName": "Environmental Studies",
+        "SubjectCode": "ES"
+    },
+    {
+        "SubjectID": 49,
+        "TermID": 1,
+        "SubjectName": "Political Science",
+        "SubjectCode": "PO"
+    },
+    {
+        "SubjectID": 143,
+        "TermID": 2,
+        "SubjectName": "Physics",
+        "SubjectCode": "PC"
+    },
+    {
+        "SubjectID": 195,
+        "TermID": 3,
+        "SubjectName": "Digital Media \u0026 Journalism",
+        "SubjectCode": "DMJN"
+    },
+    {
+        "SubjectID": 252,
+        "TermID": 3,
+        "SubjectName": "Spanish",
+        "SubjectCode": "SP"
+    },
+    {
+        "SubjectID": 54,
+        "TermID": 1,
+        "SubjectName": "Social Work",
+        "SubjectCode": "SK"
+    },
+    {
+        "SubjectID": 91,
+        "TermID": 2,
+        "SubjectName": "Computer Science",
+        "SubjectCode": "CP"
+    },
+    {
+        "SubjectID": 184,
+        "TermID": 3,
+        "SubjectName": "CONESTOGA-Sociology",
+        "SubjectCode": "SOC"
+    },
+    {
+        "SubjectID": 6,
+        "TermID": 1,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 44,
+        "TermID": 1,
+        "SubjectName": "Music",
+        "SubjectCode": "MU"
+    },
+    {
+        "SubjectID": 128,
+        "TermID": 2,
+        "SubjectName": "Kinesiology \u0026 Physical Ed",
+        "SubjectCode": "KP"
+    },
+    {
+        "SubjectID": 156,
+        "TermID": 2,
+        "SubjectName": "Technology Management",
+        "SubjectCode": "TM"
+    },
+    {
+        "SubjectID": 174,
+        "TermID": 3,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    },
+    {
+        "SubjectID": 254,
+        "TermID": 3,
+        "SubjectName": "Technology Management",
+        "SubjectCode": "TM"
+    },
+    {
+        "SubjectID": 71,
+        "TermID": 1,
+        "SubjectName": "UW-Statistics",
+        "SubjectCode": "20"
+    },
+    {
+        "SubjectID": 94,
+        "TermID": 2,
+        "SubjectName": "Cultural Studies",
+        "SubjectCode": "KS"
+    },
+    {
+        "SubjectID": 121,
+        "TermID": 2,
+        "SubjectName": "Human Rights \u0026 Human Diversity",
+        "SubjectCode": "HR"
+    },
+    {
+        "SubjectID": 186,
+        "TermID": 3,
+        "SubjectName": "Classics",
+        "SubjectCode": "CL"
+    },
+    {
+        "SubjectID": 273,
+        "TermID": 3,
+        "SubjectName": "UW-Statistics",
+        "SubjectCode": "20"
+    },
+    {
+        "SubjectID": 8,
+        "TermID": 1,
+        "SubjectName": "Business Technology Management",
+        "SubjectCode": "MB"
+    },
+    {
+        "SubjectID": 48,
+        "TermID": 1,
+        "SubjectName": "Policing",
+        "SubjectCode": "PD"
+    },
+    {
+        "SubjectID": 150,
+        "TermID": 2,
+        "SubjectName": "Social Entrepreneurship",
+        "SubjectCode": "SE"
+    },
+    {
+        "SubjectID": 218,
+        "TermID": 3,
+        "SubjectName": "Human Biology",
+        "SubjectCode": "HN"
+    },
+    {
+        "SubjectID": 108,
+        "TermID": 2,
+        "SubjectName": "Geography \u0026 Environ Studies",
+        "SubjectCode": "GESC"
+    },
+    {
+        "SubjectID": 111,
+        "TermID": 2,
+        "SubjectName": "Global Citizenship",
+        "SubjectCode": "GC"
+    },
+    {
+        "SubjectID": 117,
+        "TermID": 2,
+        "SubjectName": "History",
+        "SubjectCode": "HI"
+    },
+    {
+        "SubjectID": 135,
+        "TermID": 2,
+        "SubjectName": "Master Science",
+        "SubjectCode": "MS"
+    },
+    {
+        "SubjectID": 7,
+        "TermID": 1,
+        "SubjectName": "Business",
+        "SubjectCode": "BU"
+    },
+    {
+        "SubjectID": 42,
+        "TermID": 1,
+        "SubjectName": "Medieval Studies",
+        "SubjectCode": "ML"
+    },
+    {
+        "SubjectID": 101,
+        "TermID": 2,
+        "SubjectName": "English",
+        "SubjectCode": "EN"
+    },
+    {
+        "SubjectID": 122,
+        "TermID": 2,
+        "SubjectName": "Indigenous Studies",
+        "SubjectCode": "ID"
+    },
+    {
+        "SubjectID": 229,
+        "TermID": 3,
+        "SubjectName": "Leadership",
+        "SubjectCode": "OL"
+    },
+    {
+        "SubjectID": 5,
+        "TermID": 1,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 9,
+        "TermID": 1,
+        "SubjectName": "Chemistry",
+        "SubjectCode": "CH"
+    },
+    {
+        "SubjectID": 114,
+        "TermID": 2,
+        "SubjectName": "Global Studies",
+        "SubjectCode": "GS"
+    },
+    {
+        "SubjectID": 183,
+        "TermID": 3,
+        "SubjectName": "CONESTOGA-Digital Media",
+        "SubjectCode": "DME"
+    },
+    {
+        "SubjectID": 278,
+        "TermID": 3,
+        "SubjectName": "Youth and Children Studies",
+        "SubjectCode": "YC"
+    },
+    {
+        "SubjectID": 69,
+        "TermID": 1,
+        "SubjectName": "UW-Pure Mathematics",
+        "SubjectCode": "PM"
+    },
+    {
+        "SubjectID": 102,
+        "TermID": 2,
+        "SubjectName": "Entrepreneurship Core",
+        "SubjectCode": "ENTR"
+    },
+    {
+        "SubjectID": 120,
+        "TermID": 2,
+        "SubjectName": "Human Biology",
+        "SubjectCode": "HN"
+    },
+    {
+        "SubjectID": 132,
+        "TermID": 2,
+        "SubjectName": "Leadership",
+        "SubjectCode": "OL"
+    },
+    {
+        "SubjectID": 181,
+        "TermID": 3,
+        "SubjectName": "Business,Entrepreneurship\u0026Tech",
+        "SubjectCode": "BE"
+    },
+    {
+        "SubjectID": 1,
+        "TermID": 1,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 95,
+        "TermID": 2,
+        "SubjectName": "Data Science",
+        "SubjectCode": "DATA"
+    },
+    {
+        "SubjectID": 261,
+        "TermID": 3,
+        "SubjectName": "UW-Earth Sciences",
+        "SubjectCode": "08"
+    },
+    {
+        "SubjectID": 38,
+        "TermID": 1,
+        "SubjectName": "Management Analytics",
+        "SubjectCode": "MGTA"
+    },
+    {
+        "SubjectID": 170,
+        "TermID": 2,
+        "SubjectName": "Youth and Children Studies",
+        "SubjectCode": "YC"
+    },
+    {
+        "SubjectID": 98,
+        "TermID": 2,
+        "SubjectName": "Economics",
+        "SubjectCode": "EC"
+    },
+    {
+        "SubjectID": 194,
+        "TermID": 3,
+        "SubjectName": "Digital Humanities",
+        "SubjectCode": "DH"
+    },
+    {
+        "SubjectID": 27,
+        "TermID": 1,
+        "SubjectName": "Global Citizenship",
+        "SubjectCode": "GC"
+    },
+    {
+        "SubjectID": 58,
+        "TermID": 1,
+        "SubjectName": "Statistics",
+        "SubjectCode": "ST"
+    },
+    {
+        "SubjectID": 166,
+        "TermID": 2,
+        "SubjectName": "UW-Statistics",
+        "SubjectCode": "20"
+    },
+    {
+        "SubjectID": 138,
+        "TermID": 2,
+        "SubjectName": "Medieval Studies",
+        "SubjectCode": "ML"
+    },
+    {
+        "SubjectID": 140,
+        "TermID": 2,
+        "SubjectName": "Muslim Studies",
+        "SubjectCode": "MZ"
+    },
+    {
+        "SubjectID": 171,
+        "TermID": 3,
+        "SubjectName": "Anthropology",
+        "SubjectCode": "AN"
+    },
+    {
+        "SubjectID": 50,
+        "TermID": 1,
+        "SubjectName": "Psychology",
+        "SubjectCode": "PS"
+    },
+    {
+        "SubjectID": 106,
+        "TermID": 2,
+        "SubjectName": "Game Design \u0026 Development",
+        "SubjectCode": "DD"
+    },
+    {
+        "SubjectID": 180,
+        "TermID": 3,
+        "SubjectName": "Business Technology Management",
+        "SubjectCode": "MB"
+    },
+    {
+        "SubjectID": 220,
+        "TermID": 3,
+        "SubjectName": "Indigenous Studies",
+        "SubjectCode": "ID"
+    },
+    {
+        "SubjectID": 249,
+        "TermID": 3,
+        "SubjectName": "Social Work",
+        "SubjectCode": "SK"
+    },
+    {
+        "SubjectID": 251,
+        "TermID": 3,
+        "SubjectName": "Sociology",
+        "SubjectCode": "SY"
+    },
+    {
+        "SubjectID": 258,
+        "TermID": 3,
+        "SubjectName": "UW-Chinese",
+        "SubjectCode": "CF"
+    },
+    {
+        "SubjectID": 276,
+        "TermID": 3,
+        "SubjectName": "Water Science",
+        "SubjectCode": "WASC"
+    },
+    {
+        "SubjectID": 84,
+        "TermID": 2,
+        "SubjectName": "Business Technology Management",
+        "SubjectCode": "MB"
+    },
+    {
+        "SubjectID": 152,
+        "TermID": 2,
+        "SubjectName": "Social and Environ Justice",
+        "SubjectCode": "SOJE"
+    },
+    {
+        "SubjectID": 144,
+        "TermID": 2,
+        "SubjectName": "Policing",
+        "SubjectCode": "PD"
+    },
+    {
+        "SubjectID": 260,
+        "TermID": 3,
+        "SubjectName": "UW-Computer Science",
+        "SubjectCode": "05"
+    },
+    {
+        "SubjectID": 264,
+        "TermID": 3,
+        "SubjectName": "UW-Japanese",
+        "SubjectCode": "JA"
+    },
+    {
+        "SubjectID": 70,
+        "TermID": 1,
+        "SubjectName": "UW-Speech Communication",
+        "SubjectCode": "SM"
+    },
+    {
+        "SubjectID": 80,
+        "TermID": 2,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 163,
+        "TermID": 2,
+        "SubjectName": "UW-Mathematical Business",
+        "SubjectCode": "MW"
+    },
+    {
+        "SubjectID": 204,
+        "TermID": 3,
+        "SubjectName": "French",
+        "SubjectCode": "FR"
+    },
+    {
+        "SubjectID": 206,
+        "TermID": 3,
+        "SubjectName": "Geography",
+        "SubjectCode": "GG"
+    },
+    {
+        "SubjectID": 18,
+        "TermID": 1,
+        "SubjectName": "Education Minor",
+        "SubjectCode": "EM"
+    },
+    {
+        "SubjectID": 46,
+        "TermID": 1,
+        "SubjectName": "Philosophy",
+        "SubjectCode": "PP"
+    },
+    {
+        "SubjectID": 89,
+        "TermID": 2,
+        "SubjectName": "Communication Studies",
+        "SubjectCode": "CS"
+    },
+    {
+        "SubjectID": 43,
+        "TermID": 1,
+        "SubjectName": "Mediterranean Studies",
+        "SubjectCode": "MI"
+    },
+    {
+        "SubjectID": 56,
+        "TermID": 1,
+        "SubjectName": "Sociology",
+        "SubjectCode": "SY"
+    },
+    {
+        "SubjectID": 228,
+        "TermID": 3,
+        "SubjectName": "Law \u0026 Society",
+        "SubjectCode": "LY"
+    },
+    {
+        "SubjectID": 155,
+        "TermID": 2,
+        "SubjectName": "Statistics",
+        "SubjectCode": "ST"
+    },
+    {
+        "SubjectID": 165,
+        "TermID": 2,
+        "SubjectName": "UW-Speech Communication",
+        "SubjectCode": "SM"
+    },
+    {
+        "SubjectID": 176,
+        "TermID": 3,
+        "SubjectName": "Biological \u0026 Chemical Sciences",
+        "SubjectCode": "BH"
+    },
+    {
+        "SubjectID": 35,
+        "TermID": 1,
+        "SubjectName": "International Public Policy",
+        "SubjectCode": "IP"
+    },
+    {
+        "SubjectID": 127,
+        "TermID": 2,
+        "SubjectName": "Italian",
+        "SubjectCode": "IT"
+    },
+    {
+        "SubjectID": 277,
+        "TermID": 3,
+        "SubjectName": "Women's Studies",
+        "SubjectCode": "WS"
+    },
+    {
+        "SubjectID": 167,
+        "TermID": 2,
+        "SubjectName": "User Experience Design",
+        "SubjectCode": "UX"
+    },
+    {
+        "SubjectID": 255,
+        "TermID": 3,
+        "SubjectName": "Theology",
+        "SubjectCode": "TH"
+    },
+    {
+        "SubjectID": 113,
+        "TermID": 2,
+        "SubjectName": "Global Governance",
+        "SubjectCode": "GV"
+    },
+    {
+        "SubjectID": 124,
+        "TermID": 2,
+        "SubjectName": "Interdisciplinary Studies",
+        "SubjectCode": "UU"
+    },
+    {
+        "SubjectID": 136,
+        "TermID": 2,
+        "SubjectName": "Mathematics",
+        "SubjectCode": "MA"
+    },
+    {
+        "SubjectID": 160,
+        "TermID": 2,
+        "SubjectName": "UW-Combinatorics\u0026Opt",
+        "SubjectCode": "04"
+    },
+    {
+        "SubjectID": 266,
+        "TermID": 3,
+        "SubjectName": "UW-Math Electives",
+        "SubjectCode": "25"
+    },
+    {
+        "SubjectID": 16,
+        "TermID": 1,
+        "SubjectName": "Economics",
+        "SubjectCode": "EC"
+    },
+    {
+        "SubjectID": 72,
+        "TermID": 1,
+        "SubjectName": "Water Science",
+        "SubjectCode": "WASC"
+    },
+    {
+        "SubjectID": 226,
+        "TermID": 3,
+        "SubjectName": "Labour Studies \u0026 Career Dev't",
+        "SubjectCode": "WORK"
+    },
+    {
+        "SubjectID": 239,
+        "TermID": 3,
+        "SubjectName": "North American Studies",
+        "SubjectCode": "NO"
+    },
+    {
+        "SubjectID": 202,
+        "TermID": 3,
+        "SubjectName": "Film Studies",
+        "SubjectCode": "FS"
+    },
+    {
+        "SubjectID": 210,
+        "TermID": 3,
+        "SubjectName": "Global Citizenship",
+        "SubjectCode": "GC"
+    },
+    {
+        "SubjectID": 137,
+        "TermID": 2,
+        "SubjectName": "Media Studies",
+        "SubjectCode": "MX"
+    },
+    {
+        "SubjectID": 141,
+        "TermID": 2,
+        "SubjectName": "North American Studies",
+        "SubjectCode": "NO"
+    },
+    {
+        "SubjectID": 203,
+        "TermID": 3,
+        "SubjectName": "Fine Arts",
+        "SubjectCode": "FI"
+    },
+    {
+        "SubjectID": 74,
+        "TermID": 1,
+        "SubjectName": "Youth and Children Studies",
+        "SubjectCode": "YC"
+    },
+    {
+        "SubjectID": 83,
+        "TermID": 2,
+        "SubjectName": "Business",
+        "SubjectCode": "BU"
+    },
+    {
+        "SubjectID": 259,
+        "TermID": 3,
+        "SubjectName": "UW-Combinatorics\u0026Opt",
+        "SubjectCode": "04"
+    },
+    {
+        "SubjectID": 213,
+        "TermID": 3,
+        "SubjectName": "Global Studies",
+        "SubjectCode": "GS"
+    },
+    {
+        "SubjectID": 215,
+        "TermID": 3,
+        "SubjectName": "Health Science",
+        "SubjectCode": "HE"
+    },
+    {
+        "SubjectID": 142,
+        "TermID": 2,
+        "SubjectName": "Philosophy",
+        "SubjectCode": "PP"
+    },
+    {
+        "SubjectID": 182,
+        "TermID": 3,
+        "SubjectName": "CONESTOGA-Cultural Studies",
+        "SubjectCode": "CUL"
+    },
+    {
+        "SubjectID": 211,
+        "TermID": 3,
+        "SubjectName": "Global Crime \u0026 Justice",
+        "SubjectCode": "UNDC"
+    },
+    {
+        "SubjectID": 234,
+        "TermID": 3,
+        "SubjectName": "Media Studies",
+        "SubjectCode": "MX"
+    },
+    {
+        "SubjectID": 241,
+        "TermID": 3,
+        "SubjectName": "Physics",
+        "SubjectCode": "PC"
+    },
+    {
+        "SubjectID": 100,
+        "TermID": 2,
+        "SubjectName": "Education Minor",
+        "SubjectCode": "EM"
+    },
+    {
+        "SubjectID": 119,
+        "TermID": 2,
+        "SubjectName": "Hum w/ Leadership Foundations",
+        "SubjectCode": "HMLD"
+    },
+    {
+        "SubjectID": 118,
+        "TermID": 2,
+        "SubjectName": "History\u0026 Philosophy of Science",
+        "SubjectCode": "HP"
+    },
+    {
+        "SubjectID": 37,
+        "TermID": 1,
+        "SubjectName": "Leadership",
+        "SubjectCode": "OL"
+    },
+    {
+        "SubjectID": 105,
+        "TermID": 2,
+        "SubjectName": "French",
+        "SubjectCode": "FR"
+    },
+    {
+        "SubjectID": 139,
+        "TermID": 2,
+        "SubjectName": "Music",
+        "SubjectCode": "MU"
+    },
+    {
+        "SubjectID": 190,
+        "TermID": 3,
+        "SubjectName": "Criminology",
+        "SubjectCode": "CC"
+    },
+    {
+        "SubjectID": 10,
+        "TermID": 1,
+        "SubjectName": "Classics",
+        "SubjectCode": "CL"
+    },
+    {
+        "SubjectID": 110,
+        "TermID": 2,
+        "SubjectName": "German",
+        "SubjectCode": "GM"
+    },
+    {
+        "SubjectID": 178,
+        "TermID": 3,
+        "SubjectName": "Brantford Foundations",
+        "SubjectCode": "BF"
+    },
+    {
+        "SubjectID": 185,
+        "TermID": 3,
+        "SubjectName": "Chemistry",
+        "SubjectCode": "CH"
+    },
+    {
+        "SubjectID": 274,
+        "TermID": 3,
+        "SubjectName": "UW-Studies in Islam",
+        "SubjectCode": "52"
+    },
+    {
+        "SubjectID": 33,
+        "TermID": 1,
+        "SubjectName": "Human Rights \u0026 Human Diversity",
+        "SubjectCode": "HR"
+    },
+    {
+        "SubjectID": 151,
+        "TermID": 2,
+        "SubjectName": "Social Work",
+        "SubjectCode": "SK"
+    },
+    {
+        "SubjectID": 147,
+        "TermID": 2,
+        "SubjectName": "Public Safety",
+        "SubjectCode": "SAFE"
+    },
+    {
+        "SubjectID": 205,
+        "TermID": 3,
+        "SubjectName": "Game Design \u0026 Development",
+        "SubjectCode": "DD"
+    },
+    {
+        "SubjectID": 99,
+        "TermID": 2,
+        "SubjectName": "Education",
+        "SubjectCode": "EU"
+    },
+    {
+        "SubjectID": 130,
+        "TermID": 2,
+        "SubjectName": "Language and Literature",
+        "SubjectCode": "LL"
+    },
+    {
+        "SubjectID": 41,
+        "TermID": 1,
+        "SubjectName": "Mathematics",
+        "SubjectCode": "MA"
+    },
+    {
+        "SubjectID": 55,
+        "TermID": 1,
+        "SubjectName": "Social and Environ Justice",
+        "SubjectCode": "SOJE"
+    },
+    {
+        "SubjectID": 104,
+        "TermID": 2,
+        "SubjectName": "Film Studies",
+        "SubjectCode": "FS"
+    },
+    {
+        "SubjectID": 224,
+        "TermID": 3,
+        "SubjectName": "Italian",
+        "SubjectCode": "IT"
+    },
+    {
+        "SubjectID": 268,
+        "TermID": 3,
+        "SubjectName": "UW-Peace\u0026Conflict Studies",
+        "SubjectCode": "34"
+    },
+    {
+        "SubjectID": 22,
+        "TermID": 1,
+        "SubjectName": "Film Studies",
+        "SubjectCode": "FS"
+    },
+    {
+        "SubjectID": 40,
+        "TermID": 1,
+        "SubjectName": "Master Science",
+        "SubjectCode": "MS"
+    },
+    {
+        "SubjectID": 88,
+        "TermID": 2,
+        "SubjectName": "Chemistry",
+        "SubjectCode": "CH"
+    },
+    {
+        "SubjectID": 248,
+        "TermID": 3,
+        "SubjectName": "Social Entrepreneurship",
+        "SubjectCode": "SE"
+    },
+    {
+        "SubjectID": 51,
+        "TermID": 1,
+        "SubjectName": "Public Safety",
+        "SubjectCode": "SAFE"
+    },
+    {
+        "SubjectID": 52,
+        "TermID": 1,
+        "SubjectName": "Religion\u0026Culture",
+        "SubjectCode": "RE"
+    },
+    {
+        "SubjectID": 253,
+        "TermID": 3,
+        "SubjectName": "Statistics",
+        "SubjectCode": "ST"
+    },
+    {
+        "SubjectID": 271,
+        "TermID": 3,
+        "SubjectName": "UW-Religious Studies",
+        "SubjectCode": "18"
+    },
+    {
+        "SubjectID": 3,
+        "TermID": 1,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 175,
+        "TermID": 3,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 257,
+        "TermID": 3,
+        "SubjectName": "UW-Applied Mathematics",
+        "SubjectCode": "AP"
+    },
+    {
+        "SubjectID": 68,
+        "TermID": 1,
+        "SubjectName": "UW-Mathematical Business",
+        "SubjectCode": "MW"
+    },
+    {
+        "SubjectID": 189,
+        "TermID": 3,
+        "SubjectName": "Computer Science",
+        "SubjectCode": "CP"
+    },
+    {
+        "SubjectID": 28,
+        "TermID": 1,
+        "SubjectName": "Global Governance",
+        "SubjectCode": "GV"
+    },
+    {
+        "SubjectID": 199,
+        "TermID": 3,
+        "SubjectName": "English",
+        "SubjectCode": "EN"
+    },
+    {
+        "SubjectID": 24,
+        "TermID": 1,
+        "SubjectName": "French",
+        "SubjectCode": "FR"
+    },
+    {
+        "SubjectID": 148,
+        "TermID": 2,
+        "SubjectName": "Religion\u0026Culture",
+        "SubjectCode": "RE"
+    },
+    {
+        "SubjectID": 173,
+        "TermID": 3,
+        "SubjectName": "Archaeology",
+        "SubjectCode": "AR"
+    },
+    {
+        "SubjectID": 179,
+        "TermID": 3,
+        "SubjectName": "Business",
+        "SubjectCode": "BU"
+    },
+    {
+        "SubjectID": 233,
+        "TermID": 3,
+        "SubjectName": "Mathematics",
+        "SubjectCode": "MA"
+    },
+    {
+        "SubjectID": 244,
+        "TermID": 3,
+        "SubjectName": "Psychology",
+        "SubjectCode": "PS"
+    },
+    {
+        "SubjectID": 269,
+        "TermID": 3,
+        "SubjectName": "UW-Pure Mathematics",
+        "SubjectCode": "PM"
+    },
+    {
+        "SubjectID": 109,
+        "TermID": 2,
+        "SubjectName": "Geology",
+        "SubjectCode": "GL"
+    },
+    {
+        "SubjectID": 126,
+        "TermID": 2,
+        "SubjectName": "International Public Policy",
+        "SubjectCode": "IP"
+    },
+    {
+        "SubjectID": 81,
+        "TermID": 2,
+        "SubjectName": "Biology",
+        "SubjectCode": "BI"
+    },
+    {
+        "SubjectID": 219,
+        "TermID": 3,
+        "SubjectName": "Human Rights \u0026 Human Diversity",
+        "SubjectCode": "HR"
+    },
+    {
+        "SubjectID": 238,
+        "TermID": 3,
+        "SubjectName": "Muslim Studies",
+        "SubjectCode": "MZ"
+    },
+    {
+        "SubjectID": 263,
+        "TermID": 3,
+        "SubjectName": "UW-English for Multilingual Sp",
+        "SubjectCode": "59"
+    },
+    {
+        "SubjectID": 14,
+        "TermID": 1,
+        "SubjectName": "Cultural Analysis \u0026 Social Thy",
+        "SubjectCode": "CQ"
+    },
+    {
+        "SubjectID": 25,
+        "TermID": 1,
+        "SubjectName": "Geography",
+        "SubjectCode": "GG"
+    },
+    {
+        "SubjectID": 198,
+        "TermID": 3,
+        "SubjectName": "Education Minor",
+        "SubjectCode": "EM"
+    },
+    {
+        "SubjectID": 207,
+        "TermID": 3,
+        "SubjectName": "Geography \u0026 Environ Studies",
+        "SubjectCode": "GESC"
+    },
+    {
+        "SubjectID": 216,
+        "TermID": 3,
+        "SubjectName": "Health Studies",
+        "SubjectCode": "HS"
+    },
+    {
+        "SubjectID": 256,
+        "TermID": 3,
+        "SubjectName": "UW-Actuarial Science",
+        "SubjectCode": "36"
+    },
+    {
+        "SubjectID": 20,
+        "TermID": 1,
+        "SubjectName": "Entrepreneurship Core",
+        "SubjectCode": "ENTR"
+    },
+    {
+        "SubjectID": 26,
+        "TermID": 1,
+        "SubjectName": "Geography \u0026 Environ Studies",
+        "SubjectCode": "GESC"
+    },
+    {
+        "SubjectID": 217,
+        "TermID": 3,
+        "SubjectName": "History",
+        "SubjectCode": "HI"
+    },
+    {
+        "SubjectID": 39,
+        "TermID": 1,
+        "SubjectName": "Master Finance",
+        "SubjectCode": "MF"
+    },
+    {
+        "SubjectID": 115,
+        "TermID": 2,
+        "SubjectName": "Health Science",
+        "SubjectCode": "HE"
+    },
+    {
+        "SubjectID": 214,
+        "TermID": 3,
+        "SubjectName": "Greek",
+        "SubjectCode": "GR"
+    },
+    {
+        "SubjectID": 66,
+        "TermID": 1,
+        "SubjectName": "UW-Japanese",
+        "SubjectCode": "JA"
+    },
+    {
+        "SubjectID": 200,
+        "TermID": 3,
+        "SubjectName": "Entrepreneurship Core",
+        "SubjectCode": "ENTR"
+    },
+    {
+        "SubjectID": 112,
+        "TermID": 2,
+        "SubjectName": "Global Crime \u0026 Justice",
+        "SubjectCode": "UNDC"
+    },
+    {
+        "SubjectID": 247,
+        "TermID": 3,
+        "SubjectName": "Science",
+        "SubjectCode": "SC"
+    },
+    {
+        "SubjectID": 79,
+        "TermID": 2,
+        "SubjectName": "Astronomy",
+        "SubjectCode": "AS"
+    },
+    {
+        "SubjectID": 90,
+        "TermID": 2,
+        "SubjectName": "Community Engagement Option",
+        "SubjectCode": "CMEG"
+    },
+    {
+        "SubjectID": 67,
+        "TermID": 1,
+        "SubjectName": "UW-Korean",
+        "SubjectCode": "KO"
+    },
+    {
+        "SubjectID": 78,
+        "TermID": 2,
+        "SubjectName": "Arts Topic Seminar",
+        "SubjectCode": "AF"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "TermID": 1,
+        "TermName": "Spring 2021",
+        "TermCode": "202105"
+    },
+    {
+        "TermID": 2,
+        "TermName": "Winter 2021",
+        "TermCode": "202101"
+    },
+    {
+        "TermID": 3,
+        "TermName": "Fall 2020",
+        "TermCode": "202009"
+    }
+]

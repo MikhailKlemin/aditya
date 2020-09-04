@@ -539,7 +539,7 @@ func getCourses() ([]coursePair, string) {
 //Export exports into appropirate format
 func Export(cs []utils.Course) {
 	if len(cs) == 0 {
-		b, err := ioutil.ReadFile("./assets/sample.json")
+		b, err := ioutil.ReadFile("./assets/wlu-raw-data.json")
 		if err != nil {
 			log.Fatal(err)
 		}
@@ -616,7 +616,7 @@ func Export(cs []utils.Course) {
 		t.SubjectID = val.ID
 		t.SubjectName = html.UnescapeString(val.Name)
 		t.SubjectCode = val.Code
-		t.TermID = terms[0].TermID
+		t.TermID = val.TermID
 		subjs = append(subjs, t)
 	}
 	b, _ = json.MarshalIndent(subjs, "", "    ")
