@@ -615,7 +615,7 @@ func Export(cs []utils.Course) {
 		var t utils.Subject
 		t.SubjectID = val.ID
 		t.SubjectName = html.UnescapeString(val.Name)
-		t.SubjectCode = val.Code
+		t.SubjectCode = []string{val.Code}
 		t.TermID = val.TermID
 		subjs = append(subjs, t)
 	}

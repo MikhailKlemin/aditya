@@ -8,10 +8,10 @@ type Course struct {
 
 	SubjectCode string `json:",omitempty"`
 	SubjectName string `json:",omitempty"`
-	SubjectID   int
+	SubjectID   int    `json:"subjectId"`
 
 	CourseID              int
-	CourseCode            string // subject
+	CourseCode            string `` // subject
 	NumericCode           string // courseNumber
 	Campus                string // campusDescription
 	CourseTitle           string //courseTitle
@@ -40,8 +40,8 @@ type Terms struct {
 
 //Subject holds terms
 type Subject struct {
-	SubjectID   int
-	TermID      int
-	SubjectName string
-	SubjectCode string
+	SubjectID   int      `json:"subjectId"`
+	TermID      int      `json:"termID"`
+	SubjectName string   `json:"name"`
+	SubjectCode []string `json:"codes"`
 }
