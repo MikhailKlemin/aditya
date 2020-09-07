@@ -1,5 +1,11 @@
 package utils
 
+import (
+	"net"
+	"net/http"
+	"time"
+)
+
 //Course represents the Course infrmation
 type Course struct {
 	TermCode string `json:",omitempty"`
@@ -11,7 +17,7 @@ type Course struct {
 	SubjectID   int    `json:"subjectId"`
 
 	CourseID              int
-	CourseCode            string `` // subject
+	CourseCode            string // subject
 	NumericCode           string // courseNumber
 	Campus                string // campusDescription
 	CourseTitle           string //courseTitle
@@ -44,4 +50,19 @@ type Subject struct {
 	TermID      int      `json:"termID"`
 	SubjectName string   `json:"name"`
 	SubjectCode []string `json:"codes"`
+}
+
+//GetClient creates simple http client
+func GetClient() *http.Client {
+	var netTransport = &http.Transport{
+		Dial: (&net.Dialer{
+			Timeout: 15 * time.Second,
+		}).Dial,
+		TLSHandshakeTimeout: 15 * time.Second,
+	}
+	var netClient = &http.Client{
+		Timeout:   time.Second * 30,
+		Transport: netTransport,
+	}
+	return netClient
 }

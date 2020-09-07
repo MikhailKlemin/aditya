@@ -1,0 +1,149 @@
+[
+    {
+        "subjectId": 0,
+        "name": "Biochemistry",
+        "codes": [
+            "BCHM"
+        ]
+    },
+    {
+        "subjectId": 1,
+        "name": "Civil Engineering",
+        "codes": [
+            "CIVIL"
+        ]
+    },
+    {
+        "subjectId": 2,
+        "name": "Engineering Physics",
+        "codes": [
+            "ENPH"
+        ]
+    },
+    {
+        "subjectId": 3,
+        "name": "Geographic Information Science",
+        "codes": [
+            "GISC"
+        ]
+    },
+    {
+        "subjectId": 4,
+        "name": "Biology",
+        "codes": [
+            "BIOL"
+        ]
+    },
+    {
+        "subjectId": 5,
+        "name": "Chemical Engineering",
+        "codes": [
+            "CHEE"
+        ]
+    },
+    {
+        "subjectId": 6,
+        "name": "Electrical Engineering",
+        "codes": [
+            "ELEC"
+        ]
+    },
+    {
+        "subjectId": 7,
+        "name": "Geological Engineering",
+        "codes": [
+            "GEOE"
+        ]
+    },
+    {
+        "subjectId": 8,
+        "name": "Microbiology",
+        "codes": [
+            "MBIO"
+        ]
+    },
+    {
+        "subjectId": 9,
+        "name": "Mining Technology",
+        "codes": [
+            "MNTC"
+        ]
+    },
+    {
+        "subjectId": 10,
+        "name": "Mining Engineering",
+        "codes": [
+            "MINE"
+        ]
+    },
+    {
+        "subjectId": 11,
+        "name": "Mathematics and Engineering",
+        "codes": [
+            "MTHE"
+        ]
+    },
+    {
+        "subjectId": 12,
+        "name": "Anatomy of the Human Body",
+        "codes": [
+            "ANAT"
+        ]
+    },
+    {
+        "subjectId": 13,
+        "name": "Applied Science",
+        "codes": [
+            "APSC"
+        ]
+    },
+    {
+        "subjectId": 14,
+        "name": "Engineering Chemistry",
+        "codes": [
+            "ENCH"
+        ]
+    },
+    {
+        "subjectId": 15,
+        "name": "Geology",
+        "codes": [
+            "GEOL"
+        ]
+    },
+    {
+        "subjectId": 16,
+        "name": "Geography",
+        "codes": [
+            "GPHY"
+        ]
+    },
+    {
+        "subjectId": 17,
+        "name": "Multi-department Courses",
+        "codes": [
+            "MDEP"
+        ]
+    },
+    {
+        "subjectId": 18,
+        "name": "School of Urban and Regional Planning",
+        "codes": [
+            "SURP"
+        ]
+    },
+    {
+        "subjectId": 19,
+        "name": "Computer Engineering",
+        "codes": [
+            "CMPE"
+        ]
+    },
+    {
+        "subjectId": 20,
+        "name": "Mechanical Engineering",
+        "codes": [
+            "MECH"
+        ]
+    }
+]
