@@ -3,12 +3,12 @@ package appliedcourses
 import (
 	"bytes"
 	"encoding/json"
+	"errors"
 	"fmt"
 	"io/ioutil"
 	"log"
 	"net/url"
 	"regexp"
-	"strconv"
 	"strings"
 
 	"github.com/MikhailKlemin/aditya/pkg/utils"
@@ -46,7 +46,10 @@ var coursemap = map[string]string{
 
 //CourseExample is
 type CourseExample struct {
-	SubjectID       string `json:"subjectId,omitempty"`
+	SubjectID   int      `json:"subjectId,omitempty"`
+	SubjectName string   `json:"SubjectName,omitempty"`
+	SubjectCode []string `json:"codes,omitempty"`
+
 	Name            string `json:"name"`
 	NumericCode     string `json:"numericCode"`
 	CourseCode      string `json:"courseCode"`
@@ -66,85 +69,162 @@ type Subject struct {
 
 //Start starts appliedcourses @queens
 func Start() {
+	//client := utils.GetClient()
+
+	abbrs, err := GetAbbr()
+	if err != nil {
+		log.Fatal(err)
+	}
+	fmt.Printf("%#v\n", abbrs)
+	cs, err := overAbbrs(abbrs)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	fmt.Println(len(cs))
+
+	b, err := json.MarshalIndent(cs, "", "    ")
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	err = ioutil.WriteFile("./assets/QU-applied-raw.json", b, 0600)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	err = Export(cs)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	/*
+	   https://calendar.engineering.queensu.ca/content.php?filter%5B27%5D=ANAT
+	   	&filter%5B29%5D=
+	   	&filter%5Bcourse_type%5D=-1
+	   	&filter%5Bkeyword%5D=
+	   	&filter%5B32%5D=1
+	   	&filter%5Bcpage%5D=1
+	   	&cur_cat_oid=9
+	   	&expand=
+	   	&navoid=233
+	   	&search_database=Filter#acalog_template_course_filter
+	*/
+}
+
+func overAbbrs(abbrs []string) (cs []CourseExample, err error) {
 	client := utils.GetClient()
 
-	link := "https://calendar.engineering.queensu.ca/content.php?filter%5B27%5D=-1&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=9&expand=&navoid=233&search_database=Filter#acalog_template_course_filter"
-	//aink := "https://calendar.engineering.queensu.ca/content.php?catoid=9&navoid=233&filter%5B27%5D=-1&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=2&filter%5Bitem_type%5D=3&filter%5Bonly_active%5D=1&filter%5B3%5D=1#acalog_template_course_filter"
-
-	resp, err := client.Get(link)
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	defer resp.Body.Close()
-
-	doc, err := goquery.NewDocumentFromReader(resp.Body)
-	var pages int
-	doc.Find(`td`).EachWithBreak(func(_ int, s *goquery.Selection) bool {
-		txt := strings.TrimSpace(s.Text())
-		if strings.HasPrefix(txt, "Page") {
-			//fmt.Println(txt)
-			pages, err = strconv.Atoi(s.Find(`a`).Last().Text())
-			if err != nil {
-				log.Fatal(err)
-			}
-			return false
-		}
-		return true
-	})
-
-	fmt.Println("Total Pages\t", pages)
 	ubase, err := url.ParseRequestURI("https://calendar.engineering.queensu.ca/")
 	if err != nil {
-		log.Fatal(err)
+		//log.Fatal(err)
+		return
 	}
-	links := []string{}
-	//var courses [][]string
-	doc.Find(`a[href^="preview_course_nopop.php?catoid="]`).Each(func(_ int, s *goquery.Selection) {
-		href, _ := s.Attr(`href`)
-		onclick := `a:2:{s:8:~location~;s:8:~template~;s:28:~course_program_display_field~;N;})`
-		u, err := url.Parse(href)
+
+	link := "https://calendar.engineering.queensu.ca/content.php?filter%%5B27%%5D=%s&filter%%5B29%%5D=&filter%%5Bcourse_type%%5D=-1&filter%%5Bkeyword%%5D=&filter%%5B32%%5D=1&filter%%5Bcpage%%5D=1&cur_cat_oid=9&expand=&navoid=233&search_database=Filter#acalog_template_course_filter"
+	for i, abbr := range abbrs {
+		/*resp, err := client.Get(fmt.Sprintf(link, abbr))
 		if err != nil {
 			log.Fatal(err)
 		}
-		u = ubase.ResolveReference(u)
-		q := u.Query()
-		coID := q.Get("coid")
-		catoID := q.Get("catoid")
-		link := fmt.Sprintf("https://calendar.engineering.queensu.ca/ajax/preview_course.php?catoid=%s&coid=%s&display_options=%s&show", catoID, coID, onclick)
-		//fmt.Println(link)
-		links = append(links, link)
-		//fmt.Println(onclick)
+
+		doc, err := goquery.NewDocumentFromReader(resp.Body)
+		if err != nil {
+			log.Fatal(err)
+		}*/
+		var doc *goquery.Document
+		counter := 0
+		for {
+			if counter > 10 {
+				return cs, errors.New("Failed miserable")
+			}
+
+			resp, xerr := client.Get(fmt.Sprintf(link, abbr))
+
+			if xerr != nil {
+				//return c, err
+				counter++
+				continue
+			}
+
+			b, xerr := ioutil.ReadAll(resp.Body)
+			if xerr != nil {
+				counter++
+				continue
+			}
+
+			//fmt.Println(string(b))
+			doc, xerr = goquery.NewDocumentFromReader(bytes.NewReader(b))
+			if xerr != nil {
+				counter++
+				continue
+			}
+			defer resp.Body.Close()
+			break
+		}
+
+		subjT := doc.Find(`table.table_default td[colspan="2"] strong`).Last()
+		subj := subjT.Text()
+		//p := subjT.Parent().Parent().Parent().Parent()
+		//fmt.Println(p.Html())
+		doc.Find(`a[href^="preview_course_nopop.php?catoid="]`).Each(func(_ int, s *goquery.Selection) {
+			fmt.Println(abbr, "\t", subj, "\t", s.Text())
+			//var c CourseExample
+			href, _ := s.Attr(`href`)
+			onclick := `a:2:{s:8:~location~;s:8:~template~;s:28:~course_program_display_field~;N;})`
+			u, err := url.Parse(href)
+			if err != nil {
+				log.Fatal(err)
+			}
+			u = ubase.ResolveReference(u)
+			q := u.Query()
+			coID := q.Get("coid")
+			catoID := q.Get("catoid")
+			clink := fmt.Sprintf("https://calendar.engineering.queensu.ca/ajax/preview_course.php?catoid=%s&coid=%s&display_options=%s&show", catoID, coID, onclick)
+			c, err := Parse(clink)
+			if err != nil {
+				log.Fatal(err)
+			}
+			c.SubjectID = i
+			c.SubjectName = subj
+			c.SubjectCode = []string{c.CourseCode}
+			fmt.Printf("%#v\n", c)
+			cs = append(cs, c)
+		})
+
+	}
+
+	return
+}
+
+//GetAbbr reads abreviations
+func GetAbbr() (abbrs []string, err error) {
+	client := utils.GetClient()
+	resp, err := client.Get("https://calendar.engineering.queensu.ca/content.php?filter%5B27%5D=-1&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=9&expand=&navoid=233&search_database=Filter#acalog_template_course_filter")
+	if err != nil {
+		return
+	}
+	doc, err := goquery.NewDocumentFromReader(resp.Body)
+	if err != nil {
+		return
+	}
+
+	doc.Find(`#courseprefix option`).Each(func(i int, s *goquery.Selection) {
+		if i == 0 {
+			return
+		}
+
+		abbr, ok := s.Attr(`value`)
+		if ok {
+			abbrs = append(abbrs, abbr)
+		}
 
 	})
 
-	for i := 2; i <= pages; i++ {
-		link = "https://calendar.engineering.queensu.ca/content.php?filter%5B27%5D=-1&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=" + strconv.Itoa(i) + "&cur_cat_oid=9&expand=&navoid=233&search_database=Filter#acalog_template_course_filter"
-		ls, err := readit(link)
-		if err != nil {
-			log.Println(err)
-			continue
-		}
-		links = append(links, ls...)
-	}
-
-	fmt.Printf("Total %d links\n", len(link))
-	var cs []CourseExample
-	for _, link := range links {
-		c, err := Parse(link)
-		if err != nil {
-			log.Println(err)
-			continue
-		}
-		cs = append(cs, c)
-	}
-
-	if err := export(cs); err != nil {
-		log.Fatal(err)
-	}
-
+	return
 }
 
+/*
 func readit(link string) (links []string, err error) {
 	client := utils.GetClient()
 
@@ -188,33 +268,47 @@ func readit(link string) (links []string, err error) {
 	return
 
 }
+*/
 
 //Parse a link
 func Parse(link string) (c CourseExample, err error) {
 	//https://calendar.engineering.queensu.ca/ajax/preview_course.php?catoid=9&coid=5315&display_options=a:2:{s:8:~location~;s:8:~template~;s:28:~course_program_display_field~;N;})&show
 	//var c CourseExample
 	client := utils.GetClient()
-	resp, err := client.Get(link)
+	var doc *goquery.Document
+	counter := 0
+	for {
+		if counter > 10 {
+			return c, errors.New("Failed miserable")
+		}
 
-	if err != nil {
-		return
-	}
+		resp, xerr := client.Get(link)
 
-	b, err := ioutil.ReadAll(resp.Body)
-	if err != nil {
-		return
-	}
-	defer resp.Body.Close()
+		if xerr != nil {
+			//return c, err
+			counter++
+			continue
+		}
 
-	//fmt.Println(string(b))
-	doc, err := goquery.NewDocumentFromReader(bytes.NewReader(b))
-	if err != nil {
-		return
+		b, xerr := ioutil.ReadAll(resp.Body)
+		if xerr != nil {
+			counter++
+			continue
+		}
+
+		//fmt.Println(string(b))
+		doc, xerr = goquery.NewDocumentFromReader(bytes.NewReader(b))
+		if xerr != nil {
+			counter++
+			continue
+		}
+		defer resp.Body.Close()
+		break
 	}
 
 	h3 := strings.TrimSpace(doc.Find(`h3`).Text())
 
-	m := regexp.MustCompile(`^([A-Z]+)\s*(\d+)\s*(.*)\s+(?:F|W)`).FindStringSubmatch(h3)
+	m := regexp.MustCompile(`^([A-Z]+)\s*([A-Z]?\d+)\s*(.*)\s+(?:F|W)`).FindStringSubmatch(h3)
 	if len(m) > 0 {
 		c.CourseCode = m[1]
 		c.NumericCode = m[2]
@@ -222,7 +316,7 @@ func Parse(link string) (c CourseExample, err error) {
 	}
 	//Tutorial:[\s\d\.]+(.*)\s*Academic Units:
 
-	m = regexp.MustCompile(`Tutorial:[\s\d\.]+(.*)\s*Academic Units:`).FindStringSubmatch(doc.Text())
+	m = regexp.MustCompile(`Tutorial:[\s\d\.Yes]+(.*)\s*Academic Units:`).FindStringSubmatch(doc.Text())
 	if len(m) > 0 {
 		c.Description = clean(m[1])
 	}
@@ -258,45 +352,68 @@ func clean(in string) string {
 	return strings.TrimSpace(out)
 }
 
-func export(cs []CourseExample) (err error) {
-	var countermap = make(map[string]int)
-	var sbjs []Subject
-	counter := 0
-	for key, val := range coursemap {
-		var se Subject
-		se.SubjectID = counter
-		se.SubjectName = val
-		se.SubjectCode = []string{key}
-		sbjs = append(sbjs, se)
-		countermap[key] = counter
-		counter++
-	}
-	b, err := json.MarshalIndent(sbjs, "", "    ")
-	if err != nil {
-		return
-	}
-	err = ioutil.WriteFile("./assets/QU-applied-subjects.json", b, 0600)
-	if err != nil {
-		return
-	}
+//Export -- exports into JSON
+func Export(cs []CourseExample) (err error) {
 
-	for i := 0; i < len(cs); i++ {
-		if cs[i].CourseCode == "" {
+	var subjs []Subject
+	var se = make(map[string]bool)
+
+	if len(cs) == 0 {
+		b, xerr := ioutil.ReadFile("./assets/QU-applied-raw.json")
+		if xerr != nil {
+			//log.Fatal(err)
+			return xerr
+		}
+
+		xerr = json.Unmarshal(b, &cs)
+		if xerr != nil {
+			//log.Fatal(err)
+			return xerr
+		}
+
+	}
+	var xcs []CourseExample
+	xcounter := 0
+	for _, c := range cs {
+		if c.CourseCode == "" {
 			continue
 		}
-		xc, ok := countermap[cs[i].CourseCode]
-		if ok {
-			cs[i].SubjectID = strconv.Itoa(xc)
+		if _, ok := se[c.CourseCode]; ok {
+			continue
 		}
+
+		se[c.CourseCode] = true
+		var subj Subject
+		subj.SubjectID = c.SubjectID
+		subj.SubjectName = c.SubjectName
+		subj.SubjectCode = c.SubjectCode
+		subjs = append(subjs, subj)
+		c.SubjectName = ""
+		c.SubjectCode = []string{}
+		if c.CourseCode == "MNTC" {
+			xcounter++
+		}
+		xcs = append(xcs, c)
+	}
+	fmt.Printf("Total %d MNTC\n", xcounter)
+	b, err := json.MarshalIndent(subjs, "", "    ")
+	if err != nil {
+		log.Fatal(err)
 	}
 
-	b, err = json.MarshalIndent(cs, "", "    ")
+	err = ioutil.WriteFile("./assets/QU-applied-subjects.json", b, 0600)
 	if err != nil {
-		return
+		log.Fatal(err)
 	}
+
+	b, err = json.MarshalIndent(xcs, "", "    ")
+	if err != nil {
+		log.Fatal(err)
+	}
+
 	err = ioutil.WriteFile("./assets/QU-applied-courses.json", b, 0600)
 	if err != nil {
-		return
+		log.Fatal(err)
 	}
 
 	return
