@@ -39,11 +39,6 @@ var coursemap = map[string]string{
 	"SURP":  "School of Urban and Regional Planning",
 }
 
-//preview_course_nopop.php?catoid=9&coid=5765
-//showCourse('9', '5765',this, 'a:2:{s:8:~location~;s:8:~template~;s:28:~course_program_display_field~;N;}'); return false;
-//https://calendar.engineering.queensu.ca/ajax/preview_course.php?catoid=9&coid=5765&display_options=a:2:{s:8:~location~;s:8:~template~;s:28:~course_program_display_field~;N;}&show
-//https://calendar.engineering.queensu.ca/ajax/preview_course.php?catoid=9&coid=5316&display_options=a:2:{s:8:~location~;s:8:~template~;s:28:~course_program_display_field~;N;}')&show
-
 //CourseExample is
 type CourseExample struct {
 	SubjectID   int      `json:"subjectId,omitempty"`
@@ -76,6 +71,7 @@ func Start() {
 		log.Fatal(err)
 	}
 	fmt.Printf("%#v\n", abbrs)
+	//abbrs = []string{"CHEE"}
 	cs, err := overAbbrs(abbrs)
 	if err != nil {
 		log.Fatal(err)
@@ -98,18 +94,6 @@ func Start() {
 		log.Fatal(err)
 	}
 
-	/*
-	   https://calendar.engineering.queensu.ca/content.php?filter%5B27%5D=ANAT
-	   	&filter%5B29%5D=
-	   	&filter%5Bcourse_type%5D=-1
-	   	&filter%5Bkeyword%5D=
-	   	&filter%5B32%5D=1
-	   	&filter%5Bcpage%5D=1
-	   	&cur_cat_oid=9
-	   	&expand=
-	   	&navoid=233
-	   	&search_database=Filter#acalog_template_course_filter
-	*/
 }
 
 func overAbbrs(abbrs []string) (cs []CourseExample, err error) {
@@ -224,52 +208,6 @@ func GetAbbr() (abbrs []string, err error) {
 	return
 }
 
-/*
-func readit(link string) (links []string, err error) {
-	client := utils.GetClient()
-
-	ubase, err := url.ParseRequestURI("https://calendar.engineering.queensu.ca/")
-	if err != nil {
-		//log.Fatal(err)
-		return
-	}
-
-	resp, err := client.Get(link)
-	if err != nil {
-		//log.Fatal(err)
-		return
-	}
-
-	defer resp.Body.Close()
-
-	doc, err := goquery.NewDocumentFromReader(resp.Body)
-	if err != nil {
-		return
-	}
-	doc.Find(`a[href^="preview_course_nopop.php?catoid="]`).Each(func(_ int, s *goquery.Selection) {
-		href, _ := s.Attr(`href`)
-		onclick := `a:2:{s:8:~location~;s:8:~template~;s:28:~course_program_display_field~;N;})`
-		u, err := url.Parse(href)
-		if err != nil {
-			log.Fatal(err)
-		}
-		u = ubase.ResolveReference(u)
-		q := u.Query()
-		coID := q.Get("coid")
-		catoID := q.Get("catoid")
-		link := fmt.Sprintf("https://calendar.engineering.queensu.ca/ajax/preview_course.php?catoid=%s&coid=%s&display_options=%s&show", catoID, coID, onclick)
-		//fmt.Println(link)
-		links = append(links, link)
-
-		//fmt.Println(onclick)
-
-	})
-
-	return
-
-}
-*/
-
 //Parse a link
 func Parse(link string) (c CourseExample, err error) {
 	//https://calendar.engineering.queensu.ca/ajax/preview_course.php?catoid=9&coid=5315&display_options=a:2:{s:8:~location~;s:8:~template~;s:28:~course_program_display_field~;N;})&show
@@ -305,10 +243,11 @@ func Parse(link string) (c CourseExample, err error) {
 		defer resp.Body.Close()
 		break
 	}
+	h, _ := doc.Html()
 
 	h3 := strings.TrimSpace(doc.Find(`h3`).Text())
 
-	m := regexp.MustCompile(`^([A-Z]+)\s*([A-Z]?\d+)\s*(.*)\s+(?:F|W)`).FindStringSubmatch(h3)
+	m := regexp.MustCompile(`^([A-Z]+)\s*([A-Z]?\d+)\s*(.*?)\s*$`).FindStringSubmatch(h3)
 	if len(m) > 0 {
 		c.CourseCode = m[1]
 		c.NumericCode = m[2]
@@ -316,7 +255,11 @@ func Parse(link string) (c CourseExample, err error) {
 	}
 	//Tutorial:[\s\d\.]+(.*)\s*Academic Units:
 
-	m = regexp.MustCompile(`Tutorial:[\s\d\.Yes]+(.*)\s*Academic Units:`).FindStringSubmatch(doc.Text())
+	/*m = regexp.MustCompile(`(?s)Tutorial:[\s\d\.Yes]+(.*)\s*Academic Units:`).FindStringSubmatch(doc.Text())
+	if len(m) > 0 {
+		c.Description = clean(m[1])
+	}*/
+	m = regexp.MustCompile(`(?s)Tutorial:.*?<br/>(.*?)(?:<br/>)+Academic`).FindStringSubmatch(h)
 	if len(m) > 0 {
 		c.Description = clean(m[1])
 	}
@@ -378,18 +321,22 @@ func Export(cs []CourseExample) (err error) {
 		if c.CourseCode == "" {
 			continue
 		}
-		if _, ok := se[c.CourseCode]; ok {
-			continue
+
+		if _, ok := se[c.CourseCode]; !ok {
+			//continue
+
+			var subj Subject
+			se[c.CourseCode] = true
+			subj.SubjectID = c.SubjectID
+			subj.SubjectName = c.SubjectName
+			subj.SubjectCode = c.SubjectCode
+			subjs = append(subjs, subj)
+
 		}
 
-		se[c.CourseCode] = true
-		var subj Subject
-		subj.SubjectID = c.SubjectID
-		subj.SubjectName = c.SubjectName
-		subj.SubjectCode = c.SubjectCode
-		subjs = append(subjs, subj)
 		c.SubjectName = ""
 		c.SubjectCode = []string{}
+		c.Description = utils.Clean(c.Description)
 		if c.CourseCode == "MNTC" {
 			xcounter++
 		}

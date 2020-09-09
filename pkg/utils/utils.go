@@ -1,8 +1,11 @@
 package utils
 
 import (
+	"html"
 	"net"
 	"net/http"
+	"regexp"
+	"strings"
 	"time"
 )
 
@@ -65,4 +68,15 @@ func GetClient() *http.Client {
 		Transport: netTransport,
 	}
 	return netClient
+}
+
+//Clean removes HTML, double spaces and other
+func Clean(in string) (out string) {
+	re := regexp.MustCompile(`<[^>]*>`)
+	re2 := regexp.MustCompile(`\s+`)
+	out = re.ReplaceAllString(in, " ")
+	out = html.UnescapeString(out)
+	out = re2.ReplaceAllString(out, " ")
+	return strings.TrimSpace(out)
+
 }
