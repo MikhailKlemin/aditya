@@ -39,21 +39,6 @@ var coursemap = map[string]string{
 	"SURP":  "School of Urban and Regional Planning",
 }
 
-//CourseExample is
-type CourseExample struct {
-	SubjectID   int      `json:"subjectId,omitempty"`
-	SubjectName string   `json:"SubjectName,omitempty"`
-	SubjectCode []string `json:"codes,omitempty"`
-
-	Name            string `json:"name"`
-	NumericCode     string `json:"numericCode"`
-	CourseCode      string `json:"courseCode"`
-	Description     string `json:"description"`
-	Prerequisite    string `json:"prerequisite"`
-	Antirequisite   string `json:"antirequisite"`
-	OneWayExclusion string `json:"oneWayExclusion,omitempty"`
-}
-
 //Subject holds terms
 type Subject struct {
 	SubjectID   int      `json:"subjectId"`
@@ -96,7 +81,7 @@ func Start() {
 
 }
 
-func overAbbrs(abbrs []string) (cs []CourseExample, err error) {
+func overAbbrs(abbrs []string) (cs []utils.CourseExample, err error) {
 	client := utils.GetClient()
 
 	ubase, err := url.ParseRequestURI("https://calendar.engineering.queensu.ca/")
@@ -209,7 +194,7 @@ func GetAbbr() (abbrs []string, err error) {
 }
 
 //Parse a link
-func Parse(link string) (c CourseExample, err error) {
+func Parse(link string) (c utils.CourseExample, err error) {
 	//https://calendar.engineering.queensu.ca/ajax/preview_course.php?catoid=9&coid=5315&display_options=a:2:{s:8:~location~;s:8:~template~;s:28:~course_program_display_field~;N;})&show
 	//var c CourseExample
 	client := utils.GetClient()
@@ -296,7 +281,7 @@ func clean(in string) string {
 }
 
 //Export -- exports into JSON
-func Export(cs []CourseExample) (err error) {
+func Export(cs []utils.CourseExample) (err error) {
 
 	var subjs []Subject
 	var se = make(map[string]bool)
@@ -315,7 +300,7 @@ func Export(cs []CourseExample) (err error) {
 		}
 
 	}
-	var xcs []CourseExample
+	var xcs []utils.CourseExample
 	xcounter := 0
 	for _, c := range cs {
 		if c.CourseCode == "" {

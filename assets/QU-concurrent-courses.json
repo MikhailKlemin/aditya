@@ -1,0 +1,946 @@
+[
+    {
+        "name": "Theory of Aboriginal Education",
+        "numericCode": "201/3.0",
+        "courseCode": "EDST",
+        "description": "This course provides a background into the history and theory of Aboriginal Education. It will commence with a discussion of Aboriginal identities and approaches to education from the pre-contact era into the present, as well as Western approaches to education through the lens of Critical Race Theory. The course will then move to Aboriginal educational theory, including such topics as Aboriginal concepts of the person and the learner; teaching as ceremony; Aboriginal differentiated instruction; holistic learning; global Aboriginal identities; language and education; and education for decolonization.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Aboriginal Teacher Education",
+        "numericCode": "201/3.0",
+        "courseCode": "FOCI",
+        "description": "Prepares Aboriginal Teacher Education candidates to include Aboriginal curriculum as part of their classroom teaching. Explores Aboriginal community based curriculum development; a review of current Aboriginal curriculum packages and other resources; curriculum planning and evaluation. An experiential learning approach with aspects of the course applied during the candidates' practice teaching rounds. Practicum experiences are explored during class sessions with such reflections providing the basis for further learning in the areas of curriculum planning and evaluation.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Museum Education",
+        "numericCode": "215/3.0",
+        "courseCode": "EDST",
+        "description": "Introduction to the principles and practices of museum education. In cooperation with our partner institution, the Agnes Etherington Art Centre, teacher candidates will explore guided viewing strategies for art, historical artifacts, and natural specimens. Design of studio/lab-based application activities, and curriculum planning relevant to a variety of institutional settings are emphasized.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Arts in Education K to 12",
+        "numericCode": "215/3.0",
+        "courseCode": "FOCI",
+        "description": "This course is designed to present a view of schools where artifacts, art activities and art environments form the focus for learning across all academic subjects. Topics include arts and cognition; how arts programs can induce change in schools; the role of social learning and community knowledge; and arts-centred curriculum planning.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Understanding Classroom Assessment and Evaluation",
+        "numericCode": "210/3.0",
+        "courseCode": "EDST",
+        "description": "With the current accountability framework of K-12 education, teachers are required to use assessments to monitor and inform student learning, guide their instruction, and communicate student achievement. This course explores the complexities of enacting assessment policies and theories within contemporary teaching contexts. Varying philosophies and approaches to classroom assessment are explored with consideration for their pedagogical value. In addition, systemic assessment structures are examined to understand the impact and function of regional and provincial evaluation systems on teaching, learning, and policy decision-making. This course will provide teacher candidates with theoretical and philosophical positions from which to enact sound – reliable, valid, and fair – assessment practices.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Assessment and Evaluation Practices in the Classroom",
+        "numericCode": "210/3.0",
+        "courseCode": "FOCI",
+        "description": "Assessment is a central component of teaching and learning within elementary and secondary classrooms. Current mandates require teachers to integrate assessment throughout their instruction to support, monitor, and communicate student learning. In this course, teacher candidates will learn how to develop and use assessment to promote student learning within a positive classroom culture. Specifically, candidates will learn about Ministry policies, rubrics, feedback mechanisms, observations, portfolios, testing (i.e., teacher-made and EQAO) as well as peer-, self-, and collaborative-assessment. Throughout the course, candidates will link assessment practices to learning theories and to their evolving pedagogical approach. By the end of the course, candidates should be able to engage in professional discussions and decision-making related to assessment and student learning. This course will fundamentally strengthen the candidates’ approach to teaching by connecting together educational and assessment theory, philosophy, and practice.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Understanding At-Risk Adolescents and Young Adults",
+        "numericCode": "291/3.0",
+        "courseCode": "EDST",
+        "description": "This course provides a foundational understanding of the social and psychological basis to the notion of “at risk” and explores various approaches to effect change in adolescents and young adults including cognitive behavioural theory, motivational interviewing, collaborative problem solving, and restorative practice. The impact of socioeconomic status, family dynamics, social factors, and biological markers will be examined.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Teaching At-risk Adolescents and Young Adults",
+        "numericCode": "291/3.0",
+        "courseCode": "FOCI",
+        "description": "Teacher candidates will develop efficacy in applying the theoretical principles taught in EDST 291 to increase their students’ success academically, behaviourally, and socially. A wide range of situations that place students at risk including mental health issues, substance use and addictions, LGBT issues, and family dynamics will be explored, along with evidence-based strategies proven to facilitate self-control, motivation, and improved classroom management. Learning will occur through a variety of readings matched with guest presentations from professionals and those with lived experience.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Understanding At-Risk Children",
+        "numericCode": "290/3.0",
+        "courseCode": "EDST",
+        "description": "This course provides a foundational understanding of the social and psychological basis to the notion of “at risk” and explores various approaches to effect change in children including cognitive behavioural theory, motivational interviewing, collaborative problem solving, and restorative practice. The impact of socioeconomic status, family dynamics, social factors, and biological markers will be examined.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Teaching At-Risk Children",
+        "numericCode": "290/3.0",
+        "courseCode": "FOCI",
+        "description": "Teacher candidates will develop efficacy in applying the theoretical principles taught in EDST 290 to increase their students’ success academically, behaviourally, and socially. A wide range of situations that place students at risk including mental health issues, substance use and addictions, LGBT issues, and family dynamics will be explored, along with evidence-based strategies proven to facilitate self-control, motivation, and improved classroom management. Learning will occur through a variety of readings matched with guest presentations from professionals and those with lived experience.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Understanding Drama in Society",
+        "numericCode": "230/3.0",
+        "courseCode": "EDST",
+        "description": "In this course teacher candidates will study the history and practices related to drama in education. This course will introduce students to relevant literature, experiences and resources to better comprehend the connection between drama and education. Conceptual knowledge will be explored through references to specific dramatic texts and theorists. Students will gain a comprehensive understanding of drama methodologies, drama-based pedagogies and creative experiential learning practices.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Drama in Society",
+        "numericCode": "230/3.0",
+        "courseCode": "FOCI",
+        "description": "The Drama in Education Focus is an exploration of the exciting possibilities for incorporating dramatic experiences into the school curriculum, including the teaching of drama as an art form, the integration of drama into other aspects of the curriculum, and the performing of original works of theatre for young audiences. The PRAC 450/451 placement may be in a regular classroom, a specialized drama education program, or an alternative setting such as museum or theatre outreach program. It is also possible for several members of this focus to work together during the alternative practicum, presenting workshops or performances in schools.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Understanding Early Primary Education",
+        "numericCode": "238/3.0",
+        "courseCode": "EDST",
+        "description": "Teacher candidates will study the learning and development of early primary students (Junior Kindergarten to Grade 2). Various aspects of development will be explored, including the social, emotional, and cognitive areas. The course will provide the theoretical foundations of early primary education and introduce candidates to key readings and ideas in the area.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Early Primary Education",
+        "numericCode": "238/3.0",
+        "courseCode": "FOCI",
+        "description": "Teacher candidates will examine the practice of early primary education. They will use their emerging theoretical understanding to practice observation and assessment and evaluation of children in the early years. They will learn how to design developmentally appropriate programs that reflect the needs of younger learners.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Understanding Leadership in School Organizations",
+        "numericCode": "275/3.0",
+        "courseCode": "EDST",
+        "description": "Intended to provide candidates with a comprehensive understanding of leadership concepts by integrating theory, research, philosophy, and practice in school organizational and social structures. Candidates will explore the roles that organizations play in society; critically analyze traditional and contemporary models of organizations; develop an understanding of organizational structures and leadership; examine the nature and effects of group behaviour and dynamics on individuals in organizations; and, consider some common relational problems that members of organizations experience and how they should be addressed.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Leadership in Schools",
+        "numericCode": "275/3.0",
+        "courseCode": "FOCI",
+        "description": "Intended for teacher candidates interested in working toward positions of added responsibility, such as team leader, department head, vice principal, principal, consultant, coordinator and supervisory officer. The course will prepare candidates for working in diverse organizational environments through an evidence-based approach to examining trends and issues regarding organizational development and transformation. Candidates will discuss the practical ways in which leadership concepts apply to schools; examine the tasks, contexts, attributes, and powers associated with leadership in school organizations; explore the related roles of professionals and individuals assuming leadership responsibilities in school organizations; and, build awareness of their own leadership skills and styles.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Understanding Educational Technology",
+        "numericCode": "218/3.0",
+        "courseCode": "EDST",
+        "description": "This course examines issues related to the augmentative and transformational uses of educational technology in K-12 classrooms. The goal of the course will be for teacher candidates to build an intelligent and thoughtful disposition towards the use of educational technology in K-12 classrooms. Focus will be placed on the current array of educational technologies and how these should be used by teachers to support student learning. Through engagement in demonstrations and the development of curricular projects candidates will develop a deeper understanding of how educational technology can improve and potentially transform education for students. Candidates will develop a critical perspective on the use of computers and related educational technologies that are intended to address issues of teaching and learning.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Educational Technology by Design",
+        "numericCode": "218/3.0",
+        "courseCode": "FOCI",
+        "description": "This course engages teacher candidates in designing ways of using educational technology that address authentic teaching and learning problems. Emphasis is on the creative repurposing of educational technology to respond to substantive teaching and learning problems derived from sources in the field. Issues associated with using educational technology will be addressed through face-to-face seminars, workshops and group design projects. The goal of this course will be for candidates to develop a deep appreciation for the complexity of designing viable solutions to educational problems that utilize educational technology. Prototyped designs will be piloted in practice-based settings and final reports will be shared with educators via webpages and during an end of year Educational Technology Showcase that will be open to local teachers.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Understanding Environmental Education",
+        "numericCode": "243/3.0",
+        "courseCode": "EDST",
+        "description": "The term 'environmental education' means many things to many people. In this course teacher candidates will have the opportunity to explore various issues and practices related to environmental education. This course will be one of questions: What is the historical context of our relationship with the environment and hence the need for environmental education? What is, and what shapes the social and /or political views our society has about the environment? What is the role of education in the context of knowing about and solving environmental issues?",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Environmental Education",
+        "numericCode": "243/3.0",
+        "courseCode": "FOCI",
+        "description": "This course focuses on enhancing teacher candidate’s understanding and appreciation of the natural environment as a classroom, increasing their knowledge of environmental issues, and learning how to teach about them. Ways to integrate environmental studies across the curriculum both inside and outside the classroom will be investigated, and environmental programs and resources will be explored using hands on approaches.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Understanding Exceptional Learners",
+        "numericCode": "295/3.0",
+        "courseCode": "EDST",
+        "description": "This course addresses understanding research, resources, and practices relevant to teaching exceptional children and adolescents in the regular classroom. A range of exceptionalities are considered including students with learning disabilities, chronic health conditions, Autism Spectrum Disorders (ASD), mental health concerns, developmental delays, giftedness, and behaviour and emotional difficulties. Teacher candidates consider how students learn, how to help exceptional students achieve success, and how to collaborate with parents and other professionals. The course emphasizes creating a classroom context where each student is valued.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Teaching Exceptional Learners",
+        "numericCode": "295/3.0",
+        "courseCode": "FOCI",
+        "description": "This course addresses teaching exceptional children and adolescents in an inclusive classroom. Exceptional learners include, among others, those with learning disabilities, chronic health conditions, Autism Spectrum Disorders (ASD), mental health concerns, developmental delays, giftedness, and behaviour and emotional difficulties. The course offers opportunities to learn from: experience, workshops, reading, and peers; to differentiate instruction to meet the needs of all learners; to develop competence and confidence in teaching exceptional learners; and to provide leadership in this area. The organization is experiential, self-directed, and collaborative, within a group that shares an interest in working with exceptional learners.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Understanding French as a Second Language in Elementary Schools",
+        "numericCode": "205/3.0",
+        "courseCode": "EDST",
+        "description": "This course is intended for students who plan to teach French as a second language, core or immersion, in elementary schools. It will familiarize them with both past and current approaches to teaching French, textbooks commonly used, and techniques for teaching and testing French in a great variety of situations.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Teaching French Immersion",
+        "numericCode": "205/3.0",
+        "courseCode": "FOCI",
+        "description": "This course is designed to develop an awareness of the variety of programs that exist in Canada and of the instructional strategies needed to teach in such programs. Emphasis will be placed on the development of language in a French Immersion program through an integrated approach.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Understanding Teaching and Learning Abroad",
+        "numericCode": "255/3.0",
+        "courseCode": "EDST",
+        "description": "This course supports scholarly and personal understanding of teaching and learning abroad as teacher candidates prepare for professional practice in international settings. The focus will be on theories that support teachers in their understanding of the complexities associated with teaching in cross-cultural contexts, such as cultural variables, “third culture kids”, service learning, professional development and diversity consciousness. These will be discussed by drawing on current literature in the field of overseas teaching and cross-cultural teaching and learning. Candidates will learn through structured classes, group discussions, guest speakers and personal research of topics specifically applicable to individual interests. This course helps candidates understand teaching and learning in ELL, multicultural, and diverse contexts in Canada or abroad.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Educators Abroad",
+        "numericCode": "255/3.0",
+        "courseCode": "FOCI",
+        "description": "This program focus supports teacher candidates’ scholarly and personal development as they prepare for professional practice in international schools, including candidates considering international teaching after gaining full-time teaching experience in Canada. Learning in this course occurs through a combination of structured classes, contact with professors, a self-directed independent study, and an alternative practicum. While an international alternative practicum placement is supported, it is not a requirement. Candidates are required to link their alternative practicum to their Educators Abroad independent study. This course helps candidates address the complexities of teaching and learning in ELL, multicultural and diverse contexts in Canada or abroad.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Understanding Literacy in the Elementary School",
+        "numericCode": "227/3.0",
+        "courseCode": "EDST",
+        "description": "This course will examine how theories in reading and writing acquisition can be translated into practice. Topics covered in depth will include historical and theoretical perspectives of reading and writing, literacy development from emergent literacy to adolescent reading, literacy integration across the curriculum, the role of children’s literature, social and cultural influences on literacy, and the impact of media and technology on reading and writing.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Literacy in the Elementary School",
+        "numericCode": "227/3.0",
+        "courseCode": "FOCI",
+        "description": "This course will extend topics in reading and writing at the elementary level and provide teacher candidates with opportunities to examine word recognition skills and processes, comprehension strategies and theories, reading and motivation, issues of assessment, and current trends in literacy research. Teacher candidates will have opportunities to explore specific literacy programs and interventions, and consider various roles in literacy education across schools, school boards, and organizations that support reading and writing development.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Understanding Social Justice Issues in Schools",
+        "numericCode": "296/3.0",
+        "courseCode": "EDST",
+        "description": "In this course, teacher candidates will develop a critical perspective towards issues of social justice that will enable them to help students prepare to be global citizens and to respond more effectively to a diverse student population. Among the larger issues that configure social relations are: racism, sexism, homophobia, able-ism, classism, ethnocentrism, ageism and intellectualism. Additional issues for examination include the impact of students’ cultural context on their school experiences, the impact of the school culture, including teachers’ attitudes and expectations, and impact of the hidden curriculum.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Teaching for Social Justice",
+        "numericCode": "296/3.0",
+        "courseCode": "FOCI",
+        "description": "This course focuses on social justice and inclusionary education and explores what it means to teach for social justice. Teacher candidates will draw on the understandings of practicing teachers who have developed the confidence to question schooling/teaching practices and agendas from a social justice perspective. Additional issues to be considered include: the effects of social class, gender, and race on students’ educational experiences. At the centre of this course is the link between theory and practice, what we do and what we think are not separate.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Understanding Teaching and Learning Outside of Schools",
+        "numericCode": "285/3.0",
+        "courseCode": "EDST",
+        "description": "This course explores theoretical and conceptual frameworks for school programs such as Open Minds, Beyond Classrooms Kingston, and School in the Park. Around the globe, students and teachers are moving outside the school walls into a variety of real-world settings: natural wetlands, City Hall, an art gallery, a community museum. Teacher candidates examine curricula, programs and educational thinking that challenge students and teachers to engage in authentic inquiry, problem-solving, reflection and community engagement – outside the classroom.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Teaching and Learning Outside of Schools",
+        "numericCode": "285/3.0",
+        "courseCode": "FOCI",
+        "description": "Direct engagement with places, artifacts, experts and issues combine to support cross-curricular student inquiry. This course will prepare teacher candidates to use the built and natural environments as the foundation for student learning, either as informed classroom teachers or as education officers in museums, galleries, and other institutions that offer out-of-school learning experiences.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Exceptional Children and Adolescents",
+        "numericCode": "476/3.0",
+        "courseCode": "EDST",
+        "description": "An overview of exceptional children and adolescents in the regular classroom, including their identification, inclusion and teaching. Candidates consider how students learn, how teachers can help exceptional students to learn in the classroom, and how teachers can collaborate with parents and other professionals to enhance learning. A range of exceptionalities are considered including students with giftedness, intellectual disabilities, learning disabilities, and behaviour exceptionalities.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Broad-Based Technological Education",
+        "numericCode": "213/3.0",
+        "courseCode": "FOCI",
+        "description": "The Ontario College of Teachers requires that teachers gaining certification in technological education demonstrate \"proof of... competence in the area... of technological studies selected as an option in the program of professional education.\" Technological competence is demonstrated by completing an individualized program, typically in the form of projects, which permits each candidate to broaden and deepen their range of skills. A Technical Skills profile is used to track the range and level of skills.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/3.0 Language and Literacy: Development and Practice (PJ)",
+        "numericCode": "355",
+        "courseCode": "CURR",
+        "description": "Teacher candidates will be introduced to instructional practice in the language arts. The course will examine instructional principles for the teaching of the following components of literacy: phonemic awareness, phonics, fluency, vocabulary and reading comprehension, the writing process, the use of informational and narrative texts from JK to grade 8. Teacher candidates will be introduced to the Ontario literacy documents and Language curriculum.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/3.0 Elementary Mathematics (PJ)",
+        "numericCode": "383",
+        "courseCode": "CURR",
+        "description": "Designed to help beginning teachers to (i) examine how children learn mathematics; (ii) develop a positive attitude toward and an interest in mathematics; (iii) teach mathematics with problem solving as the primary focus; (iv) understand the elements of planning and assessing a comprehensive mathematics curriculum; and (v) establish a classroom environment that supports children's learning of mathematics. Models experiences that help teacher candidates to construct personal knowledge of mathematical techniques, skills and processes through meaningful opportunities to learn (including the application of information technology).",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Literacy",
+        "numericCode": "384/1.5",
+        "courseCode": "CURR",
+        "description": "Provides opportunities for teacher candidates to explore some of the topics briefly introduced in CURR 355, but in much more detail. Topics include theoretical and practical issues regarding: i. literacy teaching and learning in Kindergarten classrooms; ii. adolescent literacy; iii. supporting students who struggle with literacy competency and iv. literacy connections that support learning.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Social Studies (PJ)",
+        "numericCode": "385/1.5",
+        "courseCode": "CURR",
+        "description": "Provides teacher candidates with the opportunity to enhance skills, attitudes and understandings to enable them to teach, learn and function as informed citizens in a culturally diverse society and world. Candidates explore ways to study communities, heritage, history, and geography, using the Ontario curriculum documents and a variety of strategies and resources.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Numeracy",
+        "numericCode": "386/1.5",
+        "courseCode": "CURR",
+        "description": "Provides opportunities for teacher candidates to explore some of the topics briefly introduced in CURR 383, but in much more detail. Topics include theoretical and practical issues regarding: i. numeracy teaching and learning in Kindergarten classrooms; ii. adolescent numeracy; iii. supporting students who struggle with numeracy competency and iv. numeracy connections that support learning.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/3.0 Science and Technology (PJ)",
+        "numericCode": "387",
+        "courseCode": "CURR",
+        "description": "Learning to teach elementary science and technology and developing a positive attitude toward these subject areas are explored through a variety of approaches including student-centred learning, problem-based learning, hands-on activities, and integrated learning experiences. Teacher candidates begin to become familiar with the science and technology curriculum mandated by the Ontario Ministry of Education through the exploration of content, skills and strategies for effective teaching, and through reflective practice.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Art (PJ)",
+        "numericCode": "389/1.5",
+        "courseCode": "CURR",
+        "description": "An introduction to visual art in the elementary grades. Participants come to understand that visual art is a form of personal expression and that it can be employed to increase visual perception and awareness. Through experimentation with the foundation materials of visual art, and by utilizing their various environments as sources of inspiration, participants will gain confidence in their ability to make artistic choices and to provide meaningful art experiences for their students. Topics include the elements and principles of design, colour theory, drawing, and assessment and evaluation of art.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Dance",
+        "numericCode": "390/1.5",
+        "courseCode": "CURR",
+        "description": "This course introduces teacher candidates to dance education. Teacher candidates will engage in dance activities and will explore strategies for structuring and engaging learners in dance experiences using the elements and the choreographic forms of the discipline. They will develop an understanding and appreciation of dance.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Drama (PJ)",
+        "numericCode": "391/1.5",
+        "courseCode": "CURR",
+        "description": "Introduces drama in the elementary grades, and encourages teachers to apply dramatic and performance skills and techniques to the presentational aspects of their teaching practice. Through a lens of story-telling, various experiential exercises help students acquire basic dramatic skills and techniques to develop strategies and approaches to foster dramatic activity and presentation in their future classrooms. Topics include drama games, story-telling and story-building, character, staging, acting, and thematic and cross-curricular integration. Work in movement, voice and creative play enhance confidence and ability to incorporate dramatic form for the classroom.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Music (PJ)",
+        "numericCode": "393/1.5",
+        "courseCode": "CURR",
+        "description": "An introduction to music in the elementary grades. Focuses on the integrative aspects of music in the classroom and in the curriculum, and introduces effective strategies and materials. Through experiential learning, participants develop their own musical skills and confidence. Various topics relating to arts advocacy, technology and music, music in the early and middle years, instrumental and vocal music, and composition and notation will be addressed.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Health and Physical Education (PJ)",
+        "numericCode": "395/1.5",
+        "courseCode": "CURR",
+        "description": "Provides teacher candidates with the opportunity to develop understandings, skills and attitudes to effectively teach physical and health education and to help children develop active healthy lifestyles. Candidates become familiar with Ministry of Education curriculum documents and a variety of teaching/learning strategies and resources.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Introduction to Biology Teaching (IS)",
+        "numericCode": "303/3.0",
+        "courseCode": "CURR",
+        "description": "This course provides an introduction to science teaching with a biology focus at the Intermediate-Senior levels. Teacher candidates plan science lessons using a variety of meaningful and relevant learning activities designed to support critical thinking about science and how it is connected to technology, society and the environment. The effectiveness of these lessons will be explored within the context of teacher candidates' practica experiences.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Biology Teaching in Theory and Practice",
+        "numericCode": "304/3.0",
+        "courseCode": "CURR",
+        "description": "Teacher candidates will connect their practical knowledge and skills to education research to allow them to progress from a concern about teaching to a concern about supporting and judging the quality of student learning. This course provides opportunities for self-directed learning about the nature of science and the preparation of teaching and learning resources.",
+        "prerequisite": "CURR 303",
+        "antirequisite": ""
+    },
+    {
+        "name": "Science - Chemistry (IS)",
+        "numericCode": "305/3.0",
+        "courseCode": "CURR",
+        "description": "Provides an introduction from a chemistry focus to the theoretical concepts and practical skills necessary for successful and effective teaching of Intermediate-Senior science. Course includes an examination of science content and teaching strategies (including laboratory work and demonstrations).",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Science - Chemistry (IS)",
+        "numericCode": "306/3.0",
+        "courseCode": "CURR",
+        "description": "Utilizing a curriculum framework to explore the nature of science, science teaching and learning, Emphasis is placed upon lesson planning, meta-cognition, evaluation and the interrelationships between science, technology, society and the environment.",
+        "prerequisite": "CURR 305",
+        "antirequisite": ""
+    },
+    {
+        "name": "Dramatic Arts (IS)",
+        "numericCode": "311/3.0",
+        "courseCode": "CURR",
+        "description": "An introduction to the theory and practice of dramatic arts in Intermediate-Senior education. Candidates will explore the elements of dramatic expression and develop an understanding of the intrinsic and extrinsic value of drama/theatre in education. Consideration will be given to the Ontario Curriculum in Dramatic Arts, lesson planning, the assessment of student achievement in dramatic activities, and issues related to the practicum experience.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Dramatic Arts (IS)",
+        "numericCode": "312/3.0",
+        "courseCode": "CURR",
+        "description": "Continued study of the theory and practice of dramatic arts education. Candidates will continue to explore the educational value of dramatic expression with a particular focus on long term planning. Consideration will be given to aspects of curriculum design, unit planning and the assessment of student achievement in a unit, topics in drama for unit development, and issues related to the experience of a novice educator.",
+        "prerequisite": "CURR 311.",
+        "antirequisite": ""
+    },
+    {
+        "name": "Introduction to Teaching English (IS)",
+        "numericCode": "317/3.0",
+        "courseCode": "CURR",
+        "description": "Provides an orientation to the profession of English teaching and develops familiarity with curriculum documents, curriculum development and course planning. Teacher candidates will explore the pragmatic issues of teaching English and learn a variety of teaching approaches. The course emphasizes practice informed by theoretical perspectives.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Theories of Teaching and Learning in English (IS)",
+        "numericCode": "318/3.0",
+        "courseCode": "CURR",
+        "description": "Provides opportunities to develop awareness of theoretical perspectives underpinning practice and explores a variety of teaching methodologies. Teacher candidates will learn about theories of curriculum, learning, and English education. The course emphasizes the movement from experiencing learning events as a student to interpreting those events from the perspective of a teacher.",
+        "prerequisite": "CURR 317",
+        "antirequisite": ""
+    },
+    {
+        "name": "Français langue seconde (IS)",
+        "numericCode": "321/3.0",
+        "courseCode": "CURR",
+        "description": "Dans ce cours on se penche sur les notions pédagogiques en mettant l'accent sur l'enseignement aux niveaux intermédiaire et terminal. On vise à faire un tour d'horizon complet des connaissances et des applications pratiques dans le but d'amener tous les apprenants à développer leur style d'enseignement propre en adéquation avec la situation actuelle dans le domaine des langues. Une connaissance supérieure du français est nécessaire. Toutefois il y a lieu de parfaire ses connaissances durant l'année pour des corrections d'ordre minimal. Un séjour immersif d'une durée de six mois est recommandé. Les sujets abordés se rapportent aux approches, aux démarches, aux directives du ministère (immersion, approche communicative..., restructuration, intégration, interdisciplinaire...), à la gestion du temps (objectifs, progression, planification, les savoirs, la culture et la littérature, le contrôle des connaissances), à la psychopédagogie (rôles, groupements, procédés et moyens, collaboration), et à la psycholinguistique. De nombreuses applications pratiques individuelles et en groupes sont intégrées au programme.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Français langue seconde (IS)",
+        "numericCode": "322/3.0",
+        "courseCode": "CURR",
+        "description": "Continuation of CURR 321.",
+        "prerequisite": "CURR 321",
+        "antirequisite": ""
+    },
+    {
+        "name": "Geography (IS)",
+        "numericCode": "325/6.0",
+        "courseCode": "CURR",
+        "description": "Using a Geography context, the program provides instruction in basic lesson planning, short term \u0026 long term planning, assessment and evaluation as well as essential classroom management. Participants become familiar with the various Ministry of Education curriculum documents and resources related to teaching IS Geography. In addition, there is a strong focus on exploring supplementary resources related to teaching contemporary Geography.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Introduction to Teaching History (IS)",
+        "numericCode": "335/3.0",
+        "courseCode": "CURR",
+        "description": "Provides an initial orientation to teaching History through exposure to a variety of teaching approaches, questioning techniques, lesson design and curriculum documents. The course explores engaging methodologies in the art of teaching History and citizenship in national and global contexts.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "History Teaching in Theory and Practice (IS)",
+        "numericCode": "336/3.0",
+        "courseCode": "CURR",
+        "description": "Provides candidates with opportunities to deepen their commitment to helping young people appreciate and understand the tragedies and triumphs of the human experience. Recent social and cultural developments in the discipline of History are addressed: the nature of the social sciences, historical and critical thinking, teaching for understanding. Curriculum study is advanced through unit design and subject integration. Print and recent electronic resources are explored.",
+        "prerequisite": "CURR 335",
+        "antirequisite": ""
+    },
+    {
+        "name": "First Nations, Métis and Inuit Studies",
+        "numericCode": "341/3.0",
+        "courseCode": "CURR",
+        "description": "For candidates planning to teach First Nations, Métis and Inuit Studies (Native Studies) at the Intermediate and Senior levels. Integrated with the Ontario Ministry of Education and Training document, \"People of Native Ancestry: Curriculum Guideline for the Senior Division\", and the sections of the First Nations, Métis and Inuit Studies (Native Studies) Intermediate Curriculum Guideline 1991 focusing specifically on the Ministry credit courses for Grades 9 and 10, \"Native Peoples of Canada: Present Realities and Future Directions\", and \"Native Perspectives on the Changing Global Community\". Theories pertaining to curriculum development are examined in conjunction with curriculum models developed and implemented in Aboriginal schools. Reviews and evaluates First Nations, Métis and Inuit Studies (Native Studies) curriculum development for non-Aboriginal and integrated schools and First Nations, Métis and Inuit Studies (Native Studies) curricula developed under Aboriginal control. Provides the candidate with skills to evaluate teaching materials and assess curriculum models, to evaluate theories of curriculum development and to design teaching units based on those theories. Allows both Aboriginal and non-Aboriginal candidates to learn about materials and other resources that are available, and also familiarizes candidates with a variety of approaches for teaching First Nations, Métis and Inuit Studies (Native Studies) in the Intermediate and Senior divisions.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "First Nations, Métis and Inuit Studies (Native Studies) (IS)",
+        "numericCode": "342/3.0",
+        "courseCode": "CURR",
+        "description": "Continuation of CURR 341.",
+        "prerequisite": "CURR 341",
+        "antirequisite": ""
+    },
+    {
+        "name": "3.0 Introduction to Teaching lnstrumental and Choral Music (IS)",
+        "numericCode": "345/365",
+        "courseCode": "CURR",
+        "description": "(CURR 345 Music-Vocal candidates only, CURR 365 Music-Instrumental candidates only; both are combined in one class.)",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "3.0 Music Teaching in Theory and Practice (IS)",
+        "numericCode": "346/366",
+        "courseCode": "CURR",
+        "description": "(CURR 346 Music-Vocal candidates only, CURR 366 Music-Instrumental candidates only; both are combined in one class.)",
+        "prerequisite": "CURR 345/365",
+        "antirequisite": ""
+    },
+    {
+        "name": "Introduction to Teaching Physics (IS)",
+        "numericCode": "351/3.0",
+        "courseCode": "CURR",
+        "description": "Provides an initial orientation to science teaching at the secondary level, with particular attention to the teaching of physics. Lesson and unit planning are practiced in the context of exploring teaching procedures that engage students in activities that provide an experiential basis for their learning.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Physics Teaching in Theory and Practice (IS)",
+        "numericCode": "352/3.0",
+        "courseCode": "CURR",
+        "description": "Provides opportunities to consider the theoretical bases of engaging teaching practices and the practical implications of research on the teaching of physics. The course includes a focus on planning for the first days of teaching, for the development of a career as a science teacher, and for judging the quality of students' learning. The course also provides an opportunity for self-directed learning in the preparation of a teaching resource.",
+        "prerequisite": "CURR 351",
+        "antirequisite": ""
+    },
+    {
+        "name": "Introduction to Teaching instrumental and Choral Music (IS)",
+        "numericCode": "365/3.0",
+        "courseCode": "CURR",
+        "description": "(Music-Instrumental candidates only)",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Music Teaching in Theory and Practice (IS)",
+        "numericCode": "366/3.0",
+        "courseCode": "CURR",
+        "description": "(Music-Instrumental candidates only)",
+        "prerequisite": "CURR 365.",
+        "antirequisite": ""
+    },
+    {
+        "name": "Mathematics Teaching and Learning: Curriculum and Practice (IS)",
+        "numericCode": "370/6.0",
+        "courseCode": "CURR",
+        "description": "This course explores the relationship between theory and practice of teaching mathematics in the Intermediate and Senior levels. Integrating relevant ideas and content from psychology, sociology and mathematics education, the course provides teacher candidates with the opportunities to develop a critical appraisal of curriculum documents and associated professional resources. Teacher candidates will engage in collaborative activities that give them opportunities to move from a concern about teaching into a concern about the impact on students’ learning. An integrated approach to the teaching and learning of mathematics considers technology, diverse teaching and learning strategies, the nature of assessment and evaluation of student mathematics achievement, and current trends in classroom practice.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Visual Arts (IS)",
+        "numericCode": "379/3.0",
+        "courseCode": "CURR",
+        "description": "Concerned with the theory and practice of art in education. Candidates explore the discipline and philosophy related to visual education as well as teaching strategies, curriculum planning, classroom management, studio processes and leadership in the visual arts. Candidates have the opportunity to acquire professional skills needed to teach art in traditional schools as well as alternate educational settings. Practical work sessions, in a variety of media, allow the candidates to further experiment with skills methods and materials involved in studio practice.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Visual Arts (IS)",
+        "numericCode": "380/3.0",
+        "courseCode": "CURR",
+        "description": "Continuation of CURR 379.",
+        "prerequisite": "CURR 379.",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/6.0 Introduction to Biology Teaching in Theory and Practice (IS)",
+        "numericCode": "603",
+        "courseCode": "CURR",
+        "description": "Provides an introduction to science teaching with a biology focus at the Intermediate-Senior levels that will allow teacher candidates to explore and experience active, student-centred learning. Meaningful and relevant learning activities will be used to help teacher candidates think metacognitively about how they can help their students understand the nature of science and how it is linked to technology, society and the environment. Teacher candidates will integrate their practical knowledge and skills with research in education in order to progress from a concern about teaching to a concern about supporting and judging the quality of student learning.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/6.0 Teaching Chemistry in Theory and Practice (IS)",
+        "numericCode": "605",
+        "courseCode": "CURR",
+        "description": "Provides an introduction from a chemistry focus to the theoretical concepts and practical skills necessary for successful and effective teaching of Intermediate-Senior science. Course includes an examination of science content and teaching strategies (including laboratory work and demonstrations). Emphasis is placed upon lesson planning, curriculum design, assessment and evaluation, safety considerations, inquiry-based learning and the interrelationships between science, technology, society and the environment.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/6.0 Dramatic Arts (IS)",
+        "numericCode": "611",
+        "courseCode": "CURR",
+        "description": "This course serves as an introduction and deeper study into the theory and practice of dramatic arts in Intermediate-Senior education. Candidates will explore the elements of dramatic expression and develop an understanding of the intrinsic and extrinsic value of drama/theatre in education. Consideration will be given to the Ontario Curriculum in Dramatic Arts, lesson planning, the assessment of student achievement in dramatic activities, aspects of curriculum design, unit planning and issues related to the practicum experience and the experiences of a novice educator.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/6.0 Introduction to Theories of Teaching and Learning English (IS)",
+        "numericCode": "617",
+        "courseCode": "CURR",
+        "description": "This course provides an orientation to the profession of English Language Arts teaching and develops familiarity with curriculum documents, curriculum development and course planning. Teacher candidates will explore the pragmatic issues of teaching English in terms of equity, access, inclusion and implementation and, as a result, will learn a variety of teaching approaches. The course emphasizes practice informed by theoretical perspectives (e.g. 21st Century skills, digital literacies, etc.).",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/6.0 Français Langue Seconde (IS)",
+        "numericCode": "621",
+        "courseCode": "CURR",
+        "description": "The contents of this course are intended for future French as a Second Language teachers in core, extended or immersion in secondary schools. Students will learn about relevant language teaching approaches and be encouraged to develop their personal teaching style. Teaching and learning strategies, Ministry guidelines, time management, educational psychology, psycholinguistics and sociocultural awareness will be explored in a variety of contexts including a number of practical applications and group collaboration.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/6.0 History Teaching and Learning: Curriculum and Practice (IS)",
+        "numericCode": "635",
+        "courseCode": "CURR",
+        "description": "Engages students in approaches to making meaning from the past, including the discipline of history, citizenship education and narratives emerging from our social, political and cultural contexts. Offers an orientation to curriculum interpretation and delivery, inquiry processes, historical and critical thinking, lesson- or unit-design and a variety of pedagogical approaches in history. The course invites students to explore and evaluate a range of teaching and learning resources including print and electronic.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/6.0 Introduction to Teaching First Nations, Métis and Inuit Studies (IS)",
+        "numericCode": "641",
+        "courseCode": "CURR",
+        "description": "For candidates planning to teach First Nations, Métis and Inuit Studies at the Intermediate and Senior levels, integrated with the Ontario Curriculum - Grades 9 to 12: First Nations, Métis, and Inuit Studies (2019) and Growing Success: Assessment, Evaluation, and Reporting in Ontario Schools (2010). Focuses upon developing pedagogical content knowledge, instructional strategies, and professional judgement for teaching First Nations, Métis and Inuit Studies within the context of the relevant Ontario Ministry of Education curriculum and policy documents. Candidates will also review, apply, and evaluate approaches to implementing the First Nations, Métis and Inuit curriculum in different educational settings, including for non - Indigenous and integrated schools, and schools under Indigenous control.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/6.0 Teaching IS Music-Vocal (IS)",
+        "numericCode": "645",
+        "courseCode": "CURR",
+        "description": "This course addresses theoretical and practical aspects of teaching music at the intermediate and senior levels. Topics include music teacher personal professional learning, leading ensembles, and more. Teacher candidates will engage in collaborative music making, peer teaching, and resource development.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/6.0 Physics Teaching in Theory and Practice (IS)",
+        "numericCode": "651",
+        "courseCode": "CURR",
+        "description": "Provides an introduction to science and physics teaching at the secondary level. The course focuses on inquiry-based and hands-on learning. Specific topics include; lesson and unit planning, assessment, safety, and online resources. Teacher candidates will develop classroom teaching skills and consider the practical implications of research and social issues on the teaching of physics.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/6.0 Teaching IS Music-Instrumental (IS)",
+        "numericCode": "665",
+        "courseCode": "CURR",
+        "description": "This course addresses theoretical and practical aspects of teaching music at the intermediate and senior levels. Topics include music teacher personal professional learning, leading ensembles, and more. Teacher candidates will engage in collaborative music making, peer teaching, and resource development.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/6.0 Visual Arts (IS)",
+        "numericCode": "679",
+        "courseCode": "CURR",
+        "description": "Concerned with the theory and practice of art in education. Candidates explore the discipline and philosophy related to visual education as well as teaching strategies, curriculum planning, classroom management, studio processes and leadership in the visual arts. Candidates have the opportunity to acquire professional skills needed to teach art in traditional schools as well as alternate educational settings. Practical work sessions, in a variety of media, allow the candidates to further experiment with skills methods and materials involved in studio practice.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Teaching Technological Education, Part 1",
+        "numericCode": "360/3.0",
+        "courseCode": "CURR",
+        "description": "Teaching Technological Education provides an introduction to teaching and learning in contemporary technological education. Teacher candidates examine and practice strategies for teaching and learning that enable students to develop capability in the different broad-based technologies that comprise technological education in Ontario. Lesson planning, teaching strategies, workshop and classroom organization, questioning techniques, and responses to student behaviour will be discussed, and also examined in the context of the practicum.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Teaching Technological Education, Part 2",
+        "numericCode": "361/3.0",
+        "courseCode": "CURR",
+        "description": "Provides an introduction to the theoretical underpinnings of teaching and learning in technological education. Using creative activity to promote high school students’ intellectual growth is a particular focus of readings and discussions. Course activities provide opportunities to combine knowledge from educational research with experience in order to promote, and assess, quality student learning and to develop an informed approach to professional practice.",
+        "prerequisite": "CURR 360",
+        "antirequisite": ""
+    },
+    {
+        "name": "Curriculum Development in Technological Education, Part 1",
+        "numericCode": "368/3.0",
+        "courseCode": "CURR",
+        "description": "The ability to teach effectively depends to a large extent on a teacher's ability to act as a curriculum planner for both long and short term planning. Readings, discussions, and activities are used to combine research and teacher candidates' experience in order to become curriculum planners in broad-based technology. Introduction to concepts, practices, and processes of the curriculum field. Teacher candidates use this knowledge, and their professional and school experiences to articulate models of curriculum, assessment, and evaluation that will guide their practice as curriculum planners. CURR 368 gives candidates the opportunity to understand curriculum guidelines and how they are translated into curricular possibilities for Grades 9 to 12. Candidates complete a project and project report for Grade 9, discuss possible curricular approaches for Grade 10, and articulate a proposal for a Grade 11 or 12 community-based project.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Curriculum Development in Technological Education, Part 2",
+        "numericCode": "369/3.0",
+        "courseCode": "CURR",
+        "description": "Teacher candidates further investigate theory, concepts, practices, and processes of the curriculum field to link the community to school technological education programs. Teacher candidates use this knowledge, and their professional and school experiences to an application of the community-based project curriculum model. Using this curriculum model, teacher candidates plan and write a Grade 11 or 12 course profile.",
+        "prerequisite": "CURR 368",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/6.0 Teaching Technological Education",
+        "numericCode": "660",
+        "courseCode": "CURR",
+        "description": "Teaching Technological Education provides an introduction to teaching and learning in contemporary technological education. Teacher candidates examine and practice strategies for teaching and learning that enable students to develop capability in the different broad-based technologies that comprise technological education in Ontario. Lesson planning, teaching strategies, workshop and classroom organization, questioning techniques, and responses to student behaviour will be discussed, and also examined in the context of the practicum. The course ― Teaching Technological Education to assist you on your path toward becoming an effective teacher of Technological Education. Grounded in the belief that the quality of secondary school education depends first and foremost on the competence of teachers, this course offers an examination of how effective teachers support student learning through the use of teaching methods and activities that inspire interest and facilitate intellectual growth. The objectives for this course reflect the Standards of Practice for the teaching profession described by the College of Teachers. These standards, and this course, are “based on the premise that personal and professional growth is a developmental process and that teachers move through a variety of career…stages”.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/6.0 Curriculum Development in Technological Education",
+        "numericCode": "668",
+        "courseCode": "CURR",
+        "description": "The ability to teach effectively depends to a large extent on a teacher's ability to act as a curriculum planner for both long and short-term planning. Readings, discussions, and activities are used to combine research and teacher candidates' experience in order to become curriculum planners in broad-based technology through the introduction to concepts, practices, and processes of the curriculum field. Teacher candidates use this knowledge, and their professional and school experiences to articulate models of curriculum, assessment, and evaluation that will guide their practice as curriculum planners. Curriculum Development for Technological Education gives candidates the opportunity to understand curriculum guidelines and how they are translated into curricular possibilities for Grades 9 to 12. Candidates will have an opportunity to explore Activity Based Learning, Authentic Assessment of Technological Education Projects and Safe Operational Procedures in the Technological Education classroom or shop, as well as plan Curriculum Outlines.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/3.0 A Study of the Religious Education Program in the Roman Catholic Schools of Ontario (PJIS)",
+        "numericCode": "456",
+        "courseCode": "EDST",
+        "description": "Introduction to the central concepts which make up the Religious Education curriculum currently in use in the Catholic schools of Ontario. Candidates who plan to teach in Roman Catholic Schools will find this course helpful as a basic orientation in regard to the theological content and pedagogical principles in contemporary Catechetics. Conducted by staff from both the local Roman Catholic Archdiocese and the local Catholic District School Board. Candidates intending to teach in Ontario Roman Catholic schools should note that a course related to education in Catholic schools is required by most Ontario Catholic boards, and strongly recommended by others. This course is recommended for those who have little to no background in religious studies or theology and are hoping to teach JK-Grade 12.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Psychological Foundations of Education",
+        "numericCode": "100/1.0",
+        "courseCode": "FOUN",
+        "description": "This course introduces teacher candidates to the psychological foundations of education. It involves readings, lectures, group activities and presentations. Topics covered will include theories that relate to classroom teaching and an exploration of mental health issues as well as the role of educators in supporting student’s mental health. Resources for the course are available in Desire to Learn (D2L).",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Foundations of Assessment",
+        "numericCode": "101/1.0",
+        "courseCode": "FOUN",
+        "description": "This course introduces teacher candidates to the foundations of classroom assessment and evaluation. Students will engage in examining assessment theory, policy, and practice in relation to the current context of contemporary schooling. Emphasis will be placed on the intersection of assessment practices and principles of teaching and learning. Specifically, topics related to assessment for learning and assessment of learning will be covered in addition to assessment design and principles for fair student assessment.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Historical and Philosophical Foundations of Education",
+        "numericCode": "102/1.0",
+        "courseCode": "FOUN",
+        "description": "This course introduces teacher candidates to the study of history and philosophy of education. Students will have opportunities to interrogate contemporary educational structures and challenges in light of philosophical worldviews and positions, as well as historical continuities and changes. The course offers teacher candidates a space to consider how philosophy is a practical means of informing and guiding educational practice, and how the history of education serves to contextualize and problematize pedagogical practice.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/1.5 Experiences in Education Year 1 (Concurrent Year 1) (PJIS)",
+        "numericCode": "110",
+        "courseCode": "PRAC",
+        "description": "The equivalent of two full weeks in an elementary (K-8) setting (minimum 60 hours), including contact with a special needs student. The format is to be very flexible, but pre-planned. For example, candidates may choose to do a series of half-days, or two full-time weeks, or a combination of half-days, full-days and/or full weeks. Full-time weeks may be done during the fall or winter reading weeks, or (if necessary) at the end of the term in May, or a reasonable combination of these options. The placement must be completed in the same academic year.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/1.5 Experiences in Education Year 2 (Concurrent Year 2) (PJ)",
+        "numericCode": "210",
+        "courseCode": "PRAC",
+        "description": "The equivalent of three full weeks in an elementary (K-8) setting (minimum 90 hours) including contact with a special needs student. Candidates observe three students and prepare a sample simplified Individual Education Plan on one of the observed students, as well as plan and teach three lessons in a traditional classroom setting, or complete the equivalent planning and implementation in an alternative setting such as a school library or resource room. The format is to be very flexible but pre-planned. For example, candidates may choose to do a series of half days, or three full-time weeks, or a combination. Full-time weeks may be done during the fall or winter reading weeks, or at the end of the term in May, or a reasonable combination of any of these options. The placement must be completed in the same academic year.",
+        "prerequisite": "PRAC 110AB",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/1.5 Experiences in Education Year 2 (Concurrent Year 2) (IS)",
+        "numericCode": "211",
+        "courseCode": "PRAC",
+        "description": "The equivalent of three full weeks in a grade 7–12 setting (minimum 90 hours) preferably, with at least one class in a non-academic stream. Candidates observe three students and prepare an Individual Education Plan on one of the observed students, as well as plan and teach three lessons in a traditional classroom setting, or complete the equivalent planning and implementation in an alternative setting such as a school library or resource room. The format is to be very flexible but pre-planned. For example, candidates may choose to do a series of half days, or three full-time weeks, or a combination. Full-time weeks may be done during the fall or winter reading weeks, or at the end of the term in May, or a reasonable combination of any of these options. The placement must be completed in the same academic year.",
+        "prerequisite": "PRAC 110AB",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/1.5 Introduction to Schools Year 3 (Concurrent Year 3) (PJ)",
+        "numericCode": "310",
+        "courseCode": "PRAC",
+        "description": "The equivalent of three full weeks in an elementary (K-8) setting (minimum 90 hours), including contact with a special needs student. Candidates will plan and teach five lessons in a traditional classroom setting or complete the equivalent planning and preparation in an alternative setting such as a school library or resource room. Candidates incorporate strategies for accommodating students with special needs within their instructional plans and make reflections and suggested changes on their plans after instruction occurs. The format is to be very flexible but pre-planned. For example, candidates may choose to do a series of half-days, or three full-time weeks, or a combination of half-days, full-days and/or full weeks. Full-time weeks may be done during the fall or winter reading weeks, or (if necessary) at the end of the term in May, or a reasonable combination of these options. The placement must be completed in the same academic year.",
+        "prerequisite": "PRAC 210AB",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/1.5 Introduction to Schools Year 3 (Concurrent Year 3) (IS)",
+        "numericCode": "311",
+        "courseCode": "PRAC",
+        "description": "The equivalent of three full weeks in a grade 7-12 setting (minimum 90 hours), including a special needs component. Candidates will plan and teach five lessons in a traditional classroom setting or complete the equivalent planning and preparation in an alternative setting such as a school library or resource room. Candidates incorporate strategies for accommodating students with special needs within their instructional plans and make reflections and suggested changes on their plans after instruction occurs. The format is to be very flexible but pre-planned. For example, candidates may choose to do a series of half-days, or three full-time weeks, or a combination of half-days, full-days and/or full weeks. Full-time weeks may be done during the fall or winter reading weeks, or (if necessary) at the end of the term in May, or a reasonable combination of these options. The placement must be completed in the same academic year.",
+        "prerequisite": "PRAC 211AB",
+        "antirequisite": ""
+    },
+    {
+        "name": "Critical Issues and Policies in First Nations Classrooms",
+        "numericCode": "105/1.5",
+        "courseCode": "PROF",
+        "description": "(Aboriginal Teacher Education Community-Based students only)",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Self as Teacher",
+        "numericCode": "110/3.0",
+        "courseCode": "PROF",
+        "description": "Introduction to schools, teaching, and curriculum in their historical, political, social and philosophical context. Exploration of policy, practice and professional portfolios, with an emphasis on reflective and critical thinking.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/3.0 School and Classroom Leadership: In Pursuit of School Effectiveness",
+        "numericCode": "170",
+        "courseCode": "PROF",
+        "description": "The purpose of the School and Classroom Leadership course is to provide a platform to examine current initiatives to support the learning and achievement of all students.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "School Law and Policy",
+        "numericCode": "180/1.5",
+        "courseCode": "PROF",
+        "description": "This course, obligatory for all candidates seeking an Ontario Teacher’s Certificate, provides an overview of the legal aspects of teaching in Ontario. Attention is focused on the Education Act, R.S.O. 1990 and the Teaching Profession Act, R.S.O. 1990, and selected regulations supporting these statutes. Teacher candidates receive basic information about the legal duties of education personnel; the teacher’s contract of employment and related job security procedures; and the purposes, structure and practices of the teacher associations in Ontario.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Self as Learner",
+        "numericCode": "210/3.0",
+        "courseCode": "PROF",
+        "description": "An introduction to planning for learning for Primary-Junior, Intermediate-Senior, and Technological Education candidates. This course explores universal design for learning, literacy, and diversity, with an emphasis on the use of assessment and evaluation as supports for learning. The learning needs of exceptional learners and the use of equitable instruction will be highlighted. The portfolio will be used as an individual documentation of learning.",
+        "prerequisite": "PROF 110",
+        "antirequisite": ""
+    },
+    {
+        "name": "Self as Professional",
+        "numericCode": "310/3.0",
+        "courseCode": "PROF",
+        "description": "Introduction to professional judgement and decision making as it relates to the beginning teacher in the Primary-Junior and Intermediate-Senior divisions. Exploration of legal rights and responsibilities as professionals and reflection on and thinking critically about experiences in classrooms and host schools, adapting practices for exceptional learners and addressing equity issues faced in schools.",
+        "prerequisite": "PROF 210",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/1.5 Theory and Professional Practice (PJ)",
+        "numericCode": "410",
+        "courseCode": "PROF",
+        "description": "Focuses on connecting practicum experiences with on-campus learning and introduces the process of constructing and documenting professional knowledge. This course emphasizes understanding and improving teaching and learning and associated classroom practices.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "AB/1.5 Theory and Professional Practice (IS)",
+        "numericCode": "411",
+        "courseCode": "PROF",
+        "description": "Focuses on connecting practicum experiences with on-campus learning and introduces the process of constructing and documenting professional knowledge. This course emphasizes understanding and improving teaching and learning and associated classroom practices.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Supporting Learning Skills (PJ \u0026 IS)",
+        "numericCode": "500/1.0",
+        "courseCode": "PROF",
+        "description": "Introduction to learning skills and the supports teachers can use to advance, sustain and remediate skills such as those identified on the Ontario Provincial Report Cards. Responsibility, independent work, initiative, organization, collaboration, and self-regulation in current teaching and learning strategies are considered along with assessment and evaluation techniques.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Building a Professional Career as a Teacher (PJ \u0026 IS)",
+        "numericCode": "501/1.5",
+        "courseCode": "PROF",
+        "description": "During the final term of the 4-term preservice program, this course identifies the major features and issues of a teacher's professional career. Students will review their development as a teacher through the program and consolidate personal strategies for their on-going professional development. Topics will include teacher-student relationships, pedagogical principles, curriculum change, professional identity, professional collaboration, and school culture and community.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Introduction to Aboriginal Studies for Teachers (PJ \u0026 IS)",
+        "numericCode": "502/1.0",
+        "courseCode": "PROF",
+        "description": "This course will examine the history, culture, and diversity of Aboriginal Canadians. It will also introduce teacher candidates to the concept of culture-based education, and will aid them in finding ways to integrate Aboriginal perspectives into their classrooms. Finally, it will discuss the realities of life in Northern Canada.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Integrating Environmental Education in the Classroom (PJ \u0026 IS)",
+        "numericCode": "503/1.0",
+        "courseCode": "PROF",
+        "description": "Teacher candidates will explore how to integrate environmental education into all subject areas using two approaches: (a) personal awareness of natural history and natural systems and (b) critical analysis of the ways personal perceptions intersect with philosophical and theoretical frameworks of environmental education.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Educational Technology as a Teaching and Learning Tool (PJ \u0026 IS)",
+        "numericCode": "504/1.5",
+        "courseCode": "PROF",
+        "description": "This course will explore the integration of educational technology as a tool to support teaching and learning in K-12 classrooms. The range of topics will include Internet literacy and technologies that support student learning in various domains, group collaboration and personal expression. Particular attention will be paid to assistive technology and its use with special needs students. In small groups, participants will design technology-involved solutions to specific teaching and learning problems. Participants' technology-related presentation skills will be expanded through the creation of rich-media presentations of their design solutions.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Meeting the Needs of Learners",
+        "numericCode": "505/1.5",
+        "courseCode": "PROF",
+        "description": "This course brings together concepts, ideas and understandings introduced in practicum and on-campus learning, as well as thinking and practices initiated through such Ministry of Education documents as Learning for All; the School Effectiveness Framework; Growing Success; the First Nation, Metis and Inuit Education Policy Framework, and others. Candidates will deepen their understanding of Universal Design for Learning and Differentiated Instruction, as well as other practices, and improve their ability to plan and implement these kinds of approaches in order to respond to all their students and tailor their instruction appropriately.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "English Language Learners (IS)",
+        "numericCode": "506/3.0",
+        "courseCode": "PROF",
+        "description": "The diversity in Ontario's classrooms requires every teacher to know the policy and program implementation in supporting a fast growing student population of English Language Learners - both Canadian-born and newcomers from other countries including international students. This course is designed to explore the relationships between the learning of the English language and the learning of school contents through English in order to maximize learning in the classroom.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Transitions (IS)",
+        "numericCode": "507/1.5",
+        "courseCode": "PROF",
+        "description": "The transition from elementary to secondary school is an important and normative life event that affects different students in different ways. This course examines the many influences on a young person as they shift between elementary and secondary schools and the factors that facilitate or hinder successful transitions. Teacher candidates will explore the diverse that can be bridged by students, educators, parents, and communities to provide optimal opportunities for student success.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Teaching Grades 7 and 8 (IS)",
+        "numericCode": "508/1.5",
+        "courseCode": "PROF",
+        "description": "As teachers of Grades 7 and 8, you will be working with students who are going through a period of profound physical, social and intellectual change. The unique context of the Grade 7/8 classroom and the unique characteristics of the adolescent learner require that as a teacher of these grades, you apply specialized instructional content, and, pedagogical and dispositional strategies to achieve success with students. The purpose of the course is to help you to respond to the characteristics of the adolescent learner and provide you with strategies and resources to motivate and actively engage them in learning.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Theory of Aboriginal Education",
+        "numericCode": "201/3.0",
+        "courseCode": "EDST",
+        "description": "This course provides a background into the history and theory of Aboriginal Education. It will commence with a discussion of Aboriginal identities and approaches to education from the pre-contact era into the present, as well as Western approaches to education through the lens of Critical Race Theory. The course will then move to Aboriginal educational theory, including such topics as Aboriginal concepts of the person and the learner; teaching as ceremony; Aboriginal differentiated instruction; holistic learning; global Aboriginal identities; language and education; and education for decolonization.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Aboriginal Teacher Education",
+        "numericCode": "201/3.0",
+        "courseCode": "FOCI",
+        "description": "Prepares Aboriginal Teacher Education candidates to include Aboriginal curriculum as part of their classroom teaching. Explores Aboriginal community-based curriculum development; a review of current Aboriginal curriculum packages and other resources; curriculum planning and evaluation. An experiential learning approach with aspects of the course applied during the candidates' practice teaching rounds. Practicum experiences are explored during class sessions with such reflections providing the basis for further learning in the areas of curriculum planning and evaluation.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "The Artist in Society",
+        "numericCode": "222/3.0",
+        "courseCode": "EDST",
+        "description": "Intended to provide students in the Artist in Community Education track with experiences relevant to the professional practices of artists. Special attention is paid to the practical role that professional artists play in society including the management of their own professional affairs. Stresses broadening student experiences in the arts through exposure to a variety of visiting professionals.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Artist in Community Education",
+        "numericCode": "222/3.0",
+        "courseCode": "FOCI",
+        "description": "Candidates explore the interface between the artist and education. Issues associated with professional practice and the world of education in visual art, creative writing, drama and music are addressed. Investigations will be sufficiently flexible to meet the needs and interests of students in each of their specific disciplines.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Understanding the Principles and Programs in Outdoor and Experiential Education",
+        "numericCode": "260/3.0",
+        "courseCode": "EDST",
+        "description": "A study of the theories of experience-based education as derived from the literature and tested analyses of experiential practices and programs. A pedagogical understanding of both the theory and practice of designing innovative outdoor programs is explored through field work involving the ideas of ecological literacy. Emphasis is placed upon integrated subject matter. Also considered are the development, organization, operation and evaluation skills required to lead experiential-based programs in school systems.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "name": "Outdoor and Experiential Education",
+        "numericCode": "260/3.0",
+        "courseCode": "FOCI",
+        "description": "Prepares candidates for leading dynamic school and community based outdoor education as found in a variety of environmental contexts in all teaching subjects. Also considered are alternative experiential settings including museums, adventure programming, integrated learning, rehabilitation for special populations, expeditionary learning, alternative education, local project-based learning, and environmental education.",
+        "prerequisite": "",
+        "antirequisite": ""
+    }
+]

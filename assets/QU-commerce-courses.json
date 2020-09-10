@@ -1,0 +1,835 @@
+[
+   {
+      "name": "Business Management",
+      "numericCode": "103",
+      "courseCode": "COMM",
+      "description": "This course introduces students to the main functional areas of business and demonstrates how these areas interact to produce products and/or services in an economically viable manner. The course also assists students in developing an understanding of the modern corporate enterprise, in both the Canadian context and in a broader, global context. The primary pedagogical tool in COMM 103 is a computer-based management simulation. Through this simulation and complementary class activities, students gain a further understanding of the tasks, practices, and responsibilities of the modern manager.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Business Ethics and Corporate Social Responsibility",
+      "numericCode": "104",
+      "courseCode": "COMM",
+      "description": "This required second year course provides an introduction to the related fields of business ethics and corporate social responsibility.  It is also the first academic step towards achieving a Certificate in Social Impact. The course is designed to increase student awareness of the increasing importance of the ethical dimension of business.  It will enhance student understanding of the issues, standards and stakeholders involved.  It will also introduce ethical analysis and decision making processes, as well as the role of ethics in corporate governance and the need for an ethical corporate culture.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Business Communications",
+      "numericCode": "105",
+      "courseCode": "COMM",
+      "description": "This required first year course will enhance the student’s understanding of the importance of and transferability of professional written, oral, and technical communication skills. It will include communication theory supported by opportunities to apply knowledge and critical thinking in developing and honing communication skills. This course also will support the development of the student’s ability to apply hard and soft communication skills to other courses, extracurricular activities, job search, and ultimately, the workplace.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Introduction to Financial Accounting",
+      "numericCode": "111",
+      "courseCode": "COMM",
+      "description": "As the initial course in accounting, this course provides a foundation of accounting knowledge necessary to the fuller appreciation of many aspects of business. The structure of the process of accounting is studied, with particular emphasis on the use, interpretation, and communication of financial information.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Introduction to Finance",
+      "numericCode": "121",
+      "courseCode": "COMM",
+      "description": "This course provides students with a framework with which to analyze individual and corporate investment and financing decisions. We will introduce the notions of both time and risk to the valuation of individual securities, such as stocks and bonds, and to capital investments undertaken by corporations. Through this framework, we will gain an understanding of financial markets and the process by which companies make their investment decisions.",
+      "prerequisite": "COMM 111",
+      "antirequisite": ""
+   },
+   {
+      "name": "Introduction to Management Accounting",
+      "numericCode": "112",
+      "courseCode": "COMM",
+      "description": "An examination of the internal accounting model and related information systems designed to keep the manager informed for the purposes of planning and controlling the organization's operations.",
+      "prerequisite": "COMM 111. No more than one course from COMM 112 or COMM 212/612 or EMPR 280.",
+      "antirequisite": ""
+   },
+   {
+      "name": "Finance II",
+      "numericCode": "122",
+      "courseCode": "COMM",
+      "description": "This course expands the students' knowledge of finance by building on the concepts of valuation and corporate financial management introduced in Finance I. The course provides an introduction to basic derivatives securities, and looks in greater depth at corporate valuation, and corporate financial policy. The course aims to integrate financial theory into applications by gaining an understanding of topics such as convertible securities, real options, and corporate risk management.",
+      "prerequisite": "COMM 121/221",
+      "antirequisite": ""
+   },
+   {
+      "name": "Introduction to Marketing",
+      "numericCode": "131",
+      "courseCode": "COMM",
+      "description": "This course provides students with a knowledge of the concepts of marketing as well as an understanding of how these concepts are applied in the management of the firm. Specifically, the objectives are: to provide a working knowledge of the basic theories and concepts in marketing; to develop decision-making skills and abilities and to gain experience in developing marketing strategies and plans. The course is taught using a combination of lectures, discussions, case analysis, and exams.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Marketing II",
+      "numericCode": "132",
+      "courseCode": "COMM",
+      "description": "This course provides an overview of the foundations of superior marketing related to the preparation, execution, and support of marketing programs. Through the use of regional, national and global marketing case studies, students will practice the evaluation, formation and deployment of business-level marketing tactics geared to boosting market share, customer loyalty, and profits. Students will be provided with analytical frameworks enabling them to identify and innovatively resolve issues. A key emphasis in the course is understanding the powerful impact that marketing recommendations have on costs, price, sales volumes, product or service quality, and brand equity.",
+      "prerequisite": "COMM 131",
+      "antirequisite": ""
+   },
+   {
+      "name": "Organizational Behaviour",
+      "numericCode": "151",
+      "courseCode": "COMM",
+      "description": "This course introduces students to the study of human behaviour in organizations. The purpose is to provide a coherent account of the causes and consequences of organizational behaviour. Lectures, discussions, cases, and exercises will be used to broaden the students' understanding of working environments. Whenever possible, students' own employment experiences will be drawn upon as a basis for understanding the concepts discussed.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Managing Work and Teams",
+      "numericCode": "153",
+      "courseCode": "COMM",
+      "description": "The objective for this course is to provide incoming Commerce students with a conceptual understanding and applied knowledge related to managing work and creating effective project teams. Students in their first year of the Commerce program face significant personal change and will be required to accept responsibility for completing a number of course projects in teams. Therefore, learning how to achieve personal effectiveness, manage work (e.g., initiate, plan, and execute work), build positive team dynamics, and be an effective team member are extremely important. As fundamentals of project management will be covered in this course, students will earn contact hours required for Certified Associate of Project Management (CAPM) accreditation.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Introduction to Mathematical Analysis for Management",
+      "numericCode": "161",
+      "courseCode": "COMM",
+      "description": "This course is designed to enhance student ability to apply advanced mathematical techniques including: linear algebra, differential and integral calculus, optimization, probability theory and computer modeling to tackle a wide range of managerial problems. It is assumed that students have taken Ontario Grade 12 calculus or its equivalent.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Managerial Statistics",
+      "numericCode": "162",
+      "courseCode": "COMM",
+      "description": "This course develops students’ capabilities for analyzing and drawing conclusions from data. Course coverage will include probability, probability models, statistical inference, and a thorough grounding in simple and multiple regression. Topics will be illustrated with appropriate examples, many supported by spreadsheet methods.",
+      "prerequisite": "",
+      "antirequisite": "ECON 250, PSYC 202, STAT 162, STAT 163, STAT 263, and PHED 351"
+   },
+   {
+      "name": "Business Decision Models I",
+      "numericCode": "163",
+      "courseCode": "COMM",
+      "description": "This course deals with the application of deterministic mathematical models to management decision-making. Topics will include: the identification and formulation of decision models; the use of marginal analysis in basic problems of pricing and inventory control; the application of mathematical programming models in multivariate resource allocation; and the use of network models in transportation analysis, planning, and project management. Computer modeling and solution techniques will be discussed throughout the course, with emphasis on spreadsheet-based methods. A particular focus will be the interpretation and communication of model results.",
+      "prerequisite": "COMM 162 or STAT 263",
+      "antirequisite": ""
+   },
+   {
+      "name": "Managerial Economics",
+      "numericCode": "172",
+      "courseCode": "COMM",
+      "description": "This course covers the economic foundations of managerial decision-making.  Topics include supply and demand interactions, the theory of demand, decision-making under uncertainty, production and costs, price determination under perfect competition and monopoly, strategies for pricing with market power, monopolistic competition, oligopoly, game theory, asymmetric information, moral hazard, and incentive contracts. The course uses a variety of mathematical techniques, particularly algebra, and calculus.",
+      "prerequisite": "ECON 110 or (ECON 111 and ECON 112)",
+      "antirequisite": ""
+   },
+   {
+      "name": "Introduction to International Business",
+      "numericCode": "173",
+      "courseCode": "COMM",
+      "description": "The objective of this course is to provide students with foundational knowledge in the field of international business. This core international business course will ensure every Commerce graduate, regardless of specialization or career direction, has an understanding of the fundamentals of the international economic and trade environment, how companies organize and position themselves to compete internationally, and the cross-cultural skills required of international managers. This course provides a foundation for students to pursue more advanced international business electives, and to incorporate an international awareness in the analytical work they do for other courses.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Introduction to Human Resources Management",
+      "numericCode": "181",
+      "courseCode": "COMM",
+      "description": "This course is designed to provide students with an introduction to and understanding of the human resource management function in Canada in the early 21st century, focusing on the strategic importance of managing people in organizations. This course focuses on the role of individuals in creating dynamic, successful organizations by developing an understanding of how the principles and practices of human resource management help firms to attract, retain and develop its human capital, with due regard to the importance of human resource management for all managers in an organization, not just those who work in the functional area of human resources. In COMM 181, students consider their role as a manager in designing and facilitating contexts in which others can be successful, as well as are asked to assume the role of a manager making strategic decisions with legal, economic, and organizational ramifications.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Introduction to Digital Business and Technologies",
+      "numericCode": "190",
+      "courseCode": "COMM",
+      "description": "The objective of this course is to enable students to understand how organizational information systems that comprise digital technologies, business processes, data, and people can be leveraged in ways that generate business value. Conceptual models, simulations, business cases, and in-class exercises are used to enable students to learn about digital strategies and digital technologies and to develop hands-on skills in process modeling, data modeling, app development, and business intelligence.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Business Fundamentals",
+      "numericCode": "200",
+      "courseCode": "COMM",
+      "description": "This course will develop an appreciation of the role of the manager and business in society. It will discuss Canadian and global trends and issues - political, economic, technological, and ethical - that affect business and management. The course will introduce the student to the nature of the modern corporate enterprise, large and small, and begin the building of business analysis skills.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Business Fundamentals",
+      "numericCode": "600",
+      "courseCode": "COMM",
+      "description": "This course will develop an appreciation of the role of the manager and business in society. It will discuss Canadian and global trends and issues - political, economic, technological, and ethical - that affect business and management. The course will introduce the student to the nature of the modern corporate enterprise, large and small, and begin the building of business analysis skills.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Introduction to Business for Entrepreneurs",
+      "numericCode": "201",
+      "courseCode": "COMM",
+      "description": "This course introduces students to the language of business, as well as the main functional areas of business, and demonstrates how these areas interact to produce and market products and/or services in an economically viable manner.  An emphasis is placed on both strategic and tactical development and execution in entrepreneurial contexts. The course also assists students in developing an understanding of the nature of the modern entrepreneurial enterprise in Canadian and international contexts, and of the tasks, practices, and responsibilities of its leaders.  Of particular importance is the use of a capstone simulation - like the Capsim Strategy Simulation, but one geared towards entrepreneurial ventures - whose focus lies in the development and application of fundamental strategic management skills and financial analysis interpretation for decision-making purposes.  The approach of the course is to challenge students to strive to develop a base-level competency in business principles which they can effectively transfer to their future entrepreneurial venture.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Financial Accounting",
+      "numericCode": "211",
+      "courseCode": "COMM",
+      "description": "As the initial course in accounting, this course provides a foundation of accounting knowledge necessary to the fuller appreciation of many aspects of business. The structure of the process of accounting is studied, with particular emphasis on the use, interpretation, and communication of financial information.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Financial Accounting",
+      "numericCode": "611",
+      "courseCode": "COMM",
+      "description": "As the initial course in accounting, this course provides a foundation of accounting knowledge necessary to the fuller appreciation of many aspects of business. The structure of the process of accounting is studied, with particular emphasis on the use, interpretation, and communication of financial information.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Management Accounting",
+      "numericCode": "212",
+      "courseCode": "COMM",
+      "description": "An examination of the internal accounting model and related information systems designed to keep the manager informed for the purposes of planning and controlling the organization's operations.",
+      "prerequisite": "COMM 111/211",
+      "antirequisite": ""
+   },
+   {
+      "name": "Management Accounting",
+      "numericCode": "612",
+      "courseCode": "COMM",
+      "description": "An examination of the internal accounting model and related information systems designed to keep the manager informed for the purposes of planning and controlling the organization's operations.",
+      "prerequisite": "COMM 111/211",
+      "antirequisite": ""
+   },
+   {
+      "name": "Introduction to Finance",
+      "numericCode": "221",
+      "courseCode": "COMM",
+      "description": "The focus is on financial decisions of the firm and the consumer. The two main tasks of financial management, investment choices and financing choices, are examined with emphasis on separation of the investment decision and the owners' consumption decisions, on net present value in capital budgeting, and on capital structure. The course examines choices of portfolios by consumers and how these choices lead to equilibrium opportunity rates.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Introduction to Finance",
+      "numericCode": "621",
+      "courseCode": "COMM",
+      "description": "The focus is on financial decisions of the firm and the consumer. The two main tasks of financial management, investment choices and financing choices, are examined with emphasis on separation of the investment decision and the owners' consumption decisions, on net present value in capital budgeting, and on capital structure. The course examines choices of portfolios by consumers and how these choices lead to equilibrium opportunity rates.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Fundamentals of Marketing",
+      "numericCode": "231",
+      "courseCode": "COMM",
+      "description": "This course provides students with a knowledge of the concepts of marketing as well as an understanding of how these concepts are applied in the management of the firm. Specifically, the objectives are: to provide a working knowledge of the basic theories and concepts in marketing; to develop decision making skills and abilities and to gain experience in developing marketing strategies and plans. The course is taught using a combination of lectures, discussions, case analyses, student presentations, and exams.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Fundamentals of Marketing",
+      "numericCode": "631",
+      "courseCode": "COMM",
+      "description": "This course provides students with a knowledge of the concepts of marketing as well as an understanding of how these concepts are applied in the management of the firm. Specifically, the objectives are: to provide a working knowledge of the basic theories and concepts in marketing; to develop decision making skills and abilities and to gain experience in developing marketing strategies and plans. The course is taught using a combination of lectures, discussions, case analyses, student presentations, and exams.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Organizational Behaviour",
+      "numericCode": "251",
+      "courseCode": "COMM",
+      "description": "This course introduces students to the study of human behaviour in organizations. The purpose is to provide a coherent account of the causes and consequences of organizational behaviour. Lectures, discussions, cases and exercises will be used to broaden the students' understanding of working environments. Whenever possible, students' own employment experiences will be drawn upon as a basis for understanding the concepts discussed. ",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Organizational Behaviour",
+      "numericCode": "651",
+      "courseCode": "COMM",
+      "description": "This course introduces students to the study of human behaviour in organizations. The purpose is to provide a coherent account of the causes and consequences of organizational behaviour. Lectures, discussions, cases and exercises will be used to broaden the students' understanding of working environments. Whenever possible, students' own employment experiences will be drawn upon as a basis for understanding the concepts discussed. ",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Funding New Ventures",
+      "numericCode": "301",
+      "courseCode": "COMM",
+      "description": "This course provides a detailed examination of the fundamentals of a financing strategy for new ventures, and the specific financing alternatives for obtaining capital to launch new ventures. The financing alternatives include crowdfunding, angel investing, and venture capital, and thus cover the entire financing spectrum from start-up to growth capital.",
+      "prerequisite": "COMM 201 or COMM 305.",
+      "antirequisite": ""
+   },
+   {
+      "name": "Launching New Ventures",
+      "numericCode": "302",
+      "courseCode": "COMM",
+      "description": "This course will focus on the specific commercial activities required to launch new ventures into industrial markets. Students will gain an understanding of how to size-up industrial markets, apply lean principles to the new customer development process, align early-stage demand generation activities with industrial buyer behavior, and implement best practices to acquire, retain and grow their first industrial customers. This course will make extensive use of cases both historical and ideally from the Living Case Initiative. This course will complement COMM 405.",
+      "prerequisite": "COMM 201 or 305",
+      "antirequisite": ""
+   },
+   {
+      "name": "Business and Ethics",
+      "numericCode": "303",
+      "courseCode": "COMM",
+      "description": "Business ethics is increasingly important as expectations of corporate social responsibility keep rising, as do negative consequences for failing those expectations.  Public, institutional, regulatory and government pressures mean decisions on business ethics can now determine corporate and career survival.  This advanced course on business ethics builds on the introductory Business Ethics and Corporate Social Responsibility course in second year and is a credit toward the Certificate in Social Impact.  The course will go into depth in critical areas such as professional ethics, moral standards, stakeholder management, decision models and designing ethics programs to achieve an ethical workplace and corporate social responsibility objectives.  A number of critical issues will be explored in depth.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Organizational Intelligence and Strategy",
+      "numericCode": "304",
+      "courseCode": "COMM",
+      "description": "This course examines how firms organize for intelligence. It proceeds through sessions that examine how firms overcome organizational constraints to (a) sensing problems, interpreting signals, selecting among alternative products and locations (Module 1: Sensing), (b) integrating new resources, coordinating across functions, re-configuring operations (Module II: Organizing), and (c) developing competencies, culture, and identity (Module III: Building). The course is interactive and uses a combination of cases, lectures, and team interactions. The course is expected to complement other existing courses in strategy and advance students' understanding of how context matters in strategy, and how firms deal with conflict, complexity, and ambiguity while formulating and implementing their strategies.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Introduction to Entrepreneurship",
+      "numericCode": "305",
+      "courseCode": "COMM",
+      "description": "The course introduces students to small business, what it means to be an entrepreneur, and the concepts of entrepreneurship. Key assignments in the course include a simulation exercise, first hand interaction with entrepreneurs, and an opportunity assessment (the pre-cursor to a business plan).",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Canadian Business-Government Relations",
+      "numericCode": "307",
+      "courseCode": "COMM",
+      "description": "This course is an analysis of public policies as represented by laws and regulatory governmental activities, and their effects on business decision-making, distribution of wealth, and allocative efficiency in the public and private sectors. The course will deal with such topics as: externalities and the assignment of property rights (natural resource conservation, pollution, congestion, issue of corporate social responsibility); theories of the regulatory process and the performance of regulatory agencies in specific markets; legislative process and lobbying strategies; competition policy; marketing boards; government assistance to failing firms; Canadian industrial strategy; public ownership; free trade, etc.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Real Estate Management",
+      "numericCode": "309",
+      "courseCode": "COMM",
+      "description": "Real Estate is now the largest asset class in the world. This course seeks to provide students with a general understanding of real estate from the perspective of the manager, investor, or developer.  The concepts of development, valuation, finance and law as they pertain to real estate are introduced, providing the foundation for further study or career paths in the field.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Intermediate Management Accounting",
+      "numericCode": "312",
+      "courseCode": "COMM",
+      "description": "This second course in management accounting emphasizes the accounting concepts and analytical tools that are useful in planning and controlling organizational activity and in management decision-making. The principal costing systems and the related problems of cost estimation and cost allocations will be studied in greater depth than in the introductory course. A mixture of problem-solving exercises, discussion questions, cases, and readings may be employed.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Financial Accounting Practices, Principles and Concepts",
+      "numericCode": "311",
+      "courseCode": "COMM",
+      "description": "This is the first of two courses that constitute intermediate financial accounting. In these courses, generally accepted accounting principles and the basic assumptions underlying financial accounting decisions are examined in detail. Specific topics in this course include the Statement of Cash Flows, receivables, short- and long-term investments, and tangible and intangible capital assets.",
+      "prerequisite": "COMM 111 or COMM 211",
+      "antirequisite": ""
+   },
+   {
+      "name": "Financial Accounting II",
+      "numericCode": "313",
+      "courseCode": "COMM",
+      "description": "This course is a continuation of COMM 311. Specifically, this course examines the theoretical underpinnings and accounting decision-making related to such topics as long-term debt, pensions, leases, complex financial instruments and accounting for income taxes. IFRS and its implications play an important part of the discussion in every topic.",
+      "prerequisite": "COMM 311",
+      "antirequisite": ""
+   },
+   {
+      "name": "Income Taxation",
+      "numericCode": "319",
+      "courseCode": "COMM",
+      "description": "Taxes and business decisions interact with each other, affecting managers personally as well as the firms they work for. The main theme of the course is that managerial tax planning is part of the practice of management; it is part of the question of how to set up a business and chart its investment, financing and compensation strategies. The objective is to apply this perspective to domestic and international topics such as the choice of business entities, tax arbitrage, financial markets, compensation planning, business combinations, foreign investment and personal tax planning.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Auditing",
+      "numericCode": "317",
+      "courseCode": "COMM",
+      "description": "This course examines the conceptual and analytical foundations of audit practice. It covers the role of the public accountant, the type of services provided, and the importance of good judgment. The course takes students through the process of a financial statement audit. Specific topics include audit objectives, ethics and the code of conduct, audit planning and reporting, internal control, materiality and risk, statistical sampling, analytical review, and audit testing.",
+      "prerequisite": "COMM 311",
+      "antirequisite": "",
+      "corequisite": "COMM 401"
+   },
+   {
+      "name": "Derivative Securities",
+      "numericCode": "321",
+      "courseCode": "COMM",
+      "description": "This course explores derivative securities and their applications as risk management and yield enhancement tools for financial institutions and non-financial corporations. We develop the key relationships of derivatives and valuation (the cost-of-carry model, risk neutral valuations, binomial trees, and the Black-Scholes model). We extend the option-pricing framework to the valuation of real options. We analyze standard derivatives (futures, forwards, FRA's, swaps, stock options) as well as more recent ones such as exotic options and credit derivatives. We explore best practices in the area of market and credit risk management and address topical issues pertaining to the use of derivatives, including capital requirements for regulated financial institutions and strategic issues associated with corporate risk management. This course is designed for students aiming to pursue a career in investment banking, consulting, or in the non-finance corporate sector.",
+      "prerequisite": "COMM 121/221",
+      "antirequisite": ""
+   },
+   {
+      "name": "Corporate Financial Planning",
+      "numericCode": "323",
+      "courseCode": "COMM",
+      "description": "This course emphasizes the practical application of financial management principles using case studies. It is expected that students will learn how to identify and analyze key corporate financial planning/policy decisions by incorporating the insights provided by theory into their analysis of actual case histories. The application of the theoretical conclusions, and their modification to take account of features of the actual business environment or to explain observed behaviour, will be stressed throughout the course. The course will cover such topics as corporate goals, the roles of financial officers, the valuation of public and private corporations, financial analysis and pro forma financial statement forecasting, credit analysis, bank borrowing and other forms of short-term financing, optimal capital structure, raising new long-term capital (designing, pricing, placing, timing, and hedging new security issues), the cost of capital, capital budgeting decisions (including the analysis of mergers, acquisitions, leveraged buyouts, and divestitures).",
+      "prerequisite": "COMM 121 or COMM 221",
+      "antirequisite": ""
+   },
+   {
+      "name": "Advanced Corporate Finance",
+      "numericCode": "322",
+      "courseCode": "COMM",
+      "description": "This course is an advanced undergraduate course in corporate finance. The course will cover corporate finance topics at a deeper level, notably by using basic game theory and basic contract theory. It will also introduce new topics such as real options, financial constraints, and corporate governance. It is also recommended that students have the capacity for mathematical reasoning and a basic knowledge of regression analysis. Students will be expected to master the tools needed by practitioners in corporate finance; to understand simple mathematical models underlying corporate finance theories; and to have learned lessons from case studies and empirical studies.",
+      "prerequisite": "COMM 121/221 and (COMM 172 or ECON 212)",
+      "antirequisite": ""
+   },
+   {
+      "name": "Investment and Portfolio Management",
+      "numericCode": "324",
+      "courseCode": "COMM",
+      "description": "The course covers such topics as equity valuation, market efficiency, market anomalies, portfolio analysis and international diversification. Attention will also be focused on bond valuation, interest rate theories, and bond investment strategies. Derivative securities such as options and futures will be introduced. The course will also address the evaluation of the investment performance of individuals and investment management institutions. Applications of the various theories will be explored through course assignments and through class discussions of current events.",
+      "prerequisite": "COMM 121 or COMM 221",
+      "antirequisite": ""
+   },
+   {
+      "name": "Private Equity",
+      "numericCode": "326",
+      "courseCode": "COMM",
+      "description": "Private equity (PE) plays an important role as an intermediary between investors and firms. Private equity funds are also an important investment alternative for institutional investors such as pension funds and sovereign wealth funds. The purpose of this class is to introduce students to private equity and provide them with practical tools that will help them understand, value and structure typical transactions in this sector. The course will have two central themes. The first theme will introduce students to the spectrum of different types of private equity firms from institutional investors to dedicated specialist firms. The focus will be on developing a familiarity with the types of transactions considered by private equity funds, how to structure them and measure the value added to the portfolio firm. This part will take students through the stages of PE investments from finding a target, to due diligence, deal pricing and structuring, ownership, preparation for exit and exit. The second theme will address the unique challenges currently facing these funds, including measuring private equity fund performance, and how private equity funds realize their returns through distributions and exit. The course will be applied in nature and focus on specific cases. Cases will be the main teaching tool, with lectures and guest speakers to provide economic fundamentals and institutional context. Approximately 50% of the cases will be developed internally with Smith Alumni at a large Private Equity firm who will provide funding for course development and detailed data on specific transactions in their portfolio. The Private Equity firm will also provide access to the individuals who worked on the transactions for supporting material in the form of video interviews of the main participants.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "International Finance",
+      "numericCode": "328",
+      "courseCode": "COMM",
+      "description": "This course focuses on the financial issues that managers confront in an international setting and develops a framework for evaluating the many opportunities, costs, and risks associated with multinational operations. The course employs cases extensively to provide students with a detailed and analytic look at investment and financial decisions undertaken by multinational firms. Topics covered include: determination of exchange rates; foreign exchange market; relationships among inflation rates, interest rates \u0026 exchange rates; currency futures, options \u0026 swaps; international investing; foreign exchange exposure; hedging exchange risk; and cross-border valuation.",
+      "prerequisite": "COMM 121 or COMM 221",
+      "antirequisite": ""
+   },
+   {
+      "name": "Marketing Research",
+      "numericCode": "332",
+      "courseCode": "COMM",
+      "description": "This course is designed to provide students with an understanding of the marketing research process, its uses, limitations and biases. Students should acquire problem-analysis skills and learn to translate a management problem into a marketing research question. Students will learn about the advantages and limitations of various research methods, both qualitative (e.g. focus groups, observation, ethnography) and quantitative (e.g. surveys, experiments), and how to appropriately deploy them in a hands-on practice of marketing research. The ability to work well in teams and apply concepts learned in readings and in class to real-world research problems will substantially contribute to a student's success in this class.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Marketing Strategy",
+      "numericCode": "333",
+      "courseCode": "COMM",
+      "description": "This course provides students with the tools to plan and implement a competitively superior marketing strategy. Developing such strategies involves a comprehensive analysis of a firm’s customers, products, competitors, markets, resources and technology. Students will learn how to develop product/market objectives, to select markets in which the firm can operate with competitive advantage, and how to develop marketing mix tactics based upon the desired strategic vision objectives. This course examines issues such as evaluating opportunities in international markets, understanding consumer behaviour in diverse markets, strategies for entering international markets, and growing global brands. Students are exposed to the decisions faced by global marketing managers with the aim of developing frameworks coordinating strategies in world markets.",
+      "prerequisite": "COMM 131 or COMM 231 or COMM 132",
+      "antirequisite": ""
+   },
+   {
+      "name": "Management of Financial Institutions",
+      "numericCode": "329",
+      "courseCode": "COMM",
+      "description": "This course examines the goals, roles, and structure of financial intermediaries and the growth, financial, risk management, and marketing decision problems facing the managers of these institutions. For the most part, the course will take the viewpoint of the managers of the various kinds of financial institutions and concentrate on developing frameworks and solution procedures for the decision problems facing them. The use of derivative securities to hedge financial intermediary and corporate risk will be covered extensively in the second half of the course. The course will consist of a blend of lectures, readings, and case analysis, and it will emphasize the practical application of financial analysis tools and techniques. The descriptive material in the early part of the course, and all the case analysis, will focus on Canadian financial institutions and markets, such that students who expect never to work in Canada may find the course content less pertinent to their careers.",
+      "prerequisite": "COMM 121 or COMM 221",
+      "antirequisite": ""
+   },
+   {
+      "name": "Marketing Communications",
+      "numericCode": "335",
+      "courseCode": "COMM",
+      "description": "This course provides an introduction to the topics of interest in the theory and practice of integrated marketing communications. Beginning with a basic understanding of the communication process, we address effective communication and creative strategy. We also examine strategies of integration across marketing communication elements, including traditional media advertising, internet and interactive advertising, direct, experiential, and word-of-mouth marketing, sales promotion, and public relations. Additional topics include efficiency in media planning, and the effects and effectiveness of advertising and communication. This course will introduce you to all topics necessary to design a complete integrated marketing communications campaign plan.",
+      "prerequisite": "COMM 131",
+      "antirequisite": ""
+   },
+   {
+      "name": "Marketing Ethics",
+      "numericCode": "338",
+      "courseCode": "COMM",
+      "description": "This course is designed to give students the opportunity to examine multiple perspectives related to the ethical implications of marketing decisions and strategies. Using current topics in the media, case studies and research projects, students will explore, discuss and debate the ethical dilemmas that face marketing practitioners and society at large. The course has the three major objectives of encouraging students to 1) develop a broad-based perspective on marketing’s role in society; 2) develop an informed perspective on ethical issues within marketing; and 3) to learn how to incorporate ethics and social responsibility as a part of decision-making practice and processes. Topics to be discussed include social marketing and entrepreneurship; ethics in advertising (e.g. deception/puffery advertising to vulnerable populations); ethical issues related to production, distribution and pricing; and volunteerism, philanthropy and non-profit marketing. This course is designed for individuals with a focus on marketing, but is open to others with an interest in the issues of ethics and corporate social responsibility.",
+      "prerequisite": "COMM 131/231",
+      "antirequisite": ""
+   },
+   {
+      "name": "Consumer Behaviour",
+      "numericCode": "336",
+      "courseCode": "COMM",
+      "description": "The broad goal of the course is to help students think critically about the assumptions implicit in many marketing decisions, enabling them to apply relevant theories of consumer behaviour to make better strategic marketing decisions. This course helps marketers understand who buys what, how, and why, providing a framework for thinking about how marketing decisions relate to theories of consumer behaviour. Through readings, cases, discussions, and hands-on marketing research, students will explore issues related to the various factors that influence consumers, their market-related knowledge, brand choices and relationships, social and self identities, lifestyle patterns, decision making, and behavioural processes.",
+      "prerequisite": "COMM 131/231",
+      "antirequisite": ""
+   },
+   {
+      "name": "Channels and Internet Marketing",
+      "numericCode": "339",
+      "courseCode": "COMM",
+      "description": "Marketing via the Internet channel is constantly impacting how businesses, entrepreneurs, public sector agencies, and not-for-profit organizations interact with clients, stakeholders and channel partners. This course exposes students to materials and issues such as Internet retailing; search engine optimization (SEO); B2C and B2B marketing tactics; social media marketing; Internet consumer behavior; website design and management; integrating Internet channel tactics into the overall strategic marketing plan; international Internet marketing issues; and Internet promotion and advertising.",
+      "prerequisite": "COMM 132",
+      "antirequisite": ""
+   },
+   {
+      "name": "Operations Management",
+      "numericCode": "341",
+      "courseCode": "COMM",
+      "description": "In order to deliver products and services to customers, an organization must organize its operations in an effective and efficient manner. This course develops skills in operations management by integrating material across functional areas, introducing new managerial concepts and applying rigorous problem solving techniques. Topics such as process improvement, quality management, supply chain management, and project management are considered for manufacturing and service firms.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Strategic Service Management",
+      "numericCode": "343",
+      "courseCode": "COMM",
+      "description": "The majority of customers experience mediocre service on a regular basis, according to numerous studies, yet many of these service providers remain unfocused on customers, or struggle to understand the needs of these customers.  In this course, we apply proven service strategies associated with the operation, and more importantly, the improvement and differentiation of a service organization.   ",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Forecasting and the Business Environment",
+      "numericCode": "350: The Future",
+      "courseCode": "COMM",
+      "description": "Most organizations make or buy explicit predictions of the environment within which they expect to be operating. They serve as a basis for planning and control. These organizations are trying to identify, understand and influence changes that are occurring in the local, national and international economic, political and social environments, as well as in their own organization. The course examines the theoretical and historical origins of forecasting, and discusses the approaches used to make and assess predictions in the short- to medium-term. The emphasis is on the practical application of forecasting methods.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Leadership",
+      "numericCode": "351",
+      "courseCode": "COMM",
+      "description": "This seminar style course examines the practice and impact of leadership in organizations and communications as we enter into the 21st century. The evolvement of leadership from the command and control style to the more recent transformation authentic, will be examined in a variety of settings as described in both popular and academic writings on leadership. The impact of leadership will be assessed by research on whether and how individuals make a difference. The course also examines emerging trends in leadership in the 21st century. Texts and readings, exercises and team projects will be utilized.",
+      "prerequisite": "COMM 151 or COMM 251",
+      "antirequisite": ""
+   },
+   {
+      "name": "Managing Across Cultures",
+      "numericCode": "353",
+      "courseCode": "COMM",
+      "description": "Managing across cultures and international assignments have become necessities in today’s global business environment. As a result, it is imperative that managers understand cultural differences, know which management practices are transferrable across cultures, and are able to effectively manage their own international assignments, as well as those of others. Therefore, the purpose of this course is to provide students with this understanding and know-how. The course material includes topics such as cultural profiling, multicultural team management, establishing and managing international assignments, managing one’s own international assignment, as well as communicating and ethical decision-making across cultures. Students will also study the cultures, management practices and business environments of various countries, including Canada, China, France, Japan, the USA, among others. In doing so, students will examine the success and failures in these countries of some of the world’s leading companies, such as McDonald’s and The Walt Disney Company. Furthermore, as part of a multicultural team, students will have the opportunity to select and study a country that interests them most.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Diversity and Inclusion in Organizations",
+      "numericCode": "356",
+      "courseCode": "COMM",
+      "description": "This course studies diversity and difference in the workplace, and emphasizes the importance of equity and inclusivity in modern organizations. It examines individual and organizational experiences of social identity and intersecting identities in contemporary society. Students will study multiple facets of gender diversity (including gender, gender identity and expression, and sexual orientation), as well as other dimensions of diversity (including race, ethnicity, age, religion, and class). Students will become familiar with demographic trends in today’s organizations, related employment law, best practices for hiring and promotion in order to maintain and leverage benefits of organizational diversity, theories and research on how gender and diversity affect organizational interaction and performance, and ongoing issues involved in managing diversity within organizations. Classes are discussion-focused and assignments are designed to help students build informed opinions that incorporate systematic research and evidence on the topic of gender and diversity in organizations. The course will help students grow comfortable discussing, addressing, and managing issues of gender and diversity in their careers and organizations. Students are expected to bring a high level of maturity, sensitivity, and critical thinking to the course.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Interpersonal Skills for Managers",
+      "numericCode": "357",
+      "courseCode": "COMM",
+      "description": "This course is the practical application of organizational behaviour and human resource management knowledge to the effective and productive management of people and relationships at work. It provides a practical supplement to COMM 151 and COMM 181. The objective of this course is to further develop interpersonal skills crucial to any manager's role, including self-awareness, stress and time management, creativity and problem-solving, and conflict management. This course is highly experiential in nature.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Managing Human Capital",
+      "numericCode": "358",
+      "courseCode": "COMM",
+      "description": "In COMM 358 we take a high-level, strategic perspective on how to best plan, organize, develop, and manage talent to achieve organization objectives. Students will study how the strategic management of people supports the execution of strategy and the overall success of an organization. We will examine organization design and culture, factors influencing attraction, engagement, and retention of talent, as well as the evidence, techniques, and best practices for human capital development and management in an organization. We review some strategic organization decisions and their effects on the workforce, including outsourcing, restructuring, and merger and acquisition activities. Underlying these topics are the following themes set in a context of change and transformation of organizations: evidence-informed, ethical decision-making; the evaluation of HR alternatives and decisions; the impacts of decisions on people in organizations. This course will be applicable for those interested in careers in human capital or management consulting, organization development, and human resources, as well as those interested in understanding the strategic management of people in organizations more broadly. ",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Advanced Business Decision Modeling",
+      "numericCode": "365",
+      "courseCode": "COMM",
+      "description": "This course builds on the foundations of data analysis and decision modeling set in COMM 162 and COMM 163. The emphasis in this course is advanced managerial decision making under uncertainty. Topics include stochastic inventory control, waiting-line models, computer simulation modeling, risk and decision analysis, forecasting models, revenue management, and dynamic pricing. Computer spreadsheets will be used extensively, and a particular focus will be the interpretation and communication of model results from the viewpoint of decision makers.",
+      "prerequisite": "COMM 162 and COMM 163",
+      "antirequisite": ""
+   },
+   {
+      "name": "Business Communications in North America",
+      "numericCode": "370",
+      "courseCode": "COMM",
+      "description": "The course emphasizes the norms for written and oral communication skills required for success in a North American business environment. Discussion of theoretical readings is framed by frequent cross-cultural comparison and team-based work to enhance learning. The course also uses an applied methodology wherever possible to help students practice and adapt their skills to the business culture in North America. In addition, students are introduced to North American models of learning such as formative assessment, peer review, and reflective practice.",
+      "prerequisite": "permission from the Centre for International Management",
+      "antirequisite": ""
+   },
+   {
+      "name": "International Negotiations",
+      "numericCode": "373",
+      "courseCode": "COMM",
+      "description": "This course requires the application of cumulative knowledge of functional areas and international business to negotiation situations. It will introduce: current thinking and research on negotiating; exploring the different aspects of international negotiations, including planning, the effect of culture on negotiating styles, and managing the process. It will concentrate on developing international negotiating awareness and skills through the use of international negotiation exercises, simulations and cases. The focus will be on both the personal level (honing your own negotiating skills and awareness) and the corporate level (analyzing the factors that are important to companies in international negotiations, planning and implementing complex negotiations).",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "International Business Strategy",
+      "numericCode": "374",
+      "courseCode": "COMM",
+      "description": "International Business Strategy explores the key strategic questions firms face when entering international markets, and competing in the global economy. We focus on how globalization affects the strategic management of companies, and what you as managers need to do to compete successfully in the international environment. This course uses practical business cases on firms from around the world to simulate discussion and illustrate fundamental international strategy concepts.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "International Business",
+      "numericCode": "375",
+      "courseCode": "COMM",
+      "description": "This course introduces students to the relevant non-market actors that affect the international business environment and provides a broad range of theoretical frameworks for understanding and shaping their motivations, capabilities and strategies. Topics will include the international trading environment, political and country risk analysis, the motivations of national governments, international and national regulators, and the interaction of firms with government, industry and lobby groups. In covering a wide range of topics, this course favors breadth over depth. The course primarily draws on readings from lecture notes, lectures, class room discussion and debate.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Doing Business in the Asia-Pacific Rim",
+      "numericCode": "376",
+      "courseCode": "COMM",
+      "description": "The Asia-Pacific Region has emerged as an enormous economic force comparable in significance to the United States and Europe, a growing mass of middle-class Asian consumers have been added to the world economy, and a dynamic breed of Asian companies have joined the league of multinationals. However, multinationals entering the Asia-Pacific Rim countries must realize that the competitive environments, socio-political institutions, cultural norms and business practices in the Asia-Pacific region are markedly different from those in Western industrialized countries. The main objectives of this course are to identify such differences and to analyze the impact of these differences on the strategies of multinational companies. Topics include: historical contexts, the role of the state, government-business relationships, inter-business networks, institutional and economic reforms, market competitions, consumer tastes, and business etiquettes.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Business Law II",
+      "numericCode": "382",
+      "courseCode": "COMM",
+      "description": "This course expands upon the material from Business Law I (an introduction to common law, specifically the law of tort and contracts). COMM 382 is concerned primarily with the law and regulation relating to specific business activities (sales, marketing, leasing and bailment) and business relationships (business organizations, agency and credit relationships). Other topics which may be addressed include intellectual property, ownership of real property, insurance and employment law.",
+      "prerequisite": "COMM 381",
+      "antirequisite": ""
+   },
+   {
+      "name": "Business Law I",
+      "numericCode": "381",
+      "courseCode": "COMM",
+      "description": "Since legal considerations enter into nearly all business transactions and influence most important managerial decisions, owners and managers of business firms make their economic choices and take actions within the general framework of law and jurisprudence. While government and business exert a powerful influence on each other, the judge–made common law of contract is the basic law governing not only business activities but dealings between persons in society. This course will explore the Canadian legal infrastructure and context, and the laws of tort and contract – the two most important private law doctrines. Students will not only learn a cursory understanding of the law, but also a framework for solving legal problems as business people or professionals. This course is one of the Chartered Professional Accounting (CPA) requirements.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Topics in Industrial Relations",
+      "numericCode": "389",
+      "courseCode": "COMM",
+      "description": "This course provides the student with an opportunity to do independent research on some problem area in the labour and employee relations field. Topics vary to suit particular student interests but are centered in the following areas: the management of technological change and job displacement; the economic and behavioural implications of the shorter work week and of worker participation in management; job attitudes, job satisfaction, labour turnover, and productivity; various aspects of public and wage-price policy, labour law, and arbitration.",
+      "prerequisite": "COMM 181",
+      "antirequisite": ""
+   },
+   {
+      "name": "Negotiation Theory and Behaviour",
+      "numericCode": "385",
+      "courseCode": "COMM",
+      "description": "Negotiation is part of everyday life in organizations, whether negotiating with customers, clients, suppliers, co-workers or even the boss. The purpose of this course is to introduce students to theory and research on negotiations with an emphasis on the social, behavioural, and decision-making processes. Negotiations will be studied in a variety of settings ranging from simple buyer-seller negotiations to multi-party, multi-issue, cross-cultural negotiations. In addition to the fundamentals of integrative and distributive bargaining, special topics may include ethics, gender, power, emotions, technology, and the use of agents. The course also includes a practical component in that students participate in simulations, exercises, and case analysis designed to develop their negotiating skills as well as their understanding of negotiation processes.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Coding Literacy for Managers",
+      "numericCode": "394",
+      "courseCode": "COMM",
+      "description": "A key development in today's digital business environment is that more and more organizations are empowering business professionals to build and deploy dynamic digital solutions for their customers. Because business professionals are intimately involved with the business units, business processes, and customers, they are in a unique position to deliver highly customized applications that match their unique organizational needs. In this course, students will learn the fundamentals of systems thinking and coding in order to be able to rapidly build and deploy customer- and employee-centric apps. The course teaches students how to build digital solutions using a combination of tools including no code (e.g., data analytics in Excel), low code (e.g., visual app development platforms such as Salesforce), and code (e.g., JavaScript, Python). The course topics include computational thinking programming tools, communicating with business applications (API and Webservices), solving business problems with programming, and coding for an agile business.",
+      "prerequisite": "COMM 190",
+      "antirequisite": ""
+   },
+   {
+      "name": "Digital Strategy \u0026 Transformation",
+      "numericCode": "395",
+      "courseCode": "COMM",
+      "description": "The objective of this course is to help students understand critical management concepts and frameworks related to digital business strategy, innovation, and transformation. As organizations move toward a digital reality (more natural and intuitive ways for technology to better organizations, individuals and society), creation of new business models and approaches are essential. This course will examine how companies such as Uber and Netflix are disrupting existing business models and ushering in unprecedented convergence of people, business and things. For many organizations, \"going digital\" is imperative to long-term viability and the need to acquire and develop digital capabilities is essential. This course will give students knowledge and frameworks related to digital transformation, systems thinking and digital leadership as well as an understanding of movements in the technology industry that are influencing change toward a more digital approach to business.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Business, Government and the Global Economy",
+      "numericCode": "398",
+      "courseCode": "COMM",
+      "description": "In an era of globalization and crises, international business is argued to be characterized by total competition. Managers are certainly expected and are required to be fluent in market strategies such as competing on cost, differentiation, etc. However, managers must also be fluent in understanding, anticipating and shaping the workings of the “visible hands” of governments and international institutions. This is particularly important because the global economic system has undergone tremendous stress over the past three years. This course explores how the global economy works via the in-depth examination of the various “systems” that govern it – the systems of energy, finance, trade, and government-business relations. The course develops frameworks, tools, and concepts from various disciplines – business strategy, economics, political science, philosophy – that will help new managers meet the non-market challenges they will inevitably face. It is heavily case and discussion based and looks at the practical application of the concepts discussed. COMM 375 would be an ideal, though not absolutely necessary, prerequisite.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Business and Corporate Strategy",
+      "numericCode": "401",
+      "courseCode": "COMM",
+      "description": "This course focuses on the functions and responsibilities of top executives in managing the entire enterprise rather than any specific functional area (marketing, finance, accounting, etc.). Students will be introduced to the literature in the field of strategic management and will learn various theoretical models and frameworks for effective formulation and implementation of corporate and business level strategies. The major purpose of this course is to enable students to identify various internal and external sources of competitive advantage and to develop strategy that builds on those advantages to create superior value for customers. Students will have an opportunity to apply various analytical tools and techniques to business simulations and case studies drawn from firms competing in a wide range of industries.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "New Business Development",
+      "numericCode": "405",
+      "courseCode": "COMM",
+      "description": "The focus of this course is to provide students with the knowledge, skills, and tools that form the basis required to identify, analyze, plan, and execute a new venture activity. It also provides a depth of understanding of the practical realities of new ventures and growing a small business. This course requires a high degree of self-study as the major project involves the detailed analysis, planning and presentation of a business plan for a new venture proposal. Students are expected and encouraged to use this course to assess and plan actual new venture opportunities that they may seriously consider. Guest speakers, cases and concepts will be utilized to allow the student to better understand the exciting and challenging realities of entrepreneurship and managing new ventures.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Social Impact and Innovation",
+      "numericCode": "406",
+      "courseCode": "COMM",
+      "description": "Working for a corporation and having a positive impact on society are not mutually exclusive goals. This course is designed for individuals with an interest in driving innovation and social change within and beyond organizations on a global scale. More specifically we focus on the design and execution of strategies for social innovation – crafting solutions to address today’s most critical needs. From needs of small, entrepreneurial ventures and large corporations to those of a local community and even to more widespread issues such as global health, poverty and homelessness, this course is designed to create opportunities to understand the theory and practice of social innovation.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Critical Perspectives on Business",
+      "numericCode": "407",
+      "courseCode": "COMM",
+      "description": "“Maximized output (is) a sign of poor management” - Walter Jolly, Cree hunter, Nemaska, Quebec. This course questions conventional business assumptions about self-regulating markets and the corporations that dominate them. It challenges students to rethink basic assumptions: If it’s good for business, is it really good for society? We'll use Karl Polanyi's model of “disembedded” markets and the double movement against them, examining the tensions between markets and society. This provocative course probes critical theory and corporate crime. From opioid dealer Purdue Pharma and the Sears Canada/ESL Investments pension conflict to the Union Carbide/Bhopal and Westray mine deaths. We’ll ponder neo-liberalism and drive-thru fast food. What can we learn from indigenous land management? Can capitalism persist within nature’s limits?  ",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Sustainability Strategies and Practices",
+      "numericCode": "408",
+      "courseCode": "COMM",
+      "description": "This course, open to third and fourth-year students from all Faculties and Schools at Queen’s, focuses on the functions and responsibilities of managers at all levels to develop effective sustainability practices. Students will be part of an interdisciplinary team that will choose projects to present to the class on (a) innovative approaches to sustainability problems and (b) applying sustainability practices to an organization of their choice. Guest lecturers will present their hands-on experiences, and there are tours of sustainability applications in the community. Emphasis will be placed on transferable skills in assessing, promoting, and achieving sustainable practices for organizations of all sizes that will be useful regardless of Faculty, School, or discipline.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Strategies of Social Enterprise",
+      "numericCode": "410",
+      "courseCode": "COMM",
+      "description": "Strategies for Social Enterprise is different from other business courses that emphasize specific aspects of management such as finance, marketing, accounting, information systems, or operations. Rather than focusing on a particular functional area, this course is designed to expose students to business strategies that have emerged to address important societal and environmental issues. The intent is to deepen their understanding of some of the ways in which issues such as poverty, climate change, health, habitat destruction, gender inequality, and pollution are being addressed by various types of organizations. We analyze several social enterprise business models that have evolved including market-driven firms that offer socially-conscious products, organizations that invest in less developed countries, businesses that focus on more than simply earning a profit, and institutions that are devoted to charitable work.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Financial Statement Analysis and Accounting Based Valuation",
+      "numericCode": "411",
+      "courseCode": "COMM",
+      "description": "This course focuses on the analysis of financial information, particularly the information contained in firms’ financial statements, for making investment decisions. The primary focus is on determining the value of equity shares. The course begins with a comparison of various valuation models used in practice, and develops a comprehensive valuation model based on accrual accounting numbers. This is followed by a detailed analysis of balance sheets and income statements, profitability and sustainable growth, accounting quality, and forecasting financial statement data.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Management Control",
+      "numericCode": "414",
+      "courseCode": "COMM",
+      "description": "Management control is the process of assuring that the resources of the organization are used effectively and efficiently in the accomplishment of its objectives. This course deals with the design and implementation of accounting and non-accounting related controls from a managerial perspective. Through the use of case analysis, the course focuses on the broad aspects of policy for management control. This course is appropriate for those who plan to become professional accountants, management consultants, and leaders of organizations.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Corporate Governance and Control",
+      "numericCode": "415",
+      "courseCode": "COMM",
+      "description": "In today’s environment, boards are facing increasing pressure to be more accountable to their stakeholders - to be more open and transparent. Boards are being asked to address a bewildering range of problems and demands from corporate social responsibility to avoiding credit crushes to maintaining good jobs to increasing corporate value. These issues, which if left unresolved can put individual board members and their organizations at risk. This course is about the roles and value of various approaches to corporate governance and the control frameworks through which directors can influence how corporations act. The course will investigate the role of governance in both for profit and not for profit organizations. This course provides an added practical benefit, a great background for roles that you soon will be called upon to undertake as graduating Queen’s Commerce students, being board members of not for profit organizations. Evaluation: Grading will be based on class participation, one page memo writing exercises and an individual or group term project. There will be no tests or exams in the course.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Business Combinations Accounting",
+      "numericCode": "417",
+      "courseCode": "COMM",
+      "description": "This course examines the theory and practice associated with the accounting for long-term inter-corporate investments, business combinations, foreign currency operations, and not-for-profit organizations. Students will be expected to understand, interpret and critically evaluate generally accepted accounting principles related to these topics. Cases will be used to develop and apply judgment, critical thinking, and problem solving skills.",
+      "prerequisite": "At least four courses in accounting: COMM 111, 112, 311, 312, 313, or 414.",
+      "antirequisite": ""
+   },
+   {
+      "name": "Organizational Fraud",
+      "numericCode": "416",
+      "courseCode": "COMM",
+      "description": "This course examines fraud within organizations. It is designed to help future managers and entrepreneurs build awareness of fraud risk and a deeper understanding of how they might be able to prevent fraud within their organizations. This course is not a forensic accounting course, though it uses accounting concepts such as internal controls and management controls. The course also applies psychology and sociology concepts, along with current research, to better understand how fraud begins. The course is taught using an interactive, case-based methodology. Current events may play an important role in this course.",
+      "prerequisite": "COMM 111 or COMM 211",
+      "antirequisite": ""
+   },
+   {
+      "name": "Financial Technology and Innovation",
+      "numericCode": "420",
+      "courseCode": "COMM",
+      "description": "The course is designed to present students with an alternate lens on finance by extending the theoretical models and lessons of classical finance. This course will provide a fresh view on what may change and what may not. The class will revisit classic economic theories, how they may be changing, and potentially new economic theories and results. Innovations in the payments system, an integrally important part of the financial system, such as blockchain (the Bitcoin backend) will be dissected. Ways of acquiring financial information, such as Social Media, will be examined. High Frequency and Algorithmic Trading will also be examined from a market welfare perspective.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Brand Management",
+      "numericCode": "432",
+      "courseCode": "COMM",
+      "description": "Which brands make you happy? Apple? Starbucks? Google? What draws you into these brands? How do companies create compelling brand experiences that make consumers happy, brands loved, and competitors fearful? This course explores such questions with the goal of identifying what constitutes successful brand management and how this is implemented within firms. Brand management is a fundamental element of competitive strategy that is central to marketing activities. This course adopts both customer and manager perspectives on brand equity to understand how strategic brand management decisions influence marketing outcomes such as sales and customer loyalty. The course utilizes a mix of lectures, readings, cases, and projects to explore brand management theory and practices. The course will provide students with the tools needed to understand the role of branding in marketing strategy and consumer experiences while cultivating a critical appreciation for the tactics involved in implementing, building, leveraging, defending, and sustaining strong brands.",
+      "prerequisite": "COMM 131 or COMM 231",
+      "antirequisite": ""
+   },
+   {
+      "name": "Advanced Topics in Marketing",
+      "numericCode": "431",
+      "courseCode": "COMM",
+      "description": "As a functional area, marketing must operate as an agent of business strategy. In its role as liaison or conduit to the customer, marketing makes promises which the rest of the organization has to keep. Promise too little and we fail to make a sale; promise too much and the result is a loss of customer loyalty and soft prices. But if marketing is to be an agent of strategy then it must recognize that businesses following different strategies require different kinds of marketing efforts and different supporting marketing infrastructures and approaches. Similarly, just as businesses change their strategies at different stages of their life cycle and in response to market and competitive dynamics, so too must marketing make the appropriate accommodations to maintain its compatibility with the business’ overall direction. This course provides a review of the major business strategies available to a firm, the identification of how marketing varies across businesses following different strategies, and how both business and marketing strategies must be adjusted over time in response to customer and competitive dynamics. Readings and a small number of case studies will be used. The final project is a real time exercise, dealing with a strategic problem facing a business presented to the senior management team of the enterprise.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Marketing Analytics",
+      "numericCode": "433",
+      "courseCode": "COMM",
+      "description": "Marketers are truly living in the era of “big data.” Technology and marketing innovation has enabled a deluge of information and data points about consumer behavior and consumer relationships with brands. Organizations today expect their marketing executives to come equipped with skills to transform information to insights and insights to shrewd judgment. This is an application-based course designed to give you that edge. Particularly valuable to 3rd and 4th year students with interest in consulting or marketing careers, the course sets out to equip students with the ability to make better marketing strategy and resource allocation decisions using marketing models developed by academic and consulting communities over the years.",
+      "prerequisite": "COMM 131 or COMM 231",
+      "antirequisite": ""
+   },
+   {
+      "name": "Supply Chain Analytics",
+      "numericCode": "460",
+      "courseCode": "COMM",
+      "description": "Supply chain management is the coordination of value-added activities through the institutional and national boundaries. This course examines the use of operations in supply chain management. This course will focus on the theoretical foundations of operations and the basic principles that will be employed in both tactical and strategic decision-making. ",
+      "prerequisite": "COMM 341",
+      "antirequisite": ""
+   },
+   {
+      "name": "Data Science for Business",
+      "numericCode": "461",
+      "courseCode": "COMM",
+      "description": "The main goal of this course is to introduce data as one of the main business assets in the modern digital economy and data science tools as essential parts of the competitive strategy of the enterprise. The course will present a systematic view of analytics starting with descriptive for the essential understanding of the data, moving onto predictive to identify trends and opportunities, and completing the view with prescriptive to arrive at data-driven decisions.",
+      "prerequisite": "COMM 162",
+      "antirequisite": ""
+   },
+   {
+      "name": "Sales Management",
+      "numericCode": "434",
+      "courseCode": "COMM",
+      "description": "Selling is the engine that drives commerce. This highly-interactive and engaging course provides students with an understanding of the key aspects of professional sales and the role of corporate sales management related to planning, organizing, staffing, directing and evaluating the selling function. Students will learn about the importance of preparing a formal sales call, dealing with objections, and closing a sale for a product or service. A wide variety of sales experts will visit the class to discuss their profession and will provide a valuable network for anyone considering a sales career.",
+      "prerequisite": "COMM 132",
+      "antirequisite": ""
+   },
+   {
+      "name": "Business and Development",
+      "numericCode": "472",
+      "courseCode": "COMM",
+      "description": "Doing business in developing countries is one of the hottest topics on today’s business agenda. Whether it is the opportunities of selling to vast and growing markets—the so called “fortune at the bottom of the pyramid”—or the prospects of dramatically lower costs through outsourcing, business leaders are interested in developing country markets as never before. This broad-ranging course aims to apply the tools of economics and international business to understand the opportunities and pitfalls of doing business in developing-country environments. The course will focus on a range of practical business-focused questions, but it will also bring students to the frontier of debates in development economics and business ethics. Topics include: Assessing opportunities and challenges in emerging markets; building capabilities for doing business in weak institutional environments; debates among leading schools of thought on development; and the roles and responsibilities of profit-seeking businesses. The course should be of interest to students interested in development economics, international business and business ethics.",
+      "prerequisite": "COMM 172",
+      "antirequisite": ""
+   },
+   {
+      "name": "Managing Data for Business Intelligence",
+      "numericCode": "492",
+      "courseCode": "COMM",
+      "description": "This course introduces students to the fundamentals of database management in organizations and the effective use of organizational data to gain competitive intelligence. It presents the basic concepts and definitions that are required to understand the role of data and information in the modern organization. Various data models are presented, paying particular attention to the relational model. Emphasis is placed on the application and development of those models through the development of a small database system. Concepts in business intelligence will be reinforced via practical work with online data warehouses and analytical tools. Management issues such as data reliability and security, as well as implementation challenge of business intelligence solutions, will also be covered.",
+      "prerequisite": "COMM 190 or (COMM 200 and CISC 124)",
+      "antirequisite": ""
+   },
+   {
+      "name": "Analytics and Artificial Intelligence for Business",
+      "numericCode": "493",
+      "courseCode": "COMM",
+      "description": "This course is restricted to students enrolled in the 3rd or 4th year of their program.",
+      "prerequisite": "",
+      "antirequisite": ""
+   },
+   {
+      "name": "Project Management",
+      "numericCode": "495",
+      "courseCode": "COMM",
+      "description": "Effective project management is both a skill set and a leadership function that requires discipline in planning, organizing, and managing resources to execute projects to meet strategic goals and objectives. As such, this course will cover concepts in the four basic functions of management (planning, organizing, directing, and controlling) as applied to a project context. As not all projects are the same, students will also learn how to tailor specific tools and technique in each phase of the standard life cycle (Project Initiation, Project Planning, Project Execution, Project Monitoring and Control, and Project Closing) to adapt project management to different organizational and societal environments. Through the Project Management Institute (PMI), students can become a Certified Associate in Project Management (CAPM) after completing COMM-495 and passing an exam administered through PMI.",
+      "prerequisite": "COMM 190 and COMM 341",
+      "antirequisite": ""
+   },
+   {
+      "name": "Directed Independent Studies in Business",
+      "numericCode": "501",
+      "courseCode": "COMM",
+      "description": "This course is provided for those students who have an interest in deepening their knowledge through independent study in a particular specialized area not available in the regular course offerings. This advanced study will be conducted under the supervision of, and in active consultation with, an appropriate faculty member of the School. Periodic reporting, written assignments, and oral examinations normally will be part of the learning experience. Students wishing to enrol in this elective should have high academic standing in at least three courses in the general area of this specialization, and must submit their study proposal in writing to the Commerce Program Executive Director. Students may apply for this option only once, and only after completing either the third year or 96.0 units.",
+      "prerequisite": "permission from the Commerce Program Executive Director",
+      "antirequisite": "COMM 502, COMM 503"
+   },
+   {
+      "name": "Business Problems and Projects",
+      "numericCode": "502",
+      "courseCode": "COMM",
+      "description": "Students selecting this course may elect to do a project on either an individual or small-group basis. The individual project is a course in the methods of business research and students work on a problem or project under the supervision of a faculty member of the School. Students must submit their study proposal in writing to the Program Executive Director. In the case of team projects, the students form into groups usually of not more than 6 persons and analyze the activities of a cooperating business firm. The group is expected to present a report of their findings and recommendations to the management of the subject firm. This course may extend through the full academic year (but may be done in less), but in all cases, the work will be equivalent to the weight of 6.0 units for each student whether undertaken as an individual or a group project.",
+      "prerequisite": "permission from the Commerce Program Executive Director",
+      "antirequisite": "COMM 501 and COMM 503"
+   },
+   {
+      "name": "Directed Independent Study in Consulting and Professional Service",
+      "numericCode": "504",
+      "courseCode": "COMM",
+      "description": "The course is organized and managed to duplicate a professional services firm. Typical projects result in changes such as improving productivity, enhancing morale, reducing expenses, boosting cash flows, augmenting Internet and e-marketing resources, implementing marketing research, increasing client retention, strengthening brand awareness for the organization or its products and services. There are no formal classes but consulting firm meetings to discuss client progress, methodological challenges and to review and rehearse client presentations and decisions regarding key client deliverables. While the methodologies and final deliverables are reviewed for quality purposes by the professor, the final deliverables are the responsibility of the consultants and are independently developed. Once selected for the course the students sign a contract outlining duties as well as personal learning and experiential objectives. The student will be evaluated by the professor on the same basis as a member of a professional services firm.",
+      "prerequisite": "Admission to the course is by application and interview. Fourth year students may apply for the course in either the fall or winter term. Third year students may apply only for the winter term. While there are no formal course prerequisites, many projects do focus on issues such as consumer and promotional plans. Students should be interested in integrating skills, tools and concepts from numerous courses, and want a course where they apply themselves in the real-world management challenges.",
+      "antirequisite": ""
+   },
+   {
+      "name": "Business Research",
+      "numericCode": "503",
+      "courseCode": "COMM",
+      "description": "This course is designed to help the student develop a capacity to handle an original investigation and to communicate the results of his or her investigation in a formal written report. Each student will select a research project to be carried out under the supervision of a faculty member of the School. This course is carried over the full academic year and is equivalent to the weight of 9.0 units. Students selecting this option should have attained high academic standing in at least three courses in the field in which they wish to do their research and must submit their study proposal in writing to the Commerce Program Executive Director.",
+      "prerequisite": "permission from the Commerce Program Executive Director",
+      "antirequisite": "COMM 501 and COMM 502"
+   },
+   {
+      "name": "Business Project Course",
+      "numericCode": "505",
+      "courseCode": "COMM",
+      "description": "This course is provided for those students who have an interest in deepening their knowledge in a particular specialized area of business not offered in the regular course offerings. Students will have the opportunity to explore the theoretical foundation and practical implementation aspects of a specialized area of business. Students will be expected to work in teams on a business project, do the required research and apply content to analyze, assess, recommend, and implement solutions. It is a senior seminar for third and fourth year students. This course will be taught using a combination of lectures, discussions, case analysis, assignments and examinations.",
+      "prerequisite": "Permission from the Commerce Program Executive Director.",
+      "antirequisite": ""
+   }
+]

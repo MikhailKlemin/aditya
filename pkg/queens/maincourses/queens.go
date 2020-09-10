@@ -11,19 +11,11 @@ import (
 	"os/exec"
 	"regexp"
 	"strings"
+
+	"github.com/MikhailKlemin/aditya/pkg/utils"
 )
 
 //CourseExample as per https://www.notion.so/Main-Course-Listing-eb9adf609af84e51af4727d6ae63aff0
-type CourseExample struct {
-	SubjectID       string `json:"subjectId,omitempty"`
-	Name            string `json:"name"`
-	NumericCode     string `json:"numericCode"`
-	CourseCode      string `json:"courseCode"`
-	Description     string `json:"description"`
-	Prerequisite    string `json:"prerequisite"`
-	Antirequisite   string `json:"antirequisite"`
-	OneWayExclusion string `json:"oneWayExclusion"`
-}
 
 var rgx = struct {
 	reCourseCode    *regexp.Regexp //has NumericCode and Name
@@ -60,10 +52,10 @@ func Start() {
 	}
 }
 
-func parsePDF() (cs []CourseExample, err error) {
+func parsePDF() (cs []utils.CourseExample, err error) {
 
 	/* 	Create Temp by downloading PDF from amazon file  */
-	fmt.Println("[INFO] ", "Downloading...")
+	fmt.Println("[INFO] ", "Downloading..")
 	tempfile, err := ioutil.TempFile("/tmp", "queens-*.pdf")
 	if err != nil {
 		//log.Fatal(err)
@@ -129,7 +121,7 @@ func parsePDF() (cs []CourseExample, err error) {
 	return
 }
 
-func parseBlock(block string) (c CourseExample, err error) {
+func parseBlock(block string) (c utils.CourseExample, err error) {
 
 	t := func(in string) string {
 		return strings.TrimSpace(in)
