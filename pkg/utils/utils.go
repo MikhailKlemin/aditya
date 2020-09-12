@@ -76,12 +76,12 @@ type Subject struct {
 func GetClient() *http.Client {
 	var netTransport = &http.Transport{
 		Dial: (&net.Dialer{
-			Timeout: 15 * time.Second,
+			Timeout: 260 * time.Second,
 		}).Dial,
-		TLSHandshakeTimeout: 15 * time.Second,
+		TLSHandshakeTimeout: 260 * time.Second,
 	}
 	var netClient = &http.Client{
-		Timeout:   time.Second * 30,
+		Timeout:   time.Second * 300,
 		Transport: netTransport,
 	}
 	return netClient

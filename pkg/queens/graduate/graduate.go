@@ -12,6 +12,15 @@ import (
 	"github.com/PuerkitoBio/goquery"
 )
 
+/*NOTES
+https://www.queensu.ca/sgs/graduate-calendar/courses-instruction/urban-and-regional-planning-courses
+https://www.notion.so/Graduate-Courses-3d49a70d024b4e3f94ef7c6587674f4f
+*/
+// Problems:
+// Some courses have double course name like
+// SURP-891*/892*     Directed Study in Advanced Aspects of Urban and Regional Planning
+// so have to catch the whole  891*/892* and split during export
+
 type subjs struct {
 	name string
 	link string
@@ -19,7 +28,7 @@ type subjs struct {
 
 //Start is
 func Start() {
-	//Parse(subjs{"NameIS", "https://www.queensu.ca/sgs/graduate-calendar/courses-instruction/biology-courses"})
+	//Parse(subjs{"NameIS", "https://www.queensu.ca/sgs/graduate-calendar/courses-instruction/urban-and-regional-planning-courses"})
 	//return
 	sbjs := getLinks()
 	fmt.Println(len(sbjs), "\t", sbjs[0])
@@ -78,9 +87,11 @@ func Parse(sj subjs) (cs []utils.CourseExample) {
 	}
 	defer resp.Body.Close()
 
-	re := regexp.MustCompile(`([A-Z]{4})-(\d+)\*\s*(.*)`)
+	re := regexp.MustCompile(`.?([A-Z]{4})-([\d*/]+)\s*(.*)`) //Course Code
 	re2 := regexp.MustCompile(`PREREQUISITE:\s*(?:OR\s*COREQUISITES:)?\s*(.*)`)
 	re3 := regexp.MustCompile(`EXCLUSION:\s*(.*)`)
+	re4 := regexp.MustCompile(`(\d+)`)
+	re5 := regexp.MustCompile(`COREQUISITE:\s*(.*)`)
 
 	doc.Find(`p strong`).Each(func(_ int, s *goquery.Selection) {
 		var c utils.CourseExample
@@ -93,10 +104,7 @@ func Parse(sj subjs) (cs []utils.CourseExample) {
 		c.NumericCode = m[2]
 		c.Name = utils.Clean(m[3])
 		c.SubjectName = sj.name
-		descs := strings.Split(strings.TrimSpace(s.Parent().Clone().Children().Remove().End().Text()), "\n")
-		if c.NumericCode == "926" {
-			fmt.Println(descs)
-		}
+		/*descs := strings.Split(strings.TrimSpace(s.Parent().Clone().Children().Remove().End().Text()), "\n")
 		c.Description = descs[0]
 
 		//fmt.Printf("%#v\n", c)
@@ -121,11 +129,45 @@ func Parse(sj subjs) (cs []utils.CourseExample) {
 		if c.Description == "" {
 			c.Description = utils.Clean(s.Parent().Next().Text())
 		}
+		*/
+		desc, _ := s.Parent().Html()
+		//fmt.Println(c.NumericCode)
+		ds := strings.Split(desc, "<br/>")
+		if len(ds) < 1 {
+			return
+		}
+		for n, val := range ds {
+			if n == 0 {
+				continue
+			}
+			//if strings.HasPrefix("")
+			val = strings.TrimSpace(val)
 
-		//b, _ := json.MarshalIndent(c, "", "    ")
-		//fmt.Println(string(b))
-		cs = append(cs, c)
-		//fmt.Println(s.Parent().Clone().Children().Remove().End().Html())
+			if m := re2.FindStringSubmatch(val); len(m) > 0 {
+				c.Prerequisite = utils.Clean(m[1])
+				continue
+			}
+			if m := re3.FindStringSubmatch(val); len(m) > 0 {
+				c.Antirequisite = utils.Clean(m[1])
+				continue
+			}
+			if m := re5.FindStringSubmatch(val); len(m) > 0 {
+				c.Prerequisite = utils.Clean(c.Prerequisite + " " + m[1])
+				continue
+			}
+
+			c.Description = utils.Clean(c.Description + " " + val)
+
+		}
+
+		// Splitting courses if they have double name
+		ms := re4.FindAllStringSubmatch(c.NumericCode, -1)
+		for _, m := range ms {
+			c.NumericCode = m[1]
+			cs = append(cs, c)
+			xb, _ := json.MarshalIndent(c, "", "    ")
+			fmt.Printf("%s\n", xb)
+		}
 
 	})
 	return

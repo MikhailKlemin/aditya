@@ -20,6 +20,7 @@ func main() {
 
 	//concurent.Start()
 	graduate.Start()
+	//ryerson.Start()
 
 	fmt.Printf("Took %s to finish\n", time.Since(t))
 
