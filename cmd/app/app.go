@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/MikhailKlemin/aditya/pkg/queens/graduate"
+	"github.com/MikhailKlemin/aditya/pkg/unis/queens/appliedcourses"
 )
 
 func main() {
@@ -19,8 +19,8 @@ func main() {
 	//commerce.Parse(nil)
 
 	//concurent.Start()
-	graduate.Start()
-	//ryerson.Start()
+	//graduate.Start()
+	appliedcourses.Start()
 
 	fmt.Printf("Took %s to finish\n", time.Since(t))
 

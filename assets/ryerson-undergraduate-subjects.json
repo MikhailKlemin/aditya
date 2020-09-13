@@ -1,298 +1,107 @@
 [
     {
-        "subjectId": 4,
-        "name": "Physics",
-        "codes": [
-            "PCS"
-        ]
-    },
-    {
-        "subjectId": 13,
-        "name": "Interdisciplinary Studies",
-        "codes": [
-            "INT"
-        ]
-    },
-    {
-        "subjectId": 31,
-        "name": "Music",
-        "codes": [
-            "MUS"
-        ]
-    },
-    {
-        "subjectId": 57,
-        "name": "Quantitative Methods",
-        "codes": [
-            "QMS"
-        ]
-    },
-    {
-        "subjectId": 36,
-        "name": "Politics and Public Administration",
-        "codes": [
-            "POG",
-            "POL",
-            "PPA"
-        ]
-    },
-    {
-        "subjectId": 46,
-        "name": "Nutrition and Food",
-        "codes": [
-            "FND",
-            "FNN",
-            "FNP",
-            "FNR",
-            "FNS",
-            "FNU"
-        ]
-    },
-    {
-        "subjectId": 61,
-        "name": "Digital Entrepreneurship and Innovation",
-        "codes": [
-            "EID"
-        ]
-    },
-    {
-        "subjectId": 33,
-        "name": "Global Management Studies",
-        "codes": [
-            "GMS"
-        ]
-    },
-    {
-        "subjectId": 97,
-        "name": "Midwifery",
-        "codes": [
-            "MWF"
-        ]
-    },
-    {
-        "subjectId": 32,
-        "name": "Nursing",
-        "codes": [
-            "NCL",
-            "NSE",
-            "NUC",
-            "NUR"
-        ]
-    },
-    {
-        "subjectId": 35,
+        "subjectId": 83,
         "name": "Environmental Health",
         "codes": [
             "ENH"
         ]
     },
     {
-        "subjectId": 24,
-        "name": "Human Resources",
+        "subjectId": 92,
+        "name": "Technology Studies",
         "codes": [
-            "MHR"
-        ]
-    },
-    {
-        "subjectId": 49,
-        "name": "Retail Management",
-        "codes": [
-            "RMG"
-        ]
-    },
-    {
-        "subjectId": 79,
-        "name": "Electrical Engineering",
-        "codes": [
-            "EES",
-            "ELE"
-        ]
-    },
-    {
-        "subjectId": 82,
-        "name": "Aerospace",
-        "codes": [
-            "AER"
-        ]
-    },
-    {
-        "subjectId": 5,
-        "name": "Entrepreneurship and Strategy",
-        "codes": [
-            "ENT"
-        ]
-    },
-    {
-        "subjectId": 16,
-        "name": "Arabic",
-        "codes": [
-            "ARB"
-        ]
-    },
-    {
-        "subjectId": 34,
-        "name": "Anthropology",
-        "codes": [
-            "ANT"
-        ]
-    },
-    {
-        "subjectId": 37,
-        "name": "Family Studies",
-        "codes": [
-            "FNF"
-        ]
-    },
-    {
-        "subjectId": 55,
-        "name": "Combined Media",
-        "codes": [
-            "MPC"
-        ]
-    },
-    {
-        "subjectId": 60,
-        "name": "Physiology",
-        "codes": [
-            "PLN"
-        ]
-    },
-    {
-        "subjectId": 83,
-        "name": "Gerontology",
-        "codes": [
-            "GER"
-        ]
-    },
-    {
-        "subjectId": 99,
-        "name": "Marketing",
-        "codes": [
-            "MKT"
-        ]
-    },
-    {
-        "subjectId": 9,
-        "name": "Foundations of Management",
-        "codes": [
-            "FMG"
-        ]
-    },
-    {
-        "subjectId": 18,
-        "name": "Journalism",
-        "codes": [
-            "JRN",
-            "NNS"
-        ]
-    },
-    {
-        "subjectId": 20,
-        "name": "Mathematics",
-        "codes": [
-            "MTH"
-        ]
-    },
-    {
-        "subjectId": 29,
-        "name": "Building Science",
-        "codes": [
-            "BSC"
-        ]
-    },
-    {
-        "subjectId": 41,
-        "name": "Industrial Engineering",
-        "codes": [
-            "IND"
-        ]
-    },
-    {
-        "subjectId": 88,
-        "name": "Social Work",
-        "codes": [
-            "SWP"
-        ]
-    },
-    {
-        "subjectId": 22,
-        "name": "Pathotherapeutics",
-        "codes": [
-            "PAT"
-        ]
-    },
-    {
-        "subjectId": 50,
-        "name": "Work Term",
-        "codes": [
-            "WKT"
-        ]
-    },
-    {
-        "subjectId": 66,
-        "name": "Philosophy",
-        "codes": [
-            "PHL"
+            "TEC"
         ]
     },
     {
         "subjectId": 102,
-        "name": "Chemistry",
-        "codes": [
-            "CHY"
-        ]
-    },
-    {
-        "subjectId": 106,
-        "name": "Chinese",
-        "codes": [
-            "CHN"
-        ]
-    },
-    {
-        "subjectId": 42,
-        "name": "Photography",
-        "codes": [
-            "MPS"
-        ]
-    },
-    {
-        "subjectId": 54,
-        "name": "Criminology",
-        "codes": [
-            "CRM"
-        ]
-    },
-    {
-        "subjectId": 84,
         "name": "Latin",
         "codes": [
             "LAT"
         ]
     },
     {
-        "subjectId": 11,
-        "name": "Semiotics",
-        "codes": [
-            "SEM"
-        ]
-    },
-    {
-        "subjectId": 48,
+        "subjectId": 2,
         "name": "Psychology",
         "codes": [
             "PSY"
         ]
     },
     {
-        "subjectId": 53,
-        "name": "American Sign Langugage",
+        "subjectId": 18,
+        "name": "Mathematics",
         "codes": [
-            "ASL"
+            "MTH"
         ]
     },
     {
-        "subjectId": 58,
+        "subjectId": 80,
+        "name": "Fashion",
+        "codes": [
+            "FFC",
+            "FFD",
+            "FSN"
+        ]
+    },
+    {
+        "subjectId": 7,
+        "name": "Greek",
+        "codes": [
+            "GRK"
+        ]
+    },
+    {
+        "subjectId": 27,
+        "name": "Philosophy",
+        "codes": [
+            "PHL"
+        ]
+    },
+    {
+        "subjectId": 52,
+        "name": "Sociology",
+        "codes": [
+            "SOC"
+        ]
+    },
+    {
+        "subjectId": 55,
+        "name": "Biomedical Engineering",
+        "codes": [
+            "BME"
+        ]
+    },
+    {
+        "subjectId": 59,
+        "name": "Family Studies",
+        "codes": [
+            "FNF"
+        ]
+    },
+    {
+        "subjectId": 88,
+        "name": "Environment and Urban Sustainability",
+        "codes": [
+            "EUS"
+        ]
+    },
+    {
+        "subjectId": 32,
+        "name": "Accounting",
+        "codes": [
+            "ACC",
+            "AFA"
+        ]
+    },
+    {
+        "subjectId": 1,
+        "name": "Science",
+        "codes": [
+            "SCI"
+        ]
+    },
+    {
+        "subjectId": 19,
         "name": "Theatre",
         "codes": [
             "THA",
@@ -306,178 +115,93 @@
         ]
     },
     {
-        "subjectId": 96,
-        "name": "Public Health",
-        "codes": [
-            "PUB"
-        ]
-    },
-    {
-        "subjectId": 100,
-        "name": "Business Essentials",
-        "codes": [
-            "BSM"
-        ]
-    },
-    {
-        "subjectId": 12,
-        "name": "Environment and Urban Sustainability",
-        "codes": [
-            "EUS"
-        ]
-    },
-    {
-        "subjectId": 44,
-        "name": "Engineering Management Science",
-        "codes": [
-            "EMS"
-        ]
-    },
-    {
-        "subjectId": 7,
-        "name": "Food Security",
-        "codes": [
-            "FNY"
-        ]
-    },
-    {
-        "subjectId": 10,
+        "subjectId": 30,
         "name": "Computer Science",
         "codes": [
             "CPS"
         ]
     },
     {
-        "subjectId": 59,
-        "name": "Fashion - Material and Fabrication",
+        "subjectId": 42,
+        "name": "Finance",
         "codes": [
-            "FMF"
+            "AFF",
+            "FIN"
         ]
     },
     {
-        "subjectId": 95,
-        "name": "Creative Industries",
+        "subjectId": 67,
+        "name": "Industrial Engineering",
         "codes": [
-            "CRI"
+            "IND"
         ]
     },
     {
-        "subjectId": 56,
-        "name": "Biomedical Engineering",
+        "subjectId": 53,
+        "name": "Information Technology Management",
         "codes": [
-            "BME"
+            "ITM"
         ]
     },
     {
-        "subjectId": 71,
-        "name": "Nonprofit",
+        "subjectId": 26,
+        "name": "Communication and Design",
         "codes": [
-            "INP"
+            "FCD"
         ]
     },
     {
-        "subjectId": 101,
-        "name": "Communication",
-        "codes": [
-            "CMN"
-        ]
-    },
-    {
-        "subjectId": 104,
+        "subjectId": 35,
         "name": "Disability Studies",
         "codes": [
             "DST"
         ]
     },
     {
+        "subjectId": 90,
+        "name": "Spanish",
+        "codes": [
+            "SPN"
+        ]
+    },
+    {
+        "subjectId": 98,
+        "name": "Communication",
+        "codes": [
+            "CMN"
+        ]
+    },
+    {
         "subjectId": 14,
-        "name": "Writing Skills",
+        "name": "Physiology",
         "codes": [
-            "CAF"
+            "PLN"
         ]
     },
     {
-        "subjectId": 27,
-        "name": "Public Health and Occupational Health",
+        "subjectId": 31,
+        "name": "French Studies",
         "codes": [
-            "POH"
+            "FRS"
         ]
     },
     {
-        "subjectId": 47,
-        "name": "Hospitality and Tourism Management",
-        "codes": [
-            "HTA",
-            "HTD",
-            "HTF",
-            "HTH",
-            "HTI",
-            "HTL",
-            "HTM",
-            "HTR",
-            "HTT"
-        ]
-    },
-    {
-        "subjectId": 64,
-        "name": "Accounting",
-        "codes": [
-            "ACC",
-            "AFA"
-        ]
-    },
-    {
-        "subjectId": 65,
-        "name": "Language and Intercultural Relations",
-        "codes": [
-            "LIR"
-        ]
-    },
-    {
-        "subjectId": 70,
-        "name": "Arts and Contemporary Studies",
-        "codes": [
-            "ACS"
-        ]
-    },
-    {
-        "subjectId": 81,
-        "name": "Early Childhood Studies",
-        "codes": [
-            "CLD"
-        ]
-    },
-    {
-        "subjectId": 94,
-        "name": "Biochemistry",
-        "codes": [
-            "BCH"
-        ]
-    },
-    {
-        "subjectId": 15,
-        "name": "Common Engineering",
-        "codes": [
-            "CEN"
-        ]
-    },
-    {
-        "subjectId": 85,
+        "subjectId": 41,
         "name": "French",
         "codes": [
             "FRE"
         ]
     },
     {
-        "subjectId": 109,
-        "name": "History",
+        "subjectId": 64,
+        "name": "Architectural Science",
         "codes": [
-            "HIS",
-            "HST"
+            "ARC",
+            "ASC"
         ]
     },
     {
-        "subjectId": 3,
+        "subjectId": 104,
         "name": "Mechanical Engineering",
         "codes": [
             "MEC",
@@ -485,42 +209,50 @@
         ]
     },
     {
+        "subjectId": 12,
+        "name": "Interdisciplinary Studies",
+        "codes": [
+            "INT"
+        ]
+    },
+    {
         "subjectId": 21,
-        "name": "Spanish",
+        "name": "Early Childhood Studies",
         "codes": [
-            "SPN"
+            "CLD"
         ]
     },
     {
-        "subjectId": 40,
-        "name": "Fashion - Design Leadership",
+        "subjectId": 24,
+        "name": "Biochemistry",
         "codes": [
-            "FDL"
+            "BCH"
         ]
     },
     {
-        "subjectId": 77,
-        "name": "Real Estate Management",
+        "subjectId": 58,
+        "name": "Chemical Engineering",
         "codes": [
-            "REM"
+            "CHE"
         ]
     },
     {
-        "subjectId": 87,
-        "name": "Business",
+        "subjectId": 9,
+        "name": "Religious Studies",
         "codes": [
-            "BUS"
+            "REL",
+            ""
         ]
     },
     {
-        "subjectId": 1,
-        "name": "Education - ZONE",
+        "subjectId": 10,
+        "name": "Gerontology",
         "codes": [
-            "EDZ"
+            "GER"
         ]
     },
     {
-        "subjectId": 23,
+        "subjectId": 81,
         "name": "Interior Design",
         "codes": [
             "IDE",
@@ -535,178 +267,150 @@
         ]
     },
     {
-        "subjectId": 63,
-        "name": "Fashion - Fashion Studies",
+        "subjectId": 86,
+        "name": "Creative Industries",
         "codes": [
-            "FFS"
+            "CRI"
         ]
     },
     {
-        "subjectId": 89,
-        "name": "Project Management",
+        "subjectId": 40,
+        "name": "Quantitative Methods",
         "codes": [
-            "PMT"
+            "QMS"
         ]
     },
     {
-        "subjectId": 19,
-        "name": "Technology Studies",
-        "codes": [
-            "TEC"
-        ]
-    },
-    {
-        "subjectId": 43,
-        "name": "Occupational Health",
-        "codes": [
-            "OHS"
-        ]
-    },
-    {
-        "subjectId": 98,
-        "name": "Biomedical Science",
-        "codes": [
-            "BMS"
-        ]
-    },
-    {
-        "subjectId": 107,
-        "name": "Spanish Studies",
-        "codes": [
-            "SPS"
-        ]
-    },
-    {
-        "subjectId": 0,
-        "name": "Health Information Management",
-        "codes": [
-            "HIM"
-        ]
-    },
-    {
-        "subjectId": 17,
-        "name": "Law",
-        "codes": [
-            "LAW"
-        ]
-    },
-    {
-        "subjectId": 68,
-        "name": "Information Technology Management",
-        "codes": [
-            "ITM"
-        ]
-    },
-    {
-        "subjectId": 76,
-        "name": "Graphic Communication",
-        "codes": [
-            "GCM"
-        ]
-    },
-    {
-        "subjectId": 78,
+        "subjectId": 47,
         "name": "English",
         "codes": [
             "ENG"
         ]
     },
     {
-        "subjectId": 25,
-        "name": "Religious Studies",
-        "codes": [
-            "REL",
-            ""
-        ]
-    },
-    {
-        "subjectId": 26,
-        "name": "Professional Practice - Nursing",
-        "codes": [
-            "PPN"
-        ]
-    },
-    {
-        "subjectId": 51,
+        "subjectId": 50,
         "name": "Health Services Management",
         "codes": [
             "HSM"
         ]
     },
     {
-        "subjectId": 75,
+        "subjectId": 103,
+        "name": "Work Term",
+        "codes": [
+            "WKT"
+        ]
+    },
+    {
+        "subjectId": 5,
+        "name": "Business Essentials",
+        "codes": [
+            "BSM"
+        ]
+    },
+    {
+        "subjectId": 43,
+        "name": "Pathotherapeutics",
+        "codes": [
+            "PAT"
+        ]
+    },
+    {
+        "subjectId": 82,
         "name": "Engineering Innovation and Entrepreneurship",
         "codes": [
             "EIE"
         ]
     },
     {
-        "subjectId": 105,
+        "subjectId": 61,
+        "name": "Business",
+        "codes": [
+            "BUS"
+        ]
+    },
+    {
+        "subjectId": 69,
+        "name": "Semiotics",
+        "codes": [
+            "SEM"
+        ]
+    },
+    {
+        "subjectId": 76,
+        "name": "Criminology",
+        "codes": [
+            "CRM"
+        ]
+    },
+    {
+        "subjectId": 106,
+        "name": "Nonprofit",
+        "codes": [
+            "INP"
+        ]
+    },
+    {
+        "subjectId": 62,
+        "name": "Politics and Public Administration",
+        "codes": [
+            "POG",
+            "POL",
+            "PPA"
+        ]
+    },
+    {
+        "subjectId": 93,
+        "name": "Education - ZONE",
+        "codes": [
+            "EDZ"
+        ]
+    },
+    {
+        "subjectId": 17,
         "name": "Chinese Studies",
         "codes": [
             "CHS"
         ]
     },
     {
-        "subjectId": 108,
-        "name": "Film Studies",
+        "subjectId": 44,
+        "name": "American Sign Langugage",
         "codes": [
-            "MPF"
+            "ASL"
         ]
     },
     {
-        "subjectId": 28,
-        "name": "Communication and Design",
+        "subjectId": 48,
+        "name": "Arabic",
         "codes": [
-            "FCD"
+            "ARB"
         ]
     },
     {
-        "subjectId": 91,
-        "name": "Chemical Engineering",
+        "subjectId": 75,
+        "name": "Marketing",
         "codes": [
-            "CHE"
+            "MKT"
         ]
     },
     {
-        "subjectId": 73,
-        "name": "Computer Engineering",
+        "subjectId": 97,
+        "name": "History",
         "codes": [
-            "COE"
+            "HIS",
+            "HST"
         ]
     },
     {
-        "subjectId": 92,
-        "name": "Fashion",
+        "subjectId": 109,
+        "name": "Anthropology",
         "codes": [
-            "FFC",
-            "FFD",
-            "FSN"
+            "ANT"
         ]
     },
     {
-        "subjectId": 38,
-        "name": "Child and Youth Care",
-        "codes": [
-            "CYC"
-        ]
-    },
-    {
-        "subjectId": 72,
-        "name": "Media",
-        "codes": [
-            "RTA"
-        ]
-    },
-    {
-        "subjectId": 103,
-        "name": "Social Science and Humanities",
-        "codes": [
-            "SSH"
-        ]
-    },
-    {
-        "subjectId": 6,
+        "subjectId": 22,
         "name": "Planning",
         "codes": [
             "PLE",
@@ -715,71 +419,141 @@
         ]
     },
     {
-        "subjectId": 90,
-        "name": "Science",
+        "subjectId": 29,
+        "name": "Graphic Communication",
         "codes": [
-            "SCI"
+            "GCM"
         ]
     },
     {
-        "subjectId": 30,
-        "name": "Finance",
+        "subjectId": 54,
+        "name": "Film Studies",
         "codes": [
-            "AFF",
-            "FIN"
+            "MPF"
         ]
     },
     {
-        "subjectId": 52,
-        "name": "Sociology",
-        "codes": [
-            "SOC"
-        ]
-    },
-    {
-        "subjectId": 39,
-        "name": "Greek",
-        "codes": [
-            "GRK"
-        ]
-    },
-    {
-        "subjectId": 86,
-        "name": "Economics",
-        "codes": [
-            "ECN"
-        ]
-    },
-    {
-        "subjectId": 2,
+        "subjectId": 68,
         "name": "Biology",
         "codes": [
             "BLG"
         ]
     },
     {
-        "subjectId": 45,
-        "name": "Language",
-        "codes": [
-            "LNG"
-        ]
-    },
-    {
-        "subjectId": 74,
+        "subjectId": 73,
         "name": "Civil Engineering",
         "codes": [
             "CVL"
         ]
     },
     {
-        "subjectId": 8,
+        "subjectId": 91,
+        "name": "Spanish Studies",
+        "codes": [
+            "SPS"
+        ]
+    },
+    {
+        "subjectId": 94,
+        "name": "Project Management",
+        "codes": [
+            "PMT"
+        ]
+    },
+    {
+        "subjectId": 99,
+        "name": "Engineering Management Science",
+        "codes": [
+            "EMS"
+        ]
+    },
+    {
+        "subjectId": 0,
+        "name": "Retail Management",
+        "codes": [
+            "RMG"
+        ]
+    },
+    {
+        "subjectId": 3,
+        "name": "Social Science and Humanities",
+        "codes": [
+            "SSH"
+        ]
+    },
+    {
+        "subjectId": 13,
         "name": "Interactive Media Arts",
         "codes": [
             "MPI"
         ]
     },
     {
-        "subjectId": 62,
+        "subjectId": 34,
+        "name": "Entrepreneurship and Strategy",
+        "codes": [
+            "ENT"
+        ]
+    },
+    {
+        "subjectId": 39,
+        "name": "Real Estate Management",
+        "codes": [
+            "REM"
+        ]
+    },
+    {
+        "subjectId": 56,
+        "name": "Social Work",
+        "codes": [
+            "SWP"
+        ]
+    },
+    {
+        "subjectId": 60,
+        "name": "Music",
+        "codes": [
+            "MUS"
+        ]
+    },
+    {
+        "subjectId": 36,
+        "name": "Journalism",
+        "codes": [
+            "JRN",
+            "NNS"
+        ]
+    },
+    {
+        "subjectId": 49,
+        "name": "Economics",
+        "codes": [
+            "ECN"
+        ]
+    },
+    {
+        "subjectId": 51,
+        "name": "Building Science",
+        "codes": [
+            "BSC"
+        ]
+    },
+    {
+        "subjectId": 72,
+        "name": "Writing Skills",
+        "codes": [
+            "CAF"
+        ]
+    },
+    {
+        "subjectId": 84,
+        "name": "Health Information Management",
+        "codes": [
+            "HIM"
+        ]
+    },
+    {
+        "subjectId": 85,
         "name": "Media Studies",
         "codes": [
             "FPN",
@@ -787,29 +561,255 @@
         ]
     },
     {
-        "subjectId": 93,
-        "name": "French Studies",
+        "subjectId": 108,
+        "name": "Midwifery",
         "codes": [
-            "FRS"
+            "MWF"
         ]
     },
     {
-        "subjectId": 67,
-        "name": "Architectural Science",
+        "subjectId": 6,
+        "name": "Chinese",
         "codes": [
-            "ARC",
-            "ASC"
+            "CHN"
         ]
     },
     {
-        "subjectId": 69,
+        "subjectId": 46,
+        "name": "Occupational Health",
+        "codes": [
+            "OHS"
+        ]
+    },
+    {
+        "subjectId": 57,
+        "name": "Fashion - Material and Fabrication",
+        "codes": [
+            "FMF"
+        ]
+    },
+    {
+        "subjectId": 96,
+        "name": "Digital Entrepreneurship and Innovation",
+        "codes": [
+            "EID"
+        ]
+    },
+    {
+        "subjectId": 11,
+        "name": "Global Management Studies",
+        "codes": [
+            "GMS"
+        ]
+    },
+    {
+        "subjectId": 66,
+        "name": "Aerospace",
+        "codes": [
+            "AER"
+        ]
+    },
+    {
+        "subjectId": 74,
         "name": "Caribbean Studies",
         "codes": [
             "CRB"
         ]
     },
     {
-        "subjectId": 80,
+        "subjectId": 101,
+        "name": "Common Engineering",
+        "codes": [
+            "CEN"
+        ]
+    },
+    {
+        "subjectId": 8,
+        "name": "Language",
+        "codes": [
+            "LNG"
+        ]
+    },
+    {
+        "subjectId": 71,
+        "name": "Chemistry",
+        "codes": [
+            "CHY"
+        ]
+    },
+    {
+        "subjectId": 23,
+        "name": "Foundations of Management",
+        "codes": [
+            "FMG"
+        ]
+    },
+    {
+        "subjectId": 87,
+        "name": "Nursing",
+        "codes": [
+            "NCL",
+            "NSE",
+            "NUC",
+            "NUR"
+        ]
+    },
+    {
+        "subjectId": 105,
+        "name": "Photography",
+        "codes": [
+            "MPS"
+        ]
+    },
+    {
+        "subjectId": 20,
+        "name": "Hospitality and Tourism Management",
+        "codes": [
+            "HTA",
+            "HTD",
+            "HTF",
+            "HTH",
+            "HTI",
+            "HTL",
+            "HTM",
+            "HTR",
+            "HTT"
+        ]
+    },
+    {
+        "subjectId": 107,
+        "name": "Combined Media",
+        "codes": [
+            "MPC"
+        ]
+    },
+    {
+        "subjectId": 4,
+        "name": "Public Health",
+        "codes": [
+            "PUB"
+        ]
+    },
+    {
+        "subjectId": 15,
+        "name": "Arts and Contemporary Studies",
+        "codes": [
+            "ACS"
+        ]
+    },
+    {
+        "subjectId": 38,
+        "name": "Nutrition and Food",
+        "codes": [
+            "FND",
+            "FNN",
+            "FNP",
+            "FNR",
+            "FNS",
+            "FNU"
+        ]
+    },
+    {
+        "subjectId": 45,
+        "name": "Food Security",
+        "codes": [
+            "FNY"
+        ]
+    },
+    {
+        "subjectId": 63,
+        "name": "Law",
+        "codes": [
+            "LAW"
+        ]
+    },
+    {
+        "subjectId": 70,
+        "name": "Media",
+        "codes": [
+            "RTA"
+        ]
+    },
+    {
+        "subjectId": 28,
+        "name": "Child and Youth Care",
+        "codes": [
+            "CYC"
+        ]
+    },
+    {
+        "subjectId": 33,
+        "name": "Physics",
+        "codes": [
+            "PCS"
+        ]
+    },
+    {
+        "subjectId": 89,
+        "name": "Biomedical Science",
+        "codes": [
+            "BMS"
+        ]
+    },
+    {
+        "subjectId": 100,
+        "name": "Fashion - Design Leadership",
+        "codes": [
+            "FDL"
+        ]
+    },
+    {
+        "subjectId": 25,
+        "name": "Computer Engineering",
+        "codes": [
+            "COE"
+        ]
+    },
+    {
+        "subjectId": 78,
+        "name": "Fashion - Fashion Studies",
+        "codes": [
+            "FFS"
+        ]
+    },
+    {
+        "subjectId": 16,
+        "name": "Public Health and Occupational Health",
+        "codes": [
+            "POH"
+        ]
+    },
+    {
+        "subjectId": 79,
+        "name": "Professional Practice - Nursing",
+        "codes": [
+            "PPN"
+        ]
+    },
+    {
+        "subjectId": 95,
+        "name": "Language and Intercultural Relations",
+        "codes": [
+            "LIR"
+        ]
+    },
+    {
+        "subjectId": 37,
+        "name": "Electrical Engineering",
+        "codes": [
+            "EES",
+            "ELE"
+        ]
+    },
+    {
+        "subjectId": 65,
+        "name": "Human Resources",
+        "codes": [
+            "MHR"
+        ]
+    },
+    {
+        "subjectId": 77,
         "name": "Geography",
         "codes": [
             "GEO"

@@ -1,16 +1,30 @@
 [
     {
-        "subjectId": 0,
-        "name": "Other Courses",
+        "subjectId": 12,
+        "name": "Geology",
         "codes": [
-            "ANAT"
+            "GEOL"
         ]
     },
     {
-        "subjectId": 1,
-        "name": "Applied Science",
+        "subjectId": 14,
+        "name": "Geography",
         "codes": [
-            "APSC"
+            "GPHY"
+        ]
+    },
+    {
+        "subjectId": 16,
+        "name": "Multi-department Courses",
+        "codes": [
+            "MDEP"
+        ]
+    },
+    {
+        "subjectId": 20,
+        "name": "School of Urban and Regional Planning",
+        "codes": [
+            "SURP"
         ]
     },
     {
@@ -21,45 +35,18 @@
         ]
     },
     {
-        "subjectId": 3,
-        "name": "Biology",
-        "codes": [
-            "BIOL"
-        ]
-    },
-    {
         "subjectId": 4,
         "name": "Mathematics and Engineering",
         "codes": [
-            "BIOM"
+            "BIOM",
+            "MTHE"
         ]
     },
     {
-        "subjectId": 5,
-        "name": "Chemical Engineering",
+        "subjectId": 11,
+        "name": "Geological Engineering",
         "codes": [
-            "CHEE"
-        ]
-    },
-    {
-        "subjectId": 6,
-        "name": "Civil Engineering",
-        "codes": [
-            "CIVL"
-        ]
-    },
-    {
-        "subjectId": 7,
-        "name": "Computer Engineering",
-        "codes": [
-            "CMPE"
-        ]
-    },
-    {
-        "subjectId": 8,
-        "name": "Electrical Engineering",
-        "codes": [
-            "ELEC"
+            "GEOE"
         ]
     },
     {
@@ -77,17 +64,39 @@
         ]
     },
     {
-        "subjectId": 11,
-        "name": "Geological Engineering",
+        "subjectId": 15,
+        "name": "Microbiology",
         "codes": [
-            "GEOE"
+            "MBIO"
         ]
     },
     {
-        "subjectId": 12,
-        "name": "Geology",
+        "subjectId": 0,
+        "name": "Other Courses",
         "codes": [
-            "GEOL"
+            "ANAT"
+        ]
+    },
+    {
+        "subjectId": 1,
+        "name": "Applied Science",
+        "codes": [
+            "APSC"
+        ]
+    },
+    {
+        "subjectId": 7,
+        "name": "Computer Engineering",
+        "codes": [
+            "CMPE"
+        ]
+    },
+    {
+        "subjectId": 8,
+        "name": "Electrical Engineering",
+        "codes": [
+            "ELEC",
+            "SOFT"
         ]
     },
     {
@@ -98,24 +107,32 @@
         ]
     },
     {
-        "subjectId": 14,
-        "name": "Geography",
+        "subjectId": 18,
+        "name": "Mining Engineering",
         "codes": [
-            "GPHY"
+            "MINE"
         ]
     },
     {
-        "subjectId": 15,
-        "name": "Microbiology",
+        "subjectId": 3,
+        "name": "Biology",
         "codes": [
-            "MBIO"
+            "BIOL"
         ]
     },
     {
-        "subjectId": 16,
-        "name": "Multi-department Courses",
+        "subjectId": 5,
+        "name": "Chemical Engineering",
         "codes": [
-            "MDEP"
+            "CHEE",
+            "MICR"
+        ]
+    },
+    {
+        "subjectId": 6,
+        "name": "Civil Engineering",
+        "codes": [
+            "CIVL"
         ]
     },
     {
@@ -126,45 +143,10 @@
         ]
     },
     {
-        "subjectId": 18,
-        "name": "Chemical Engineering",
-        "codes": [
-            "MICR"
-        ]
-    },
-    {
         "subjectId": 19,
-        "name": "Mining Engineering",
-        "codes": [
-            "MINE"
-        ]
-    },
-    {
-        "subjectId": 20,
         "name": "Mining Technology",
         "codes": [
             "MNTC"
-        ]
-    },
-    {
-        "subjectId": 21,
-        "name": "Mathematics and Engineering",
-        "codes": [
-            "MTHE"
-        ]
-    },
-    {
-        "subjectId": 22,
-        "name": "Electrical Engineering",
-        "codes": [
-            "SOFT"
-        ]
-    },
-    {
-        "subjectId": 23,
-        "name": "School of Urban and Regional Planning",
-        "codes": [
-            "SURP"
         ]
     }
 ]

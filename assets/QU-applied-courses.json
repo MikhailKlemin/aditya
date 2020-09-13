@@ -1,5 +1,7 @@
 [
     {
+        "subjectId": 0,
+        "SubjectName": "Other Courses",
         "name": "Anatomy of the Human Body F,W,S | 3.0",
         "numericCode": "100",
         "courseCode": "ANAT",
@@ -9,6 +11,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Engineering Practice l FW |  K9",
         "numericCode": "100",
         "courseCode": "APSC",
@@ -18,6 +21,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Engineering Problem Solving and Modeling F |  K2.9",
         "numericCode": "101",
         "courseCode": "APSC",
@@ -27,6 +31,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Experimentation and Design F/W |  K2.8",
         "numericCode": "102",
         "courseCode": "APSC",
@@ -36,6 +41,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Engineering Design Project W |  K3.3",
         "numericCode": "103",
         "courseCode": "APSC",
@@ -45,6 +51,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Physics I F (6WK Sess2) | 3.3",
         "numericCode": "111",
         "courseCode": "APSC",
@@ -54,6 +61,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Physics II W | 3.3",
         "numericCode": "112",
         "courseCode": "APSC",
@@ -63,6 +71,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "NOT OFFERED 2020-2021 Electricity and Magnetism W | 3.3",
         "numericCode": "114",
         "courseCode": "APSC",
@@ -72,6 +81,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Chemistry and Materials F (6WK Sess1) | 3.3",
         "numericCode": "131",
         "courseCode": "APSC",
@@ -81,6 +91,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Chemistry and its Applications W | 3.3",
         "numericCode": "132",
         "courseCode": "APSC",
@@ -90,6 +101,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Introduction to Computer Programming for Engineers F/W | 3",
         "numericCode": "142",
         "courseCode": "APSC",
@@ -99,6 +111,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "NOT OFFERED 2020-2021 Introduction to Computer Programming for Engineers F | 3.3",
         "numericCode": "143",
         "courseCode": "APSC",
@@ -108,6 +121,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Earth Systems Engineering F (6WK Sess2) | 3.3",
         "numericCode": "151",
         "courseCode": "APSC",
@@ -117,6 +131,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Engineering Graphics W | 3.5",
         "numericCode": "161",
         "courseCode": "APSC",
@@ -126,6 +141,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Engineering Graphics W | 2.5",
         "numericCode": "162",
         "courseCode": "APSC",
@@ -135,6 +151,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Calculus I F (6WK Sess1) | 3.3",
         "numericCode": "171",
         "courseCode": "APSC",
@@ -144,6 +161,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Calculus II W | 3.3",
         "numericCode": "172",
         "courseCode": "APSC",
@@ -153,6 +171,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Introduction to Linear Algebra W | 3.3",
         "numericCode": "174",
         "courseCode": "APSC",
@@ -162,6 +181,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Applied Engineering Mechanics W, F | 1.7",
         "numericCode": "182",
         "courseCode": "APSC",
@@ -171,6 +191,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Deleted - Professional Engineering Skills FW | 3.5",
         "numericCode": "191",
         "courseCode": "APSC",
@@ -180,6 +201,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "English Proficiency for Engineers FW, S |  K0.2",
         "numericCode": "199",
         "courseCode": "APSC",
@@ -189,6 +211,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Engineering Design and Practice II FW |  K4",
         "numericCode": "200",
         "courseCode": "APSC",
@@ -198,6 +221,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Engineering Design and Practice II: Client-Based Design W |  K4",
         "numericCode": "202",
         "courseCode": "APSC",
@@ -207,6 +231,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Economics and Business Practices in Engineering F/W/S | 3",
         "numericCode": "221",
         "courseCode": "APSC",
@@ -216,6 +241,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Global Project Management S |  K3",
         "numericCode": "223",
         "courseCode": "APSC",
@@ -225,6 +251,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "NOT OFFERED 2020-2021 Biology Through an Engineering Lens S/OL |  K3.5",
         "numericCode": "250",
         "courseCode": "APSC",
@@ -234,6 +261,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "NOT OFFERED THIS YEAR: Engineering Surveying  | 3.25",
         "numericCode": "262",
         "courseCode": "APSC",
@@ -243,6 +271,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "NOT OFFERED THIS YEAR: Engineering Communications I F | 1",
         "numericCode": "291",
         "courseCode": "APSC",
@@ -252,6 +281,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Deleted - Engineering Communications II W | 1.25",
         "numericCode": "292",
         "courseCode": "APSC",
@@ -261,6 +291,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Engineering Communications l FW |  K1",
         "numericCode": "293",
         "courseCode": "APSC",
@@ -270,6 +301,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Professional Internship  | 3.5",
         "numericCode": "301",
         "courseCode": "APSC",
@@ -279,6 +311,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Professional Internship  | 3.5",
         "numericCode": "302",
         "courseCode": "APSC",
@@ -288,6 +321,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Professional Internship  | 3.5",
         "numericCode": "303",
         "courseCode": "APSC",
@@ -297,6 +331,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Professional Internship  | 3.5",
         "numericCode": "304",
         "courseCode": "APSC",
@@ -306,6 +341,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Deleted - Economic and Business Practices in Mining and Geological Engineering  |",
         "numericCode": "321",
         "courseCode": "APSC",
@@ -315,6 +351,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "NOT OFFERED 2020-2021 Advanced Design and Skills for Innovation W |  K3.5",
         "numericCode": "381",
         "courseCode": "APSC",
@@ -324,6 +361,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "NOT OFFERED 2020-2021 Technology, Engineering \u0026 Management (TEAM) FW* |  K7",
         "numericCode": "400",
         "courseCode": "APSC",
@@ -333,6 +371,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Interdisciplinary Projects W |  K4.5",
         "numericCode": "401",
         "courseCode": "APSC",
@@ -342,6 +381,7 @@
     },
     {
         "subjectId": 1,
+        "SubjectName": "Applied Science",
         "name": "Multi-disciplinary Industry Engineering Design Project FW |  K9",
         "numericCode": "480",
         "courseCode": "APSC",
@@ -351,6 +391,7 @@
     },
     {
         "subjectId": 2,
+        "SubjectName": "Biochemistry",
         "name": "Deleted-General Biochemistry FW | 9",
         "numericCode": "310",
         "courseCode": "BCHM",
@@ -360,6 +401,7 @@
     },
     {
         "subjectId": 2,
+        "SubjectName": "Biochemistry",
         "name": "Deleted-Protein Structure and Function F | 3",
         "numericCode": "410",
         "courseCode": "BCHM",
@@ -369,6 +411,7 @@
     },
     {
         "subjectId": 2,
+        "SubjectName": "Biochemistry",
         "name": "Proteins and Enzymes F | 3",
         "numericCode": "315",
         "courseCode": "BCHM",
@@ -378,6 +421,7 @@
     },
     {
         "subjectId": 3,
+        "SubjectName": "Biology",
         "name": "Deleted-Introductory Biology of Cells F | 3",
         "numericCode": "102",
         "courseCode": "BIOL",
@@ -387,6 +431,7 @@
     },
     {
         "subjectId": 3,
+        "SubjectName": "Biology",
         "name": "Deleted-Introductory to Biology of Organisms W | 3",
         "numericCode": "103",
         "courseCode": "BIOL",
@@ -396,6 +441,7 @@
     },
     {
         "subjectId": 3,
+        "SubjectName": "Biology",
         "name": "Mendelian and Molecular Genetics F | 3",
         "numericCode": "205",
         "courseCode": "BIOL",
@@ -405,6 +451,7 @@
     },
     {
         "subjectId": 3,
+        "SubjectName": "Biology",
         "name": "Limnology and Aquatic Ecology F | 3",
         "numericCode": "335",
         "courseCode": "BIOL",
@@ -414,6 +461,7 @@
     },
     {
         "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Modeling Techniques in Biology W | 3",
         "numericCode": "300",
         "courseCode": "BIOM",
@@ -423,6 +471,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Analysis of Process Data F (6WK Sess2) | 3.5",
         "numericCode": "209",
         "courseCode": "CHEE",
@@ -432,6 +481,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Thermodynamics of Energy Conversion Systems W | 3.5",
         "numericCode": "210",
         "courseCode": "CHEE",
@@ -441,6 +491,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Laboratory Projects I W | 2.5",
         "numericCode": "218",
         "courseCode": "CHEE",
@@ -450,6 +501,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Chemical Processes and Systems F | 3.5",
         "numericCode": "221",
         "courseCode": "CHEE",
@@ -459,6 +511,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Process Dynamics and Numerical Methods W | 3.5",
         "numericCode": "222",
         "courseCode": "CHEE",
@@ -468,6 +521,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Fluid Mechanics W | 3.5",
         "numericCode": "223",
         "courseCode": "CHEE",
@@ -477,6 +531,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Transport Phenomena Fundamentals F (6WK Sess1) | 3",
         "numericCode": "224",
         "courseCode": "CHEE",
@@ -486,6 +541,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Cell Based Engineering Principles F (6WK Sess1) | 4",
         "numericCode": "229",
         "courseCode": "CHEE",
@@ -495,6 +551,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "ChemEtronics F (6WK Sess1) |  K3",
         "numericCode": "270",
         "courseCode": "CHEE",
@@ -504,6 +561,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Technical Entrepreneurship W/OL, F/OL |  K3.5",
         "numericCode": "302",
         "courseCode": "CHEE",
@@ -513,6 +571,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Deleted-Engineering Innovation and Entrepreneurship F | 3.5",
         "numericCode": "310",
         "courseCode": "CHEE",
@@ -522,6 +581,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Fluid Phase and Reaction Equilibrium F | 3.5",
         "numericCode": "311",
         "courseCode": "CHEE",
@@ -531,6 +591,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Laboratory Projects II W | 4",
         "numericCode": "315",
         "courseCode": "CHEE",
@@ -540,6 +601,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Process Dynamics and Control W | 3.5",
         "numericCode": "319",
         "courseCode": "CHEE",
@@ -549,6 +611,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Chemical Reaction Engineering F (6WK Sess1) | 3.5",
         "numericCode": "321",
         "courseCode": "CHEE",
@@ -558,6 +621,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "NOT OFFERED 2020-2021 Industrial Catalysis W | 3.5",
         "numericCode": "323",
         "courseCode": "CHEE",
@@ -567,6 +631,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Organic Process Development W | 3.5",
         "numericCode": "324",
         "courseCode": "CHEE",
@@ -576,6 +641,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Heat and Mass Transfer F | 3.5",
         "numericCode": "330",
         "courseCode": "CHEE",
@@ -585,6 +651,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Design of Unit Operations W |  K 4.5",
         "numericCode": "331",
         "courseCode": "CHEE",
@@ -594,6 +661,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Design of Unit Operations (DELETED) W |  K 4.5",
         "numericCode": "332",
         "courseCode": "CHEE",
@@ -603,6 +671,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Design of Unit Operations (DELETED) W |  K 4.5",
         "numericCode": "333",
         "courseCode": "CHEE",
@@ -612,6 +681,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Biomedical Engineering W | 3.5",
         "numericCode": "340",
         "courseCode": "CHEE",
@@ -621,6 +691,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Environmental Biotechnology F | 3.5",
         "numericCode": "342",
         "courseCode": "CHEE",
@@ -630,6 +701,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Deleted - Technical Communications W | 1.5",
         "numericCode": "360",
         "courseCode": "CHEE",
@@ -639,6 +711,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Engineering Communications, Ethics \u0026 Professionalism W |  K1",
         "numericCode": "361",
         "courseCode": "CHEE",
@@ -648,6 +721,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Electrochemical Engineering* W | 3.5",
         "numericCode": "363",
         "courseCode": "CHEE",
@@ -657,6 +731,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Deleted - Waste Treatment Processes W | 3.5",
         "numericCode": "370",
         "courseCode": "CHEE",
@@ -666,6 +741,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Mitigation of Industrial Pollution W | 3.5",
         "numericCode": "371",
         "courseCode": "CHEE",
@@ -675,6 +751,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Biochemical Engineering F (6WK Sess2) | 3.5",
         "numericCode": "380",
         "courseCode": "CHEE",
@@ -684,6 +761,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "DELETED Technology, Engineering \u0026 Management (TEAM) FW |  K7",
         "numericCode": "400",
         "courseCode": "CHEE",
@@ -693,6 +771,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "DELETED - Biochemical/Biomedical Research Project FW | 7",
         "numericCode": "405",
         "courseCode": "CHEE",
@@ -702,6 +781,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "DELETED - Bioenvironmental Research Project FW | 7",
         "numericCode": "406",
         "courseCode": "CHEE",
@@ -711,6 +791,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Deleted - Biochemical/Biomedical/Bioenvironmental Research Seminar W | 3",
         "numericCode": "407",
         "courseCode": "CHEE",
@@ -720,6 +801,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Bioengineering Research Project FW |  K7",
         "numericCode": "408",
         "courseCode": "CHEE",
@@ -729,6 +811,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Engineering Innovation and Entrepreneurship W |  4",
         "numericCode": "410",
         "courseCode": "CHEE",
@@ -738,6 +821,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Transport Phenomena W | 3.5",
         "numericCode": "412",
         "courseCode": "CHEE",
@@ -747,6 +831,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Foundations of the Oil and Gas Industry W |  3.5",
         "numericCode": "414",
         "courseCode": "CHEE",
@@ -756,6 +841,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Engineering Chemistry Laboratory W | 4",
         "numericCode": "415",
         "courseCode": "CHEE",
@@ -765,6 +851,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Strategies for Process Investigations F | 3.5",
         "numericCode": "418",
         "courseCode": "CHEE",
@@ -774,6 +861,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Laboratory Projects III W |  K 4",
         "numericCode": "420",
         "courseCode": "CHEE",
@@ -783,6 +871,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Research Project FW |  K 7",
         "numericCode": "421",
         "courseCode": "CHEE",
@@ -792,6 +881,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "NOT OFFERED 2020-2021 Process Control II W | 3.5",
         "numericCode": "434",
         "courseCode": "CHEE",
@@ -801,6 +891,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Deleted-System Identification F | 3.5",
         "numericCode": "436",
         "courseCode": "CHEE",
@@ -810,6 +901,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Pharmaceutical Technology W | 3.5",
         "numericCode": "440",
         "courseCode": "CHEE",
@@ -819,6 +911,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "DELETED - Engineering Biology W | 3.5",
         "numericCode": "450",
         "courseCode": "CHEE",
@@ -828,6 +921,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Transport Phenomena in Physiological Systems F | 3.5",
         "numericCode": "452",
         "courseCode": "CHEE",
@@ -837,6 +931,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Applied Surface and Colloid Science F | 3.5",
         "numericCode": "460",
         "courseCode": "CHEE",
@@ -846,6 +941,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Electrochemical Energy Systems W | 3.5",
         "numericCode": "463",
         "courseCode": "CHEE",
@@ -855,6 +951,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Design of Manufacturing Processes F |  K 7",
         "numericCode": "470",
         "courseCode": "CHEE",
@@ -864,6 +961,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Chemical Process Design FW |  7",
         "numericCode": "471",
         "courseCode": "CHEE",
@@ -873,6 +971,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "DELETED - Air Quality Management W | 3.5",
         "numericCode": "481",
         "courseCode": "CHEE",
@@ -882,6 +981,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "NOT OFFERED 2020-2021 Bioremediation W | 3.5",
         "numericCode": "484",
         "courseCode": "CHEE",
@@ -891,6 +991,7 @@
     },
     {
         "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Polymer Formulations and Processing Technology W | 3.5",
         "numericCode": "490",
         "courseCode": "CHEE",
@@ -900,6 +1001,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Professional Skills I F |  K 2.5",
         "numericCode": "200",
         "courseCode": "CIVL",
@@ -909,6 +1011,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Professional Skills F/W | 2.5",
         "numericCode": "201",
         "courseCode": "CIVL",
@@ -918,6 +1021,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Chemistry for Civil Engineers F | 4.5",
         "numericCode": "210",
         "courseCode": "CIVL",
@@ -927,6 +1031,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Materials for Civil Engineers W | 4.5",
         "numericCode": "215",
         "courseCode": "CIVL",
@@ -936,6 +1041,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Deleted - Statics and Solid Mechanics F | 4",
         "numericCode": "220",
         "courseCode": "CIVL",
@@ -945,6 +1051,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Numerical Methods for Civil Engineers W | 5",
         "numericCode": "222",
         "courseCode": "CIVL",
@@ -954,6 +1061,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Solid Mechanics I F | 4.25",
         "numericCode": "230",
         "courseCode": "CIVL",
@@ -963,6 +1071,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Solid Mechanics II W | 4.5",
         "numericCode": "231",
         "courseCode": "CIVL",
@@ -972,6 +1081,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Hydraulics I W | 4",
         "numericCode": "250",
         "courseCode": "CIVL",
@@ -981,6 +1091,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Deleted - Civil Engineering Design I F | 4",
         "numericCode": "260",
         "courseCode": "CIVL",
@@ -990,6 +1101,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Professional Skills II F |  K 2.5",
         "numericCode": "300",
         "courseCode": "CIVL",
@@ -999,6 +1111,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Structural Analysis F | 3.75",
         "numericCode": "330",
         "courseCode": "CIVL",
@@ -1008,6 +1121,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Structural Steel Design W | 4",
         "numericCode": "331",
         "courseCode": "CIVL",
@@ -1017,6 +1131,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Geotechnical Engineering I F | 3.75",
         "numericCode": "340",
         "courseCode": "CIVL",
@@ -1026,6 +1141,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Geotechnical Engineering II W | 4",
         "numericCode": "341",
         "courseCode": "CIVL",
@@ -1035,6 +1151,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Hydraulics II F | 3.75",
         "numericCode": "350",
         "courseCode": "CIVL",
@@ -1044,6 +1161,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Civil Engineering Design and Practice III W |  K4",
         "numericCode": "360",
         "courseCode": "CIVL",
@@ -1053,6 +1171,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Deleted - Fundamentals of Environmental Engineering  |",
         "numericCode": "370",
         "courseCode": "CIVL",
@@ -1062,6 +1181,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Groundwater Engineering F | 3.75",
         "numericCode": "371",
         "courseCode": "CIVL",
@@ -1071,6 +1191,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Water and Wastewater Engineering W | 4",
         "numericCode": "372",
         "courseCode": "CIVL",
@@ -1080,6 +1201,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Deleted - Applied Sustainability and Public Health in Civil Engineering  |",
         "numericCode": "380",
         "courseCode": "CIVL",
@@ -1089,6 +1211,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Professional Skills III F | 2.5",
         "numericCode": "400",
         "courseCode": "CIVL",
@@ -1098,6 +1221,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Deleted - Engineering Report F | 3.5",
         "numericCode": "409",
         "courseCode": "CIVL",
@@ -1107,6 +1231,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Reinforced Concrete Design F | 3.75",
         "numericCode": "430",
         "courseCode": "CIVL",
@@ -1116,6 +1241,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Infrastructure Rehabilitation W | 4",
         "numericCode": "431",
         "courseCode": "CIVL",
@@ -1125,6 +1251,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Prestressed Concrete W | 4",
         "numericCode": "436",
         "courseCode": "CIVL",
@@ -1134,6 +1261,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Geotechnical Design F | 3.75",
         "numericCode": "442",
         "courseCode": "CIVL",
@@ -1143,6 +1271,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Geoenvironmental Design W | 4",
         "numericCode": "443",
         "courseCode": "CIVL",
@@ -1152,6 +1281,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Municipal Hydraulics F | 3.75",
         "numericCode": "450",
         "courseCode": "CIVL",
@@ -1161,6 +1291,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Lake, Reservoir and Coastal Engineering F | 3.75",
         "numericCode": "451",
         "courseCode": "CIVL",
@@ -1170,6 +1301,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "River Engineering F | 4",
         "numericCode": "455",
         "courseCode": "CIVL",
@@ -1179,6 +1311,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Civil Engineering Design and Practice IV FW |  K6",
         "numericCode": "460",
         "courseCode": "CIVL",
@@ -1188,6 +1321,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Deleted - Municipal Water Engineering  |",
         "numericCode": "470",
         "courseCode": "CIVL",
@@ -1197,6 +1331,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Subsurface Contamination F | 4",
         "numericCode": "471",
         "courseCode": "CIVL",
@@ -1206,6 +1341,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "NOT OFFERED 2020-2021 Water Treatment W | 3.75",
         "numericCode": "472",
         "courseCode": "CIVL",
@@ -1215,6 +1351,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Water Resources System W | 3.75",
         "numericCode": "473",
         "courseCode": "CIVL",
@@ -1224,6 +1361,7 @@
     },
     {
         "subjectId": 6,
+        "SubjectName": "Civil Engineering",
         "name": "Civil Engineering Thesis FW |  K4",
         "numericCode": "500",
         "courseCode": "CIVL",
@@ -1233,6 +1371,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Logic for Computing Science F/W | 3",
         "numericCode": "204",
         "courseCode": "CMPE",
@@ -1242,6 +1381,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Introduction to Computing Science II F/W | 4",
         "numericCode": "212",
         "courseCode": "CMPE",
@@ -1251,6 +1391,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Software Specifications W | 3",
         "numericCode": "223",
         "courseCode": "CMPE",
@@ -1260,6 +1401,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Data Analytics F | 3",
         "numericCode": "251",
         "courseCode": "CMPE",
@@ -1269,6 +1411,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "DELETED - Scientific Computing W | 3",
         "numericCode": "271",
         "courseCode": "CMPE",
@@ -1278,6 +1421,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Fundamentals of Software Development F | 4",
         "numericCode": "320",
         "courseCode": "CMPE",
@@ -1287,6 +1431,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Software Architecture W | 4",
         "numericCode": "322",
         "courseCode": "CMPE",
@@ -1296,6 +1441,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Operating Systems W | 3",
         "numericCode": "324",
         "courseCode": "CMPE",
@@ -1305,6 +1451,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Human-Computer Interaction W | 3",
         "numericCode": "325",
         "courseCode": "CMPE",
@@ -1314,6 +1461,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Game Architecture DELETED F | 4",
         "numericCode": "326",
         "courseCode": "CMPE",
@@ -1323,6 +1471,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Software Quality Assurance F | 3",
         "numericCode": "327",
         "courseCode": "CMPE",
@@ -1332,6 +1481,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Computer-Integrated Surgery F | 3",
         "numericCode": "330",
         "courseCode": "CMPE",
@@ -1341,6 +1491,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Database Management Systems W | 3",
         "numericCode": "332",
         "courseCode": "CMPE",
@@ -1350,6 +1501,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "DELETED Data Analytics F | 3",
         "numericCode": "333",
         "courseCode": "CMPE",
@@ -1359,6 +1511,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Advanced Data Analytics W | 3",
         "numericCode": "351",
         "courseCode": "CMPE",
@@ -1368,6 +1521,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Algorithms I F | 4",
         "numericCode": "365",
         "courseCode": "CMPE",
@@ -1377,6 +1531,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Formal Methods in Software Engineering F | 3",
         "numericCode": "422",
         "courseCode": "CMPE",
@@ -1386,6 +1541,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "NOT OFFERED 2019-2020 Advanced User Interface Design W | 3",
         "numericCode": "425",
         "courseCode": "CMPE",
@@ -1395,6 +1551,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "NOT OFFERED 2019-2020 Advanced Database Systems F | 3",
         "numericCode": "432",
         "courseCode": "CMPE",
@@ -1404,6 +1561,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "NOT OFFERED THIS YEAR: Distributed Systems F | 3",
         "numericCode": "434",
         "courseCode": "CMPE",
@@ -1413,6 +1571,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Neural Networks and Genetic Algorithms F | 3",
         "numericCode": "452",
         "courseCode": "CMPE",
@@ -1422,6 +1581,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Computer Graphics W | 3",
         "numericCode": "454",
         "courseCode": "CMPE",
@@ -1431,6 +1591,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Image Processing and Computer Vision F | 3",
         "numericCode": "457",
         "courseCode": "CMPE",
@@ -1440,6 +1601,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Programming Language Processors W | 4",
         "numericCode": "458",
         "courseCode": "CMPE",
@@ -1449,6 +1611,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Computational Biology F | 3",
         "numericCode": "471",
         "courseCode": "CMPE",
@@ -1458,6 +1621,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Medical Informatics W | 3",
         "numericCode": "472",
         "courseCode": "CMPE",
@@ -1467,6 +1631,7 @@
     },
     {
         "subjectId": 7,
+        "SubjectName": "Computer Engineering",
         "name": "Deleted - Computational Biology Laboratory W |  K 1",
         "numericCode": "480",
         "courseCode": "CMPE",
@@ -1476,6 +1641,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "DELETED Introductory Electric Circuits and Machines W | 4.25",
         "numericCode": "210",
         "courseCode": "ELEC",
@@ -1485,6 +1651,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Electric Circuits F | 4.25",
         "numericCode": "221",
         "courseCode": "ELEC",
@@ -1494,6 +1661,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Continuous-Time Signals and Systems W | 3.75",
         "numericCode": "224",
         "courseCode": "ELEC",
@@ -1503,6 +1671,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Electronics I W | 4.25",
         "numericCode": "252",
         "courseCode": "ELEC",
@@ -1512,6 +1681,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Discrete Mathematics with Computer Engineering Applications W | 3.5",
         "numericCode": "270",
         "courseCode": "ELEC",
@@ -1521,6 +1691,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Digital Systems F | 4",
         "numericCode": "271",
         "courseCode": "ELEC",
@@ -1530,6 +1701,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "DELETED - Numerical Methods and Optimization W | 3.5",
         "numericCode": "273",
         "courseCode": "ELEC",
@@ -1539,6 +1711,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Computer Architecture W | 4",
         "numericCode": "274",
         "courseCode": "ELEC",
@@ -1548,6 +1721,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Fundamentals of Information Structures F | 4",
         "numericCode": "278",
         "courseCode": "ELEC",
@@ -1557,6 +1731,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Introduction to Object Oriented Programming W | 4",
         "numericCode": "279",
         "courseCode": "ELEC",
@@ -1566,6 +1741,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Fundamentals of Electromagnetics W | 3.75",
         "numericCode": "280",
         "courseCode": "ELEC",
@@ -1575,6 +1751,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Deleted - Electrical and Computer Engineering Laboratory I  |",
         "numericCode": "293",
         "courseCode": "ELEC",
@@ -1584,6 +1761,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Deleted - Electrical and Computer Engineering Laboratory II  |",
         "numericCode": "294",
         "courseCode": "ELEC",
@@ -1593,6 +1771,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Mechatronics Project S |  K1.5",
         "numericCode": "299",
         "courseCode": "ELEC",
@@ -1602,6 +1781,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "DELETED 2018-2019 -Introductory Analog Electronic and Digital Circuits F | 4.5",
         "numericCode": "310",
         "courseCode": "ELEC",
@@ -1611,6 +1791,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "DELETED - Continuous-Time Signals and Systems F | 3.75",
         "numericCode": "323",
         "courseCode": "ELEC",
@@ -1620,6 +1801,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Discrete-Time Signals and Systems F | 4",
         "numericCode": "324",
         "courseCode": "ELEC",
@@ -1629,6 +1811,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Probability and Random Processes F | 3.5",
         "numericCode": "326",
         "courseCode": "ELEC",
@@ -1638,6 +1821,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Electric Machines W | 4.25",
         "numericCode": "333",
         "courseCode": "ELEC",
@@ -1647,6 +1831,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "NOT OFFERED 2020-2021 Sensors and Actuators F | 3.75",
         "numericCode": "344",
         "courseCode": "ELEC",
@@ -1656,6 +1841,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Electronics II F | 4.25",
         "numericCode": "353",
         "courseCode": "ELEC",
@@ -1665,6 +1851,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Microprocessor Interfacing and Embedded Systems F | 4",
         "numericCode": "371",
         "courseCode": "ELEC",
@@ -1674,6 +1861,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Numerical Methods and Optimization W | 3.5",
         "numericCode": "372",
         "courseCode": "ELEC",
@@ -1683,6 +1871,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Computer Networks W | 3.5",
         "numericCode": "373",
         "courseCode": "ELEC",
@@ -1692,6 +1881,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Digital Systems Engineering W | 4.25",
         "numericCode": "374",
         "courseCode": "ELEC",
@@ -1701,6 +1891,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Operating Systems F | 4",
         "numericCode": "377",
         "courseCode": "ELEC",
@@ -1710,6 +1901,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Applications of Electromagnetics W | 3.75",
         "numericCode": "381",
         "courseCode": "ELEC",
@@ -1719,6 +1911,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Principles of Design and Development W |  K3.5",
         "numericCode": "390",
         "courseCode": "ELEC",
@@ -1728,6 +1921,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Biomedical Signal and Image Processing W | 3",
         "numericCode": "408",
         "courseCode": "ELEC",
@@ -1737,6 +1931,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "NOT OFFERED 2020-2021 Bioinformatic Analytics F | 3",
         "numericCode": "409",
         "courseCode": "ELEC",
@@ -1746,6 +1941,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "NOT OFFERED 2020-2021 Digital Signal Processing: Filters and System Design F | 4",
         "numericCode": "421",
         "courseCode": "ELEC",
@@ -1755,6 +1951,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Digital Signal Processing: Random Models and Applications F | 3.5",
         "numericCode": "422",
         "courseCode": "ELEC",
@@ -1764,6 +1961,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Machine Learning and Deep Learning F | 3.5",
         "numericCode": "425",
         "courseCode": "ELEC",
@@ -1773,6 +1971,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Power Electronics F | 3.25",
         "numericCode": "431",
         "courseCode": "ELEC",
@@ -1782,6 +1981,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "NOT OFFERED 2020-2021 Energy and Power Systems W | 3.5",
         "numericCode": "433",
         "courseCode": "ELEC",
@@ -1791,6 +1991,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Electric Machines and Control W | 3",
         "numericCode": "436",
         "courseCode": "ELEC",
@@ -1800,6 +2001,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Linear Control Systems F | 4.25",
         "numericCode": "443",
         "courseCode": "ELEC",
@@ -1809,6 +2011,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "NOT OFFERED 2020-2021 Modeling and Computer Control of Mechatronic Systems W | 3.25",
         "numericCode": "444",
         "courseCode": "ELEC",
@@ -1818,6 +2021,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Introduction to Robotics: Mechanics and Control W | 3.5",
         "numericCode": "448",
         "courseCode": "ELEC",
@@ -1827,6 +2031,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Digital Integrated Circuit Engineering W | 3.25",
         "numericCode": "451",
         "courseCode": "ELEC",
@@ -1836,6 +2041,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "NOT OFFERED 2020-2021 Analog Electronics W | 3.25",
         "numericCode": "454",
         "courseCode": "ELEC",
@@ -1845,6 +2051,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Integrated Circuits and System Applications W | 3.25",
         "numericCode": "457",
         "courseCode": "ELEC",
@@ -1854,6 +2061,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Digital Communications W | 3.5",
         "numericCode": "461",
         "courseCode": "ELEC",
@@ -1863,6 +2071,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "NOT OFFERED 2020-2021 Wireless Communications F | 3",
         "numericCode": "464",
         "courseCode": "ELEC",
@@ -1872,6 +2081,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Computer System Architecture W | 3.5",
         "numericCode": "470",
         "courseCode": "ELEC",
@@ -1881,6 +2091,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Artificial Intelligence W | 3.5",
         "numericCode": "472",
         "courseCode": "ELEC",
@@ -1890,6 +2101,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Cryptography and Network Security F | 3",
         "numericCode": "473",
         "courseCode": "ELEC",
@@ -1899,6 +2111,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Machine Vision F | 3.5",
         "numericCode": "474",
         "courseCode": "ELEC",
@@ -1908,6 +2121,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "DELETED - Modelling and Systems Simulation W | 3.5",
         "numericCode": "476",
         "courseCode": "ELEC",
@@ -1917,6 +2131,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "DELETED - Computer Networks II W | 3",
         "numericCode": "478",
         "courseCode": "ELEC",
@@ -1926,6 +2141,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Applications of Photonics W | 3",
         "numericCode": "481",
         "courseCode": "ELEC",
@@ -1935,6 +2151,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "NOT OFFERED 2020-2021 Microwave and RF Circuits and Systems W | 4.25",
         "numericCode": "483",
         "courseCode": "ELEC",
@@ -1944,6 +2161,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "NOT OFFERED 2020-2021 Fiber Optic Communications W | 3.75",
         "numericCode": "486",
         "courseCode": "ELEC",
@@ -1953,6 +2171,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Electrical Engineering Project FW |  K7",
         "numericCode": "490",
         "courseCode": "ELEC",
@@ -1962,6 +2181,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Advanced ECE Thesis I S | 6",
         "numericCode": "491",
         "courseCode": "ELEC",
@@ -1971,6 +2191,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Advanced ECE Thesis II FW | 6",
         "numericCode": "492",
         "courseCode": "ELEC",
@@ -1980,6 +2201,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Research Project FW/S |  K3.5",
         "numericCode": "497",
         "courseCode": "ELEC",
@@ -1989,6 +2211,7 @@
     },
     {
         "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Computer Engineering Project FW |  K7",
         "numericCode": "498",
         "courseCode": "ELEC",
@@ -1998,6 +2221,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Main Group Chemistry F | 4.75",
         "numericCode": "211",
         "courseCode": "ENCH",
@@ -2007,6 +2231,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Principles of Chemical Reactivity F | 4",
         "numericCode": "212",
         "courseCode": "ENCH",
@@ -2016,6 +2241,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Introduction to Chemical Analysis F | 4.5",
         "numericCode": "213",
         "courseCode": "ENCH",
@@ -2025,6 +2251,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Methods of Structure Determination W | 3.75",
         "numericCode": "222",
         "courseCode": "ENCH",
@@ -2034,6 +2261,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Applied Organic Chemistry I W | 4.75",
         "numericCode": "245",
         "courseCode": "ENCH",
@@ -2043,6 +2271,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Deleted - General Organic Chemistry I F | 4.5",
         "numericCode": "281",
         "courseCode": "ENCH",
@@ -2052,6 +2281,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Mechanistic Organic Chemistry F | 3.5",
         "numericCode": "311",
         "courseCode": "ENCH",
@@ -2061,6 +2291,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Transition Metal Chemistry F | 3.5",
         "numericCode": "312",
         "courseCode": "ENCH",
@@ -2070,6 +2301,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Quantum Mechanics F | 3.5",
         "numericCode": "313",
         "courseCode": "ENCH",
@@ -2079,6 +2311,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Instrumental Chemical Analysis W | 3",
         "numericCode": "321",
         "courseCode": "ENCH",
@@ -2088,6 +2321,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "The Chemical Bond: Computation and Spectroscopy W | 3.5",
         "numericCode": "322",
         "courseCode": "ENCH",
@@ -2097,6 +2331,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Biological Chemistry W | 3",
         "numericCode": "323",
         "courseCode": "ENCH",
@@ -2106,6 +2341,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Environmental and Green Chemistry W | 3",
         "numericCode": "326",
         "courseCode": "ENCH",
@@ -2115,6 +2351,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Deleted-Applied Organic Chemistry II W | 3",
         "numericCode": "345",
         "courseCode": "ENCH",
@@ -2124,6 +2361,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Experimental Chemistry FW | 7",
         "numericCode": "397",
         "courseCode": "ENCH",
@@ -2133,6 +2371,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Experimental Chemistry I F | 3.5",
         "numericCode": "398",
         "courseCode": "ENCH",
@@ -2142,6 +2381,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Experimental Chemistry II W | 3.5",
         "numericCode": "399",
         "courseCode": "ENCH",
@@ -2151,6 +2391,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Advanced Analytical Chemistry F | 3",
         "numericCode": "411",
         "courseCode": "ENCH",
@@ -2160,6 +2401,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "NOT OFFERED 2020-2021 - Statistical Mechanics W | 3",
         "numericCode": "412",
         "courseCode": "ENCH",
@@ -2169,6 +2411,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Computational Chemistry F | 3",
         "numericCode": "413",
         "courseCode": "ENCH",
@@ -2178,6 +2421,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Catalysis F | 3",
         "numericCode": "414",
         "courseCode": "ENCH",
@@ -2187,6 +2431,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Electrochemistry and Electrocatalysis W | 3",
         "numericCode": "415",
         "courseCode": "ENCH",
@@ -2196,6 +2441,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Research Project FW | 9",
         "numericCode": "417",
         "courseCode": "ENCH",
@@ -2205,6 +2451,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Advanced Methods in Physical Chemistry W | 3",
         "numericCode": "421",
         "courseCode": "ENCH",
@@ -2214,6 +2461,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Synthetic Organic Chemistry W | 3.5",
         "numericCode": "422",
         "courseCode": "ENCH",
@@ -2223,6 +2471,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "Topics in Inorganic and Organometallic Chemistry W | 3",
         "numericCode": "423",
         "courseCode": "ENCH",
@@ -2232,6 +2481,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "NOT OFFERED 2020-2021 Polymer Chemistry W | 3",
         "numericCode": "424",
         "courseCode": "ENCH",
@@ -2241,6 +2491,7 @@
     },
     {
         "subjectId": 9,
+        "SubjectName": "Engineering Chemistry",
         "name": "NOT OFFERED 2020-2021 Self-Assembly and Materials W | 3",
         "numericCode": "425",
         "courseCode": "ENCH",
@@ -2250,6 +2501,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Applied Physics W | 3.5",
         "numericCode": "211",
         "courseCode": "ENPH",
@@ -2259,6 +2511,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Computational Engineering Physics W | 4",
         "numericCode": "213",
         "courseCode": "ENPH",
@@ -2268,6 +2521,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Mechanics W | 3.5",
         "numericCode": "225",
         "courseCode": "ENPH",
@@ -2277,6 +2531,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Electricity and Magnetism W | 3.5",
         "numericCode": "239",
         "courseCode": "ENPH",
@@ -2286,6 +2541,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Relativity and Quanta F | 3.5",
         "numericCode": "242",
         "courseCode": "ENPH",
@@ -2295,6 +2551,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Deleted - Engineering Physics Laboratory and Statistics FW | 4.25",
         "numericCode": "251",
         "courseCode": "ENPH",
@@ -2304,6 +2561,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Management of Experimental Data W | 1.25",
         "numericCode": "252",
         "courseCode": "ENPH",
@@ -2313,6 +2571,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Engineering Physics Laboratory W |  K3.5",
         "numericCode": "253",
         "courseCode": "ENPH",
@@ -2322,6 +2581,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Deleted - Thermodynamics W | 3.5",
         "numericCode": "274",
         "courseCode": "ENPH",
@@ -2331,6 +2591,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "DELETED - Mathematical Methods in Physics FW | 7",
         "numericCode": "312",
         "courseCode": "ENPH",
@@ -2340,6 +2601,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Mathematical Methods in  Physics I F | 3.5",
         "numericCode": "316",
         "courseCode": "ENPH",
@@ -2349,6 +2611,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Mathematical Methods in  Physics II W | 3.5",
         "numericCode": "317",
         "courseCode": "ENPH",
@@ -2358,6 +2621,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Advanced Mechanics W | 3.5",
         "numericCode": "321",
         "courseCode": "ENPH",
@@ -2367,6 +2631,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Deleted - Electromagnetic Theory W | 3.5",
         "numericCode": "332",
         "courseCode": "ENPH",
@@ -2376,6 +2641,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Deleted - Electronics for Scientists and Engineers  |",
         "numericCode": "333",
         "courseCode": "ENPH",
@@ -2385,6 +2651,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Electronics for Applied Scientists F | 5",
         "numericCode": "334",
         "courseCode": "ENPH",
@@ -2394,6 +2661,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Solid State Devices W | 3.25",
         "numericCode": "336",
         "courseCode": "ENPH",
@@ -2403,6 +2671,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Introduction to Quantum Mechanics F | 3.5",
         "numericCode": "344",
         "courseCode": "ENPH",
@@ -2412,6 +2681,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Quantum Physics of Atoms, Nuclei and Particles W | 3.5",
         "numericCode": "345",
         "courseCode": "ENPH",
@@ -2421,6 +2691,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Deleted - Engineering Physics Laboratory F | 2",
         "numericCode": "351",
         "courseCode": "ENPH",
@@ -2430,6 +2701,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Deleted - Measurement, Instrumentation and Experiment Design W | 4",
         "numericCode": "352",
         "courseCode": "ENPH",
@@ -2439,6 +2711,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "NOT OFFERED 2020-2021 Engineering Physics Laboratory II F | 2.5",
         "numericCode": "353",
         "courseCode": "ENPH",
@@ -2448,6 +2721,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Engineering Physics Design Project W | 3.5",
         "numericCode": "354",
         "courseCode": "ENPH",
@@ -2457,6 +2731,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Thermodynamics W | 3.5",
         "numericCode": "372",
         "courseCode": "ENPH",
@@ -2466,6 +2741,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Deleted - Electrical and Optical Properties of Solids W | 3.25",
         "numericCode": "380",
         "courseCode": "ENPH",
@@ -2475,6 +2751,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Introduction to General Relativity F | 3",
         "numericCode": "414",
         "courseCode": "ENPH",
@@ -2484,6 +2761,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Deleted - Fluid Mechanics F | 3.5",
         "numericCode": "422",
         "courseCode": "ENPH",
@@ -2493,6 +2771,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Electromagnetic Theory F | 3.5",
         "numericCode": "431",
         "courseCode": "ENPH",
@@ -2502,6 +2781,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Advanced Quantum Physics W | 3",
         "numericCode": "444",
         "courseCode": "ENPH",
@@ -2511,6 +2791,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Deleted - Advanced Physics Laboratory and Project FW | 8",
         "numericCode": "450",
         "courseCode": "ENPH",
@@ -2520,6 +2801,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Advanced Physics Laboratory W | 3.5",
         "numericCode": "453",
         "courseCode": "ENPH",
@@ -2529,6 +2811,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Advanced Engineering Physics Design Project FW | 4.5",
         "numericCode": "454",
         "courseCode": "ENPH",
@@ -2538,6 +2821,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Engineering Physics Thesis FW | 4",
         "numericCode": "455",
         "courseCode": "ENPH",
@@ -2547,6 +2831,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Advanced Engineering Physics Thesis I S | 2",
         "numericCode": "456",
         "courseCode": "ENPH",
@@ -2556,6 +2841,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Advanced Engineering Physics Thesis II FW | 9",
         "numericCode": "457",
         "courseCode": "ENPH",
@@ -2565,6 +2851,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Laser Optics W | 3.5",
         "numericCode": "460",
         "courseCode": "ENPH",
@@ -2574,6 +2861,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Statistical Mechanics W | 3.5",
         "numericCode": "472",
         "courseCode": "ENPH",
@@ -2583,6 +2871,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "High Performance Computing in Engineering Physics W | 3",
         "numericCode": "479",
         "courseCode": "ENPH",
@@ -2592,6 +2881,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Solid State Physics W | 3.5",
         "numericCode": "480",
         "courseCode": "ENPH",
@@ -2601,6 +2891,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Solid State Device Physics F | 3.5",
         "numericCode": "481",
         "courseCode": "ENPH",
@@ -2610,6 +2901,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "NOT OFFERED 2019-2020 Nanoscience and Nanotechnology W | 3.5",
         "numericCode": "483",
         "courseCode": "ENPH",
@@ -2619,6 +2911,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Deleted - Surface Engineering and Analysis F | 3",
         "numericCode": "487",
         "courseCode": "ENPH",
@@ -2628,6 +2921,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Nuclear Physics F | 3.5",
         "numericCode": "490",
         "courseCode": "ENPH",
@@ -2637,6 +2931,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "NOT OFFERED 2019-2020 Physics of Nuclear Reactors F | 3.5",
         "numericCode": "491",
         "courseCode": "ENPH",
@@ -2646,6 +2941,7 @@
     },
     {
         "subjectId": 10,
+        "SubjectName": "Engineering Physics",
         "name": "Introduction to Medical Physics W | 3",
         "numericCode": "495",
         "courseCode": "ENPH",
@@ -2655,6 +2951,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Deleted - History of Life F | 3.5",
         "numericCode": "107",
         "courseCode": "GEOE",
@@ -2664,6 +2961,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "History of Life F (6WK Sess2) | 3.5",
         "numericCode": "207",
         "courseCode": "GEOE",
@@ -2673,6 +2971,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Deleted - Geological Engineering Field Methods F | 4.5",
         "numericCode": "211",
         "courseCode": "GEOE",
@@ -2682,6 +2981,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Geological Engineering Field Methods F | 5",
         "numericCode": "221",
         "courseCode": "GEOE",
@@ -2691,6 +2991,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Mineralogy F (6WK Sess2) | 4.5",
         "numericCode": "232",
         "courseCode": "GEOE",
@@ -2700,6 +3001,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Genesis and Characterization of Solid Earth Materials W | 4",
         "numericCode": "235",
         "courseCode": "GEOE",
@@ -2709,6 +3011,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Surficial Processes, Sedimentation and Stratigraphy W | 4",
         "numericCode": "238",
         "courseCode": "GEOE",
@@ -2718,6 +3021,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Geophysical Characterization of the Earth W | 3.5",
         "numericCode": "249",
         "courseCode": "GEOE",
@@ -2727,6 +3031,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Geological Aspects of Mineral Deposits W | 3.75",
         "numericCode": "262",
         "courseCode": "GEOE",
@@ -2736,6 +3041,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Introduction to Geological Engineering F (6WK Sess1) | 3.5",
         "numericCode": "281",
         "courseCode": "GEOE",
@@ -2745,6 +3051,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "NOT OFFERED THIS YEAR - Earth Systems Engineering II: Resources and Environment W | 3.5",
         "numericCode": "282",
         "courseCode": "GEOE",
@@ -2754,6 +3061,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "NOT OFFERED 2020-2021 Geological Engineering Field School F |  K4",
         "numericCode": "300",
         "courseCode": "GEOE",
@@ -2763,6 +3071,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "NOT OFFERED 2020-2021 Field Studies in Geology F | 1.5",
         "numericCode": "301",
         "courseCode": "GEOE",
@@ -2772,6 +3081,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Deleted - Geological Engineering Field School  |",
         "numericCode": "310",
         "courseCode": "GEOE",
@@ -2781,6 +3091,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Engineering Geology and Geomechanics W | 3.5",
         "numericCode": "313",
         "courseCode": "GEOE",
@@ -2790,6 +3101,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Applied Geophysics W | 4.5",
         "numericCode": "319",
         "courseCode": "GEOE",
@@ -2799,6 +3111,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Analysis of Rock Structures F (6WK Sess1) | 4",
         "numericCode": "321",
         "courseCode": "GEOE",
@@ -2808,6 +3121,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Deleted - Quaternary Glacial Geology  |",
         "numericCode": "323",
         "courseCode": "GEOE",
@@ -2817,6 +3131,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Terrain Evaluation W | 4",
         "numericCode": "333",
         "courseCode": "GEOE",
@@ -2826,6 +3141,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Paleontology F | 3.75",
         "numericCode": "337",
         "courseCode": "GEOE",
@@ -2835,6 +3151,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Problems in Geological Engineering F/W | 3",
         "numericCode": "340",
         "courseCode": "GEOE",
@@ -2844,6 +3161,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Special Topics in Applied Geology S | 3",
         "numericCode": "341",
         "courseCode": "GEOE",
@@ -2853,6 +3171,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Applied Hydrogeology F (6WK Sess2) | 3.5",
         "numericCode": "343",
         "courseCode": "GEOE",
@@ -2862,6 +3181,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Site Investigation \u0026 Geological Engineering Design W | 4",
         "numericCode": "345",
         "courseCode": "GEOE",
@@ -2871,6 +3191,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Deleted - Applications of Quantitative Analysis in Geological Engineering W | 3.5",
         "numericCode": "349",
         "courseCode": "GEOE",
@@ -2880,6 +3201,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Applied Quantitative Analysis in Geological Engineering F (6WK Sess1) | 3.5",
         "numericCode": "359",
         "courseCode": "GEOE",
@@ -2889,6 +3211,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Resource Engineering W | 4.5",
         "numericCode": "362",
         "courseCode": "GEOE",
@@ -2898,6 +3221,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Geochemical Characterization of the Earth F (6WK Sess2) | 4",
         "numericCode": "365",
         "courseCode": "GEOE",
@@ -2907,6 +3231,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Carbonate Sedimentology F | 4.5",
         "numericCode": "368",
         "courseCode": "GEOE",
@@ -2916,6 +3241,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Field Studies in Geology II F | 1.5",
         "numericCode": "401",
         "courseCode": "GEOE",
@@ -2925,6 +3251,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Deleted - Exploration and Mining Geology Field School (two weeks)  |",
         "numericCode": "402",
         "courseCode": "GEOE",
@@ -2934,6 +3261,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Deleted - Geotechnical and Geo-Environmental Field School F | 3",
         "numericCode": "403",
         "courseCode": "GEOE",
@@ -2943,6 +3271,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Deleted - Applied Geophysics: Laboratory F | 5",
         "numericCode": "409",
         "courseCode": "GEOE",
@@ -2952,6 +3281,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "NOT OFFERED 2020-2021 Geological Engineering Field School F |  K4",
         "numericCode": "410",
         "courseCode": "GEOE",
@@ -2961,6 +3291,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Rock Engineering Design F | 3.5",
         "numericCode": "413",
         "courseCode": "GEOE",
@@ -2970,6 +3301,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Foundations of the Oil and Gas Industry W |  3.5",
         "numericCode": "414",
         "courseCode": "GEOE",
@@ -2979,6 +3311,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Petroleum Geology F | 4.5",
         "numericCode": "418",
         "courseCode": "GEOE",
@@ -2988,6 +3321,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "NOT OFFERED 2020-2021 Engineering Geophysics Field School F |  K4",
         "numericCode": "419",
         "courseCode": "GEOE",
@@ -2997,6 +3331,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Deleted - Igneous Petrology  |",
         "numericCode": "421",
         "courseCode": "GEOE",
@@ -3006,6 +3341,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Deleted - Metallogeny and Mineral Exploration  |",
         "numericCode": "422",
         "courseCode": "GEOE",
@@ -3015,6 +3351,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Deleted - Geophysical Signal Analysis and Inverse Theory W | 3.5",
         "numericCode": "429",
         "courseCode": "GEOE",
@@ -3024,6 +3361,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Advanced Applied Geophysics F (6WK Sess2) |  K3",
         "numericCode": "439",
         "courseCode": "GEOE",
@@ -3033,6 +3371,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Deleted - Site Investigation and Case Histories F | 3.5",
         "numericCode": "445",
         "courseCode": "GEOE",
@@ -3042,6 +3381,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Engineering Design Project I F |  K4",
         "numericCode": "446",
         "courseCode": "GEOE",
@@ -3051,6 +3391,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Engineering Design Project II W |  K5.5",
         "numericCode": "447",
         "courseCode": "GEOE",
@@ -3060,6 +3401,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Instrumental Techniques Applied to the Study of Solids W | 3",
         "numericCode": "452",
         "courseCode": "GEOE",
@@ -3069,6 +3411,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Advanced Petrogenesis and Metallogenesis W | 4.5",
         "numericCode": "462",
         "courseCode": "GEOE",
@@ -3078,6 +3421,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Spatial Information Management in the Geosciences F (6WK Sess2) | 3.5",
         "numericCode": "463",
         "courseCode": "GEOE",
@@ -3087,6 +3431,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Visualization in Geosciences W | 1.5",
         "numericCode": "464",
         "courseCode": "GEOE",
@@ -3096,6 +3441,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Deleted - Exploration Geochemistry W | 3.5",
         "numericCode": "465",
         "courseCode": "GEOE",
@@ -3105,6 +3451,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Isotopes and the Environment W | 4",
         "numericCode": "466",
         "courseCode": "GEOE",
@@ -3114,6 +3461,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Exploration and Environmental Geochemistry F (6WK Sess1) | 4.3",
         "numericCode": "475",
         "courseCode": "GEOE",
@@ -3123,6 +3471,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Terrigeneous Clastic Sedimentology F | 3.5",
         "numericCode": "478",
         "courseCode": "GEOE",
@@ -3132,6 +3481,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Structural Analysis Applied to Resource Deposits W | 3.5",
         "numericCode": "481",
         "courseCode": "GEOE",
@@ -3141,6 +3491,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Deleted - Environmental Aqueous Geochemistry W | 3",
         "numericCode": "485",
         "courseCode": "GEOE",
@@ -3150,6 +3501,7 @@
     },
     {
         "subjectId": 11,
+        "SubjectName": "Geological Engineering",
         "name": "Geology of North America F (6WK Sess2) | 3",
         "numericCode": "488",
         "courseCode": "GEOE",
@@ -3159,6 +3511,7 @@
     },
     {
         "subjectId": 12,
+        "SubjectName": "Geology",
         "name": "Deleted - Resource Engineering F |",
         "numericCode": "382",
         "courseCode": "GEOL",
@@ -3168,6 +3521,7 @@
     },
     {
         "subjectId": 13,
+        "SubjectName": "Geographic Information Science",
         "name": "DELETED - Geographic Information Science W | 3",
         "numericCode": "201",
         "courseCode": "GISC",
@@ -3177,6 +3531,7 @@
     },
     {
         "subjectId": 13,
+        "SubjectName": "Geographic Information Science",
         "name": "DELETED - Data Collection, Management and Analysis W | 4",
         "numericCode": "202",
         "courseCode": "GISC",
@@ -3186,6 +3541,7 @@
     },
     {
         "subjectId": 13,
+        "SubjectName": "Geographic Information Science",
         "name": "DELETED - Spatial Analysis F | 3",
         "numericCode": "301",
         "courseCode": "GISC",
@@ -3195,6 +3551,7 @@
     },
     {
         "subjectId": 13,
+        "SubjectName": "Geographic Information Science",
         "name": "DELETED - Environmental Modelling W | 3",
         "numericCode": "302",
         "courseCode": "GISC",
@@ -3204,6 +3561,7 @@
     },
     {
         "subjectId": 13,
+        "SubjectName": "Geographic Information Science",
         "name": "DELETED - Application Design and Customization in GIS F | 3",
         "numericCode": "303",
         "courseCode": "GISC",
@@ -3213,6 +3571,7 @@
     },
     {
         "subjectId": 14,
+        "SubjectName": "Geography",
         "name": "Arctic and Periglacial Environments W | 3",
         "numericCode": "304",
         "courseCode": "GPHY",
@@ -3222,6 +3581,7 @@
     },
     {
         "subjectId": 15,
+        "SubjectName": "Microbiology",
         "name": "NOT OFFERED THIS YEAR-Gene Structure and Function (Molecular Biology) W | 3.25",
         "numericCode": "218",
         "courseCode": "MBIO",
@@ -3231,6 +3591,7 @@
     },
     {
         "subjectId": 16,
+        "SubjectName": "Multi-department Courses",
         "name": "Deleted - Engineering and Social Justice: Critical Theories of Technological Practices W | 3",
         "numericCode": "221",
         "courseCode": "MDEP",
@@ -3240,6 +3601,7 @@
     },
     {
         "subjectId": 16,
+        "SubjectName": "Multi-department Courses",
         "name": "DELETED-Fuel Cell Technology F |",
         "numericCode": "437",
         "courseCode": "MDEP",
@@ -3249,6 +3611,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Mathematical and Computational Tools for Mechanical Engineers I F |  K3.5",
         "numericCode": "202",
         "courseCode": "MECH",
@@ -3258,6 +3621,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Mathematical and Computational Tools for Mechanical Engineers II W |  K3.5",
         "numericCode": "203",
         "courseCode": "MECH",
@@ -3267,6 +3631,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Electronic Circuits and Motors for Mechatronics W |  K4.5",
         "numericCode": "210",
         "courseCode": "MECH",
@@ -3276,6 +3641,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Manufacturing Methods F | 3.5",
         "numericCode": "211",
         "courseCode": "MECH",
@@ -3285,6 +3651,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Machine Tool Laboratory W | 1.0",
         "numericCode": "212",
         "courseCode": "MECH",
@@ -3294,6 +3661,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "NOT OFFERED 2020-2021 Manufacturing Methods F | 4.5",
         "numericCode": "213",
         "courseCode": "MECH",
@@ -3303,6 +3671,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "DELETED-Instrumentation and Measurement F | 3.5",
         "numericCode": "215",
         "courseCode": "MECH",
@@ -3312,6 +3681,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "DELETED-Instrumentation and Measurement Labs F |  K2",
         "numericCode": "216",
         "courseCode": "MECH",
@@ -3321,6 +3691,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Measurement in Mechatronics F |  K 4.25",
         "numericCode": "217",
         "courseCode": "MECH",
@@ -3330,6 +3701,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Solid Mechanics I F, O/L | 4",
         "numericCode": "221",
         "courseCode": "MECH",
@@ -3339,6 +3711,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Kinematics and Dynamics W |  K3.5",
         "numericCode": "228",
         "courseCode": "MECH",
@@ -3348,6 +3721,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Thermodynamics I F | 3.5",
         "numericCode": "230",
         "courseCode": "MECH",
@@ -3357,6 +3731,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Fluid Mechanics I W/S-OL | 3.5",
         "numericCode": "241",
         "courseCode": "MECH",
@@ -3366,6 +3741,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Materials Science and Engineering F | 3.5",
         "numericCode": "270",
         "courseCode": "MECH",
@@ -3375,6 +3751,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Deleted - Materials Science and Engineering  |",
         "numericCode": "271",
         "courseCode": "MECH",
@@ -3384,6 +3761,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Materials Science and Engineering Lab W |  1.0",
         "numericCode": "273",
         "courseCode": "MECH",
@@ -3393,6 +3771,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Mathematical and Computational Tools for Mechanical Engineers III F |  K3.5",
         "numericCode": "302",
         "courseCode": "MECH",
@@ -3402,6 +3781,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "NOT OFFERED 2020-2021 Digital Systems for Mechatronics W |  K4.5",
         "numericCode": "310",
         "courseCode": "MECH",
@@ -3411,6 +3791,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Solid Mechanics II F | 3.5",
         "numericCode": "321",
         "courseCode": "MECH",
@@ -3420,6 +3801,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Machine Design W | 4.5",
         "numericCode": "323",
         "courseCode": "MECH",
@@ -3429,6 +3811,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Dynamics and Vibration F | 3.5",
         "numericCode": "328",
         "courseCode": "MECH",
@@ -3438,6 +3821,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Applied Thermodynamics II F | 3.5",
         "numericCode": "330",
         "courseCode": "MECH",
@@ -3447,6 +3831,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Gender, Engineering and Technology W | 3",
         "numericCode": "333",
         "courseCode": "MECH",
@@ -3456,6 +3841,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Fluid Mechanics II W | 3.5",
         "numericCode": "341",
         "courseCode": "MECH",
@@ -3465,6 +3851,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Heat Transfer W | 3.5",
         "numericCode": "346",
         "courseCode": "MECH",
@@ -3474,6 +3861,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Automatic Control W | 3.5",
         "numericCode": "350",
         "courseCode": "MECH",
@@ -3483,6 +3871,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "NOT OFFERED 2020-2021 - Project Based Engineering: Conceive, Design, Implement and Operate W |  K3.5",
         "numericCode": "361",
         "courseCode": "MECH",
@@ -3492,6 +3881,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Principles of Materials Processing F | 3.5",
         "numericCode": "370",
         "courseCode": "MECH",
@@ -3501,6 +3891,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Fracture Mechanics and Dislocation Theory W | 3.5",
         "numericCode": "371",
         "courseCode": "MECH",
@@ -3510,6 +3901,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Deleted - Technical Communication - Advanced  |",
         "numericCode": "391",
         "courseCode": "MECH",
@@ -3519,6 +3911,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Biomechanical Product Development W | 3.5",
         "numericCode": "393",
         "courseCode": "MECH",
@@ -3528,6 +3921,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Frontiers in Biomechanical Engineering F | 3.5",
         "numericCode": "394",
         "courseCode": "MECH",
@@ -3537,6 +3931,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Mechanical and Materials Engineering Laboratory I F |  K2",
         "numericCode": "396",
         "courseCode": "MECH",
@@ -3546,6 +3941,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Mechanical and Materials Engineering Laboratory II W |  K2",
         "numericCode": "397",
         "courseCode": "MECH",
@@ -3555,6 +3951,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Mechanical Engineering Laboratory I F |  K2",
         "numericCode": "398",
         "courseCode": "MECH",
@@ -3564,6 +3961,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Mechanical Engineering Laboratory II W |  K2",
         "numericCode": "399",
         "courseCode": "MECH",
@@ -3573,6 +3971,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "NOT OFFERED 2020-2021 - Vibrations W | 3.5",
         "numericCode": "420",
         "courseCode": "MECH",
@@ -3582,6 +3981,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Introduction to Microsystems W | 3.5",
         "numericCode": "423",
         "courseCode": "MECH",
@@ -3591,6 +3991,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "NOT OFFERED 2020-2021 - Sustainable Product Design F | 3.5",
         "numericCode": "424",
         "courseCode": "MECH",
@@ -3600,6 +4001,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "NOT OFFERED 2020-2021 - Thermal Systems Design W | 4",
         "numericCode": "430",
         "courseCode": "MECH",
@@ -3609,6 +4011,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Internal Combustion Engines W | 3.5",
         "numericCode": "435",
         "courseCode": "MECH",
@@ -3618,6 +4021,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Fuel Cell Technology F | 3.5",
         "numericCode": "437",
         "courseCode": "MECH",
@@ -3627,6 +4031,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Turbomachinery W | 3.5",
         "numericCode": "439",
         "courseCode": "MECH",
@@ -3636,6 +4041,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "NOT OFFERED 2020-2021 - Fluid Mechanics III W | 3.5",
         "numericCode": "441",
         "courseCode": "MECH",
@@ -3645,6 +4051,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "NOT OFFERED 2020-2021 - Computational Fluid Dynamics W | 3.5",
         "numericCode": "444",
         "courseCode": "MECH",
@@ -3654,6 +4061,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Compressible Fluid Flow W | 3.5",
         "numericCode": "448",
         "courseCode": "MECH",
@@ -3663,6 +4071,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Mechatronics Engineering F/W | 5",
         "numericCode": "452",
         "courseCode": "MECH",
@@ -3672,6 +4081,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Computer Integrated Manufacturing F | 3.5",
         "numericCode": "455",
         "courseCode": "MECH",
@@ -3681,6 +4091,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Introduction to Robotics F | 3.5",
         "numericCode": "456",
         "courseCode": "MECH",
@@ -3690,6 +4101,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "DELETED - Machine Condition Monitoring and Fault Diagnostics F | 3.5",
         "numericCode": "458",
         "courseCode": "MECH",
@@ -3699,6 +4111,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Team Project - Conceive and Design F |  K4",
         "numericCode": "460",
         "courseCode": "MECH",
@@ -3708,6 +4121,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Research Project W |  K4",
         "numericCode": "461",
         "courseCode": "MECH",
@@ -3717,6 +4131,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Team Project - Implement and Operate W |  K3.5",
         "numericCode": "462",
         "courseCode": "MECH",
@@ -3726,6 +4141,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Engineering Project for International Students F/W |  K 2",
         "numericCode": "463",
         "courseCode": "MECH",
@@ -3735,6 +4151,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Communications and Project Management F | 1.5",
         "numericCode": "464",
         "courseCode": "MECH",
@@ -3744,6 +4161,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Computer-Aided Design F | 3.5",
         "numericCode": "465",
         "courseCode": "MECH",
@@ -3753,6 +4171,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Deformation Processing W | 3.5",
         "numericCode": "470",
         "courseCode": "MECH",
@@ -3762,6 +4181,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Deleted - Functional Ceramics  |",
         "numericCode": "474",
         "courseCode": "MECH",
@@ -3771,6 +4191,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Deleted - Structural Ceramics  |",
         "numericCode": "475",
         "courseCode": "MECH",
@@ -3780,6 +4201,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Engineering of Polymers and Composite Materials W | 3.5",
         "numericCode": "476",
         "courseCode": "MECH",
@@ -3789,6 +4211,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Biomaterials F | 3.5",
         "numericCode": "478",
         "courseCode": "MECH",
@@ -3798,6 +4221,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Nano-Structured Materials F | 3.5",
         "numericCode": "479",
         "courseCode": "MECH",
@@ -3807,6 +4231,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Airplane Aerodynamics and Performance W | 3.5",
         "numericCode": "480",
         "courseCode": "MECH",
@@ -3816,6 +4241,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "NOT OFFERED 2020-2021 - Wind Energy F | 3.5",
         "numericCode": "481",
         "courseCode": "MECH",
@@ -3825,6 +4251,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Noise Control W | 3.5",
         "numericCode": "482",
         "courseCode": "MECH",
@@ -3834,6 +4261,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Nuclear Materials F | 3.5",
         "numericCode": "483",
         "courseCode": "MECH",
@@ -3843,6 +4271,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "DELETED - Introduction to Ceramics F | 3.5",
         "numericCode": "484",
         "courseCode": "MECH",
@@ -3852,6 +4281,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "NOT OFFERED 2020-21 - Biological Fluid Dynamics F | 3.5",
         "numericCode": "492",
         "courseCode": "MECH",
@@ -3861,6 +4291,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "NOT OFFERED 2020-2021 Kinematics of Human Motion F | 3.5",
         "numericCode": "494",
         "courseCode": "MECH",
@@ -3870,6 +4301,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Ergonomics and Design W | 3.5",
         "numericCode": "495",
         "courseCode": "MECH",
@@ -3879,6 +4311,7 @@
     },
     {
         "subjectId": 17,
+        "SubjectName": "Mechanical Engineering",
         "name": "Musculoskeletal Biomechanics F | 3.5",
         "numericCode": "496",
         "courseCode": "MECH",
@@ -3887,7 +4320,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 18,
+        "subjectId": 5,
+        "SubjectName": "Chemical Engineering",
         "name": "Immunology F | 3",
         "numericCode": "360",
         "courseCode": "MICR",
@@ -3896,7 +4330,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "NOT OFFERED 2020-2021 Applied Rock Mechanics (changing from MINE 225) F | 4.5",
         "numericCode": "325",
         "courseCode": "MINE",
@@ -3905,7 +4340,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Introduction to Mining and Mineral Processing F | 4",
         "numericCode": "201",
         "courseCode": "MINE",
@@ -3914,7 +4350,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "DELETED - Computer Applications and Instrumentation in Mining F | 1.5",
         "numericCode": "202",
         "courseCode": "MINE",
@@ -3923,7 +4360,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Applied Rock Mechanics (Changing from MINE 325) W | 4.5",
         "numericCode": "225",
         "courseCode": "MINE",
@@ -3932,7 +4370,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Underground Mining (changed to MINE 344) W | 3",
         "numericCode": "244",
         "courseCode": "MINE",
@@ -3941,7 +4380,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Deleted - Engineering Surveying S | 3.5",
         "numericCode": "262",
         "courseCode": "MINE",
@@ -3950,7 +4390,8 @@
         "antirequisite": "CIVL 211"
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Applied Chemistry for Mining W | 3.5",
         "numericCode": "267",
         "courseCode": "MINE",
@@ -3959,7 +4400,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Analytical Methods in Mining W | 1",
         "numericCode": "268",
         "courseCode": "MINE",
@@ -3968,7 +4410,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Applied Data Science W | 4.5",
         "numericCode": "272",
         "courseCode": "MINE",
@@ -3977,7 +4420,8 @@
         "antirequisite": "CISC 251, CMPE 251"
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "NOT OFFERED 2020-2021 Front Line Supervision W | 1.5",
         "numericCode": "307",
         "courseCode": "MINE",
@@ -3986,7 +4430,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Drilling and Blasting F | 4.5",
         "numericCode": "321",
         "courseCode": "MINE",
@@ -3995,7 +4440,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Hydraulics for Mining Applications W | 3.5",
         "numericCode": "324",
         "courseCode": "MINE",
@@ -4004,7 +4450,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Operations Research F | 4.5",
         "numericCode": "326",
         "courseCode": "MINE",
@@ -4013,7 +4460,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "NOT OFFERED 2020-2021 Mineral Industry Economics F | 3.5",
         "numericCode": "330",
         "courseCode": "MINE",
@@ -4022,7 +4470,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Methods of Mineral Separation F | 4.5",
         "numericCode": "331",
         "courseCode": "MINE",
@@ -4031,7 +4480,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Mineral Processing F | 3",
         "numericCode": "335",
         "courseCode": "MINE",
@@ -4040,7 +4490,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Deleted - Mine Ventilation  |",
         "numericCode": "338",
         "courseCode": "MINE",
@@ -4049,7 +4500,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "NOT OFFERED 2020-2021 Mine Ventilation F | 4.5",
         "numericCode": "339",
         "courseCode": "MINE",
@@ -4058,7 +4510,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Open Pit Mining W | 4.5",
         "numericCode": "341",
         "courseCode": "MINE",
@@ -4067,7 +4520,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Underground Mining W | 3",
         "numericCode": "344",
         "courseCode": "MINE",
@@ -4076,7 +4530,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Mining and Sustainability F | 4",
         "numericCode": "422",
         "courseCode": "MINE",
@@ -4085,7 +4540,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Project Report F/W | 4",
         "numericCode": "434",
         "courseCode": "MINE",
@@ -4094,7 +4550,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Open Pit Mine Design W | 5.5",
         "numericCode": "445",
         "courseCode": "MINE",
@@ -4103,7 +4560,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Underground Design W | 5.5",
         "numericCode": "448",
         "courseCode": "MINE",
@@ -4112,7 +4570,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Chemical Extraction of Metals F | 3",
         "numericCode": "451",
         "courseCode": "MINE",
@@ -4121,7 +4580,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Design, Analysis and Operation of Mineral Processes F | 4.5",
         "numericCode": "455",
         "courseCode": "MINE",
@@ -4130,7 +4590,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Process Investigations W | 4",
         "numericCode": "458",
         "courseCode": "MINE",
@@ -4139,7 +4600,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Risk and Reliability Analysis for Industrial Asset Management, Health \u0026 Safety W | 4",
         "numericCode": "459",
         "courseCode": "MINE",
@@ -4148,7 +4610,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Special Topics in Mining Engineering F/W | 4.5",
         "numericCode": "460",
         "courseCode": "MINE",
@@ -4157,7 +4620,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Geostatistics and Orebody Modelling F | 4.5",
         "numericCode": "467",
         "courseCode": "MINE",
@@ -4166,7 +4630,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "DELETED - Stability Analysis in Mine Design F | 4",
         "numericCode": "469",
         "courseCode": "MINE",
@@ -4175,7 +4640,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Mine-Mechanical Design Project W | 5.5",
         "numericCode": "471",
         "courseCode": "MINE",
@@ -4184,7 +4650,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 19,
+        "subjectId": 18,
+        "SubjectName": "Mining Engineering",
         "name": "Mining Systems, Automation, and Robotics O/L |  K3.5",
         "numericCode": "472",
         "courseCode": "MINE",
@@ -4193,7 +4660,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Engineering Mathematics F-O/L | 3",
         "numericCode": "P01",
         "courseCode": "MNTC",
@@ -4202,7 +4670,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Mining Geology W-O/L | 3",
         "numericCode": "P02",
         "courseCode": "MNTC",
@@ -4211,7 +4680,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Foundational Mathematics O/L | 3",
         "numericCode": "P03",
         "courseCode": "MNTC",
@@ -4220,7 +4690,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Calculus O/L | 3",
         "numericCode": "P04",
         "courseCode": "MNTC",
@@ -4229,7 +4700,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Foundational Physics F-O/L | 3",
         "numericCode": "P05",
         "courseCode": "MNTC",
@@ -4238,7 +4710,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Foundational Chemistry O/L | 3",
         "numericCode": "P06",
         "courseCode": "MNTC",
@@ -4247,7 +4720,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Surveying Principles O/L | 3",
         "numericCode": "P07",
         "courseCode": "MNTC",
@@ -4256,7 +4730,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Technical Writing and Communication O/L | 3",
         "numericCode": "301",
         "courseCode": "MNTC",
@@ -4265,7 +4740,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Engineering Physics W-O/L | 3",
         "numericCode": "302",
         "courseCode": "MNTC",
@@ -4274,7 +4750,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Engineering Chemistry F-O/L | 3",
         "numericCode": "303",
         "courseCode": "MNTC",
@@ -4283,7 +4760,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Applied Metrology and Data Analysis 4-O/L | 3",
         "numericCode": "304",
         "courseCode": "MNTC",
@@ -4292,7 +4770,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Introduction to Mining F-O/L | 3",
         "numericCode": "305",
         "courseCode": "MNTC",
@@ -4301,7 +4780,8 @@
         "antirequisite": "MINE 201"
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Mineral Processing Unit Operations W-O/L | 3",
         "numericCode": "306",
         "courseCode": "MNTC",
@@ -4310,7 +4790,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Geomechanics and Ground Control O/L | 3",
         "numericCode": "307",
         "courseCode": "MNTC",
@@ -4319,7 +4800,8 @@
         "antirequisite": "MINE 325"
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Mining and Society W-O/L | 3",
         "numericCode": "310",
         "courseCode": "MNTC",
@@ -4328,7 +4810,8 @@
         "antirequisite": "MINE 422"
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Ore Body Modelling and Resource Estimation O/L | 3",
         "numericCode": "311",
         "courseCode": "MNTC",
@@ -4337,7 +4820,8 @@
         "antirequisite": "MINE 467"
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Introduction to Programming F/S-O/L | 3",
         "numericCode": "313",
         "courseCode": "MNTC",
@@ -4346,7 +4830,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Drilling and Blasting W-O/L | 3",
         "numericCode": "314",
         "courseCode": "MNTC",
@@ -4355,7 +4840,8 @@
         "antirequisite": "MINE 321"
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Ventilation and Hydraulics F-O/L | 3",
         "numericCode": "316",
         "courseCode": "MNTC",
@@ -4364,7 +4850,8 @@
         "antirequisite": "MINE 339"
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Field School I (on site) S | 5",
         "numericCode": "399",
         "courseCode": "MNTC",
@@ -4373,7 +4860,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Mine Health and Safety O/L | 3",
         "numericCode": "408",
         "courseCode": "MNTC",
@@ -4382,7 +4870,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Mineral Economics F-O/L | 3",
         "numericCode": "409",
         "courseCode": "MNTC",
@@ -4391,7 +4880,8 @@
         "antirequisite": "MINE 330"
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Surface Mine Planning O/L | 3",
         "numericCode": "413",
         "courseCode": "MNTC",
@@ -4400,7 +4890,8 @@
         "antirequisite": "MINE 341"
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Underground Mine Planning W-O/L | 3",
         "numericCode": "414",
         "courseCode": "MNTC",
@@ -4409,7 +4900,8 @@
         "antirequisite": "MINE 344"
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Metal Extraction Processes F-O/L | 3",
         "numericCode": "415",
         "courseCode": "MNTC",
@@ -4418,7 +4910,8 @@
         "antirequisite": "MINE 451"
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Sustainability and the Environment W-O/L | 3",
         "numericCode": "418",
         "courseCode": "MNTC",
@@ -4427,7 +4920,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Mine Supervision and Project Management W-O/L | 3",
         "numericCode": "419",
         "courseCode": "MNTC",
@@ -4436,7 +4930,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Physical Asset Management O/L | 3",
         "numericCode": "420",
         "courseCode": "MNTC",
@@ -4445,7 +4940,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Technology and Innovation O/L | 3",
         "numericCode": "421",
         "courseCode": "MNTC",
@@ -4454,7 +4950,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Geomatics F-O/L | 3",
         "numericCode": "423",
         "courseCode": "MNTC",
@@ -4463,7 +4960,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Capstone Project O/L | 3",
         "numericCode": "498",
         "courseCode": "MNTC",
@@ -4472,7 +4970,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 20,
+        "subjectId": 19,
+        "SubjectName": "Mining Technology",
         "name": "Field School II (on site) S | 5",
         "numericCode": "499",
         "courseCode": "MNTC",
@@ -4481,7 +4980,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Linear Algebra W | 3.5",
         "numericCode": "212",
         "courseCode": "MTHE",
@@ -4490,7 +4990,8 @@
         "antirequisite": "MTHE 312 (MATH 312)"
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Algebraic Structures with Applications F | 3.5",
         "numericCode": "217",
         "courseCode": "MTHE",
@@ -4499,7 +5000,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Applied Mathematics for Civil Engineers F | 4.2",
         "numericCode": "224",
         "courseCode": "MTHE",
@@ -4508,7 +5010,8 @@
         "antirequisite": "MTHE 225 (MATH 225), MATH 226, MTHE 235 (MATH 235), MTHE 237 (MATH 237), STAT 267, MTHE 367 (STAT 367)"
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Ordinary Differential Equations F/W/S-OL | 3.5",
         "numericCode": "225",
         "courseCode": "MTHE",
@@ -4517,7 +5020,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Vector Analysis F | 3",
         "numericCode": "227",
         "courseCode": "MTHE",
@@ -4526,7 +5030,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Complex Analysis W | 3.5",
         "numericCode": "228",
         "courseCode": "MTHE",
@@ -4535,7 +5040,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Deleted - Differential Equations  |",
         "numericCode": "232",
         "courseCode": "MTHE",
@@ -4544,7 +5050,8 @@
         "antirequisite": "MTHE 225 (MATH 225), MATH 226, MATH 231, MTHE 235 (MATH 235), MTHE 237 (MATH 237)"
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Differential Equations for Electrical and Computer Engineers F | 3.5",
         "numericCode": "235",
         "courseCode": "MTHE",
@@ -4553,7 +5060,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Differential Equations for Engineering Science F | 3.25",
         "numericCode": "237",
         "courseCode": "MTHE",
@@ -4562,7 +5070,8 @@
         "antirequisite": "MATH 231, MTHE 232 (MATH 232)"
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "NOT OFFERED 2020-2021 - Application of Numerical Methods W | 3.5",
         "numericCode": "272",
         "courseCode": "MTHE",
@@ -4571,7 +5080,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Advanced Calculus F | 3.5",
         "numericCode": "280",
         "courseCode": "MTHE",
@@ -4580,7 +5090,8 @@
         "antirequisite": "MATH 221, MTHE 227 (MATH 227)"
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Introduction to Real Analysis W | 3.5",
         "numericCode": "281",
         "courseCode": "MTHE",
@@ -4589,7 +5100,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Deleted - Linear Algebra  |",
         "numericCode": "312",
         "courseCode": "MTHE",
@@ -4598,7 +5110,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Functions of a Complex Variable F | 3.5",
         "numericCode": "326",
         "courseCode": "MTHE",
@@ -4607,7 +5120,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Introduction to Control W | 4",
         "numericCode": "332",
         "courseCode": "MTHE",
@@ -4616,7 +5130,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Deleted - Control-Robotics Lab I  |",
         "numericCode": "333",
         "courseCode": "MTHE",
@@ -4625,7 +5140,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Mathematical Methods for Engineering and Physics F | 3.5",
         "numericCode": "334",
         "courseCode": "MTHE",
@@ -4634,7 +5150,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Mathematics of Engineering Systems W | 3.5",
         "numericCode": "335",
         "courseCode": "MTHE",
@@ -4643,7 +5160,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Introduction to Operations Research Models W | 3",
         "numericCode": "337",
         "courseCode": "MTHE",
@@ -4652,7 +5170,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "NOT OFFERED 2020-2021 - Fourier Methods for Boundary Value Problems F | 3.5",
         "numericCode": "338",
         "courseCode": "MTHE",
@@ -4661,7 +5180,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "NOT OFFERED 2020-2021 Evolutionary Game Theory W | 3",
         "numericCode": "339",
         "courseCode": "MTHE",
@@ -4670,7 +5190,8 @@
         "antirequisite": "MATH 239"
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Probability I F | 3.5",
         "numericCode": "351",
         "courseCode": "MTHE",
@@ -4679,7 +5200,8 @@
         "antirequisite": "STAT 251"
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Probability II W | 3",
         "numericCode": "353",
         "courseCode": "MTHE",
@@ -4688,7 +5210,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "NOT OFFERED 2020-2021 - Engineering Data Analysis W | 3.5",
         "numericCode": "367",
         "courseCode": "MTHE",
@@ -4697,7 +5220,8 @@
         "antirequisite": "STAT 261, STAT 263, STAT 266, STAT 267"
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Engineering Design and Practice for Mathematics and Engineering W |  K4",
         "numericCode": "393",
         "courseCode": "MTHE",
@@ -4706,7 +5230,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Introduction to Coding Theory F | 3",
         "numericCode": "406",
         "courseCode": "MTHE",
@@ -4715,7 +5240,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "NOT OFFERED 2020-2021 - Number Theory and Cryptography F | 3",
         "numericCode": "418",
         "courseCode": "MTHE",
@@ -4724,7 +5250,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Modern Control Theory F | 4",
         "numericCode": "430",
         "courseCode": "MTHE",
@@ -4733,7 +5260,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "NOT OFFERED 2020-2021 Continuum Mechanics with Applications W | 3",
         "numericCode": "433",
         "courseCode": "MTHE",
@@ -4742,7 +5270,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Optimization Theory with Applications to Machine Learning W | 3.5",
         "numericCode": "434",
         "courseCode": "MTHE",
@@ -4751,7 +5280,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "NOT OFFERED 2020-2021 - Topics in Applied Mathematics W | 3",
         "numericCode": "437",
         "courseCode": "MTHE",
@@ -4760,7 +5290,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Lagrangian Mechanics, Dynamics, and Control W | 3.5",
         "numericCode": "439",
         "courseCode": "MTHE",
@@ -4769,7 +5300,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "NOT OFFERED 2020-2021 - Statistical Spectrum Estimation W | 3",
         "numericCode": "454",
         "courseCode": "MTHE",
@@ -4778,7 +5310,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Stochastic Processes and Applications F | 3.5",
         "numericCode": "455",
         "courseCode": "MTHE",
@@ -4787,7 +5320,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Control of Stochastic Systems W | 3",
         "numericCode": "472",
         "courseCode": "MTHE",
@@ -4796,7 +5330,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Information Theory F | 3",
         "numericCode": "474",
         "courseCode": "MTHE",
@@ -4805,7 +5340,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Data Compression and Source Coding W | 3",
         "numericCode": "477",
         "courseCode": "MTHE",
@@ -4814,7 +5350,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "NOT OFFERED 2020-2021 - Topics in Communication Theory F/W | 3",
         "numericCode": "478",
         "courseCode": "MTHE",
@@ -4823,7 +5360,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "NOT OFFERED 2020-2021 - Data Networks W | 3",
         "numericCode": "484",
         "courseCode": "MTHE",
@@ -4832,7 +5370,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Engineering Mathematics Project FW* |  K7.5",
         "numericCode": "493",
         "courseCode": "MTHE",
@@ -4841,7 +5380,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 21,
+        "subjectId": 4,
+        "SubjectName": "Mathematics and Engineering",
         "name": "Mathematics and Engineering Seminar F | 3",
         "numericCode": "494",
         "courseCode": "MTHE",
@@ -4850,7 +5390,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 22,
+        "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Software Requirements W | 3",
         "numericCode": "423",
         "courseCode": "SOFT",
@@ -4859,7 +5400,8 @@
         "antirequisite": "CISC 423"
     },
     {
-        "subjectId": 22,
+        "subjectId": 8,
+        "SubjectName": "Electrical Engineering",
         "name": "Performance Analysis F | 3",
         "numericCode": "437",
         "courseCode": "SOFT",
@@ -4868,7 +5410,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 23,
+        "subjectId": 20,
+        "SubjectName": "School of Urban and Regional Planning",
         "name": "Real Estate Planning and Development W | 3",
         "numericCode": "844",
         "courseCode": "SURP",
@@ -4877,7 +5420,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 23,
+        "subjectId": 20,
+        "SubjectName": "School of Urban and Regional Planning",
         "name": "Environmental Policy W | 3",
         "numericCode": "851",
         "courseCode": "SURP",
@@ -4886,7 +5430,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 23,
+        "subjectId": 20,
+        "SubjectName": "School of Urban and Regional Planning",
         "name": "Environmental Services W | 3",
         "numericCode": "853",
         "courseCode": "SURP",
@@ -4895,7 +5440,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 23,
+        "subjectId": 20,
+        "SubjectName": "School of Urban and Regional Planning",
         "name": "Environmental Planning and Management W | 3",
         "numericCode": "855",
         "courseCode": "SURP",
@@ -4904,7 +5450,8 @@
         "antirequisite": ""
     },
     {
-        "subjectId": 23,
+        "subjectId": 20,
+        "SubjectName": "School of Urban and Regional Planning",
         "name": "Housing Policy F | 3",
         "numericCode": "874",
         "courseCode": "SURP",
