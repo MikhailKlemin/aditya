@@ -1,0 +1,58 @@
+Mon Sep 14 19:06:55 MSK 2020 - INFO - Setup BEGINS
+Mon Sep 14 19:06:55 MSK 2020 - INFO - Checking the existence of /media/mike/WDC4_1/LogicalDOC/conf/context.properties
+Mon Sep 14 19:07:38 MSK 2020 - ERROR - WindowsRegistry: Cannot run program "reg": error=2, No such file or directory
+Cannot run program "reg": error=2, No such file or directory
+
+Mon Sep 14 19:07:38 MSK 2020 - ERROR - WindowsRegistry: Cannot run program "reg": error=2, No such file or directory
+Cannot run program "reg": error=2, No such file or directory
+
+Mon Sep 14 19:07:38 MSK 2020 - INFO - Unable to find a JDK in the registry, check the fileaystem
+Mon Sep 14 19:07:38 MSK 2020 - ERROR - WindowsRegistry: Cannot run program "reg": error=2, No such file or directory
+Cannot run program "reg": error=2, No such file or directory
+
+Mon Sep 14 19:07:38 MSK 2020 - ERROR - WindowsRegistry: Cannot run program "reg": error=2, No such file or directory
+Cannot run program "reg": error=2, No such file or directory
+
+Mon Sep 14 19:07:38 MSK 2020 - INFO - Unable to find a JRE in the registry, check the fileaystem
+Mon Sep 14 19:10:45 MSK 2020 - INFO - validate DB
+Mon Sep 14 19:10:45 MSK 2020 - INFO - validateData manualUrl: false
+Mon Sep 14 19:10:45 MSK 2020 - INFO - Composed DB URL: jdbc:mysql://localhost:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:10:45 MSK 2020 - INFO - Composed DB URL: jdbc:mysql://localhost:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:10:45 MSK 2020 - INFO - checkDbConnection manualUrl: false
+Mon Sep 14 19:10:45 MSK 2020 - INFO - checkDbConnection url: jdbc:mysql://localhost:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:10:45 MSK 2020 - INFO - Composed DB URL: jdbc:mysql://localhost:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:10:45 MSK 2020 - INFO - Validating connection to jdbc:mysql://localhost:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:10:45 MSK 2020 - INFO - Database not connected perhaps the schema doesnt exist yet
+Mon Sep 14 19:10:45 MSK 2020 - INFO - Composed DB URL: jdbc:mysql://localhost:3306
+Mon Sep 14 19:10:45 MSK 2020 - INFO - Validating connection to jdbc:mysql://localhost:3306
+Mon Sep 14 19:10:45 MSK 2020 - INFO - Database not connected perhaps the schema doesnt exist yet
+Mon Sep 14 19:13:02 MSK 2020 - INFO - validate DB
+Mon Sep 14 19:13:02 MSK 2020 - INFO - validateData manualUrl: true
+Mon Sep 14 19:13:02 MSK 2020 - INFO - Composed DB URL: jdbc:mysql://localhost:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:13:02 MSK 2020 - INFO - checkDbConnection manualUrl: true
+Mon Sep 14 19:13:02 MSK 2020 - INFO - checkDbConnection url: jdbc:mysql://localhost:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:13:02 MSK 2020 - INFO - Validating connection to jdbc:mysql://localhost:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:13:02 MSK 2020 - INFO - Database not connected perhaps the schema doesnt exist yet
+Mon Sep 14 19:13:02 MSK 2020 - INFO - Validating connection to jdbc:mysql://localhost:3306/?useSSL=false
+Mon Sep 14 19:13:02 MSK 2020 - INFO - Database not connected perhaps the schema doesnt exist yet
+Mon Sep 14 19:22:20 MSK 2020 - INFO - validate DB
+Mon Sep 14 19:22:20 MSK 2020 - INFO - validateData manualUrl: true
+Mon Sep 14 19:22:20 MSK 2020 - INFO - Composed DB URL: jdbc:mysql://127.0.0.1:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:22:20 MSK 2020 - INFO - checkDbConnection manualUrl: true
+Mon Sep 14 19:22:20 MSK 2020 - INFO - checkDbConnection url: jdbc:mysql://localhost:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:22:20 MSK 2020 - INFO - Validating connection to jdbc:mysql://localhost:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:22:20 MSK 2020 - INFO - Database not connected perhaps the schema doesnt exist yet
+Mon Sep 14 19:22:20 MSK 2020 - INFO - Validating connection to jdbc:mysql://localhost:3306/?useSSL=false
+Mon Sep 14 19:22:20 MSK 2020 - INFO - Database not connected perhaps the schema doesnt exist yet
+Mon Sep 14 19:43:43 MSK 2020 - INFO - validate DB
+Mon Sep 14 19:43:43 MSK 2020 - INFO - validateData manualUrl: false
+Mon Sep 14 19:43:43 MSK 2020 - INFO - Composed DB URL: jdbc:mysql://127.0.0.1:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:43:43 MSK 2020 - INFO - Composed DB URL: jdbc:mysql://127.0.0.1:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:43:43 MSK 2020 - INFO - checkDbConnection manualUrl: false
+Mon Sep 14 19:43:43 MSK 2020 - INFO - checkDbConnection url: jdbc:mysql://127.0.0.1:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:43:43 MSK 2020 - INFO - Composed DB URL: jdbc:mysql://127.0.0.1:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:43:43 MSK 2020 - INFO - Validating connection to jdbc:mysql://127.0.0.1:3306/logicaldoc?useSSL=false
+Mon Sep 14 19:43:43 MSK 2020 - INFO - Database not connected perhaps the schema doesnt exist yet
+Mon Sep 14 19:43:43 MSK 2020 - INFO - Composed DB URL: jdbc:mysql://127.0.0.1:3306
+Mon Sep 14 19:43:43 MSK 2020 - INFO - Validating connection to jdbc:mysql://127.0.0.1:3306
+Mon Sep 14 19:43:43 MSK 2020 - INFO - Database not connected perhaps the schema doesnt exist yet

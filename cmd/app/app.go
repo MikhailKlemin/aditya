@@ -2,12 +2,14 @@ package main
 
 import (
 	"fmt"
+	"log"
 	"time"
 
-	"github.com/MikhailKlemin/aditya/pkg/unis/queens/appliedcourses"
+	"github.com/MikhailKlemin/aditya/pkg/unis/wilfrid"
 )
 
 func main() {
+	log.SetFlags(log.Lshortfile | log.LstdFlags)
 	t := time.Now()
 	//cs := wilfrid.Start()
 	//wilfrid.Export(cs)
@@ -19,8 +21,8 @@ func main() {
 	//commerce.Parse(nil)
 
 	//concurent.Start()
-	//graduate.Start()
-	appliedcourses.Start()
+	wilfrid.Start()
+	//commerce.Start()
 
 	fmt.Printf("Took %s to finish\n", time.Since(t))
 

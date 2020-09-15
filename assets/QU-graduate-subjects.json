@@ -1,25 +1,67 @@
 [
     {
-        "subjectId": 11,
-        "name": "Chemical Engineering",
+        "subjectId": 6,
+        "name": "Biochemistry",
+        "codes": [
+            "BCHM"
+        ]
+    },
+    {
+        "subjectId": 9,
+        "name": "Biomedical Engineering",
+        "codes": [
+            "CBME"
+        ]
+    },
+    {
+        "subjectId": 25,
+        "name": "French Studies",
+        "codes": [
+            "FRAN"
+        ]
+    },
+    {
+        "subjectId": 29,
+        "name": "Geological Sciences and Geological Engineering",
         "codes": [
             "APSC",
-            "CHEE"
+            "GEOL"
         ]
     },
     {
-        "subjectId": 19,
-        "name": "Economics",
+        "subjectId": 32,
+        "name": "Health Quality",
         "codes": [
-            "ECON",
-            "RPRD"
+            "HQRS"
         ]
     },
     {
-        "subjectId": 46,
-        "name": "Physiology",
+        "subjectId": 33,
+        "name": "History",
         "codes": [
-            "PHGY"
+            "HIST"
+        ]
+    },
+    {
+        "subjectId": 41,
+        "name": "Nursing",
+        "codes": [
+            "NURS",
+            "PAIN"
+        ]
+    },
+    {
+        "subjectId": 53,
+        "name": "Sociology",
+        "codes": [
+            "SOCY"
+        ]
+    },
+    {
+        "subjectId": 0,
+        "name": "Aging and Health",
+        "codes": [
+            "AGHE"
         ]
     },
     {
@@ -32,6 +74,50 @@
         ]
     },
     {
+        "subjectId": 49,
+        "name": "Psychology",
+        "codes": [
+            "PSYC",
+            "PYSC"
+        ]
+    },
+    {
+        "subjectId": 5,
+        "name": "Arts Leadership and Arts Management",
+        "codes": [
+            "ARTL"
+        ]
+    },
+    {
+        "subjectId": 12,
+        "name": "Chemistry",
+        "codes": [
+            "CHEM"
+        ]
+    },
+    {
+        "subjectId": 51,
+        "name": "Rehabilitation Science",
+        "codes": [
+            "RHBS"
+        ]
+    },
+    {
+        "subjectId": 4,
+        "name": "Art History",
+        "codes": [
+            "ARTH"
+        ]
+    },
+    {
+        "subjectId": 13,
+        "name": "Civil Engineering",
+        "codes": [
+            "APSC",
+            "CIVL"
+        ]
+    },
+    {
         "subjectId": 38,
         "name": "Microbiology and Immunology",
         "codes": [
@@ -39,98 +125,25 @@
         ]
     },
     {
-        "subjectId": 42,
-        "name": "Pathology and Molecular Medicine",
+        "subjectId": 17,
+        "name": "Cultural Studies",
         "codes": [
-            "PATH"
+            "CUST"
         ]
     },
     {
-        "subjectId": 33,
-        "name": "History",
+        "subjectId": 47,
+        "name": "Political Studies",
         "codes": [
-            "HIST"
+            "POLS"
         ]
     },
     {
-        "subjectId": 44,
-        "name": "Philosophy",
-        "codes": [
-            "PHIL"
-        ]
-    },
-    {
-        "subjectId": 8,
-        "name": "Biomedical and Molecular Sciences",
-        "codes": [
-            "BMED"
-        ]
-    },
-    {
-        "subjectId": 35,
-        "name": "Mathematics and Statistics",
-        "codes": [
-            "MATH",
-            "STAT"
-        ]
-    },
-    {
-        "subjectId": 54,
-        "name": "Translational Medicine",
-        "codes": [
-            "TMED"
-        ]
-    },
-    {
-        "subjectId": 41,
-        "name": "Nursing",
-        "codes": [
-            "NURS",
-            "PAIN"
-        ]
-    },
-    {
-        "subjectId": 16,
-        "name": "Computing",
-        "codes": [
-            "CSAI",
-            "CISC"
-        ]
-    },
-    {
-        "subjectId": 22,
-        "name": "English Language and Literature",
-        "codes": [
-            "ENGL"
-        ]
-    },
-    {
-        "subjectId": 34,
-        "name": "Management - School of Business",
-        "codes": [
-            "MGMT"
-        ]
-    },
-    {
-        "subjectId": 15,
-        "name": "Computational Science and Engineering",
-        "codes": [
-            "QCSE"
-        ]
-    },
-    {
-        "subjectId": 29,
-        "name": "Geological Sciences and Geological Engineering",
+        "subjectId": 11,
+        "name": "Chemical Engineering",
         "codes": [
             "APSC",
-            "GEOL"
-        ]
-    },
-    {
-        "subjectId": 30,
-        "name": "German Language and Literature",
-        "codes": [
-            "GRMN"
+            "CHEE"
         ]
     },
     {
@@ -142,6 +155,78 @@
         ]
     },
     {
+        "subjectId": 27,
+        "name": "GeoEngineering",
+        "codes": [
+            "GENG"
+        ]
+    },
+    {
+        "subjectId": 35,
+        "name": "Mathematics and Statistics",
+        "codes": [
+            "MATH",
+            "STAT"
+        ]
+    },
+    {
+        "subjectId": 52,
+        "name": "Religious Studies",
+        "codes": [
+            "RELS"
+        ]
+    },
+    {
+        "subjectId": 22,
+        "name": "English Language and Literature",
+        "codes": [
+            "ENGL"
+        ]
+    },
+    {
+        "subjectId": 23,
+        "name": "Environmental Studies",
+        "codes": [
+            "ENSC"
+        ]
+    },
+    {
+        "subjectId": 56,
+        "name": "Water and Human Health",
+        "codes": [
+            "BWRC"
+        ]
+    },
+    {
+        "subjectId": 15,
+        "name": "Computational Science and Engineering",
+        "codes": [
+            "QCSE"
+        ]
+    },
+    {
+        "subjectId": 21,
+        "name": "Electrical and Computer Engineering",
+        "codes": [
+            "APSC",
+            "ELEC"
+        ]
+    },
+    {
+        "subjectId": 26,
+        "name": "Gender Studies",
+        "codes": [
+            "GNDS"
+        ]
+    },
+    {
+        "subjectId": 30,
+        "name": "German Language and Literature",
+        "codes": [
+            "GRMN"
+        ]
+    },
+    {
         "subjectId": 36,
         "name": "Mechanical and Materials Engineering",
         "codes": [
@@ -150,25 +235,147 @@
         ]
     },
     {
-        "subjectId": 49,
-        "name": "Psychology",
+        "subjectId": 54,
+        "name": "Translational Medicine",
         "codes": [
-            "PSYC",
-            "PYSC"
+            "TMED"
         ]
     },
     {
-        "subjectId": 51,
-        "name": "Rehabilitation Science",
+        "subjectId": 3,
+        "name": "Art Conservation",
         "codes": [
-            "RHBS"
+            "ARTC"
         ]
     },
     {
-        "subjectId": 52,
-        "name": "Religious Studies",
+        "subjectId": 18,
+        "name": "Earth and Energy Resources Leadership",
         "codes": [
-            "RELS"
+            "EERL"
+        ]
+    },
+    {
+        "subjectId": 28,
+        "name": "Geography and Planning",
+        "codes": [
+            "GPHY"
+        ]
+    },
+    {
+        "subjectId": 44,
+        "name": "Philosophy",
+        "codes": [
+            "PHIL"
+        ]
+    },
+    {
+        "subjectId": 7,
+        "name": "Biology",
+        "codes": [
+            "BIOM",
+            "BIOL"
+        ]
+    },
+    {
+        "subjectId": 48,
+        "name": "Protein Function Discovery",
+        "codes": [
+            "PROT"
+        ]
+    },
+    {
+        "subjectId": 1,
+        "name": "Anatomy and Cell Biology",
+        "codes": [
+            "ANAT"
+        ]
+    },
+    {
+        "subjectId": 10,
+        "name": "Biomedical Informatics",
+        "codes": [
+            "BMIF"
+        ]
+    },
+    {
+        "subjectId": 16,
+        "name": "Computing",
+        "codes": [
+            "CSAI",
+            "CISC"
+        ]
+    },
+    {
+        "subjectId": 19,
+        "name": "Economics",
+        "codes": [
+            "ECON",
+            "RPRD"
+        ]
+    },
+    {
+        "subjectId": 39,
+        "name": "Mining Engineering",
+        "codes": [
+            "APSC",
+            "MINE"
+        ]
+    },
+    {
+        "subjectId": 42,
+        "name": "Pathology and Molecular Medicine",
+        "codes": [
+            "PATH"
+        ]
+    },
+    {
+        "subjectId": 2,
+        "name": "Applied Sustainability",
+        "codes": [
+            "CMAS"
+        ]
+    },
+    {
+        "subjectId": 8,
+        "name": "Biomedical and Molecular Sciences",
+        "codes": [
+            "BMED"
+        ]
+    },
+    {
+        "subjectId": 31,
+        "name": "Global Development Studies",
+        "codes": [
+            "DEVS"
+        ]
+    },
+    {
+        "subjectId": 34,
+        "name": "Management - School of Business",
+        "codes": [
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 43,
+        "name": "Pharmacology and Toxicology",
+        "codes": [
+            "PHAR"
+        ]
+    },
+    {
+        "subjectId": 46,
+        "name": "Physiology",
+        "codes": [
+            "PHGY"
+        ]
+    },
+    {
+        "subjectId": 55,
+        "name": "Urban and Regional Planning",
+        "codes": [
+            "SURP"
         ]
     },
     {
@@ -186,24 +393,10 @@
         ]
     },
     {
-        "subjectId": 50,
-        "name": "Public Health Sciences",
+        "subjectId": 40,
+        "name": "Neuroscience",
         "codes": [
-            "EPID"
-        ]
-    },
-    {
-        "subjectId": 23,
-        "name": "Environmental Studies",
-        "codes": [
-            "ENSC"
-        ]
-    },
-    {
-        "subjectId": 31,
-        "name": "Global Development Studies",
-        "codes": [
-            "DEVS"
+            "NSCI"
         ]
     },
     {
@@ -215,203 +408,10 @@
         ]
     },
     {
-        "subjectId": 48,
-        "name": "Protein Function Discovery",
+        "subjectId": 50,
+        "name": "Public Health Sciences",
         "codes": [
-            "PROT"
-        ]
-    },
-    {
-        "subjectId": 55,
-        "name": "Urban and Regional Planning",
-        "codes": [
-            "SURP"
-        ]
-    },
-    {
-        "subjectId": 5,
-        "name": "Arts Leadership and Arts Management",
-        "codes": [
-            "ARTL"
-        ]
-    },
-    {
-        "subjectId": 10,
-        "name": "Biomedical Informatics",
-        "codes": [
-            "BMIF"
-        ]
-    },
-    {
-        "subjectId": 21,
-        "name": "Electrical and Computer Engineering",
-        "codes": [
-            "APSC",
-            "ELEC"
-        ]
-    },
-    {
-        "subjectId": 3,
-        "name": "Art Conservation",
-        "codes": [
-            "ARTC"
-        ]
-    },
-    {
-        "subjectId": 27,
-        "name": "GeoEngineering",
-        "codes": [
-            "GENG"
-        ]
-    },
-    {
-        "subjectId": 40,
-        "name": "Neuroscience",
-        "codes": [
-            "NSCI"
-        ]
-    },
-    {
-        "subjectId": 0,
-        "name": "Aging and Health",
-        "codes": [
-            "AGHE"
-        ]
-    },
-    {
-        "subjectId": 9,
-        "name": "Biomedical Engineering",
-        "codes": [
-            "CBME"
-        ]
-    },
-    {
-        "subjectId": 56,
-        "name": "Water and Human Health",
-        "codes": [
-            "BWRC"
-        ]
-    },
-    {
-        "subjectId": 26,
-        "name": "Gender Studies",
-        "codes": [
-            "GNDS"
-        ]
-    },
-    {
-        "subjectId": 28,
-        "name": "Geography and Planning",
-        "codes": [
-            "GPHY"
-        ]
-    },
-    {
-        "subjectId": 32,
-        "name": "Health Quality",
-        "codes": [
-            "HQRS"
-        ]
-    },
-    {
-        "subjectId": 47,
-        "name": "Political Studies",
-        "codes": [
-            "POLS"
-        ]
-    },
-    {
-        "subjectId": 6,
-        "name": "Biochemistry",
-        "codes": [
-            "BCHM"
-        ]
-    },
-    {
-        "subjectId": 18,
-        "name": "Earth and Energy Resources Leadership",
-        "codes": [
-            "EERL"
-        ]
-    },
-    {
-        "subjectId": 25,
-        "name": "French Studies",
-        "codes": [
-            "FRAN"
-        ]
-    },
-    {
-        "subjectId": 53,
-        "name": "Sociology",
-        "codes": [
-            "SOCY"
-        ]
-    },
-    {
-        "subjectId": 4,
-        "name": "Art History",
-        "codes": [
-            "ARTH"
-        ]
-    },
-    {
-        "subjectId": 7,
-        "name": "Biology",
-        "codes": [
-            "BIOM",
-            "BIOL"
-        ]
-    },
-    {
-        "subjectId": 17,
-        "name": "Cultural Studies",
-        "codes": [
-            "CUST"
-        ]
-    },
-    {
-        "subjectId": 12,
-        "name": "Chemistry",
-        "codes": [
-            "CHEM"
-        ]
-    },
-    {
-        "subjectId": 13,
-        "name": "Civil Engineering",
-        "codes": [
-            "APSC",
-            "CIVL"
-        ]
-    },
-    {
-        "subjectId": 39,
-        "name": "Mining Engineering",
-        "codes": [
-            "APSC",
-            "MINE"
-        ]
-    },
-    {
-        "subjectId": 1,
-        "name": "Anatomy and Cell Biology",
-        "codes": [
-            "ANAT"
-        ]
-    },
-    {
-        "subjectId": 2,
-        "name": "Applied Sustainability",
-        "codes": [
-            "CMAS"
-        ]
-    },
-    {
-        "subjectId": 43,
-        "name": "Pharmacology and Toxicology",
-        "codes": [
-            "PHAR"
+            "EPID"
         ]
     }
 ]

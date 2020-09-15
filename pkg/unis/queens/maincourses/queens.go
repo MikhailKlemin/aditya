@@ -1,7 +1,6 @@
 package maincourses
 
 import (
-	"encoding/json"
 	"fmt"
 	"io"
 	"io/ioutil"
@@ -12,7 +11,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/MikhailKlemin/aditya/pkg/utils"
+	"github.com/MikhailKlemin/aditya/pkg/model"
 )
 
 //CourseExample as per https://www.notion.so/Main-Course-Listing-eb9adf609af84e51af4727d6ae63aff0
@@ -41,18 +40,21 @@ func Start() {
 		log.Fatal(err)
 	}
 
-	b, err := json.MarshalIndent(cs, "", "    ")
-	if err != nil {
-		log.Fatal(err)
-	}
+	/*
+		b, err := json.MarshalIndent(cs, "", "    ")
+		if err != nil {
+			log.Fatal(err)
+		}
 
-	err = ioutil.WriteFile("./assets/QU-main-courses.json", b, 0600)
-	if err != nil {
-		log.Fatal(err)
-	}
+		err = ioutil.WriteFile("./assets/QU-main-courses.json", b, 0600)
+		if err != nil {
+			log.Fatal(err)
+		}
+	*/
+	model.Export(cs, "QU-main")
 }
 
-func parsePDF() (cs []utils.CourseExample, err error) {
+func parsePDF() (cs []model.Course, err error) {
 
 	/* 	Create Temp by downloading PDF from amazon file  */
 	fmt.Println("[INFO] ", "Downloading..")
@@ -64,7 +66,7 @@ func parsePDF() (cs []utils.CourseExample, err error) {
 
 	defer os.Remove(tempfile.Name())
 
-	resp, err := http.Get("https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f739e36d-43d9-4f48-9259-179b115e524a/Main_Course_Listing.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200905%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200905T192634Z&X-Amz-Expires=86400&X-Amz-Signature=3e462e276791100e4ec9293d8a1ee53c5a67eba02b2255f99b9b65f8c08aca72&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Main%2520Course%2520Listing.pdf%22")
+	resp, err := http.Get("https://www.queensu.ca/artsci/sites/default/files/a_courses_of_instruction_2.pdf")
 	if err != nil {
 		return
 	}
@@ -79,11 +81,11 @@ func parsePDF() (cs []utils.CourseExample, err error) {
 
 	file, err := ioutil.TempFile("/tmp", "queens-*.txt")
 	if err != nil {
-		//log.Fatal(err)
+		log.Fatal(err)
 		return
 	}
 
-	fmt.Println(file.Name())
+	fmt.Println(file.Name(), "\t", tempfile.Name())
 
 	defer os.Remove(file.Name())
 	_, err = exec.Command("pdftotext", "-layout", tempfile.Name(), file.Name()).Output()
@@ -121,7 +123,7 @@ func parsePDF() (cs []utils.CourseExample, err error) {
 	return
 }
 
-func parseBlock(block string) (c utils.CourseExample, err error) {
+func parseBlock(block string) (c model.Course, err error) {
 
 	t := func(in string) string {
 		return strings.TrimSpace(in)

@@ -1,12 +1,15 @@
 package concurent
 
 import (
+	"bytes"
 	"encoding/json"
+	"errors"
 	"fmt"
 	"io/ioutil"
 	"log"
 	"regexp"
 
+	"github.com/MikhailKlemin/aditya/pkg/model"
 	"github.com/MikhailKlemin/aditya/pkg/utils"
 	"github.com/PuerkitoBio/goquery"
 )
@@ -38,30 +41,45 @@ func Start() {
 		log.Fatal(err)
 	}
 
-	b, _ := json.MarshalIndent(cs, "", "    ")
-	ioutil.WriteFile("./assets/QU-concurrent-courses.json", b, 0600)
+	//b, _ := json.MarshalIndent(cs, "", "    ")
+	//ioutil.WriteFile("./assets/QU-concurrent-courses.json", b, 0600)
+	model.Export(cs, "QU-concurrent")
 }
 
 //Parse parse courses
-func Parse() (cs []utils.CourseExample, err error) {
+func Parse() (cs []model.Course, err error) {
 	client := utils.GetClient()
 
-	resp, err := client.Get("https://educ.queensu.ca/course-descriptions")
-	if err != nil {
-		log.Fatal(err)
-	}
+	var doc *goquery.Document
+	counter := 0
+	for {
+		if counter > 10 {
+			return cs, errors.New("Failed miserable")
+		}
 
-	/*resp, err := os.Open("./assets/concurrent-source.html")
-	if err != nil {
-		return
+		resp, xerr := client.Get("https://educ.queensu.ca/course-descriptions")
+
+		if xerr != nil {
+			//return c, err
+			counter++
+			continue
+		}
+
+		b, xerr := ioutil.ReadAll(resp.Body)
+		if xerr != nil {
+			counter++
+			continue
+		}
+
+		//fmt.Println(string(b))
+		doc, xerr = goquery.NewDocumentFromReader(bytes.NewReader(b))
+		if xerr != nil {
+			counter++
+			continue
+		}
+		defer resp.Body.Close()
+		break
 	}
-	defer resp.Close()
-	*/
-	doc, err := goquery.NewDocumentFromReader(resp.Body)
-	if err != nil {
-		return
-	}
-	defer resp.Body.Close()
 
 	re := regexp.MustCompile(`^([A-Z]{4})\s*([\d/\.]+)\s*(.*)`)
 	re2 := regexp.MustCompile(`</strong>.*\n(.*)`)
@@ -69,10 +87,7 @@ func Parse() (cs []utils.CourseExample, err error) {
 	re3 := regexp.MustCompile(`PREREQUISITE:\s*(.*)`)
 	//var re = regexp.MustCompile(`^([A-Z]+)\s*([\d\./]+)\s*(.*)`)
 	doc.Find(`p strong`).Each(func(i int, s *goquery.Selection) {
-		if i != 67 {
-			//return
-		}
-		var c utils.CourseExample
+		var c model.Course
 		h, _ := s.Html()
 
 		h = utils.Clean(h)

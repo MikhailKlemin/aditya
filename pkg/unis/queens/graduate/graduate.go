@@ -1,6 +1,7 @@
 package graduate
 
 import (
+	"bytes"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
@@ -8,6 +9,7 @@ import (
 	"regexp"
 	"strings"
 
+	"github.com/MikhailKlemin/aditya/pkg/model"
 	"github.com/MikhailKlemin/aditya/pkg/utils"
 	"github.com/PuerkitoBio/goquery"
 )
@@ -33,32 +35,61 @@ func Start() {
 	sbjs := getLinks()
 	fmt.Println(len(sbjs), "\t", sbjs[0])
 	//sbjs = sbjs[:2]
-	var cs []utils.CourseExample
+	var cs []model.Course
 	for _, sbj := range sbjs {
 		cs = append(cs, Parse(sbj)...)
 	}
 
-	Export(cs)
+	model.Export(cs, "QU-graduate")
 }
 
 func getLinks() (sjs []subjs) {
 	client := utils.GetClient()
-	resp, err := client.Get("https://www.queensu.ca/sgs/graduate-calendar/courses-instruction")
-	if err != nil {
-		log.Fatal(err)
-	}
 
-	/*resp, err := os.Open("./assets/concurrent-source.html")
-	if err != nil {
-		return
-	}
-	defer resp.Close()
+	/*
+	   	resp, err := client.Get("https://www.queensu.ca/sgs/graduate-calendar/courses-instruction")
+	   	if err != nil {
+	   		log.Fatal(err)
+	   	}
+
+	   	doc, err := goquery.NewDocumentFromReader(resp.Body)
+	   	if err != nil {
+	   		return
+	   	}
+	   	defer resp.Body.Close()
+
+	   }
 	*/
-	doc, err := goquery.NewDocumentFromReader(resp.Body)
-	if err != nil {
-		return
+	var doc *goquery.Document
+	counter := 0
+	for {
+		if counter > 10 {
+			log.Fatal("Failed miserable")
+		}
+
+		resp, xerr := client.Get("https://www.queensu.ca/sgs/graduate-calendar/courses-instruction")
+
+		if xerr != nil {
+			//return c, err
+			counter++
+			continue
+		}
+
+		b, xerr := ioutil.ReadAll(resp.Body)
+		if xerr != nil {
+			counter++
+			continue
+		}
+
+		//fmt.Println(string(b))
+		doc, xerr = goquery.NewDocumentFromReader(bytes.NewReader(b))
+		if xerr != nil {
+			counter++
+			continue
+		}
+		defer resp.Body.Close()
+		break
 	}
-	defer resp.Body.Close()
 
 	doc.Find(`a[href^="/sgs/graduate-calendar/courses-instruction/"]`).Each(func(_ int, s *goquery.Selection) {
 		href, _ := s.Attr(`href`)
@@ -68,24 +99,38 @@ func getLinks() (sjs []subjs) {
 }
 
 //Parse is
-func Parse(sj subjs) (cs []utils.CourseExample) {
+func Parse(sj subjs) (cs []model.Course) {
 	client := utils.GetClient()
-	resp, err := client.Get(sj.link)
-	if err != nil {
-		log.Fatal(err)
-	}
+	var doc *goquery.Document
+	counter := 0
+	for {
+		if counter > 10 {
+			log.Fatal("Failed miserable")
+		}
 
-	/*resp, err := os.Open("./assets/concurrent-source.html")
-	if err != nil {
-		return
+		resp, xerr := client.Get(sj.link)
+
+		if xerr != nil {
+			//return c, err
+			counter++
+			continue
+		}
+
+		b, xerr := ioutil.ReadAll(resp.Body)
+		if xerr != nil {
+			counter++
+			continue
+		}
+
+		//fmt.Println(string(b))
+		doc, xerr = goquery.NewDocumentFromReader(bytes.NewReader(b))
+		if xerr != nil {
+			counter++
+			continue
+		}
+		defer resp.Body.Close()
+		break
 	}
-	defer resp.Close()
-	*/
-	doc, err := goquery.NewDocumentFromReader(resp.Body)
-	if err != nil {
-		return
-	}
-	defer resp.Body.Close()
 
 	re := regexp.MustCompile(`.?([A-Z]{4})-([\d*/]+)\s*(.*)`) //Course Code
 	re2 := regexp.MustCompile(`PREREQUISITE:\s*(?:OR\s*COREQUISITES:)?\s*(.*)`)
@@ -94,7 +139,7 @@ func Parse(sj subjs) (cs []utils.CourseExample) {
 	re5 := regexp.MustCompile(`COREQUISITE:\s*(.*)`)
 
 	doc.Find(`p strong`).Each(func(_ int, s *goquery.Selection) {
-		var c utils.CourseExample
+		var c model.Course
 		txt := strings.TrimSpace(s.Text())
 		m := re.FindStringSubmatch(txt)
 		if len(m) == 0 {
@@ -104,34 +149,7 @@ func Parse(sj subjs) (cs []utils.CourseExample) {
 		c.NumericCode = m[2]
 		c.Name = utils.Clean(m[3])
 		c.SubjectName = sj.name
-		/*descs := strings.Split(strings.TrimSpace(s.Parent().Clone().Children().Remove().End().Text()), "\n")
-		c.Description = descs[0]
-
-		//fmt.Printf("%#v\n", c)
-		if len(descs) > 0 {
-			for _, d := range descs[1:] {
-				//fmt.Println(d)
-				if m1 := re2.FindStringSubmatch(d); len(m1) > 0 {
-					c.Prerequisite = strings.TrimSuffix(strings.TrimSpace(m1[1]), ".")
-				} else {
-					//c.Description = c.Description + " " + d
-				}
-
-				if m1 := re3.FindStringSubmatch(d); len(m1) > 0 {
-					c.Antirequisite = strings.TrimSuffix(strings.TrimSpace(m1[1]), ".")
-
-				} else {
-					//c.Description = c.Description + " " + d
-				}
-
-			}
-		}
-		if c.Description == "" {
-			c.Description = utils.Clean(s.Parent().Next().Text())
-		}
-		*/
 		desc, _ := s.Parent().Html()
-		//fmt.Println(c.NumericCode)
 		ds := strings.Split(desc, "<br/>")
 		if len(ds) < 1 {
 			return
@@ -173,6 +191,7 @@ func Parse(sj subjs) (cs []utils.CourseExample) {
 	return
 }
 
+/*
 func dedup(in []string) (out []string) {
 	if len(in) <= 1 {
 		return in
@@ -244,3 +263,4 @@ func Export(cs []utils.CourseExample) (err error) {
 
 	return
 }
+*/

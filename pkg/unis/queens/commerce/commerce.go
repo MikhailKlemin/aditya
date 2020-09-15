@@ -1,7 +1,7 @@
 package commerce
 
 import (
-	"encoding/json"
+	"bytes"
 	"errors"
 	"fmt"
 	"io/ioutil"
@@ -10,6 +10,7 @@ import (
 	"strings"
 	"sync"
 
+	"github.com/MikhailKlemin/aditya/pkg/model"
 	"github.com/MikhailKlemin/aditya/pkg/utils"
 	"github.com/PuerkitoBio/goquery"
 )
@@ -28,19 +29,52 @@ func Start() {
 	client := utils.GetClient()
 	re := regexp.MustCompile(`COMM\s*(.*):\s*(.*)`)
 
-	resp, err := client.Get(`https://smith.queensu.ca/bcom/the_program/curriculum/all_courses.php`)
-	if err != nil {
-		log.Println(err)
-		return
-	}
+	/*
+		resp, err := client.Get(`https://smith.queensu.ca/bcom/the_program/curriculum/all_courses.php`)
+		if err != nil {
+			log.Println(err)
+			return
+		}
 
-	doc, err := goquery.NewDocumentFromReader(resp.Body)
-	if err != nil {
-		log.Println(err)
-		return
-	}
+		doc, err := goquery.NewDocumentFromReader(resp.Body)
+		if err != nil {
+			log.Println(err)
+			return
+		}
 
-	defer resp.Body.Close()
+		defer resp.Body.Close()
+	*/
+
+	var doc *goquery.Document
+	counter := 0
+	for {
+		if counter > 10 {
+			log.Fatal("Failed miserable")
+		}
+
+		resp, xerr := client.Get("https://smith.queensu.ca/bcom/the_program/curriculum/all_courses.php")
+
+		if xerr != nil {
+			//return c, err
+			counter++
+			continue
+		}
+
+		b, xerr := ioutil.ReadAll(resp.Body)
+		if xerr != nil {
+			counter++
+			continue
+		}
+
+		//fmt.Println(string(b))
+		doc, xerr = goquery.NewDocumentFromReader(bytes.NewReader(b))
+		if xerr != nil {
+			counter++
+			continue
+		}
+		defer resp.Body.Close()
+		break
+	}
 	var ps []pair
 	doc.Find(`a.modal_frame`).Each(func(i int, s *goquery.Selection) {
 		//fmt.Printf("%d\t%s\n", i, s.Text())
@@ -56,7 +90,7 @@ func Start() {
 		ps = append(ps, p)
 	})
 
-	var cs []utils.CourseExample
+	var cs []model.Course
 	var mu sync.Mutex
 	sem := make(chan bool, 3)
 
@@ -89,13 +123,14 @@ func Start() {
 		sem <- true
 	}
 
-	b, _ := json.MarshalIndent(cs, "", "   ")
-	ioutil.WriteFile("./assets/QU-commerce-courses.json", b, 0600)
+	//b, _ := json.MarshalIndent(cs, "", "   ")
+	//ioutil.WriteFile("./assets/QU-commerce-courses.json", b, 0600)
+	model.Export(cs, "QU-commerce")
 
 }
 
 //Parse parses link
-func Parse(p pair) (c utils.CourseExample, err error) {
+func Parse(p pair) (c model.Course, err error) {
 	client := utils.GetClient()
 	count := 0
 	var doc *goquery.Document

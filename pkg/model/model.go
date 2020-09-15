@@ -11,6 +11,9 @@ import (
 type Course struct {
 	SubjectID   int    `json:"subjectId"`
 	SubjectName string `json:"SubjectName,omitempty"`
+	//TermID      int    `json:"TermID,omitempty"`
+	//TermName    string `json:"TermName,omitempty"`
+
 	//SubjectCode []string `json:"codes,omitempty"`
 
 	Name          string `json:"name"`

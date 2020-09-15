@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/MikhailKlemin/aditya/pkg/utils"
+	"github.com/MikhailKlemin/aditya/pkg/model"
 	"github.com/PuerkitoBio/goquery"
 	strip "github.com/grokify/html-strip-tags-go"
 )
@@ -118,10 +118,48 @@ type coursePair struct {
 	Description string `json:"description"`
 }
 
+//Course represents the Course infrmation this is Exlusively for Wilfrid
+type Course struct {
+	TermCode string `json:",omitempty"`
+	TermName string `json:",omitempty"`
+	TermID   int
+
+	SubjectCode string `json:",omitempty"`
+	SubjectName string `json:",omitempty"`
+	SubjectID   int    `json:"subjectId"`
+
+	CourseID              int
+	CourseCode            string // subject
+	NumericCode           string // courseNumber
+	Campus                string // campusDescription
+	CourseTitle           string //courseTitle
+	Description           string //separate request
+	CourseReferenceNumber string // CourseReferenceNumber
+	Section               string // sequenceNumber
+	Prerequisite          string
+	CrossListed           string
+
+	Enrollment struct {
+		Enrolled struct {
+			Actual, Max, Available int
+		}
+		Waitlist struct {
+			Actual, Max, Available int
+		}
+	}
+}
+
+//Terms holds terms
+type Terms struct {
+	TermID   int
+	TermName string
+	TermCode string
+}
+
 var client *http.Client
 
 //Start function begins the scraping
-func Start() []utils.Course {
+func Start() {
 
 	//creating global  http client
 	cookieJar, _ := cookiejar.New(nil)
@@ -136,7 +174,7 @@ func Start() []utils.Course {
 
 	// Printing for test purposes
 	fmt.Printf("SeessionID is %s and there are %d terms the 1st one is %s with code %s\n", sessionID, len(ps), ps[0].Description, ps[0].Code)
-	var cs []utils.Course
+	var cs []Course
 
 	for i, p := range ps {
 		if i > 2 {
@@ -165,7 +203,7 @@ func Start() []utils.Course {
 			tds := browseClasses(class.Code, p.Code, sessionID)
 			fmt.Printf("Got %d results for class %s\n", len(tds), class.Code)
 			for _, td := range tds {
-				var c utils.Course
+				var c Course
 				fmt.Println(td.Term, "\t", td.CourseReferenceNumber)
 				getCourseDesc(&c, td.Term, td.CourseReferenceNumber)
 				setCommonFields(&c, td)
@@ -188,11 +226,12 @@ func Start() []utils.Course {
 
 	b, _ := json.MarshalIndent(cs, "", "    ")
 	ioutil.WriteFile("./assets/wlu-raw-data.json", b, 0600)
-	return cs
+	//return cs
+	Export(cs)
 
 }
 
-func setCommonFields(c *utils.Course, td theData) {
+func setCommonFields(c *Course, td theData) {
 	if td.CrossList != nil {
 		fmt.Printf("%#v\n", td.CrossList)
 	}
@@ -218,7 +257,7 @@ func setCommonFields(c *utils.Course, td theData) {
 
 }
 
-func getPreprequests(c *utils.Course, term, courseReferenceNumber string) {
+func getPreprequests(c *Course, term, courseReferenceNumber string) {
 	fCount := 0
 	for {
 		if fCount > 10 {
@@ -279,7 +318,7 @@ func getPreprequests(c *utils.Course, term, courseReferenceNumber string) {
 }
 
 // getCourseDesc get descritption of the course
-func getCourseDesc(c *utils.Course, term, courseReferenceNumber string) {
+func getCourseDesc(c *Course, term, courseReferenceNumber string) {
 	fCount := 0
 	for {
 
@@ -537,7 +576,7 @@ func getCourses() ([]coursePair, string) {
 }
 
 //Export exports into appropirate format
-func Export(cs []utils.Course) {
+func Export(cs []Course) {
 	if len(cs) == 0 {
 		b, err := ioutil.ReadFile("./assets/wlu-raw-data.json")
 		if err != nil {
@@ -568,7 +607,7 @@ func Export(cs []utils.Course) {
 
 	var subjectMap = make(map[string]iSubj)
 	subjCount := 1
-	var ecs []utils.Course
+	var ecs []Course
 
 	for _, c := range cs {
 		if val, ok := termMap[c.TermCode]; ok {
@@ -599,9 +638,9 @@ func Export(cs []utils.Course) {
 	b, _ := json.MarshalIndent(ecs, "", "    ")
 	ioutil.WriteFile("./assets/wlu-courses.json", b, 0600)
 
-	var terms []utils.Terms
+	var terms []Terms
 	for _, val := range termMap {
-		var t utils.Terms
+		var t Terms
 		t.TermID = val.ID
 		t.TermName = val.Name
 		t.TermCode = val.Code
@@ -610,9 +649,9 @@ func Export(cs []utils.Course) {
 	b, _ = json.MarshalIndent(terms, "", "    ")
 	ioutil.WriteFile("./assets/wlu-terms.json", b, 0600)
 
-	var subjs []utils.Subject
+	var subjs []model.Subject
 	for _, val := range subjectMap {
-		var t utils.Subject
+		var t model.Subject
 		t.SubjectID = val.ID
 		t.SubjectName = html.UnescapeString(val.Name)
 		t.SubjectCode = []string{val.Code}
@@ -623,51 +662,3 @@ func Export(cs []utils.Course) {
 	ioutil.WriteFile("./assets/wlu-subjects.json", b, 0600)
 
 }
-
-/*
-JSESSIONID       A4C8BDA5DAC5CECD93D1E033D521FC7B
-0        202105          Spring 2021
-1        202101          Winter 2021
-2        202009          Fall 2020
-3        202005          Spring 2020 (View Only)
-4        202001          Winter 2020 (View Only)
-5        201909          Fall 2019 (View Only)
-6        201905          Spring 2019 (View Only)
-7        201901          Winter 2019 (View Only)
-8        201809          Fall 2018 (View Only)
-9        201805          Spring 2018 (View Only)
-10       201801          Winter 2018 (View Only)
-11       201709          Fall 2017 (View Only)
-12       201705          Spring 2017 (View Only)
-13       201701          Winter 2017 (View Only)
-14       201609          Fall 2016 (View Only)
-15       201605          Spring 2016 (View Only)
-16       201601          Winter 2016 (View Only)
-17       201509          Fall 2015 (View Only)
-18       201505          Spring 2015 (View Only)
-19       201501          Winter 2015 (View Only)
-20       201409          Fall 2014 (View Only)
-21       201405          Spring 2014 (View Only)
-22       201401          Winter 2014 (View Only)
-23       201309          Fall 2013 (View Only)
-24       201305          Spring 2013 (View Only)
-25       201301          Winter 2013 (View Only)
-26       201209          Fall 2012 (View Only)
-27       201205          Spring 2012 (View Only)
-28       201201          Winter 2012 (View Only)
-29       201109          Fall 2011 (View Only)
-
-*/
-
-/*
-0        AN      Anthropology
-1        AB      Arabic
-2        AR      Archaeology
-3        AF      Arts Topic Seminar
-4        AS      Astronomy
-5        BH      Biological &amp; Chemical Sciences
-6        BI      Biology
-7        BF      Brantford Foundations
-8        BU      Business
-9        MB      Business Technology Management
-*/
