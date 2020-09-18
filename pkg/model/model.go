@@ -9,8 +9,9 @@ import (
 
 //Course holds all fields for all Unies.
 type Course struct {
-	SubjectID   int    `json:"subjectId"`
-	SubjectName string `json:"SubjectName,omitempty"`
+	SubjectID          int    `json:"subjectId"`
+	SubjectName        string `json:"SubjectName,omitempty"`
+	SubjectDescription string `json:"-"`
 	//TermID      int    `json:"TermID,omitempty"`
 	//TermName    string `json:"TermName,omitempty"`
 
@@ -44,6 +45,7 @@ type Subject struct {
 	TermID      int      `json:"termID,omitempty"`
 	SubjectName string   `json:"name"`
 	SubjectCode []string `json:"codes"`
+	Description string   `json:"description,omitempty"`
 }
 
 // Export exporting the Course into ./assets dir,
@@ -59,6 +61,7 @@ func Export(cs []Course, prefix string) (err error) {
 			c.SubjectID = scount
 			subj.SubjectID = scount
 			subj.SubjectName = c.SubjectName
+			subj.Description = c.SubjectDescription
 			subj.SubjectCode = []string{c.CourseCode}
 			se[c.SubjectName] = subj //adding to "exists" map
 			scount++

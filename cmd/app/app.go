@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/MikhailKlemin/aditya/pkg/unis/wilfrid"
+	"github.com/MikhailKlemin/aditya/pkg/unis/ubc"
 )
 
 func main() {
@@ -21,7 +21,7 @@ func main() {
 	//commerce.Parse(nil)
 
 	//concurent.Start()
-	wilfrid.Start()
+	ubc.Start()
 	//commerce.Start()
 
 	fmt.Printf("Took %s to finish\n", time.Since(t))

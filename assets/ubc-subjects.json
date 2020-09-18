@@ -1,0 +1,1647 @@
+[
+    {
+        "subjectId": 221,
+        "name": "Vantage College",
+        "codes": [
+            "VANT"
+        ]
+    },
+    {
+        "subjectId": 66,
+        "name": "Commerce Human Resources",
+        "codes": [
+            "COHR"
+        ]
+    },
+    {
+        "subjectId": 154,
+        "name": "Manufacturing Engineering",
+        "codes": [
+            "MANU"
+        ]
+    },
+    {
+        "subjectId": 158,
+        "name": "Doctor of Medicine",
+        "codes": [
+            "MEDD"
+        ]
+    },
+    {
+        "subjectId": 196,
+        "name": "Religion, Literature and The Arts",
+        "codes": [
+            "RGLA"
+        ]
+    },
+    {
+        "subjectId": 1,
+        "name": "Applied Animal Biology",
+        "codes": [
+            "AANB"
+        ]
+    },
+    {
+        "subjectId": 109,
+        "name": "Food Science",
+        "codes": [
+            "FOOD"
+        ],
+        "description": "Undergraduate courses have been re-named as Food, Nutrition and Health (FNH). Please see this section."
+    },
+    {
+        "subjectId": 125,
+        "name": "Hindi-Urdu",
+        "codes": [
+            "HINU"
+        ]
+    },
+    {
+        "subjectId": 108,
+        "name": "Forest Operations",
+        "codes": [
+            "FOPR"
+        ]
+    },
+    {
+        "subjectId": 18,
+        "name": "Arts and Science Interdisciplinary Courses",
+        "codes": [
+            "ASIC"
+        ]
+    },
+    {
+        "subjectId": 96,
+        "name": "Educational Technology",
+        "codes": [
+            "ETEC"
+        ]
+    },
+    {
+        "subjectId": 106,
+        "name": "Food, Nutrition and Health",
+        "codes": [
+            "FNH"
+        ]
+    },
+    {
+        "subjectId": 73,
+        "name": "Creative Writing",
+        "codes": [
+            "CRWR"
+        ],
+        "description": "For admission requirements for all courses see Creative Writing entry under Arts."
+    },
+    {
+        "subjectId": 116,
+        "name": "Geographical Sciences",
+        "codes": [
+            "GEOB"
+        ],
+        "description": "All GEOB courses carry Science credit and therefore may not be used by B.Sc. students to satisfy the Faculty of Science requirements of 18 credits of Arts. Only Geography courses carrying the GEOG designation may be used to satisfy the Faculty of Science requirements of 18 credits of Arts."
+    },
+    {
+        "subjectId": 119,
+        "name": "Greek",
+        "codes": [
+            "GREK"
+        ]
+    },
+    {
+        "subjectId": 124,
+        "name": "Haida Gwaii Semesters",
+        "codes": [
+            "HGSE"
+        ]
+    },
+    {
+        "subjectId": 3,
+        "name": "Agricultural Economics",
+        "codes": [
+            "AGEC"
+        ]
+    },
+    {
+        "subjectId": 31,
+        "name": "Business Administration: Law",
+        "codes": [
+            "BALA"
+        ]
+    },
+    {
+        "subjectId": 74,
+        "name": "Coordinated Science Program Workshop",
+        "codes": [
+            "CSPW"
+        ]
+    },
+    {
+        "subjectId": 217,
+        "name": "Urban Design",
+        "codes": [
+            "UDES"
+        ]
+    },
+    {
+        "subjectId": 63,
+        "name": "Commerce Economics",
+        "codes": [
+            "COEC"
+        ]
+    },
+    {
+        "subjectId": 85,
+        "name": "Curriculum and Pedagogy",
+        "codes": [
+            "EDCP"
+        ]
+    },
+    {
+        "subjectId": 172,
+        "name": "Oncology",
+        "codes": [
+            "ONCO"
+        ]
+    },
+    {
+        "subjectId": 68,
+        "name": "Commerce Minor",
+        "codes": [
+            "COMR"
+        ]
+    },
+    {
+        "subjectId": 189,
+        "name": "Portuguese",
+        "codes": [
+            "PORT"
+        ]
+    },
+    {
+        "subjectId": 226,
+        "name": "Arts Studies in Writing",
+        "codes": [
+            "WRDS"
+        ]
+    },
+    {
+        "subjectId": 26,
+        "name": "Business Administration: Business Statistics",
+        "codes": [
+            "BABS"
+        ]
+    },
+    {
+        "subjectId": 105,
+        "name": "Film Studies",
+        "codes": [
+            "FIST"
+        ]
+    },
+    {
+        "subjectId": 19,
+        "name": "American Sign Language",
+        "codes": [
+            "ASL"
+        ]
+    },
+    {
+        "subjectId": 20,
+        "name": "Astronomy",
+        "codes": [
+            "ASTR"
+        ],
+        "description": "See also Physics."
+    },
+    {
+        "subjectId": 113,
+        "name": "Green Bioproducts",
+        "codes": [
+            "GBPR"
+        ]
+    },
+    {
+        "subjectId": 6,
+        "name": "Anthropology",
+        "codes": [
+            "ANTH"
+        ],
+        "description": "ANTH 100, 103, 201, 202, 203, 204, 205, 206, 213, 214, 215, 217, 218, 220, 221, 222, 225, 231, 232 and 329 are general courses open to all students. ANTH 100 is a prerequisite to all other third- and fourth-year courses, unless permission of the instructor is obtained. Some courses have additional prerequisites, as listed in the descriptions. For details of current listings, consult the departmental website at www.anth.ubc.ca."
+    },
+    {
+        "subjectId": 187,
+        "name": "Physics",
+        "codes": [
+            "PHYS"
+        ],
+        "description": "Science students with BC Secondary School Physics 11, but not Physics 12, are required to take PHYS 100. PHYS 100 is intended primarily for students who have completed only Physics 11 or its equivalent. Credit will not be given for PHYS 100 to students with credit for Physics 12 unless they took AP, IB, or A-level Physics and were offered advanced credit for PHYS 100. Most Science degree specializations require at least one or two terms of physics beyond Physics 12 or PHYS 100. Science One is considered to include two terms of physics. Credit will be given for only one of PHYS 117, PHYS 107 and for only one of PHYS 102, PHYS 108, PHYS 118."
+    },
+    {
+        "subjectId": 169,
+        "name": "Neuroscience",
+        "codes": [
+            "NRSC"
+        ]
+    },
+    {
+        "subjectId": 147,
+        "name": "Land \u0026 Food Systems",
+        "codes": [
+            "LFS"
+        ],
+        "description": "As of July 1, 2015, the IHHS courses have been distributed among the following units: School of Social Work, School of Population and Public Health, and Faculty of Land and Food Systems."
+    },
+    {
+        "subjectId": 188,
+        "name": "Polish",
+        "codes": [
+            "POLS"
+        ]
+    },
+    {
+        "subjectId": 201,
+        "name": "Sanskrit",
+        "codes": [
+            "SANS"
+        ]
+    },
+    {
+        "subjectId": 25,
+        "name": "Business Administration: Accounting",
+        "codes": [
+            "BAAC"
+        ]
+    },
+    {
+        "subjectId": 39,
+        "name": "Forest Bioeconomy Sciences and Technology",
+        "codes": [
+            "BEST"
+        ]
+    },
+    {
+        "subjectId": 115,
+        "name": "Genetics",
+        "codes": [
+            "GENE"
+        ]
+    },
+    {
+        "subjectId": 175,
+        "name": "Orthopaedics",
+        "codes": [
+            "ORPA"
+        ]
+    },
+    {
+        "subjectId": 224,
+        "name": "Visiting Undergraduate Research Students",
+        "codes": [
+            "VURS"
+        ]
+    },
+    {
+        "subjectId": 87,
+        "name": "Education",
+        "codes": [
+            "EDUC"
+        ]
+    },
+    {
+        "subjectId": 132,
+        "name": "Indigenous Land-Based Studies",
+        "codes": [
+            "INLB"
+        ]
+    },
+    {
+        "subjectId": 155,
+        "name": "Medieval Studies",
+        "codes": [
+            "MDVL"
+        ]
+    },
+    {
+        "subjectId": 56,
+        "name": "Children's Literature",
+        "codes": [
+            "CHIL"
+        ]
+    },
+    {
+        "subjectId": 70,
+        "name": "Computer Engineering",
+        "codes": [
+            "CPEN"
+        ]
+    },
+    {
+        "subjectId": 91,
+        "name": "Engineering Physics",
+        "codes": [
+            "ENPH"
+        ]
+    },
+    {
+        "subjectId": 198,
+        "name": "Rehabilitation Sciences",
+        "codes": [
+            "RHSC"
+        ]
+    },
+    {
+        "subjectId": 35,
+        "name": "Business Administration: Supply Chain",
+        "codes": [
+            "BASC"
+        ]
+    },
+    {
+        "subjectId": 44,
+        "name": "Botany",
+        "codes": [
+            "BOTA"
+        ],
+        "description": "All undergraduate courses in Botany are listed under Biology."
+    },
+    {
+        "subjectId": 53,
+        "name": "Cell and Developmental Biology",
+        "codes": [
+            "CELL"
+        ]
+    },
+    {
+        "subjectId": 47,
+        "name": "Biomedical Engineering",
+        "codes": [
+            "BMEG"
+        ]
+    },
+    {
+        "subjectId": 190,
+        "name": "Political Science",
+        "codes": [
+            "POLI"
+        ],
+        "description": "For details of courses consult the Departmental website at www.politics.ubc.ca."
+    },
+    {
+        "subjectId": 220,
+        "name": "Urban Systems",
+        "codes": [
+            "URSY"
+        ]
+    },
+    {
+        "subjectId": 22,
+        "name": "Arts Studies",
+        "codes": [
+            "ASTU"
+        ]
+    },
+    {
+        "subjectId": 79,
+        "name": "Digital Media",
+        "codes": [
+            "DMED"
+        ]
+    },
+    {
+        "subjectId": 179,
+        "name": "Persian",
+        "codes": [
+            "PERS"
+        ]
+    },
+    {
+        "subjectId": 195,
+        "name": "Resources, Environment and Sustainability",
+        "codes": [
+            "RES"
+        ]
+    },
+    {
+        "subjectId": 103,
+        "name": "Family Studies",
+        "codes": [
+            "FMST"
+        ]
+    },
+    {
+        "subjectId": 156,
+        "name": "Mechanical Engineering",
+        "codes": [
+            "MECH"
+        ]
+    },
+    {
+        "subjectId": 174,
+        "name": "Music",
+        "codes": [
+            "MUSC"
+        ]
+    },
+    {
+        "subjectId": 165,
+        "name": "Mining Engineering",
+        "codes": [
+            "MINE"
+        ]
+    },
+    {
+        "subjectId": 167,
+        "name": "Naval Architecture and Marine Engineering",
+        "codes": [
+            "NAME"
+        ]
+    },
+    {
+        "subjectId": 50,
+        "name": "Critical and Curatorial Studies",
+        "codes": [
+            "CCST"
+        ]
+    },
+    {
+        "subjectId": 59,
+        "name": "Classical Studies",
+        "codes": [
+            "CLST"
+        ],
+        "description": "Not all courses are offered every year. For current listings, consult the departmental website at: www.cnrs.ubc.ca."
+    },
+    {
+        "subjectId": 61,
+        "name": "Classical, Near Eastern and Religious Studies",
+        "codes": [
+            "CNRS"
+        ]
+    },
+    {
+        "subjectId": 48,
+        "name": "Centre for Cross-Faculty Inquiry",
+        "codes": [
+            "CCFI"
+        ]
+    },
+    {
+        "subjectId": 82,
+        "name": "Early Childhood Education",
+        "codes": [
+            "ECED"
+        ]
+    },
+    {
+        "subjectId": 81,
+        "name": "Dentistry",
+        "codes": [
+            "DENT"
+        ]
+    },
+    {
+        "subjectId": 216,
+        "name": "Transition School",
+        "codes": [
+            "TRSC"
+        ]
+    },
+    {
+        "subjectId": 11,
+        "name": "Applied Biology",
+        "codes": [
+            "APBI"
+        ]
+    },
+    {
+        "subjectId": 41,
+        "name": "Biology",
+        "codes": [
+            "BIOL"
+        ],
+        "description": "Students without Biology 11 or Biology 12 must take BIOL 111 before taking BIOL 112, BIOL 121, BIOL 140, BIOL 153, or BIOL 155. Students without Chemistry 12 must take CHEM 100 or CHEM 111 before taking BIOL 112, BIOL 153, or BIOL 155. BIOL 112, BIOL 121, and BIOL 140 are pre-requisites for many Biology courses. BIOL 112, BIOL 121, and/or BIOL 140 are required for admission to many specializations. See the Second Year Specialization Application: Requirements website: https://science.ubc.ca/students/degree/apply/req for admission requirements for specializations within the Faculty of Science. See the Biology Program Office: http://www.biology.ubc.ca/ for more information about admission to Biology specializations. Students interested in meeting the admission requirements of other faculties or schools should consult the appropriate office. Additional fees are charged for some courses. Not every course is offered every year. For current listings, please consult the Course Schedule for Biology: https://courses.students.ubc.ca/cs/main?pname=subjarea\u0026tname=subjareas\u0026req=1\u0026dept=BIOL. Please see the MRNE course descriptions: http://www.calendar.ubc.ca/vancouver/courses.cfm?page=code\u0026code=MRNE for more upper level biology courses. MRNE courses are field-based courses provided at the Bamfield Marine Sciences Centre. For more information and current course listings, please see the Bamfield Marine Sciences Centre website: http://www.bamfieldmsc.com/."
+    },
+    {
+        "subjectId": 142,
+        "name": "Kinesiology",
+        "codes": [
+            "KIN"
+        ]
+    },
+    {
+        "subjectId": 159,
+        "name": "Medical Genetics",
+        "codes": [
+            "MEDG"
+        ]
+    },
+    {
+        "subjectId": 5,
+        "name": "Anatomy",
+        "codes": [
+            "ANAT"
+        ],
+        "description": "As of Summer Session 2013, ANAT 390 and ANAT 391 have been renamed to CAPS courses with equivalent numbers and move to CAPS course listings."
+    },
+    {
+        "subjectId": 33,
+        "name": "Business Administration: Marketing",
+        "codes": [
+            "BAMA"
+        ]
+    },
+    {
+        "subjectId": 78,
+        "name": "Dental Hygiene",
+        "codes": [
+            "DHYG"
+        ]
+    },
+    {
+        "subjectId": 191,
+        "name": "Public Policy and Global Affairs",
+        "codes": [
+            "PPGA"
+        ]
+    },
+    {
+        "subjectId": 46,
+        "name": "Business",
+        "codes": [
+            "BUSI"
+        ]
+    },
+    {
+        "subjectId": 58,
+        "name": "Chinese",
+        "codes": [
+            "CHIN"
+        ],
+        "description": "For each academic session (W and S), prior to registration in any CHIN course, students are required to complete the online Chinese Placement Questionnaire at https://placement.asia.ubc.ca/ to obtain a placement approval certificate. Students are only eligible for courses listed on their placement approval certificate. Please contact the placement coordinator at chinese.placement@ubc.ca if there are any concerns about the placement approval certificate. Please submit the certificate to the Instructor on the first day of class. For more information on placement approval, please visit Placement Tests at http://asia.ubc.ca/undergraduate/placement-tests/. Note: Students must obtain a minimum grade of 60% to advance to the next level of language. This applies to all students in CHIN language courses, not just language majors."
+    },
+    {
+        "subjectId": 129,
+        "name": "Integrated Engineering",
+        "codes": [
+            "IGEN"
+        ]
+    },
+    {
+        "subjectId": 173,
+        "name": "Orientation to Medical School",
+        "codes": [
+            "ORNT"
+        ]
+    },
+    {
+        "subjectId": 208,
+        "name": "Spanish",
+        "codes": [
+            "SPAN"
+        ],
+        "description": "Individuals with previous Spanish experience should complete a \"Language Placement Exam\" or an assessment interview to determine which course they should register for. Please speak with the Spanish Undergraduate Advisor or the Course Instructor. All 400-level Spanish courses titled \"Topics in...\" may be taken twice for credit, with different content, to a maximum of 6 credits. Note: The Common European Framework of Reference for Languages (CEFR) is a reference tool developed by the Council of Europe to provide a common basis for the development of modern language curriculum guidelines, examinations, textbooks, etc. It describes in a comprehensive way what language learners have to learn in order to use a language for communication and what knowledge and skills they have to develop so as to be able to do so effectively."
+    },
+    {
+        "subjectId": 92,
+        "name": "Environmental Engineering",
+        "codes": [
+            "ENVE"
+        ]
+    },
+    {
+        "subjectId": 97,
+        "name": "Exchange Programs",
+        "codes": [
+            "EXCH"
+        ]
+    },
+    {
+        "subjectId": 163,
+        "name": "Microbiology",
+        "codes": [
+            "MICB"
+        ],
+        "description": "BIOL 112, MICB 201, or SCIE 001 is a prerequisite for all MICB courses except MICB 153 and MICB 353. Consult the Credit Exclusion List in the Faculty of Science section of the Calendar. Additional fees are charged for some courses."
+    },
+    {
+        "subjectId": 60,
+        "name": "Counselling Psychology",
+        "codes": [
+            "CNPS"
+        ]
+    },
+    {
+        "subjectId": 135,
+        "name": "Italian Studies",
+        "codes": [
+            "ITST"
+        ],
+        "description": "All Italian Studies courses are conducted in English."
+    },
+    {
+        "subjectId": 83,
+        "name": "Educational \u0026 Counselling Psychology, \u0026 Special Education",
+        "codes": [
+            "ECPS"
+        ]
+    },
+    {
+        "subjectId": 203,
+        "name": "Scandinavian",
+        "codes": [
+            "SCAN"
+        ]
+    },
+    {
+        "subjectId": 204,
+        "name": "Science",
+        "codes": [
+            "SCIE"
+        ]
+    },
+    {
+        "subjectId": 8,
+        "name": "Applied Science",
+        "codes": [
+            "APSC"
+        ]
+    },
+    {
+        "subjectId": 153,
+        "name": "Language and Literacy Education",
+        "codes": [
+            "LLED"
+        ]
+    },
+    {
+        "subjectId": 75,
+        "name": "Critical Studies in Sexuality",
+        "codes": [
+            "CSIS"
+        ]
+    },
+    {
+        "subjectId": 121,
+        "name": "Geography",
+        "codes": [
+            "GEOG"
+        ],
+        "description": "Courses having Science credit in Geography are listed separately in the calendar under GEOB (Geographical Biogeosciences). Students seeking to obtain their Science requirement in the Faculty of Arts should consider GEOB102 and GEOB103. For detailed information about courses and topics within courses, see the departmental website (www.geog.ubc.ca)."
+    },
+    {
+        "subjectId": 184,
+        "name": "Cellular and Physiological Sciences",
+        "codes": [
+            "PHYL"
+        ],
+        "description": "As of Summer Session 2013, all undergraduate PHYL courses have been renamed CAPS with equivalent course numbers."
+    },
+    {
+        "subjectId": 210,
+        "name": "School of Population \u0026 Public Health",
+        "codes": [
+            "SPHA",
+            "SPPH"
+        ]
+    },
+    {
+        "subjectId": 17,
+        "name": "Art History",
+        "codes": [
+            "ARTH"
+        ],
+        "description": "Not every course is given every year. For details of current offerings, consult the departmental website at www.ahva.ubc.ca. Students wishing to take fourth-year seminars should normally have had a closely related third-year course and are advised to check with the instructor in this regard. Credit will be given to either the current ARTH listing or its former FINA equivalent."
+    },
+    {
+        "subjectId": 32,
+        "name": "Business Administration: Business Technology Management",
+        "codes": [
+            "BAIT"
+        ]
+    },
+    {
+        "subjectId": 38,
+        "name": "Business Administration: Management Science",
+        "codes": [
+            "BAMS"
+        ]
+    },
+    {
+        "subjectId": 225,
+        "name": "Visual Arts",
+        "codes": [
+            "VISA"
+        ],
+        "description": "Not every course is given every year. For details of current offerings, consult the UBC Course Schedule at https://courses.students.ubc.ca. Credit will be given to either the current VISA listing or its former VISA/FINA equivalent. In special circumstances VISA 110 may be taken as a co-requisite. A Studio Course Fee will be charged for each 3-credit undergraduate VISA course. Fees will be applied toward classroom supplies, equipment, and materials. Fees are included in your tuition."
+    },
+    {
+        "subjectId": 34,
+        "name": "Business Administration: Policy Analysis",
+        "codes": [
+            "BAPA"
+        ]
+    },
+    {
+        "subjectId": 166,
+        "name": "Materials Engineering",
+        "codes": [
+            "MTRL"
+        ]
+    },
+    {
+        "subjectId": 182,
+        "name": "Pharmacy",
+        "codes": [
+            "PHRM"
+        ]
+    },
+    {
+        "subjectId": 71,
+        "name": "Commerce",
+        "codes": [
+            "COMM"
+        ],
+        "description": "In general, not all of the prerequisites for Commerce courses are listed. Students must be registered in the same year level as the course they intend to register in. For example, eligiblity for Commerce 400-level courses requires a student to have completed second and third-year Commerce, and to be registered in fourth year. Students should refer to the Commerce website or contact the Undergraduate Office regarding course prerequisites and variations from standard program sequences. Additional fees are charged for some courses."
+    },
+    {
+        "subjectId": 29,
+        "name": "Business Administration: Finance",
+        "codes": [
+            "BAFI"
+        ]
+    },
+    {
+        "subjectId": 86,
+        "name": "Educational Studies",
+        "codes": [
+            "EDST"
+        ]
+    },
+    {
+        "subjectId": 99,
+        "name": "Forestry Core",
+        "codes": [
+            "FCOR"
+        ]
+    },
+    {
+        "subjectId": 164,
+        "name": "Marine Science",
+        "codes": [
+            "MRNE"
+        ]
+    },
+    {
+        "subjectId": 205,
+        "name": "Slavic Studies",
+        "codes": [
+            "SLAV"
+        ]
+    },
+    {
+        "subjectId": 55,
+        "name": "Chemical and Biological Engineering",
+        "codes": [
+            "CHBE"
+        ]
+    },
+    {
+        "subjectId": 89,
+        "name": "Environmental Design",
+        "codes": [
+            "ENDS"
+        ]
+    },
+    {
+        "subjectId": 138,
+        "name": "Japanese",
+        "codes": [
+            "JAPN"
+        ],
+        "description": "For each academic session (W and S), prior to registration in any JAPN course, students are required to review the Japanese Registration Guidelines at http://asia.ubc.ca/undergraduate/placement-tests/registration-guide-for-japanese-language-courses/ to determine if a Japanese Placement Test at http://asia.ubc.ca/undergraduate/placement-tests/ is required. Note: Students must obtain a minimum grade of 60% to advance to the next level of language. This applies to all students in JAPN language courses, not just language majors."
+    },
+    {
+        "subjectId": 80,
+        "name": "Data Science",
+        "codes": [
+            "DSCI"
+        ]
+    },
+    {
+        "subjectId": 112,
+        "name": "Biochemistry and Forensic Science",
+        "codes": [
+            "FSCT"
+        ]
+    },
+    {
+        "subjectId": 13,
+        "name": "Architecture",
+        "codes": [
+            "ARCH"
+        ]
+    },
+    {
+        "subjectId": 49,
+        "name": "Cellular, Anatomical and Physiological Sciences",
+        "codes": [
+            "CAPS"
+        ]
+    },
+    {
+        "subjectId": 76,
+        "name": "Danish",
+        "codes": [
+            "DANI"
+        ]
+    },
+    {
+        "subjectId": 122,
+        "name": "Genome Science and Technology",
+        "codes": [
+            "GSAT"
+        ]
+    },
+    {
+        "subjectId": 160,
+        "name": "Medicine",
+        "codes": [
+            "MEDI"
+        ],
+        "description": "See also courses listed under: Anatomy, Biochemistry, Family Practice, Health Care and Epidemiology, Health Sciences, History of Medicine, Interdepartmental, Medical Genetics, Medicine, Microbiology, Obstetrics and Gynaecology, Ophthalmology, Orthopaedics, Pediatrics, Pathology, Pharmacology and Therapeutics, Physiology, Psychiatry, Radiology, Surgery"
+    },
+    {
+        "subjectId": 212,
+        "name": "Statistics",
+        "codes": [
+            "STAT"
+        ],
+        "description": "Introductory courses in probability and statistics are offered by many different departments at UBC. For a list of these courses and details concerning restrictions on the number of credits students may obtain for such courses, see \"Pairing Lists\" and \"Probability and Statistics\" in the Science section. The following course is for students in the Faculty of Applied Science: STAT 251. Additional fees are charged for some courses."
+    },
+    {
+        "subjectId": 23,
+        "name": "Atmospheric Science",
+        "codes": [
+            "ATSC"
+        ]
+    },
+    {
+        "subjectId": 137,
+        "name": "History",
+        "codes": [
+            "HIST"
+        ]
+    },
+    {
+        "subjectId": 168,
+        "name": "Near Eastern Studies",
+        "codes": [
+            "NEST"
+        ]
+    },
+    {
+        "subjectId": 117,
+        "name": "Forestry",
+        "codes": [
+            "FRST"
+        ]
+    },
+    {
+        "subjectId": 151,
+        "name": "Linguistics",
+        "codes": [
+            "LING"
+        ]
+    },
+    {
+        "subjectId": 0,
+        "name": "Asian Canadian and Asian Migration Studies",
+        "codes": [
+            "ACAM"
+        ]
+    },
+    {
+        "subjectId": 64,
+        "name": "Civil Engineering",
+        "codes": [
+            "CIVL"
+        ]
+    },
+    {
+        "subjectId": 72,
+        "name": "Computer Science",
+        "codes": [
+            "CPSC"
+        ],
+        "description": "The Department of Computer Science offers several options in first year: CPSC 110 is for students pursuing Computer Science specializations or who plan to take CPSC 210. CPSC 103 targets students desiring an introduction to computing and programming, but with no plans to take further Computer Science courses. CPSC 100 targets students desiring a general introduction to computational thinking with little programming. Consult https://www.cs.ubc.ca/students/undergrad/courses/choose-your-first-course for more information. Students who have credit for or exemption from APSC 160, CPSC 107 or CPSC 110 may not take CPSC 100 or CPSC 103. Students with other computer science transfer credit must consult the department. Students currently registered in CPSC 110 or with Computer Science credit from another institution may not take APSC 160 for credit. Students with sufficient background in the concepts presented in CPSC 110 and an advisor's approval are encouraged to challenge CPSC 110 for credit by taking an examination. Additional fees are charged for some courses. For more information students are advised to contact the Department of Computer Science or visit its undergraduate website: http://www.cs.ubc.ca/students/undergrad). For information on credit exclusion between CPSC and other courses, please consult the Faculty of Science Credit Exclusion List."
+    },
+    {
+        "subjectId": 28,
+        "name": "Audiology and Speech Sciences",
+        "codes": [
+            "AUDI"
+        ],
+        "description": "All 600-level seminars are Ph.D. level courses and may not be offered on a regular basis. All may be taken more than once for credit."
+    },
+    {
+        "subjectId": 90,
+        "name": "Electrical Engineering",
+        "codes": [
+            "ELEC"
+        ]
+    },
+    {
+        "subjectId": 194,
+        "name": "Religious Studies",
+        "codes": [
+            "RELG"
+        ],
+        "description": "Not all courses are offered every year. For current listings, consult the departmental website at: www.cnrs.ubc.ca."
+    },
+    {
+        "subjectId": 141,
+        "name": "Library, Archival and Information Studies",
+        "codes": [
+            "LAIS"
+        ]
+    },
+    {
+        "subjectId": 148,
+        "name": "Teacher Librarianship",
+        "codes": [
+            "LIBE"
+        ]
+    },
+    {
+        "subjectId": 24,
+        "name": "Business Administration:  Core",
+        "codes": [
+            "BA"
+        ]
+    },
+    {
+        "subjectId": 126,
+        "name": "Gender, Race, Sexuality and Social Justice",
+        "codes": [
+            "GRSJ"
+        ]
+    },
+    {
+        "subjectId": 130,
+        "name": "Interdisciplinary Studies",
+        "codes": [
+            "INDS"
+        ]
+    },
+    {
+        "subjectId": 118,
+        "name": "German",
+        "codes": [
+            "GERM"
+        ]
+    },
+    {
+        "subjectId": 139,
+        "name": "Journalism",
+        "codes": [
+            "JRNL"
+        ]
+    },
+    {
+        "subjectId": 180,
+        "name": "Pharmaceutical Sciences",
+        "codes": [
+            "PHAR"
+        ]
+    },
+    {
+        "subjectId": 93,
+        "name": "Environmental Science",
+        "codes": [
+            "ENVR"
+        ]
+    },
+    {
+        "subjectId": 178,
+        "name": "Pharmacology and Therapeutics",
+        "codes": [
+            "PCTH"
+        ]
+    },
+    {
+        "subjectId": 206,
+        "name": "Soil Science",
+        "codes": [
+            "SOIL"
+        ]
+    },
+    {
+        "subjectId": 4,
+        "name": "African Studies",
+        "codes": [
+            "AFST"
+        ]
+    },
+    {
+        "subjectId": 7,
+        "name": "Applied Science Professional Program Platform",
+        "codes": [
+            "APPP"
+        ]
+    },
+    {
+        "subjectId": 9,
+        "name": "Aquaculture",
+        "codes": [
+            "AQUA"
+        ]
+    },
+    {
+        "subjectId": 27,
+        "name": "Business Administration: Entrepreneurship",
+        "codes": [
+            "BAEN"
+        ]
+    },
+    {
+        "subjectId": 143,
+        "name": "Law and Society",
+        "codes": [
+            "LASO"
+        ]
+    },
+    {
+        "subjectId": 193,
+        "name": "Punjabi",
+        "codes": [
+            "PUNJ"
+        ]
+    },
+    {
+        "subjectId": 42,
+        "name": "Biotechnology",
+        "codes": [
+            "BIOT"
+        ]
+    },
+    {
+        "subjectId": 62,
+        "name": "Cantonese",
+        "codes": [
+            "CNTO"
+        ]
+    },
+    {
+        "subjectId": 120,
+        "name": "Global Resource Systems",
+        "codes": [
+            "GRS"
+        ]
+    },
+    {
+        "subjectId": 98,
+        "name": "Exchange Graduate Research",
+        "codes": [
+            "EXGR"
+        ]
+    },
+    {
+        "subjectId": 183,
+        "name": "Physical Therapy",
+        "codes": [
+            "PHTH"
+        ]
+    },
+    {
+        "subjectId": 144,
+        "name": "Latin American Studies",
+        "codes": [
+            "LAST"
+        ]
+    },
+    {
+        "subjectId": 146,
+        "name": "Landscape Architecture",
+        "codes": [
+            "LARC"
+        ]
+    },
+    {
+        "subjectId": 14,
+        "name": "Arts Co-Op",
+        "codes": [
+            "ARTC"
+        ]
+    },
+    {
+        "subjectId": 84,
+        "name": "Economics",
+        "codes": [
+            "ECON"
+        ],
+        "description": "For course prerequisites purposes: ECON 101 is equivalent to ECON 310; ECON 102 is equivalent to ECON 311. Many courses in Economics have a Mathematics prerequisite of MATH 104 (or equivalent) and/or MATH 105 (or equivalent). Courses equivalent to MATH 104 as a prerequisite are MATH 100, 102, 110, 111, 120, 180 and 184. For MATH 105 the equivalents are MATH 101, 103, and 121."
+    },
+    {
+        "subjectId": 133,
+        "name": "Integrated Sciences",
+        "codes": [
+            "ISCI"
+        ]
+    },
+    {
+        "subjectId": 45,
+        "name": "Bridge Program",
+        "codes": [
+            "BRDG"
+        ]
+    },
+    {
+        "subjectId": 200,
+        "name": "Psychology",
+        "codes": [
+            "PSYC"
+        ],
+        "description": "Unless otherwise specified, the prerequisite for 300-level Psychology courses is 6 credits of 100-level or 200-level PSYC courses (PSYC 216 or PSYC 217 or PSYC 277 strongly recommended), or permission of the instructor. For students registered in the B.Sc. Behavioural Neuroscience program, a maximum of 6 credits of Psychology courses can be used towards the Faculty of Science Arts requirement (http://www.calendar.ubc.ca/vancouver/proof/edit/index.cfm?tree=12,215,410,1464). In addition to Psychology 348 and 448, all Psychology courses numbered 60 to 89 in the last two digits have Science credit. Listed below are courses in which there is sufficient overlap that credit may be obtained for only one course in each list. However, it does not necessarily follow that the listed courses are equivalent: (1) PSYC 304, 360, 370; (2) PSYC 304, 360, 371; (3) PSYC 217, 277, 366; (4) PSYC 218, 278, 366. Not every course is offered every year. For current listings, consult the departmental website at www.psych.ubc.ca."
+    },
+    {
+        "subjectId": 36,
+        "name": "Business Administration: Strategic Management",
+        "codes": [
+            "BASM"
+        ]
+    },
+    {
+        "subjectId": 171,
+        "name": "Obstetrics and Gynaecology",
+        "codes": [
+            "OBST"
+        ]
+    },
+    {
+        "subjectId": 114,
+        "name": "Geomatics for Environmental Management",
+        "codes": [
+            "GEM"
+        ]
+    },
+    {
+        "subjectId": 197,
+        "name": "Study of Religion",
+        "codes": [
+            "RGST"
+        ]
+    },
+    {
+        "subjectId": 207,
+        "name": "Social Work",
+        "codes": [
+            "SOWK"
+        ],
+        "description": "As of July 1, 2015, the IHHS courses have been distributed among the following units: School of Social Work, School of Population and Public Health, and Faculty of Land and Food Systems."
+    },
+    {
+        "subjectId": 222,
+        "name": "Visiting Graduate Student",
+        "codes": [
+            "VGRD"
+        ]
+    },
+    {
+        "subjectId": 51,
+        "name": "Canadian Studies",
+        "codes": [
+            "CDST"
+        ]
+    },
+    {
+        "subjectId": 65,
+        "name": "Cognitive Systems Program",
+        "codes": [
+            "COGS"
+        ]
+    },
+    {
+        "subjectId": 102,
+        "name": "Fisheries Research",
+        "codes": [
+            "FISH"
+        ]
+    },
+    {
+        "subjectId": 104,
+        "name": "First Nations and Endangered Languages Program",
+        "codes": [
+            "FNEL"
+        ]
+    },
+    {
+        "subjectId": 111,
+        "name": "French",
+        "codes": [
+            "FREN"
+        ],
+        "description": "Within the Pre-requisites, CEFR refers to the Common European Framework of Reference for Languages (CEFR). The CEFR is a reference tool developed by the Council of Europe to provide a common basis for the development of modern-language curriculum guidelines, examinations, textbooks, etc. Please contact the Department Advisor (French) with questions at fhis.ubc.ca. All French courses titled \"Studies in ....\", as well as FREN 348, FREN 349, FREN 495 and FREN 498, may be taken twice for credit with different content, to a maximum of 6 credits."
+    },
+    {
+        "subjectId": 145,
+        "name": "Latin",
+        "codes": [
+            "LATN"
+        ],
+        "description": "Not all courses are offered every year. For current listings, consult the departmental website at: www.cnrs.ubc.ca."
+    },
+    {
+        "subjectId": 149,
+        "name": "Library and Information Studies",
+        "codes": [
+            "LIBR"
+        ]
+    },
+    {
+        "subjectId": 214,
+        "name": "Swedish",
+        "codes": [
+            "SWED"
+        ]
+    },
+    {
+        "subjectId": 2,
+        "name": "Adult and Higher Education",
+        "codes": [
+            "ADHE"
+        ]
+    },
+    {
+        "subjectId": 21,
+        "name": "Asian Studies",
+        "codes": [
+            "ASIA"
+        ],
+        "description": "All Asian Studies courses are conducted in English."
+    },
+    {
+        "subjectId": 30,
+        "name": "Business Administration: Human Resources Management",
+        "codes": [
+            "BAHR"
+        ]
+    },
+    {
+        "subjectId": 215,
+        "name": "Tibetan Languages",
+        "codes": [
+            "TIBT"
+        ]
+    },
+    {
+        "subjectId": 219,
+        "name": "Urban Studies",
+        "codes": [
+            "URST"
+        ]
+    },
+    {
+        "subjectId": 110,
+        "name": "Food and Resource Economics",
+        "codes": [
+            "FRE"
+        ]
+    },
+    {
+        "subjectId": 123,
+        "name": "Hebrew",
+        "codes": [
+            "HEBR"
+        ]
+    },
+    {
+        "subjectId": 161,
+        "name": "Middle East Studies",
+        "codes": [
+            "MES"
+        ]
+    },
+    {
+        "subjectId": 77,
+        "name": "Design",
+        "codes": [
+            "DES"
+        ]
+    },
+    {
+        "subjectId": 162,
+        "name": "Midwifery",
+        "codes": [
+            "MIDW"
+        ]
+    },
+    {
+        "subjectId": 199,
+        "name": "Romance Studies",
+        "codes": [
+            "RMST"
+        ]
+    },
+    {
+        "subjectId": 218,
+        "name": "Urban Forestry",
+        "codes": [
+            "UFOR"
+        ]
+    },
+    {
+        "subjectId": 10,
+        "name": "Classical Arabic",
+        "codes": [
+            "ARBC"
+        ]
+    },
+    {
+        "subjectId": 15,
+        "name": "Archival Studies",
+        "codes": [
+            "ARST"
+        ]
+    },
+    {
+        "subjectId": 40,
+        "name": "Bioinformatics",
+        "codes": [
+            "BIOF"
+        ]
+    },
+    {
+        "subjectId": 136,
+        "name": "Integrated Water Management Engineering",
+        "codes": [
+            "IWME"
+        ]
+    },
+    {
+        "subjectId": 227,
+        "name": "Zoology",
+        "codes": [
+            "ZOOL"
+        ]
+    },
+    {
+        "subjectId": 52,
+        "name": "Clean Energy Engineering",
+        "codes": [
+            "CEEN"
+        ]
+    },
+    {
+        "subjectId": 134,
+        "name": "Italian",
+        "codes": [
+            "ITAL"
+        ],
+        "description": "Students with Italian 11 or 12 or exposure to the Italian language or dialects must consult the Italian undergraduate advisor for placement in appropriate courses. Some 400-level ITAL courses may be taken as ITST courses and be conducted in English (see details below). Students completing a Minor in Italian or an Honours program in Romance Studies must take such courses as ITAL and will be expected to do their reading and assignments in the Italian language. Supplementary tutorials in Italian will be provided as needed for such courses. Credit in ITAL will preclude credit in ITST and vice versa. Note: The Common European Framework of Reference for Languages (CEFR) is a reference tool developed by the Council of Europe to provide a common basis for the development of modern-language curriculum guidelines, examinations, textbooks, etc. It describes in a comprehensive way what language learners have to learn in order to use a language for communication and what knowledge and skills they have to develop so as to be able to do so effectively."
+    },
+    {
+        "subjectId": 202,
+        "name": "Russian",
+        "codes": [
+            "RUSS"
+        ]
+    },
+    {
+        "subjectId": 101,
+        "name": "Educational Psychology and Special Education",
+        "codes": [
+            "EPSE"
+        ]
+    },
+    {
+        "subjectId": 107,
+        "name": "First Nations and Indigenous Studies",
+        "codes": [
+            "FNIS"
+        ]
+    },
+    {
+        "subjectId": 176,
+        "name": "Occupational Science and Occupational Therapy",
+        "codes": [
+            "OSOT"
+        ]
+    },
+    {
+        "subjectId": 43,
+        "name": "Biochemistry",
+        "codes": [
+            "BIOC"
+        ]
+    },
+    {
+        "subjectId": 57,
+        "name": "Chemistry",
+        "codes": [
+            "CHEM"
+        ],
+        "description": "Students without BC Secondary School Chemistry 12 or equivalent are required to take the UBC Chemistry Basic Skills Test. Students receiving a satisfactory score on this Test take CHEM 111. With permission of the department head, students not receiving a satisfactory score on this Test take CHEM 100. Students with credit for CHEM 100 may take CHEM 121. Students with BC Secondary School Chemistry 12 or equivalent must take CHEM 121 or CHEM 154. CHEM 100 and CHEM 111 are not open to students with credit for Chemistry 12. Students with credit for CHEM 111 or CHEM 121 may take CHEM 123, a requirement for many Science programs. The following courses are for students in the Faculty of Applied Science: CHEM 154, CHEM 250, CHEM 251, CHEM 260. The Department lists courses that comprise the individual lecture and laboratory components for courses that contain both. The course equivalencies are: \" CHEM 111 (4) = CHEM 110 (3) and CHEM 115 (1) \" CHEM 121 (4) = CHEM 120 (3) and CHEM 115 (1) \" CHEM 123 (4) = CHEM 130 (3) and CHEM 135 (1) \" CHEM 203 (4) = CHEM 223 (3) and CHEM 225 (1) \" CHEM 211 (4) = CHEM 210 (3) and CHEM 215 (1)"
+    },
+    {
+        "subjectId": 140,
+        "name": "Korean",
+        "codes": [
+            "KORN"
+        ],
+        "description": "For each academic session (W and S), prior to registration in any KORN course, students are required to complete the Korean Placement Interview. For more information, please visit http://asia.ubc.ca/undergraduate/placement-tests/. Note: Students must obtain a minimum grade of 60% to advance to the next level of language. This applies to all students in KORN language courses, not just language majors."
+    },
+    {
+        "subjectId": 128,
+        "name": "Human Nutrition",
+        "codes": [
+            "HUNU"
+        ]
+    },
+    {
+        "subjectId": 131,
+        "name": "Information Studies",
+        "codes": [
+            "INFO"
+        ]
+    },
+    {
+        "subjectId": 12,
+        "name": "Anthropological Archaeology",
+        "codes": [
+            "ARCL"
+        ]
+    },
+    {
+        "subjectId": 95,
+        "name": "Earth and Ocean Sciences",
+        "codes": [
+            "EOSC"
+        ]
+    },
+    {
+        "subjectId": 100,
+        "name": "Film Production",
+        "codes": [
+            "FIPR"
+        ]
+    },
+    {
+        "subjectId": 127,
+        "name": "High Performance Buildings",
+        "codes": [
+            "HPB"
+        ]
+    },
+    {
+        "subjectId": 209,
+        "name": "Sociology",
+        "codes": [
+            "SOCI"
+        ],
+        "description": "One of SOCI 100, SOCI 101, SOCI 102 is prerequisite for most 300- and 400-level SOCI courses."
+    },
+    {
+        "subjectId": 170,
+        "name": "Nursing",
+        "codes": [
+            "NURS"
+        ],
+        "description": "In the clinical nursing courses the ratio between class and supervised nursing experience varies but in the overall program it is approximately 1:3; the credit values for these courses are based on both instruction and supervised nursing experience."
+    },
+    {
+        "subjectId": 186,
+        "name": "Plant Science",
+        "codes": [
+            "PLNT"
+        ]
+    },
+    {
+        "subjectId": 16,
+        "name": "Arts One Program",
+        "codes": [
+            "ARTS"
+        ]
+    },
+    {
+        "subjectId": 88,
+        "name": "Electrical and Computer Engineering",
+        "codes": [
+            "EECE"
+        ]
+    },
+    {
+        "subjectId": 152,
+        "name": "Land and Water Systems",
+        "codes": [
+            "LWS"
+        ]
+    },
+    {
+        "subjectId": 181,
+        "name": "Philosophy",
+        "codes": [
+            "PHIL"
+        ],
+        "description": "Philosophy is an interdisciplinary subject, and students with training in other subjects may be adequately prepared to take on a course even though they lack the formal prerequisites. Students are encouraged to consult with the instructor. Variable credit courses: Most 200-, 300-, and 400-level courses in Philosophy are offered for 3 credits, but may be taken for 4 credits for extra work with the consent of the instructor. Students should consult the instructor if they wish to exercise this option as it may not be available in all sections. For detailed information about courses and topics within courses, see the departmental website (www.philosophy.ubc.ca)."
+    },
+    {
+        "subjectId": 211,
+        "name": "Science and Technology Studies",
+        "codes": [
+            "STS"
+        ]
+    },
+    {
+        "subjectId": 54,
+        "name": "Central, Eastern and Northern European Studies",
+        "codes": [
+            "CENS"
+        ]
+    },
+    {
+        "subjectId": 69,
+        "name": "Natural Resources Conservation",
+        "codes": [
+            "CONS"
+        ]
+    },
+    {
+        "subjectId": 150,
+        "name": "Law",
+        "codes": [
+            "LAW"
+        ]
+    },
+    {
+        "subjectId": 185,
+        "name": "Community and Regional Planning",
+        "codes": [
+            "PLAN"
+        ],
+        "description": "Not all courses offered each year."
+    },
+    {
+        "subjectId": 177,
+        "name": "Pathology",
+        "codes": [
+            "PATH"
+        ]
+    },
+    {
+        "subjectId": 223,
+        "name": "Theatre",
+        "codes": [
+            "THTR"
+        ]
+    },
+    {
+        "subjectId": 228,
+        "name": "Wood Products Processing",
+        "codes": [
+            "WOOD"
+        ]
+    },
+    {
+        "subjectId": 157,
+        "name": "Mathematics",
+        "codes": [
+            "MATH"
+        ],
+        "description": "The first digit in the number of a course is intended to convey the level of mathematical maturity at which the course is conducted rather than the year in which it must be taken. Students who expect to follow an Honours Science program or one with high mathematical content are urged to apply for admission to MATH 120 and 121. The following courses are for students in the Faculty of Applied Science: MATH 152, MATH 253, MATH 255, MATH 256, MATH 257, MATH 263, MATH 265, MATH 267. Secondary-school calculus is a prerequisite for MATH 100, 102, and 104. Students with this qualification should see \"UBC-SFU-UVIC-UNBC Calculus Examination Certificate\" in the Admissions section. MATH 180 and 184 are designed for students without high-school calculus. Continuing Studies offers MATH 001, 002, 003, and 004, refresher courses in pre-calculus material. For further information see the department's website at www.math.ubc.ca."
+    },
+    {
+        "subjectId": 192,
+        "name": "Psychiatry",
+        "codes": [
+            "PSYT"
+        ]
+    },
+    {
+        "subjectId": 213,
+        "name": "Surgery",
+        "codes": [
+            "SURG"
+        ]
+    },
+    {
+        "subjectId": 37,
+        "name": "Business Administration: Urban Land Economics",
+        "codes": [
+            "BAUL"
+        ]
+    },
+    {
+        "subjectId": 67,
+        "name": "Computational Linguistics",
+        "codes": [
+            "COLX"
+        ]
+    },
+    {
+        "subjectId": 94,
+        "name": "English",
+        "codes": [
+            "ENGL"
+        ]
+    }
+]
