@@ -1,0 +1,692 @@
+[
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Intermediate Financial Accounting",
+        "numericCode": "351",
+        "courseCode": "ACCT",
+        "description": "An examination of the theoretical foundation for financial reporting and revenue recognition. The tools of accounting, including a review of the accounting process and compound interest concepts. Asset recognition, measurement and disclosure. Partnership accounting.",
+        "prerequisite": "MGCR 211",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Intermediate Financial Accounting",
+        "numericCode": "352",
+        "courseCode": "ACCT",
+        "description": "A continuation of Intermediate Financial Accounting 1. An examination of liability recognition, measurement and disclosure, including leases, pension costs and corporate income tax. Shareholders' equity, dilutive securities and earnings per share. The statement of changes in financial position, basic financial statement analysis and full disclosure in financial reporting.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Financial Statement Analysis",
+        "numericCode": "354",
+        "courseCode": "ACCT",
+        "description": "Interpretative nature of the conceptual framework underlying a multitude of financial reporting standards, including the impact of alternative accounting methods, management biases and stakeholder interests in the analysis and valuation of the firm.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Management Accounting",
+        "numericCode": "361",
+        "courseCode": "ACCT",
+        "description": "The role of management accounting information to support internal management decisions and to provide performance incentives.",
+        "prerequisite": "MGCR 211",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Cost Accounting",
+        "numericCode": "362",
+        "courseCode": "ACCT",
+        "description": "An examination of a number of recurring issues in the area of decision-making and control, including cost allocation, alternative costing systems, and innovations in costing and performance measurement.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Principles of Taxation",
+        "numericCode": "385",
+        "courseCode": "ACCT",
+        "description": "An introduction to the concepts underlying the Canadian tax system and how they are applied in relation to the taxation of individuals and businesses.",
+        "prerequisite": "MGCR 211",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Sustainability and Environmental Accounting",
+        "numericCode": "401",
+        "courseCode": "ACCT",
+        "description": "Developing measures of corporate environmental performance, assessing their reliability and reporting to external stakeholders. Using sustainability metrics in strategic and operational business decisions. Implementing and utilizing Environmental management systems and standards. Managing corporate environmental risks and accounting for environmental costs. Environmental auditing.",
+        "prerequisite": "MGCR 211",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Topics in Accounting",
+        "numericCode": "434",
+        "courseCode": "ACCT",
+        "description": "Topics will be selected from current issues in the Accounting Area.",
+        "prerequisite": "MGCR 211",
+        "antirequisite": "Open to U2 and U3 students."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Financial Reporting Valuation",
+        "numericCode": "452",
+        "courseCode": "ACCT",
+        "description": "Models to determine firm value from accounting information and a broader perspective on key sources of information, key value drivers, in a setting where evaluating firm value is the ultimate purpose.",
+        "prerequisite": "ACCT 354.",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Advanced Financial Accounting",
+        "numericCode": "453",
+        "courseCode": "ACCT",
+        "description": "Reporting relevant financial information subsequent to long term intercorporate investments. The preparation of consolidated financial statements with emphasis on their economic substance rather than legal form.",
+        "prerequisite": "ACCT 352",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Development of Accounting Thought",
+        "numericCode": "455",
+        "courseCode": "ACCT",
+        "description": "The conceptual underpinning of accounting thought, including its historical development and the modifications that have occurred over time. A review of accounting literature and its relevance to practice.",
+        "prerequisite": "ACCT 352",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Management Control",
+        "numericCode": "463",
+        "courseCode": "ACCT",
+        "description": "The theoretical frameworks for the examination and evaluation of management accounting and control systems. The technical aspects of accounting along with behavioural issues of management control.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Principles of Auditing",
+        "numericCode": "475",
+        "courseCode": "ACCT",
+        "description": "An introduction to basic auditing concepts and internal controls of an accounting system. Topics include current auditing standards, ethical conduct, legal liability, planning of an audit, sampling techniques, non-audit engagements, the study and evaluation of internal controls in an accounting system.",
+        "prerequisite": "ACCT 352",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Business Taxation",
+        "numericCode": "486",
+        "courseCode": "ACCT",
+        "description": "A study of the Income Tax Act as it applies to the taxation of individuals and corporations, including capital cost allowances, capital gains, corporate reorganisations, trusts and partnerships and administrative regulations. A review of consumption taxes.",
+        "prerequisite": "ACCT 385",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Financial Reporting: Structure \u0026 Analysis",
+        "numericCode": "618",
+        "courseCode": "ACCT",
+        "description": "An in-depth analysis of corporate financial reporting principles and practices, with emphasis on developing the abilities of the student to discriminate between the form and substance of corporate financial reports. Analysis of all components of the financial statements with the effect of reference to alternative practices on financial reports.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Practice of Taxation",
+        "numericCode": "683",
+        "courseCode": "ACCT",
+        "description": "Providing taxation services and guidance, including assisting individual and corporate entities to minimize taxes and meet their objectives while complying with tax laws and regulations. Addressing compliance and tax-planning issues for both individuals and corporate entities, as well as, to a lesser extent, partnerships and trusts. Recognizing the interrelationship between financial reporting decisions and taxation, and the importance of taking taxes into account when making business and investment decisions.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Assurance Services",
+        "numericCode": "687",
+        "courseCode": "ACCT",
+        "description": "Performing both internal audit projects and external assurance engagements; from understanding how governance plays a key role, assessing the need for an engagement, to developing and performing the procedures, through to documenting and reporting results. While this course is primarily designed for students who wish to practise public accounting or to work in internal audit, it would be beneficial to a wide range of students because it focuses on the key concepts of auditing, such as risk, materiality, and internal control, which are concepts that have broad application.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Accounting",
+        "name": "Research Design in Accounting",
+        "numericCode": "706",
+        "courseCode": "ACCT",
+        "description": "Course is designed in two parts. The first part covers major research design issues relevant to all fields of accounting. The second part addresses critical methodological issues specific to various fields of accounting research.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 1,
+        "SubjectName": "Biology (Agric \u0026 Envir Sc)",
+        "name": "General Biology",
+        "numericCode": "120",
+        "courseCode": "AEBI",
+        "description": "An introduction to the structure, function and adaptation of plants and animals in the biosphere.",
+        "prerequisite": "",
+        "antirequisite": "Not open to students who have passed CEGEP objective 00UK or equivalent (formerly Biology 301)"
+    },
+    {
+        "subjectId": 1,
+        "SubjectName": "Biology (Agric \u0026 Envir Sc)",
+        "name": "Cell Biology",
+        "numericCode": "122",
+        "courseCode": "AEBI",
+        "description": "Chemical basis for cell biology; enzymes in biological reactions; membranes and the cell surface; cellular energetics; cell synthesis and growth; mitosis, meiosis and genetic consequences.",
+        "prerequisite": "AECH 110",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 1,
+        "SubjectName": "Biology (Agric \u0026 Envir Sc)",
+        "name": "Organisms",
+        "numericCode": "210",
+        "courseCode": "AEBI",
+        "description": "The biology of plants and plant-based systems in managed and natural terrestrial environments. The interactions between autotrophs and soil organisms and selected groups of animals with close ecological and evolutionary connections with plants (e.g., herbivores and pollinators) will be explored in lecture and laboratory.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 1,
+        "SubjectName": "Biology (Agric \u0026 Envir Sc)",
+        "name": "Organisms",
+        "numericCode": "211",
+        "courseCode": "AEBI",
+        "description": "Introduction to the biology, physiology, structure and function of heterotrophs and their interactions with other organisms. This course will focus on animals in terrestrial, freshwater and marine environments. Topics include bioenergetics and functional metabolism, adaptations to environments, animal-animal, animal-plant, and animal-pathogen interactions.",
+        "prerequisite": "",
+        "antirequisite": "Not open to students who have taken WILD 200"
+    },
+    {
+        "subjectId": 1,
+        "SubjectName": "Biology (Agric \u0026 Envir Sc)",
+        "name": "Evolution and Phylogeny",
+        "numericCode": "212",
+        "courseCode": "AEBI",
+        "description": "A phylogenetic-based overview of the tree of life and examination of relationships between major taxa, from bacteria and archaea to eukaryotes. Evolution will be discussed via topics including: evolution by natural selection, neo-Darwinism and alternatives, myths and misconceptions in evolution, species and speciation.",
+        "prerequisite": "",
+        "antirequisite": "Not open to students who have taken WILD 212."
+    },
+    {
+        "subjectId": 2,
+        "SubjectName": "Chemistry (Agric\u0026EnvirSci)",
+        "name": "General Chemistry",
+        "numericCode": "110",
+        "courseCode": "AECH",
+        "description": "The course will be a study of the fundamental principles of atomic structure, valence theory and the periodic table.",
+        "prerequisite": "",
+        "antirequisite": "Note open to students who have taken FDSC 110."
+    },
+    {
+        "subjectId": 2,
+        "SubjectName": "Chemistry (Agric\u0026EnvirSci)",
+        "name": "General Chemistry",
+        "numericCode": "111",
+        "courseCode": "AECH",
+        "description": "Thermodynamics, kinetics, equilibrium, aqueous solution chemistry including applications to acids, bases and buffers and selected topics in organic chemistry.",
+        "prerequisite": "",
+        "antirequisite": "Not open to students who have taken FDSC 111."
+    },
+    {
+        "subjectId": 2,
+        "SubjectName": "Chemistry (Agric\u0026EnvirSci)",
+        "name": "General Chemistry Laboratory",
+        "numericCode": "118",
+        "courseCode": "AECH",
+        "description": "The laboratory component of AECH 110. Illustrative experiments.",
+        "prerequisite": "Permission of instructor.",
+        "antirequisite": "Open only to entering students who have the lecture equivalent of AECH 110. Not open to students who have taken or are taking AECH 110, CHEM 110, or CHEM 112."
+    },
+    {
+        "subjectId": 2,
+        "SubjectName": "Chemistry (Agric\u0026EnvirSci)",
+        "name": "General Chemistry Laboratory",
+        "numericCode": "119",
+        "courseCode": "AECH",
+        "description": "The laboratory component of AECH 111. Illustrative experiments.",
+        "prerequisite": "Permission of instructor.",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 3,
+        "SubjectName": "English (Agric \u0026 Envir Sc)",
+        "name": "Science Literacy",
+        "numericCode": "205",
+        "courseCode": "AEHM",
+        "description": "Development of English language and information literacy. Problem-based approach using science topics from specializations offered by the Faculty will be central to skill development. The course includes how to research and compose work in scientific format and will encourage a reader-oriented style.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 4,
+        "SubjectName": "Mathematics (Agric\u0026Envir Sci)",
+        "name": "Calculus",
+        "numericCode": "101",
+        "courseCode": "AEMA",
+        "description": "A review of functions and graphs. Limits, continuity, derivatives. Differentiation of elementary functions. Anti-differentiation. Applications.",
+        "prerequisite": "a course in functions",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 4,
+        "SubjectName": "Mathematics (Agric\u0026Envir Sci)",
+        "name": "Calculus",
+        "numericCode": "102",
+        "courseCode": "AEMA",
+        "description": "Integration, the indefinite and definite integral. Trapezoidal and Simpson's Rule approximations for the integral. Applications to areas between curves, distance, volume, length of a curve, work, area of a surface of revolution, average values, moments, etc. Improper integrals and infinite series.",
+        "prerequisite": "Calculus 1 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 4,
+        "SubjectName": "Mathematics (Agric\u0026Envir Sci)",
+        "name": "Intermediate Calculus",
+        "numericCode": "202",
+        "courseCode": "AEMA",
+        "description": "Partial differentiation; multiple integrals; vector calculus; infinite series; and introduction to the use of computer-based mathematical tools in applications.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 4,
+        "SubjectName": "Mathematics (Agric\u0026Envir Sci)",
+        "name": "Statistical Methods",
+        "numericCode": "310",
+        "courseCode": "AEMA",
+        "description": "Measures of central tendency and dispersion; binomial and Poisson distributions; normal, chi-square, Student's t and Fisher-Snedecor F distributions; estimation and hypothesis testing; simple linear regression and correlation; analysis of variance for simple experimental designs.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 4,
+        "SubjectName": "Mathematics (Agric\u0026Envir Sci)",
+        "name": "Environmetrics Stage",
+        "numericCode": "403",
+        "courseCode": "AEMA",
+        "description": "Summer stage of at least four weeks, including a report. Provides students with professional experience in statistical analyses of environmental data. Can be undertaken at federal or provincial research stations and university research laboratories.",
+        "prerequisite": "Permission of the instructor based on satisfactory completion of the U2 year of the Environmetrics Domain in the McGill School of Environment",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 4,
+        "SubjectName": "Mathematics (Agric\u0026Envir Sci)",
+        "name": "Experimental Designs",
+        "numericCode": "411",
+        "courseCode": "AEMA",
+        "description": "General principles of experimental design, split-plot designs, spatial heterogeneity and experimental design, incomplete block designs and unbalanced designs, analysis of repeated measures, multivariate and modified univariate analyses of variance, central composite designs.",
+        "prerequisite": "AEMA 310 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 4,
+        "SubjectName": "Mathematics (Agric\u0026Envir Sci)",
+        "name": "Statistical Methods",
+        "numericCode": "610",
+        "courseCode": "AEMA",
+        "description": "Principles of linear models, multiple regression equations and classification models. Introduction to Analysis of Variance and common statistical designs used in agricultural and environmental sciences. Emphasis on balanced and unbalanced designs and data structures; their analysis and tests of statistical significance.",
+        "prerequisite": "AEMA 310 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 4,
+        "SubjectName": "Mathematics (Agric\u0026Envir Sci)",
+        "name": "Experimental Designs",
+        "numericCode": "611",
+        "courseCode": "AEMA",
+        "description": "General principles of experimental design, split-plot designs, spatial heterogeneity and experimental design, incomplete block designs and unbalanced designs, analysis of repeated measures, multivariate and modified univariate analyses of variance, central composite designs.",
+        "prerequisite": "AEMA 310 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 5,
+        "SubjectName": "Physics (Agric \u0026 Envir Sci)",
+        "name": "Introductory Physics",
+        "numericCode": "112",
+        "courseCode": "AEPH",
+        "description": "Accelerated motion. Newton's Laws. Force, work and energy, power; momentum. Conservation principles. Circular motion. Simple harmonic motion. Waves and sound.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 5,
+        "SubjectName": "Physics (Agric \u0026 Envir Sci)",
+        "name": "Physics",
+        "numericCode": "113",
+        "courseCode": "AEPH",
+        "description": "The basic laws and principles of Newtonian mechanics - oscillations and waves. Includes calculus-based applications.",
+        "prerequisite": "Precalculus Mathematics AEMA 100 or equivalent. Preparatory Physics AEPH 110 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 5,
+        "SubjectName": "Physics (Agric \u0026 Envir Sci)",
+        "name": "Introductory Physics",
+        "numericCode": "114",
+        "courseCode": "AEPH",
+        "description": "Electric and magnetic properties of matter: electrostatics, electric currents, the link between electric and magnetic phenomena, geometrical optics, interference diffraction.",
+        "prerequisite": "AEPH 112 or AEPH 113 or PHYS 101 or PHYS 131 or CEGEP objective 00UR or equivalents, or permission of instructor",
+        "antirequisite": "Not open to students who have taken PHYS 102 or PHYS 142 or AEPH 115 or CEGEP objective 00US or equivalent. Not open to students in Bioresource Engineering."
+    },
+    {
+        "subjectId": 5,
+        "SubjectName": "Physics (Agric \u0026 Envir Sci)",
+        "name": "Physics",
+        "numericCode": "115",
+        "courseCode": "AEPH",
+        "description": "The basic laws of electricity and magnetism - geometrical and physical optics. Includes calculus-based applications.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 5,
+        "SubjectName": "Physics (Agric \u0026 Envir Sci)",
+        "name": "Physics Laboratory",
+        "numericCode": "120",
+        "courseCode": "AEPH",
+        "description": "The laboratory component of AEPH 112/AEPH 113. Illustrative experiments.",
+        "prerequisite": "Permission of instructor.",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 5,
+        "SubjectName": "Physics (Agric \u0026 Envir Sci)",
+        "name": "Physics Laboratory",
+        "numericCode": "122",
+        "courseCode": "AEPH",
+        "description": "The laboratory component of AEPH 114/AEPH 115. Illustrative experiments.",
+        "prerequisite": "Permission of instructor.",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 6,
+        "SubjectName": "AERO",
+        "name": "Introduction to Aerospace Engineering",
+        "numericCode": "401",
+        "courseCode": "AERO",
+        "description": "Basic concepts in all relevant aspects of aerospace engineering. Introduction to aircraft and spacecraft components, systems and operation. Aerodynamic and flight mechanics. Structures and materials. Propulsion systems. Manufacturing processes. Control and systems. Avionics and navigation.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 6,
+        "SubjectName": "AERO",
+        "name": "Aerospace Design and Certification Process",
+        "numericCode": "410",
+        "courseCode": "AERO",
+        "description": "Design and certification process for aircraft, helicopters and spacecraft. Operation and performance requirements. Preliminary and detailed design process. Performance analysis. Regulatory agencies overview. Certification process. Life cycle analysis. Cost analysis. Flight testing programs. Delivery and operation.",
+        "prerequisite": "AERO 401",
+        "antirequisite": "Restricted to students enrolled in the Minor in Aerospace Engineering"
+    },
+    {
+        "subjectId": 6,
+        "SubjectName": "AERO",
+        "name": "Aerospace Project",
+        "numericCode": "460D1",
+        "courseCode": "AERO",
+        "description": "Application of the material learned in other courses in the Minor in Aerospace Engineering to an applied project. Team project work will involve the design, fabrication, verification, and application of an aerospace system / component. Lectures on topics related to design and management of design projects. Emphasis is on the completion of a project of professional quality in collaboration with the aerospace industry.",
+        "prerequisite": "",
+        "antirequisite": "Restricted to students enrolled in the Minor in Aerospace Engineering."
+    },
+    {
+        "subjectId": 6,
+        "SubjectName": "AERO",
+        "name": "Aerospace Project",
+        "numericCode": "460D2",
+        "courseCode": "AERO",
+        "description": "For description see AERO 460D1.",
+        "prerequisite": "AERO 460D1",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 7,
+        "SubjectName": "African Studies",
+        "name": "Introduction to African Studies",
+        "numericCode": "200",
+        "courseCode": "AFRI",
+        "description": "The African experience and current approaches to African studies, through adopting multidisciplinary perspectives on topics that include political conflict, governance and democratization, environment and conservation, economic development, rural life and urbanism, health and illness, gender, social change, popular culture, literature, film, and the arts.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 7,
+        "SubjectName": "African Studies",
+        "name": "Swahili Language and Culture",
+        "numericCode": "401",
+        "courseCode": "AFRI",
+        "description": "Basic knowledge of the Swahili language and culture with emphasis on handling circumstances that might be encountered in field research: everyday conversation, developing aural and oral skills and mastering basic grammar rules, understanding cultural norms and practices, issues of culture sensitivity and appropriateness.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 7,
+        "SubjectName": "African Studies",
+        "name": "Honours Thesis",
+        "numericCode": "480",
+        "courseCode": "AFRI",
+        "description": "Supervised reading, research and preparation of an undergraduate thesis under the direction of a staff member.",
+        "prerequisite": "the completion of all available courses relevant to the topic, and permission of the instructor and Program Adviser prior to registration",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 7,
+        "SubjectName": "African Studies",
+        "name": "Special Topics",
+        "numericCode": "481",
+        "courseCode": "AFRI",
+        "description": "Supervised reading in advanced special topics in African Studies under the direction of a member of staff.",
+        "prerequisite": "the completion of all available courses relevant to the topic, and permission of the instructor and Program Adviser prior to registration",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 7,
+        "SubjectName": "African Studies",
+        "name": "Arts Internships: African Studies",
+        "numericCode": "499",
+        "courseCode": "AFRI",
+        "description": "Internship with an approved host institution or organization.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 7,
+        "SubjectName": "African Studies",
+        "name": "Research Seminar in African Studies",
+        "numericCode": "598",
+        "courseCode": "AFRI",
+        "description": "An interdisciplinary research seminar on topics of common interest to staff and students of the African Studies Program. As part of their contribution, students will prepare a research paper under the supervision of one or more members of staff.",
+        "prerequisite": "an introductory course in any of the disciplines studying Africa",
+        "antirequisite": "Open to final year Program students, and to others by permission of Program Adviser"
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "Principles of Microeconomics",
+        "numericCode": "200",
+        "courseCode": "AGEC",
+        "description": "The field of economics as it relates to the activities of individual consumers, firms and organizations. Emphasis is on the application of economic principles and concepts to everyday decision making and to the analysis of current economic issues.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "Principles of Macroeconomics",
+        "numericCode": "201",
+        "courseCode": "AGEC",
+        "description": "The overall economic system, how it works, and the instruments used to solve social problems. Emphasis will be on decision-making involving the entire economic system and segments of it.",
+        "prerequisite": "AGEC 200 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "Economic Systems of Agriculture",
+        "numericCode": "231",
+        "courseCode": "AGEC",
+        "description": "The structure and organization of Canada's agriculture-food system, the operation, financing, linkages, and functions of its components. Focus to be on management of the various components and the entire system, types of problems confronted now and in the future.",
+        "prerequisite": "AGEC 200 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "Intermediate Microeconomic Theory",
+        "numericCode": "320",
+        "courseCode": "AGEC",
+        "description": "An intermediate theory course in agricultural economics, dealing with economic concepts as applied to agricultural production and cost functions. Includes theory and application of linear programming as related to production decisions.",
+        "prerequisite": "AGEC 200 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "Farm Management and Finance",
+        "numericCode": "332",
+        "courseCode": "AGEC",
+        "description": "Managing and financing a farm business. Topics include: the decision making process, farm management and economic concepts, the analysis of financial statements, farm planning and budgeting, input management, investment analysis, risk in financial management, the acquisition and cost of capital.",
+        "prerequisite": "AGEC 200 or equivalent",
+        "antirequisite": "Not open to students who have taken AGEC 331 or AGEC 350"
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "Resource Economics",
+        "numericCode": "333",
+        "courseCode": "AGEC",
+        "description": "The role of resources in the environment, use of resources, and management of economic resources within the firm or organization. Problem-solving, case studies involving private and public decision-making in organizations are utilized.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "Applied Econometrics",
+        "numericCode": "425",
+        "courseCode": "AGEC",
+        "description": "The theory and application of econometrics to empirical issues in agriculture and environment. Diagnosis and treatment of standard violations of the assumptions underlying ordinary least squares.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "Agriculture, Food and Resource Policy",
+        "numericCode": "430",
+        "courseCode": "AGEC",
+        "description": "Examination of North American and international agriculture, food and resource policies, policy instruments, programs and their implications. Economic analysis applied to the principles, procedures and objectives of various policy actions affecting agriculture, and the environment.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "Economics of International Agricultural Development",
+        "numericCode": "442",
+        "courseCode": "AGEC",
+        "description": "The course deals with economic aspects of international development with emphasis on the role of food, agriculture and the resource sector in the economy of developing countries. Topics will include world food analysis, development project analysis and policies for sustainable development. Development case studies will be used.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "Research \u0026 Methodology",
+        "numericCode": "491",
+        "courseCode": "AGEC",
+        "description": "Conceptual and philosophical foundations of research methodology, and the procedural aspects of planning, designing and conducting research in applied economics.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "Special Topics in Agricultural Economics",
+        "numericCode": "492",
+        "courseCode": "AGEC",
+        "description": "Students will pursue topics that are not otherwise available in formal courses. An individual course of study will be followed under the supervision of a member of the staff qualified in the appropriate discipline or area.",
+        "prerequisite": "AGEC 201 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "Economics of Agricultural Development",
+        "numericCode": "642",
+        "courseCode": "AGEC",
+        "description": "This course focuses on the role of agriculture in economic development. Topics covered will be - development theories, economic efficiency, employment, technology adoption and structural change in developing countries. Also, agriculture, food and development policies and implications for long term planning will be discussed.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "Selected Topics in Agricultural Economics",
+        "numericCode": "685",
+        "courseCode": "AGEC",
+        "description": "This course is designed to permit students to explore agricultural economics topics that are not covered in other courses. Students may be asked to prepare a presentation or lead discussion on the selected topic for the benefit of other students and staff. (Pass/Fail grading.)",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "Seminar in Agricultural Economics",
+        "numericCode": "690",
+        "courseCode": "AGEC",
+        "description": "Current research on economic problems of agriculture, the agri-food system and the environment through presentations by staff, students and special guests. Article discussion on the latest issues and methods in agricultural economics.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "M.Sc. Thesis",
+        "numericCode": "691",
+        "courseCode": "AGEC",
+        "description": "Thesis proposal development - problem statement.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "M.Sc. Thesis",
+        "numericCode": "692",
+        "courseCode": "AGEC",
+        "description": "Literature review for the thesis research.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 8,
+        "SubjectName": "Agricultural Economics",
+        "name": "M.Sc. Thesis",
+        "numericCode": "693",
+        "courseCode": "AGEC",
+        "description": "Develop hypotheses for testing and identify the appropriate method.",
+        "prerequisite": "",
+        "antirequisite": ""
+    }
+]

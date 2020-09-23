@@ -92,3 +92,29 @@ func (m *MyClient) Get(link string) (doc *goquery.Document, err error) {
 	return
 
 }
+
+//CreateClientWithTOR creates new http client with SOCKS5 TOR proxy
+func CreateClientWithTOR() *MyClient {
+	var m MyClient
+
+	dialSocksProxy, err := proxy.SOCKS5("tcp", "127.0.0.1:9150", nil, proxy.Direct)
+	if err != nil {
+		fmt.Println("Error connecting to proxy:", err)
+	}
+
+	var netTransport = &http.Transport{
+		Dial: (&net.Dialer{
+			Timeout: 60 * time.Second,
+		}).Dial,
+		TLSHandshakeTimeout: 60 * time.Second,
+	}
+
+	netTransport.Dial = dialSocksProxy.Dial
+
+	var netClient = &http.Client{
+		Timeout:   time.Second * 60,
+		Transport: netTransport,
+	}
+	m.client = netClient
+	return &m
+}

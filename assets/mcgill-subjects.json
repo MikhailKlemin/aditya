@@ -1,0 +1,65 @@
+[
+    {
+        "subjectId": 1,
+        "name": "Biology (Agric \u0026 Envir Sc)",
+        "codes": [
+            "AEBI"
+        ]
+    },
+    {
+        "subjectId": 2,
+        "name": "Chemistry (Agric\u0026EnvirSci)",
+        "codes": [
+            "AECH"
+        ]
+    },
+    {
+        "subjectId": 3,
+        "name": "English (Agric \u0026 Envir Sc)",
+        "codes": [
+            "AEHM"
+        ]
+    },
+    {
+        "subjectId": 4,
+        "name": "Mathematics (Agric\u0026Envir Sci)",
+        "codes": [
+            "AEMA"
+        ]
+    },
+    {
+        "subjectId": 5,
+        "name": "Physics (Agric \u0026 Envir Sci)",
+        "codes": [
+            "AEPH"
+        ]
+    },
+    {
+        "subjectId": 8,
+        "name": "Agricultural Economics",
+        "codes": [
+            "AGEC"
+        ]
+    },
+    {
+        "subjectId": 0,
+        "name": "Accounting",
+        "codes": [
+            "ACCT"
+        ]
+    },
+    {
+        "subjectId": 6,
+        "name": "AERO",
+        "codes": [
+            "AERO"
+        ]
+    },
+    {
+        "subjectId": 7,
+        "name": "African Studies",
+        "codes": [
+            "AFRI"
+        ]
+    }
+]

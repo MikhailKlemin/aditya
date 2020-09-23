@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/MikhailKlemin/aditya/pkg/unis/ubc"
+	"github.com/MikhailKlemin/aditya/pkg/unis/mcgill"
 )
 
 func main() {
@@ -21,9 +21,10 @@ func main() {
 	//commerce.Parse(nil)
 
 	//concurent.Start()
-	ubc.Start()
+	//ubc.Start()
 	//commerce.Start()
-
+	//mcgill.Parse("https://www.mcgill.ca/study/2020-2021/courses/chem-204")
+	mcgill.Start()
 	fmt.Printf("Took %s to finish\n", time.Since(t))
 
 }
