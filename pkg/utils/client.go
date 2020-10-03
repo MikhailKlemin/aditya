@@ -67,7 +67,7 @@ func CreateClientWithProxy(proxyIP string) *MyClient {
 func (m *MyClient) Get(link string) (doc *goquery.Document, err error) {
 	counter := 0
 	for {
-		if counter > 10 {
+		if counter > 2 {
 			return doc, fmt.Errorf("%s: %w", link, ErrRetry)
 		}
 		counter++

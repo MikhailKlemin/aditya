@@ -1,44 +1,65 @@
 [
     {
-        "subjectId": 1,
-        "name": "Biology (Agric \u0026 Envir Sc)",
+        "subjectId": 37,
+        "name": "Law (CCE)",
         "codes": [
-            "AEBI"
+            "CCLW"
         ]
     },
     {
-        "subjectId": 2,
-        "name": "Chemistry (Agric\u0026EnvirSci)",
+        "subjectId": 56,
+        "name": "CIAM",
         "codes": [
-            "AECH"
+            "CIAM"
         ]
     },
     {
-        "subjectId": 3,
-        "name": "English (Agric \u0026 Envir Sc)",
+        "subjectId": 136,
+        "name": "Humanities \u0026 Soc Stud in Med",
         "codes": [
-            "AEHM"
+            "HSSM"
         ]
     },
     {
-        "subjectId": 4,
-        "name": "Mathematics (Agric\u0026Envir Sci)",
+        "subjectId": 194,
+        "name": "Education workshop",
         "codes": [
-            "AEMA"
+            "FIGE"
         ]
     },
     {
-        "subjectId": 5,
-        "name": "Physics (Agric \u0026 Envir Sci)",
+        "subjectId": 195,
+        "name": "Learning to Teach Grad wrkshop",
         "codes": [
-            "AEPH"
+            "FIGG"
         ]
     },
     {
-        "subjectId": 8,
-        "name": "Agricultural Economics",
+        "subjectId": 158,
+        "name": "Medical Physics",
         "codes": [
-            "AGEC"
+            "MDPH"
+        ]
+    },
+    {
+        "subjectId": 174,
+        "name": "Choral Techniques",
+        "codes": [
+            "MUCT"
+        ]
+    },
+    {
+        "subjectId": 60,
+        "name": "Management Information Systems",
+        "codes": [
+            "CMIS"
+        ]
+    },
+    {
+        "subjectId": 88,
+        "name": "Student Teaching",
+        "codes": [
+            "EDFE"
         ]
     },
     {
@@ -49,17 +70,1651 @@
         ]
     },
     {
+        "subjectId": 11,
+        "name": "Agriculture",
+        "codes": [
+            "AGRI"
+        ]
+    },
+    {
+        "subjectId": 68,
+        "name": "CPAG",
+        "codes": [
+            "CPAG"
+        ]
+    },
+    {
+        "subjectId": 230,
+        "name": "Russian (Arts)",
+        "codes": [
+            "RUSS"
+        ]
+    },
+    {
+        "subjectId": 231,
+        "name": "Communication Sci \u0026 Disorders",
+        "codes": [
+            "SCSD"
+        ]
+    },
+    {
+        "subjectId": 15,
+        "name": "Art History",
+        "codes": [
+            "ARTH"
+        ]
+    },
+    {
+        "subjectId": 53,
+        "name": "Chemical Engineering",
+        "codes": [
+            "CHEE"
+        ]
+    },
+    {
+        "subjectId": 124,
+        "name": "Faculty of Science",
+        "codes": [
+            "FSCI"
+        ]
+    },
+    {
+        "subjectId": 152,
+        "name": "Labour/Employmt/Environmt Law",
+        "codes": [
+            "LEEL"
+        ]
+    },
+    {
+        "subjectId": 42,
+        "name": "Tax (CCE)",
+        "codes": [
+            "CCTX"
+        ]
+    },
+    {
+        "subjectId": 133,
+        "name": "Hist \u0026 Phil of Science",
+        "codes": [
+            "HPSC"
+        ]
+    },
+    {
+        "subjectId": 172,
+        "name": "Music-Arts Faculty",
+        "codes": [
+            "MUAR"
+        ]
+    },
+    {
+        "subjectId": 178,
+        "name": "Music History and Literature",
+        "codes": [
+            "MUHL"
+        ]
+    },
+    {
+        "subjectId": 214,
+        "name": "Physics",
+        "codes": [
+            "PHYS"
+        ]
+    },
+    {
+        "subjectId": 207,
+        "name": "Ophthalmology",
+        "codes": [
+            "OPTH"
+        ]
+    },
+    {
+        "subjectId": 17,
+        "name": "Atmospheric \u0026 Oceanic Sciences",
+        "codes": [
+            "ATOC"
+        ]
+    },
+    {
+        "subjectId": 173,
+        "name": "Composition",
+        "codes": [
+            "MUCO"
+        ]
+    },
+    {
+        "subjectId": 229,
+        "name": "RETL",
+        "codes": [
+            "RETL"
+        ]
+    },
+    {
+        "subjectId": 236,
+        "name": "Social Work",
+        "codes": [
+            "SWRK"
+        ]
+    },
+    {
+        "subjectId": 84,
+        "name": "Arts \u0026 Science",
+        "codes": [
+            "BASC"
+        ]
+    },
+    {
+        "subjectId": 151,
+        "name": "Law General",
+        "codes": [
+            "LAWG"
+        ]
+    },
+    {
+        "subjectId": 182,
+        "name": "Music Technology",
+        "codes": [
+            "MUMT"
+        ]
+    },
+    {
+        "subjectId": 26,
+        "name": "Biostatistics",
+        "codes": [
+            "BIOS"
+        ]
+    },
+    {
+        "subjectId": 45,
+        "name": "CEAP",
+        "codes": [
+            "CEAP"
+        ]
+    },
+    {
+        "subjectId": 62,
+        "name": "CMRK",
+        "codes": [
+            "CMRK"
+        ]
+    },
+    {
+        "subjectId": 89,
+        "name": "Education Field Montreal",
+        "codes": [
+            "EDFM"
+        ]
+    },
+    {
+        "subjectId": 105,
+        "name": "Education University of MTL",
+        "codes": [
+            "EDUM"
+        ]
+    },
+    {
+        "subjectId": 127,
+        "name": "Library \u0026 Information Studies",
+        "codes": [
+            "GLIS"
+        ]
+    },
+    {
+        "subjectId": 146,
+        "name": "IPEA",
+        "codes": [
+            "IPEA"
+        ]
+    },
+    {
+        "subjectId": 40,
+        "name": "CCPA",
+        "codes": [
+            "CCPA"
+        ]
+    },
+    {
+        "subjectId": 95,
+        "name": "Ed Psych \u0026 Couns (Psychology)",
+        "codes": [
+            "EDPE"
+        ]
+    },
+    {
+        "subjectId": 196,
+        "name": "FIGI",
+        "codes": [
+            "FIGI"
+        ]
+    },
+    {
+        "subjectId": 39,
+        "name": "Communication (CCE)",
+        "codes": [
+            "CCOM"
+        ]
+    },
+    {
+        "subjectId": 175,
+        "name": "Ensemble",
+        "codes": [
+            "MUEN"
+        ]
+    },
+    {
+        "subjectId": 186,
+        "name": "MURG",
+        "codes": [
+            "MURG"
+        ]
+    },
+    {
         "subjectId": 6,
+        "name": "Anatomy \u0026 Cell Biology",
+        "codes": [
+            "ANAT"
+        ]
+    },
+    {
+        "subjectId": 82,
+        "name": "Admin \u0026 Policy Studies in Ed",
+        "codes": [
+            "EDEM"
+        ]
+    },
+    {
+        "subjectId": 170,
+        "name": "Marketing",
+        "codes": [
+            "MRKT"
+        ]
+    },
+    {
+        "subjectId": 171,
+        "name": "MSUS",
+        "codes": [
+            "MSUS"
+        ]
+    },
+    {
+        "subjectId": 226,
+        "name": "Radiology (Diagnostic)",
+        "codes": [
+            "RADD"
+        ]
+    },
+    {
+        "subjectId": 241,
+        "name": "Resource Development",
+        "codes": [
+            "WILD"
+        ]
+    },
+    {
+        "subjectId": 238,
+        "name": "Transfer Credit Processing",
+        "codes": [
+            "TRNS"
+        ]
+    },
+    {
+        "subjectId": 75,
+        "name": "Spanish (CCE)",
+        "codes": [
+            "CSPN"
+        ]
+    },
+    {
+        "subjectId": 77,
+        "name": "Economics (Arts)",
+        "codes": [
+            "ECON"
+        ]
+    },
+    {
+        "subjectId": 85,
+        "name": "Secondary Education",
+        "codes": [
+            "EDES"
+        ]
+    },
+    {
+        "subjectId": 100,
+        "name": "EDPS",
+        "codes": [
+            "EDPS"
+        ]
+    },
+    {
+        "subjectId": 119,
+        "name": "Finance",
+        "codes": [
+            "FINE"
+        ]
+    },
+    {
+        "subjectId": 129,
+        "name": "Human Genetics",
+        "codes": [
+            "HGEN"
+        ]
+    },
+    {
+        "subjectId": 185,
+        "name": "Performance Practice",
+        "codes": [
+            "MUPP"
+        ]
+    },
+    {
+        "subjectId": 242,
+        "name": "Women's Studies",
+        "codes": [
+            "WMST"
+        ]
+    },
+    {
+        "subjectId": 3,
+        "name": "English (Agric \u0026 Envir Sc)",
+        "codes": [
+            "AEHM"
+        ]
+    },
+    {
+        "subjectId": 64,
+        "name": "Cognitive Science",
+        "codes": [
+            "COGS"
+        ]
+    },
+    {
+        "subjectId": 67,
+        "name": "Organizational Behaviour",
+        "codes": [
+            "CORG",
+            "ORGB"
+        ]
+    },
+    {
+        "subjectId": 87,
+        "name": "Bachelor of Ed Core Program",
+        "codes": [
+            "EDFC"
+        ]
+    },
+    {
+        "subjectId": 165,
+        "name": "MCGILL HEC MONTREAL EMBA",
+        "codes": [
+            "MHEC"
+        ]
+    },
+    {
+        "subjectId": 212,
+        "name": "Physical Therapy",
+        "codes": [
+            "PHTH"
+        ]
+    },
+    {
+        "subjectId": 10,
+        "name": "Agricultural Economics",
+        "codes": [
+            "AGEC"
+        ]
+    },
+    {
+        "subjectId": 13,
+        "name": "Anthropology",
+        "codes": [
+            "ANTH"
+        ]
+    },
+    {
+        "subjectId": 80,
+        "name": "Curriculum and Instruction",
+        "codes": [
+            "EDEC"
+        ]
+    },
+    {
+        "subjectId": 96,
+        "name": "CAFT",
+        "codes": [
+            "CAFT"
+        ]
+    },
+    {
+        "subjectId": 143,
+        "name": "Information Systems",
+        "codes": [
+            "INSY"
+        ]
+    },
+    {
+        "subjectId": 167,
+        "name": "Mining \u0026 Materials Engineering",
+        "codes": [
+            "MIME"
+        ]
+    },
+    {
+        "subjectId": 210,
+        "name": "Physiology",
+        "codes": [
+            "PHGY"
+        ]
+    },
+    {
+        "subjectId": 1,
+        "name": "Biology (Agric \u0026 Envir Sc)",
+        "codes": [
+            "AEBI"
+        ]
+    },
+    {
+        "subjectId": 19,
+        "name": "BIEN",
+        "codes": [
+            "BIEN"
+        ]
+    },
+    {
+        "subjectId": 44,
+        "name": "French Communication",
+        "codes": [
+            "CEFN"
+        ]
+    },
+    {
+        "subjectId": 99,
+        "name": "Ed Psych \u0026 Couns (Collegial)",
+        "codes": [
+            "EDPH"
+        ]
+    },
+    {
+        "subjectId": 168,
+        "name": "Microbiology and Immun (Sci)",
+        "codes": [
+            "MIMM"
+        ]
+    },
+    {
+        "subjectId": 189,
+        "name": "Music Theory and Analysis",
+        "codes": [
+            "MUTH"
+        ]
+    },
+    {
+        "subjectId": 243,
+        "name": "Woodland Resources",
+        "codes": [
+            "WOOD"
+        ]
+    },
+    {
+        "subjectId": 107,
+        "name": "English (Arts)",
+        "codes": [
+            "ENGL"
+        ]
+    },
+    {
+        "subjectId": 187,
+        "name": "Musicianship",
+        "codes": [
+            "MUSP"
+        ]
+    },
+    {
+        "subjectId": 233,
+        "name": "SENT",
+        "codes": [
+            "SENT"
+        ]
+    },
+    {
+        "subjectId": 213,
+        "name": "Philosophy \u0026 Western Religions",
+        "codes": [
+            "PHWR"
+        ]
+    },
+    {
+        "subjectId": 4,
+        "name": "Mathematics (Agric\u0026Envir Sci)",
+        "codes": [
+            "AEMA"
+        ]
+    },
+    {
+        "subjectId": 24,
+        "name": "Biomedical Engineering",
+        "codes": [
+            "BMDE"
+        ]
+    },
+    {
+        "subjectId": 120,
+        "name": "Family Medicine",
+        "codes": [
+            "FMED"
+        ]
+    },
+    {
+        "subjectId": 128,
+        "name": "GSFS",
+        "codes": [
+            "GSFS"
+        ]
+    },
+    {
+        "subjectId": 155,
+        "name": "LLCU",
+        "codes": [
+            "LLCU"
+        ]
+    },
+    {
+        "subjectId": 18,
+        "name": "BBME",
+        "codes": [
+            "BBME"
+        ]
+    },
+    {
+        "subjectId": 97,
+        "name": "CACF",
+        "codes": [
+            "CACF"
+        ]
+    },
+    {
+        "subjectId": 21,
+        "name": "Biochemistry",
+        "codes": [
+            "BIOC"
+        ]
+    },
+    {
+        "subjectId": 22,
+        "name": "Bio-Ethics",
+        "codes": [
+            "BIOE"
+        ]
+    },
+    {
+        "subjectId": 94,
+        "name": "EDPD",
+        "codes": [
+            "EDPD"
+        ]
+    },
+    {
+        "subjectId": 110,
+        "name": "Epidemiology \u0026 Biostatistics",
+        "codes": [
+            "EPIB"
+        ]
+    },
+    {
+        "subjectId": 157,
+        "name": "Mathematics \u0026 Statistics (Sci)",
+        "codes": [
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 219,
+        "name": "PPOL",
+        "codes": [
+            "PPOL"
+        ]
+    },
+    {
+        "subjectId": 125,
+        "name": "Geography",
+        "codes": [
+            "GEOG"
+        ]
+    },
+    {
+        "subjectId": 144,
+        "name": "International Development",
+        "codes": [
+            "INTD"
+        ]
+    },
+    {
+        "subjectId": 179,
+        "name": "Practical Instrument",
+        "codes": [
+            "MUIN"
+        ]
+    },
+    {
+        "subjectId": 206,
+        "name": "Parasitology",
+        "codes": [
+            "PARA"
+        ]
+    },
+    {
+        "subjectId": 224,
+        "name": "Psychiatry",
+        "codes": [
+            "PSYT"
+        ]
+    },
+    {
+        "subjectId": 220,
+        "name": "Practicums",
+        "codes": [
+            "PRAC"
+        ]
+    },
+    {
+        "subjectId": 23,
+        "name": "Biology (Sci)",
+        "codes": [
+            "BIOL"
+        ]
+    },
+    {
+        "subjectId": 47,
+        "name": "Engineering (CCE)",
+        "codes": [
+            "CENG"
+        ]
+    },
+    {
+        "subjectId": 71,
+        "name": "Public Relations",
+        "codes": [
+            "CPRL"
+        ]
+    },
+    {
+        "subjectId": 106,
+        "name": "Elective",
+        "codes": [
+            "ELEC"
+        ]
+    },
+    {
+        "subjectId": 132,
+        "name": "Humanistic Studies",
+        "codes": [
+            "HMST"
+        ]
+    },
+    {
+        "subjectId": 160,
+        "name": "Mechanical Engineering",
+        "codes": [
+            "MECH"
+        ]
+    },
+    {
+        "subjectId": 177,
+        "name": "General Music Techniques",
+        "codes": [
+            "MUGT"
+        ]
+    },
+    {
+        "subjectId": 25,
+        "name": "Bioresource Engineering",
+        "codes": [
+            "BREE"
+        ]
+    },
+    {
+        "subjectId": 34,
+        "name": "CCFA",
+        "codes": [
+            "CCFA"
+        ]
+    },
+    {
+        "subjectId": 147,
+        "name": "Islamic Studies",
+        "codes": [
+            "ISLA"
+        ]
+    },
+    {
+        "subjectId": 162,
+        "name": "Management Policy",
+        "codes": [
+            "MGPO"
+        ]
+    },
+    {
+        "subjectId": 223,
+        "name": "Procedure",
+        "codes": [
+            "PROC"
+        ]
+    },
+    {
+        "subjectId": 92,
+        "name": "EDLE",
+        "codes": [
+            "EDLE"
+        ]
+    },
+    {
+        "subjectId": 217,
+        "name": "Political Science",
+        "codes": [
+            "POLI"
+        ]
+    },
+    {
+        "subjectId": 49,
+        "name": "CESL",
+        "codes": [
+            "CESL"
+        ]
+    },
+    {
+        "subjectId": 58,
+        "name": "Civil Engineering",
+        "codes": [
+            "CIVE"
+        ]
+    },
+    {
+        "subjectId": 169,
+        "name": "McGill/Poly Mining Coop",
+        "codes": [
+            "MPMC"
+        ]
+    },
+    {
+        "subjectId": 8,
         "name": "AERO",
         "codes": [
             "AERO"
         ]
     },
     {
+        "subjectId": 32,
+        "name": "Computer Science (CCE)",
+        "codes": [
+            "CCCS"
+        ]
+    },
+    {
+        "subjectId": 55,
+        "name": "Health Care",
+        "codes": [
+            "CHLC"
+        ]
+    },
+    {
+        "subjectId": 61,
+        "name": "Comparative Law",
+        "codes": [
+            "CMPL"
+        ]
+    },
+    {
+        "subjectId": 134,
+        "name": "HSED",
+        "codes": [
+            "HSED"
+        ]
+    },
+    {
+        "subjectId": 2,
+        "name": "Chemistry (Agric\u0026EnvirSci)",
+        "codes": [
+            "AECH"
+        ]
+    },
+    {
         "subjectId": 7,
+        "name": "Physics (Agric \u0026 Envir Sci)",
+        "codes": [
+            "AEPH"
+        ]
+    },
+    {
+        "subjectId": 28,
+        "name": "Business Admin",
+        "codes": [
+            "BUSA"
+        ]
+    },
+    {
+        "subjectId": 98,
+        "name": "Ed Psych \u0026 Couns (Inclusive)",
+        "codes": [
+            "EDPI"
+        ]
+    },
+    {
+        "subjectId": 190,
+        "name": "Neurology and Neurosurgery",
+        "codes": [
+            "NEUR"
+        ]
+    },
+    {
+        "subjectId": 20,
+        "name": "Bioinformatics",
+        "codes": [
+            "BINF"
+        ]
+    },
+    {
+        "subjectId": 72,
+        "name": "Transportation",
+        "codes": [
+            "CTPT"
+        ]
+    },
+    {
+        "subjectId": 131,
+        "name": "History",
+        "codes": [
+            "HIST"
+        ]
+    },
+    {
+        "subjectId": 156,
+        "name": "Life Sciences",
+        "codes": [
+            "LSCI"
+        ]
+    },
+    {
+        "subjectId": 51,
+        "name": "French (CCE)",
+        "codes": [
+            "CFRN"
+        ]
+    },
+    {
+        "subjectId": 90,
+        "name": "EDIN",
+        "codes": [
+            "EDIN"
+        ]
+    },
+    {
+        "subjectId": 112,
+        "name": "Earth \u0026 Planetary Sciences",
+        "codes": [
+            "EPSC"
+        ]
+    },
+    {
+        "subjectId": 139,
+        "name": "INDG",
+        "codes": [
+            "INDG"
+        ]
+    },
+    {
+        "subjectId": 222,
+        "name": "Psychology",
+        "codes": [
+            "PSYC"
+        ]
+    },
+    {
+        "subjectId": 78,
+        "name": "Electrical Engineering",
+        "codes": [
+            "ECSE"
+        ]
+    },
+    {
+        "subjectId": 153,
+        "name": "LIBA",
+        "codes": [
+            "LIBA"
+        ]
+    },
+    {
+        "subjectId": 215,
+        "name": "Plant Science",
+        "codes": [
+            "PLNT"
+        ]
+    },
+    {
+        "subjectId": 235,
+        "name": "Soil Science",
+        "codes": [
+            "SOIL"
+        ]
+    },
+    {
+        "subjectId": 193,
+        "name": "FIGA",
+        "codes": [
+            "FIGA"
+        ]
+    },
+    {
+        "subjectId": 205,
+        "name": "Paediatrics",
+        "codes": [
+            "PAED"
+        ]
+    },
+    {
+        "subjectId": 65,
+        "name": "Computer Science (Sci)",
+        "codes": [
+            "COMP"
+        ]
+    },
+    {
+        "subjectId": 104,
+        "name": "EDTL",
+        "codes": [
+            "EDTL"
+        ]
+    },
+    {
+        "subjectId": 111,
+        "name": "Environmental Biology",
+        "codes": [
+            "ENVB"
+        ]
+    },
+    {
+        "subjectId": 154,
+        "name": "Linguistics",
+        "codes": [
+            "LING"
+        ]
+    },
+    {
+        "subjectId": 198,
+        "name": "World Cinemas",
+        "codes": [
+            "FILM"
+        ]
+    },
+    {
+        "subjectId": 225,
+        "name": "QLSC",
+        "codes": [
+            "QLSC"
+        ]
+    },
+    {
+        "subjectId": 54,
+        "name": "Chemistry",
+        "codes": [
+            "CHEM"
+        ]
+    },
+    {
+        "subjectId": 59,
+        "name": "Classics",
+        "codes": [
+            "CLAS"
+        ]
+    },
+    {
+        "subjectId": 218,
+        "name": "Phys \u0026 Occ Therapy",
+        "codes": [
+            "POTH"
+        ]
+    },
+    {
+        "subjectId": 232,
+        "name": "SEAD",
+        "codes": [
+            "SEAD"
+        ]
+    },
+    {
+        "subjectId": 63,
+        "name": "Management Science (CCE)",
+        "codes": [
+            "CMSC"
+        ]
+    },
+    {
+        "subjectId": 70,
+        "name": "CPAC",
+        "codes": [
+            "CPAC"
+        ]
+    },
+    {
+        "subjectId": 140,
+        "name": "IDFC",
+        "codes": [
+            "IDFC"
+        ]
+    },
+    {
+        "subjectId": 202,
+        "name": "Occupational Health \u0026 Hygiene",
+        "codes": [
+            "OCCH"
+        ]
+    },
+    {
+        "subjectId": 204,
+        "name": "Otolaryngology",
+        "codes": [
+            "OTOL"
+        ]
+    },
+    {
+        "subjectId": 209,
+        "name": "Pharmacology and Therapeutics",
+        "codes": [
+            "PHAR"
+        ]
+    },
+    {
+        "subjectId": 33,
+        "name": "Auditing (CCE)",
+        "codes": [
+            "CCAU"
+        ]
+    },
+    {
+        "subjectId": 46,
+        "name": "English (CCE)",
+        "codes": [
+            "CEGL"
+        ]
+    },
+    {
+        "subjectId": 118,
+        "name": "Faculty of Agric \u0026 Envir Sci",
+        "codes": [
+            "FAES"
+        ]
+    },
+    {
+        "subjectId": 141,
+        "name": "Industrial Relations",
+        "codes": [
+            "INDR"
+        ]
+    },
+    {
+        "subjectId": 115,
+        "name": "Experimental Surgery",
+        "codes": [
+            "EXSU"
+        ]
+    },
+    {
+        "subjectId": 221,
+        "name": "PPHS",
+        "codes": [
+            "PPHS"
+        ]
+    },
+    {
+        "subjectId": 81,
+        "name": "Elementary Education",
+        "codes": [
+            "EDEE"
+        ]
+    },
+    {
+        "subjectId": 83,
+        "name": "Religious Studies",
+        "codes": [
+            "EDER",
+            "RELG"
+        ]
+    },
+    {
+        "subjectId": 191,
+        "name": "Natural Resource Sciences",
+        "codes": [
+            "NRSC"
+        ]
+    },
+    {
+        "subjectId": 5,
+        "name": "Animal Science",
+        "codes": [
+            "ANSC"
+        ]
+    },
+    {
+        "subjectId": 50,
+        "name": "Finance (CCE)",
+        "codes": [
+            "CFIN"
+        ]
+    },
+    {
+        "subjectId": 138,
+        "name": "Internal Medicine",
+        "codes": [
+            "IMED"
+        ]
+    },
+    {
+        "subjectId": 181,
+        "name": "Jazz Studies",
+        "codes": [
+            "MUJZ"
+        ]
+    },
+    {
+        "subjectId": 183,
+        "name": "Music Professional Development",
+        "codes": [
+            "MUPD"
+        ]
+    },
+    {
+        "subjectId": 201,
+        "name": "Freshman Interest Groups",
+        "codes": [
+            "FIGS"
+        ]
+    },
+    {
+        "subjectId": 101,
+        "name": "Ed Psych \u0026 Couns (Media)",
+        "codes": [
+            "EDPT"
+        ]
+    },
+    {
+        "subjectId": 103,
+        "name": "EDSP",
+        "codes": [
+            "EDSP"
+        ]
+    },
+    {
+        "subjectId": 122,
+        "name": "French (Arts)",
+        "codes": [
+            "FREN"
+        ]
+    },
+    {
+        "subjectId": 149,
+        "name": "Jewish Studies",
+        "codes": [
+            "JWST"
+        ]
+    },
+    {
+        "subjectId": 164,
+        "name": "Management Science",
+        "codes": [
+            "MGSC"
+        ]
+    },
+    {
+        "subjectId": 12,
+        "name": "Anaesthesia",
+        "codes": [
+            "ANAE"
+        ]
+    },
+    {
+        "subjectId": 73,
+        "name": "Dentistry",
+        "codes": [
+            "DENT"
+        ]
+    },
+    {
+        "subjectId": 102,
+        "name": "Education in Second Languages",
+        "codes": [
+            "EDSL"
+        ]
+    },
+    {
+        "subjectId": 117,
+        "name": "Food Science",
+        "codes": [
+            "FDSC"
+        ]
+    },
+    {
+        "subjectId": 126,
+        "name": "German (Arts)",
+        "codes": [
+            "GERM"
+        ]
+    },
+    {
+        "subjectId": 237,
+        "name": "Surgery",
+        "codes": [
+            "SURG"
+        ]
+    },
+    {
+        "subjectId": 14,
+        "name": "Architecture",
+        "codes": [
+            "ARCH"
+        ]
+    },
+    {
+        "subjectId": 48,
+        "name": "Entrepreneurship",
+        "codes": [
+            "CENT"
+        ]
+    },
+    {
+        "subjectId": 29,
+        "name": "Accountancy",
+        "codes": [
+            "CACC"
+        ]
+    },
+    {
+        "subjectId": 159,
+        "name": "MDST",
+        "codes": [
+            "MDST"
+        ]
+    },
+    {
+        "subjectId": 208,
+        "name": "Pathology",
+        "codes": [
+            "PATH"
+        ]
+    },
+    {
+        "subjectId": 234,
+        "name": "Sociology (Arts)",
+        "codes": [
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 36,
+        "name": "Financial Accounting (CCE)",
+        "codes": [
+            "CCFC"
+        ]
+    },
+    {
+        "subjectId": 38,
+        "name": "Managerial Accounting (CCE)",
+        "codes": [
+            "CCMA"
+        ]
+    },
+    {
+        "subjectId": 108,
+        "name": "Entomology",
+        "codes": [
+            "ENTO"
+        ]
+    },
+    {
+        "subjectId": 113,
+        "name": "Earth System Science",
+        "codes": [
+            "ESYS"
+        ]
+    },
+    {
+        "subjectId": 211,
+        "name": "Philosophy",
+        "codes": [
+            "PHIL"
+        ]
+    },
+    {
+        "subjectId": 228,
+        "name": "Quebec Studies",
+        "codes": [
+            "QCST"
+        ]
+    },
+    {
+        "subjectId": 35,
+        "name": "Business",
+        "codes": [
+            "CBUS"
+        ]
+    },
+    {
+        "subjectId": 41,
+        "name": "Translation",
+        "codes": [
+            "CCTR"
+        ]
+    },
+    {
+        "subjectId": 161,
+        "name": "Management Core",
+        "codes": [
+            "MGCR"
+        ]
+    },
+    {
+        "subjectId": 163,
+        "name": "Management",
+        "codes": [
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 240,
+        "name": "Urban Planning",
+        "codes": [
+            "URBP"
+        ]
+    },
+    {
+        "subjectId": 180,
+        "name": "Instrumental Techniques",
+        "codes": [
+            "MUIT"
+        ]
+    },
+    {
+        "subjectId": 188,
+        "name": "Sound Recording",
+        "codes": [
+            "MUSR"
+        ]
+    },
+    {
+        "subjectId": 30,
+        "name": "Canadian Studies",
+        "codes": [
+            "CANS"
+        ]
+    },
+    {
+        "subjectId": 91,
+        "name": "Kinesiology\u0026Physical Education",
+        "codes": [
+            "EDKP"
+        ]
+    },
+    {
+        "subjectId": 93,
+        "name": "Ed Psych \u0026 Couns (Counselling)",
+        "codes": [
+            "EDPC"
+        ]
+    },
+    {
+        "subjectId": 148,
+        "name": "Italian (Arts)",
+        "codes": [
+            "ITAL"
+        ]
+    },
+    {
+        "subjectId": 244,
+        "name": "Law Writing Courses",
+        "codes": [
+            "WRIT"
+        ]
+    },
+    {
+        "subjectId": 43,
+        "name": "English Communication",
+        "codes": [
+            "CEEN"
+        ]
+    },
+    {
+        "subjectId": 145,
+        "name": "INTG",
+        "codes": [
+            "INTG"
+        ]
+    },
+    {
+        "subjectId": 199,
+        "name": "Nutrition and Dietetics",
+        "codes": [
+            "NUTR"
+        ]
+    },
+    {
+        "subjectId": 79,
+        "name": "Arts Education",
+        "codes": [
+            "EDEA"
+        ]
+    },
+    {
+        "subjectId": 137,
+        "name": "IGFS",
+        "codes": [
+            "IGFS"
+        ]
+    },
+    {
+        "subjectId": 200,
+        "name": "Obstetrics and Gynaecology",
+        "codes": [
+            "OBGY"
+        ]
+    },
+    {
+        "subjectId": 197,
+        "name": "FIGN",
+        "codes": [
+            "FIGN"
+        ]
+    },
+    {
+        "subjectId": 57,
+        "name": "CINC",
+        "codes": [
+            "CINC"
+        ]
+    },
+    {
+        "subjectId": 74,
+        "name": "CSCI",
+        "codes": [
+            "CSCI"
+        ]
+    },
+    {
+        "subjectId": 150,
+        "name": "Latin American \u0026 Caribbean St",
+        "codes": [
+            "LACS"
+        ]
+    },
+    {
+        "subjectId": 192,
+        "name": "Neuroscience",
+        "codes": [
+            "NSCI"
+        ]
+    },
+    {
+        "subjectId": 9,
         "name": "African Studies",
         "codes": [
             "AFRI"
+        ]
+    },
+    {
+        "subjectId": 16,
+        "name": "Air \u0026 Space Law",
+        "codes": [
+            "ASPL"
+        ]
+    },
+    {
+        "subjectId": 52,
+        "name": "General Management",
+        "codes": [
+            "CGMG"
+        ]
+    },
+    {
+        "subjectId": 86,
+        "name": "Vocational Education",
+        "codes": [
+            "EDET"
+        ]
+    },
+    {
+        "subjectId": 123,
+        "name": "French as a Second Language",
+        "codes": [
+            "FRSL"
+        ]
+    },
+    {
+        "subjectId": 27,
+        "name": "Biotechnology",
+        "codes": [
+            "BTEC",
+            "BIOT"
+        ]
+    },
+    {
+        "subjectId": 109,
+        "name": "Environment",
+        "codes": [
+            "ENVR"
+        ]
+    },
+    {
+        "subjectId": 121,
+        "name": "Farm Management Technology",
+        "codes": [
+            "FMTP"
+        ]
+    },
+    {
+        "subjectId": 216,
+        "name": "PLAI",
+        "codes": [
+            "PLAI"
+        ]
+    },
+    {
+        "subjectId": 69,
+        "name": "Professional Devel",
+        "codes": [
+            "CPDV"
+        ]
+    },
+    {
+        "subjectId": 114,
+        "name": "Experimental Medicine",
+        "codes": [
+            "EXMD"
+        ]
+    },
+    {
+        "subjectId": 203,
+        "name": "ONCO",
+        "codes": [
+            "ONCO"
+        ]
+    },
+    {
+        "subjectId": 239,
+        "name": "UQAC",
+        "codes": [
+            "UQAC"
+        ]
+    },
+    {
+        "subjectId": 31,
+        "name": "Catholic Studies",
+        "codes": [
+            "CATH"
+        ]
+    },
+    {
+        "subjectId": 176,
+        "name": "Graduate Faculty Music Courses",
+        "codes": [
+            "MUGS"
+        ]
+    },
+    {
+        "subjectId": 66,
+        "name": "Communication Studies",
+        "codes": [
+            "COMS"
+        ]
+    },
+    {
+        "subjectId": 76,
+        "name": "Asian Language \u0026 Literature",
+        "codes": [
+            "EAST"
+        ]
+    },
+    {
+        "subjectId": 116,
+        "name": "Faculty Course",
+        "codes": [
+            "FACC"
+        ]
+    },
+    {
+        "subjectId": 135,
+        "name": "Health Science Electives",
+        "codes": [
+            "HSEL"
+        ]
+    },
+    {
+        "subjectId": 166,
+        "name": "Microbiology (Agric\u0026Envir Sc)",
+        "codes": [
+            "MICR"
+        ]
+    },
+    {
+        "subjectId": 130,
+        "name": "Hispanic Studies (Arts)",
+        "codes": [
+            "HISP"
+        ]
+    },
+    {
+        "subjectId": 142,
+        "name": "Interdisciplinary Studies",
+        "codes": [
+            "INDS"
+        ]
+    },
+    {
+        "subjectId": 227,
+        "name": "Redpath Museum",
+        "codes": [
+            "REDM"
+        ]
+    },
+    {
+        "subjectId": 184,
+        "name": "Performance",
+        "codes": [
+            "MUPG"
         ]
     }
 ]

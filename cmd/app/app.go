@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/MikhailKlemin/aditya/pkg/unis/mcgill"
+	"github.com/MikhailKlemin/aditya/pkg/unis/concordia"
 )
 
 func main() {
@@ -23,8 +23,9 @@ func main() {
 	//concurent.Start()
 	//ubc.Start()
 	//commerce.Start()
-	//mcgill.Parse("https://www.mcgill.ca/study/2020-2021/courses/chem-204")
-	mcgill.Start()
+	//mcgill.Start()
+	//mcgill.ToCSV()
+	concordia.Start()
 	fmt.Printf("Took %s to finish\n", time.Since(t))
 
 }

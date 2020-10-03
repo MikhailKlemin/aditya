@@ -1,0 +1,2212 @@
+[
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introductory Ancient Greek II",
+        "numericCode": "202",
+        "courseCode": "CLAS",
+        "description": "This course continues the study of Greek grammar, syntax, and vocabulary, and prepares students to begin reading ancient texts.",
+        "prerequisite": "CLAS 201",
+        "antirequisite": "Students who have received credit for CLAS 280 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introductory Latin I",
+        "numericCode": "203",
+        "courseCode": "CLAS",
+        "description": "This course presents students with the introductory elements of Classical Latin grammar, syntax, and vocabulary.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for CLAS 290 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introductory Latin II",
+        "numericCode": "204",
+        "courseCode": "CLAS",
+        "description": "This course continues the study of Classical Latin grammar, syntax, and vocabulary, and prepares students to begin reading ancient texts.",
+        "prerequisite": "CLAS 203",
+        "antirequisite": "Students who have received credit for CLAS 290 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Classical Civilization",
+        "numericCode": "210",
+        "courseCode": "CLAS",
+        "description": "This course provides a comprehensive introduction to the civilizations of Ancient Greece and Rome, focusing on history, archaeology, literature and thought from the Late Bronze Age through to the decline of the Roman Empire.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Greek Literature",
+        "numericCode": "211",
+        "courseCode": "CLAS",
+        "description": "An introduction to the literature of ancient Greece, this course focuses on Homer and the epic cycle, the Homeric hymns, Hesiod and lyric poetry, tragedy and comedy. The texts are read in English translation.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Roman Literature",
+        "numericCode": "212",
+        "courseCode": "CLAS",
+        "description": "An introduction to the major authors of the Roman world, this course focuses on Catullus, Virgil, Horace, Ovid and Lucretius; works of the dramatists, orators and satirists may also be included. The texts are read in English translation.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Daily Life in Ancient Greece and Rome",
+        "numericCode": "220",
+        "courseCode": "CLAS",
+        "description": "This course explores the lifestyles, customs, and daily practices of people in Ancient Greece and Rome through archaeological, historical, and literary sources. CLAS 230 (also listed as HIST 219) Ancient Near East (3 credits) A political, social, economic, and intellectual his­tory of the ancient Near East, this course surveys the period from the origins of civilization in the middle of the fourth millennium to Alexander the Great’s conquest of the Persian Empire in the latter part of the fourth century BC. CLAS 240 (also listed as HIST 223) Greek History from the Bronze Age to Alexander (3 credits) This course offers a political, social, economic, and cultural history of Greece from the Minoan‑Mycenaean period in the second millennium to the end of Classical Greek civilization in the fourth century BC, with special emphasis placed upon Athens. CLAS 242 (also listed as HIST 225) History of the Roman Republic (3 credits) This course offers a political, social, economic, and cultural history of Rome from the city’s origins to the establishment of the Roman Empire under the Emperor Augustus.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for HIST 225 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Greek Archaeology",
+        "numericCode": "260",
+        "courseCode": "CLAS",
+        "description": "This course provides a general overview of the material remains of ancient Greece from the Bronze Age to the Hellenistic period. It addresses the function, context, dating, and meaning of artifacts, as well as methods of analysis.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for CLAS 266 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Egyptian Archaeology",
+        "numericCode": "264",
+        "courseCode": "CLAS",
+        "description": "This course examines the principal monuments of Egypt from the predynastic through the Pharaonic period, ending with the Roman conquest of Egypt. Aspects considered may include the pyramids and tombs, paintings, writing systems, and archaeological evidence of Egyptian contributions to science, navigation, religion, and culture.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for this topic under a CLAS 298 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Mythologies of the Ancient Mediterranean",
+        "numericCode": "265",
+        "courseCode": "CLAS",
+        "description": "This course provides a survey of the myths of the ancient Mediterranean. The focus is on Greek and Roman mythology, with attention also given to the mythologies of the Ancient Near East.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for CLAS 261 or 262 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "The Archaeology of the Greek Bronze Age",
+        "numericCode": "267",
+        "courseCode": "CLAS",
+        "description": "The Bronze Age in Mainland Greece, Crete, and the Greek Islands.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introductory Ancient Greek: Intensive Course",
+        "numericCode": "280",
+        "courseCode": "CLAS",
+        "description": "Greek grammar, syntax, and vocabulary are presented in an intensive one‑term course that enables students to begin reading ancient texts.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for CLAS 201 or 202 may not take this course for credit. This course covers the same material as CLAS 201 and 202."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introductory Latin: Intensive Course",
+        "numericCode": "290",
+        "courseCode": "CLAS",
+        "description": "Latin grammar, syntax, and vocabulary are presented in an intensive one‑term course that enables students to begin reading ancient texts.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for CLAS 203 or 204 may not take this course for credit. This course covers the same material as CLAS 203 and 204."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Selected Topics in Classics",
+        "numericCode": "298",
+        "courseCode": "CLAS",
+        "description": "",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Selected Topics in Classics",
+        "numericCode": "299",
+        "courseCode": "CLAS",
+        "description": "Specific topics for these courses, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Greek Epic Poetry",
+        "numericCode": "321",
+        "courseCode": "CLAS",
+        "description": "This course provides an in‑depth study of Greek epic poetry from the Archaic through to the Hellenistic period. The primary focus is on early Hexameter poetry (Homer, Hesiod, and the Homeric Hymns), as well as the development of the genre in the Hellenistic period as represented by Callimachus and Apollonius of Rhodes. The texts are read in English translation.",
+        "prerequisite": "CLAS 211",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Latin Literature of the Augustan Period",
+        "numericCode": "322",
+        "courseCode": "CLAS",
+        "description": "This course provides an in‑depth study of the Golden Age of Latin poetry in the period of transition from Republic to Empire. Authors studied include Virgil, Horace, Propertius, and Ovid. The texts are read in English translation.",
+        "prerequisite": "CLAS 212",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Greek Drama",
+        "numericCode": "330",
+        "courseCode": "CLAS",
+        "description": "Designed as an introduction to Greek drama from the origins of tragedy in the sixth century to New Comedy, this course consists of a detailed study of selected plays of Aeschylus, Sophocles, Euripides, Aristophanes and Menander. Also con­sidered are Aristotle’s Poetics and production techniques of the Greek theatre. The texts are read in English translation. CLAS 341 (also listed as HIST 323) Greek History from Alexander to the Roman Conquest (3 credits) A political, social, economic, and cultural history of the Greek world from Alexander the Great to the Roman conquest of Greece in 146 BCE. CLAS 343 (also listed as HIST 327) History of the Roman Empire (3 credits) This course offers a political, social, economic, and cultural history of the Roman Empire from Augustus to the end of the Roman Empire in the West.",
+        "prerequisite": "CLAS 211",
+        "antirequisite": "Students who have received credit for CLAS 243 or HIST 226 or HIST 327 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Representations of Women in Ancient Greece and Rome",
+        "numericCode": "353",
+        "courseCode": "CLAS",
+        "description": "The ancient Greek and Roman representations of women are examined within their historical and cultural contexts. Focus is placed on the changing social roles, status and images of women in antiquity. Both visual and literary sources are used.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Archaeology of Archaic Greece",
+        "numericCode": "363",
+        "courseCode": "CLAS",
+        "description": "This course explores the cultural developments of the period (ca. 650 to 450 BCE) through its material remains.",
+        "prerequisite": "CLAS 260",
+        "antirequisite": "Students who have received credit for CLAS 263 or for this topic under a CLAS 298 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Classical Greek Art and Archaeology",
+        "numericCode": "364",
+        "courseCode": "CLAS",
+        "description": "An exploration of the monuments and artifacts of Classical Greece, ca. 480 to 380 BCE, this course concentrates on architecture, sculpture, vase painting, artistic production and methods of interpretation.",
+        "prerequisite": "CLAS 260",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Art and Archaeology of the Hellenistic Age",
+        "numericCode": "365",
+        "courseCode": "CLAS",
+        "description": "An investigation of the art and archaeology of the Hellenistic age from the death of Alexander in 323 to the mid‑first century BCE, this course examines architecture, sculpture, mosaics, wall painting and the minor arts; emphasis is on the Roman influence on Greek art of the period.",
+        "prerequisite": "CLAS 260",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Roman Art and Archaeology",
+        "numericCode": "369",
+        "courseCode": "CLAS",
+        "description": "An introduction to the artifacts and monuments of Roman civilization from the sixth century BC through the Empire (third century AD), this course examines artistic styles, techniques, function, iconography and interpretation.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Practicum in Archaeology",
+        "numericCode": "370",
+        "courseCode": "CLAS",
+        "description": "This course is designed to give the student on‑site fieldwork experience in either survey or excavation work. At least one month in the field is required.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate Ancient Greek I: Prose",
+        "numericCode": "383",
+        "courseCode": "CLAS",
+        "description": "In this course, students read prose works of authors such as Herodotus, Xenophon and Plato in the original Greek texts. Special attention is given to grammatical and syntactical structures of the language.",
+        "prerequisite": "CLAS 202 or 280",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate Ancient Greek II: Poetry",
+        "numericCode": "384",
+        "courseCode": "CLAS",
+        "description": "In this course, students read selected works of the ancient poets in the original Greek texts, with an emphasis on Homer and Euripides. Special attention is given to grammatical and syntactical structures of the language.",
+        "prerequisite": "CLAS 383",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate Latin I: Prose",
+        "numericCode": "391",
+        "courseCode": "CLAS",
+        "description": "Prose works of authors such as Caesar, Cornelius Nepos, Cicero and Pliny are read in the original Latin texts. Attention is given to further study of grammatical and syntactical structures of the language.",
+        "prerequisite": "CLAS 204 or 290",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate Latin II: Poetry",
+        "numericCode": "392",
+        "courseCode": "CLAS",
+        "description": "Selected works of the Roman poets are read in the original Latin texts, with emphasis on Catullus, Ovid, Martial and Petronius. Attention is given to further study of grammatical and syntactical structures of the language.",
+        "prerequisite": "CLAS 391",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Selected Topics in Classics",
+        "numericCode": "398",
+        "courseCode": "CLAS",
+        "description": "",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Selected Topics in Classics",
+        "numericCode": "399",
+        "courseCode": "CLAS",
+        "description": "Specific topics for these courses, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Ancient Greek I: Prose",
+        "numericCode": "410",
+        "courseCode": "CLAS",
+        "description": "Works of the Greek historians, philosophers and orators are studied in depth in the original Greek texts. While authors read vary from year to year, the primary focus is on Herodotus, Thucydides, Plato or Demosthenes. Advanced issues of grammar and syntax in addition to textual constitution, as well as broader issues of historical and literary importance, are discussed.",
+        "prerequisite": "CLAS 384",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Ancient Greek II: Poetry",
+        "numericCode": "411",
+        "courseCode": "CLAS",
+        "description": "Works of Greek epic, lyric or dramatic poetry are studied in depth in the original Greek texts. While authors read vary from year to year, the primary focus is on Homer, Aeschylus, Sophocles, Euripides or Pindar. Advanced issues of grammar and syntax in addition to textual constitution, as well as broader issues of historical and literary importance, are discussed.",
+        "prerequisite": "CLAS 410",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Latin I: Prose",
+        "numericCode": "420",
+        "courseCode": "CLAS",
+        "description": "Works of the Roman historians, philosophers and orators are studied in depth in the original Latin texts. While authors read vary from year to year, the primary focus is on Cicero, Sallust, Livy or Tacitus. Advanced issues of grammar and syntax in addition to textual constitution, as well as broader issues of historical and literary importance, are discussed.",
+        "prerequisite": "CLAS 392",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Latin II: Poetry",
+        "numericCode": "421",
+        "courseCode": "CLAS",
+        "description": "Works of the Roman poets are studied in depth in the original Latin texts. While authors read vary from year to year, the primary focus is on Virgil, Ovid, Horace, Juvenal or Lucretius. Advanced issues of grammar and syntax in addition to textual constitution, as well as broader issues of historical and literary importance, are discussed.",
+        "prerequisite": "CLAS 420",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Ancient Pottery: History, Analysis, and Interpretation",
+        "numericCode": "460",
+        "courseCode": "CLAS",
+        "description": "This course introduces students to the most common archaeological artifact, pottery. It addresses the technology and history of Greek and Roman ceramic wares, and uses a hands‑on approach to instruct students in strategies for extracting information from pottery sherds.",
+        "prerequisite": "CLAS 260 and completion of 6 credits at the 300‑level in Archaeology",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Tutorial",
+        "numericCode": "480",
+        "courseCode": "CLAS",
+        "description": "This course provides students with the opportunity to study a topic of individual interest under the guidance of a faculty member.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Honours Thesis",
+        "numericCode": "490",
+        "courseCode": "CLAS",
+        "description": "The student works with an individual faculty member in a particular area of archaeology, history or philology to produce an extensive research paper.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Topics in Classics",
+        "numericCode": "498",
+        "courseCode": "CLAS",
+        "description": "",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Topics in Classics",
+        "numericCode": "499",
+        "courseCode": "CLAS",
+        "description": "Specific topics for these courses, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule. Arabic (Modern Standard) THE DEPARTMENT RESERVES THE RIGHT TO TRANSFER A STUDENT TO A HIGHER‑LEVEL LANGUAGE COURSE IF IT IS DEEMED THAT THE COURSE FOR WHICH THE STUDENT HAS REGISTERED IS NOT APPROPRIATE FOR THE EXTENT OF HIS OR HER KNOWLEDGE OF THE LANGUAGE.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Modern Standard Arabic I",
+        "numericCode": "200",
+        "courseCode": "MARA",
+        "description": "This course provides an intensive introduction to the basic elements of Modern Standard Arabic for the student with no knowledge of the language. Instruction addresses all the language competencies of Modern Standard Arabic.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for MARA 203 or 205 or 207 or heritage speakers or students with knowledge of the Arabic script may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Modern Standard Arabic for Heritage Speakers I",
+        "numericCode": "203",
+        "courseCode": "MARA",
+        "description": "This course provides an introduction to the basic elements of Modern Standard Arabic for students with basic or limited knowledge of the language. It is designed for heritage speakers with no reading and writing skills in Modern Standard Arabic but with knowledge of dialect vocabulary and oral skills. The course is also for non‑heritage students who know the Arabic script but have never studied the Arabic language.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for this topic under a MARA 298 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Modern Standard Arabic II",
+        "numericCode": "206",
+        "courseCode": "MARA",
+        "description": "This course continues the introduction to the basic elements of Modern Standard Arabic. Students practise conversation skills on basic general topics.",
+        "prerequisite": "MARA 200 or 203 or equivalent",
+        "antirequisite": "Students who have received credit for MARA 207 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Modern Standard Arabic for Heritage Speakers II",
+        "numericCode": "207",
+        "courseCode": "MARA",
+        "description": "This course continues the introduction to the basic elements of Modern Standard Arabic. Students practise conversation skills through basic general topics. This course is designed for Arabic heritage speakers who have completed MARA 203 and/or learners who have basic introductory Arabic competence.",
+        "prerequisite": "MARA 203 or permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate Modern Standard Arabic I",
+        "numericCode": "240",
+        "courseCode": "MARA",
+        "description": "This course provides a review of the basic elements of Modern Standard Arabic and continues to develop the four language skills within their cultural context. Students prepare brief essays and oral presentations.",
+        "prerequisite": "MARA 206 or 207 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate Modern Standard Arabic II",
+        "numericCode": "250",
+        "courseCode": "MARA",
+        "description": "This course is a continuation of MARA 240. It prepares intermediate language students in diverse aspects of reading, writing, and conversation. In addition to improving listening comprehension and speaking skills, this course places increased emphasis on reading and writing.",
+        "prerequisite": "MARA 240 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Arabic",
+        "numericCode": "301",
+        "courseCode": "MARA",
+        "description": "This course builds upon the student’s foundation in the Arabic language. Students learn new grammatical structures and expand their vocabulary, while reviewing the grammatical structures acquired previously. Instruction builds particularly on the student’s ability to respond to the works studied with advanced writing and oral strategies.",
+        "prerequisite": "MARA 250 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Arabic for Business",
+        "numericCode": "308",
+        "courseCode": "MARA",
+        "description": "This course is designed to give intermediate and advanced students a solid foundation in business vocabulary, correspondence, and basic business practices, as well as the cultural concepts necessary to enable them to express themselves in the Arabic‑speaking business world.",
+        "prerequisite": "MARA 250 previously or concurrently",
+        "antirequisite": "Students who have received credit for this topic under a MARA 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to the Literature of the Arab World",
+        "numericCode": "310",
+        "courseCode": "MARA",
+        "description": "This course provides an introduction to the works of some of the major writers of contemporary Arabic culture. The course is taught in English and readings are in English translation.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Modern Arabic Fiction",
+        "numericCode": "320",
+        "courseCode": "MARA",
+        "description": "This course examines key developments in Arabic fiction related to the contemporary Arabic‑speaking world with the aim of highlighting the distinctive texture of its experiences and identities. The chosen texts cover a wide range of topics and convey the complex and rich cultural diversity of the Arab World. The course is taught in English and knowledge of Arabic is not required.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Culture and Civilization of the Arab World: The Golden Age",
+        "numericCode": "365",
+        "courseCode": "MARA",
+        "description": "This course provides an overview of the cultural history of the Arab world with an emphasis on the “Golden Age” (eighth to 13th century). Special attention is given to some topics at the core of this period, namely the intellectual dynamics, sciences and arts. The Arab civilization is put into the political, social and religious contexts that allowed it to emerge and flourish. This course is taught in English and no prior knowledge of Arabic is required.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for MARA 365 under a different title may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Culture and Civilization of the Arab World: The Modern Age",
+        "numericCode": "367",
+        "courseCode": "MARA",
+        "description": "This course presents a comprehensive survey of modern Arab culture, from the “Nahda” or “Revival” of the late‑19th and early‑20th to the 21st century. It discusses issues necessary to understand the modern Arab world including media and cinema, art, architecture, folklore, and food. The roles played by various minorities and the Arab youth are also studied. This course is taught in English and no knowledge of Arabic is required.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Special Topics in Arabic Language and Culture",
+        "numericCode": "398",
+        "courseCode": "MARA",
+        "description": "Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Arabic Women Writers",
+        "numericCode": "450",
+        "courseCode": "MARA",
+        "description": "This course presents a detailed analysis of a selection of works of modern fiction, non‑fiction, and poetry by female Arab writers. It explores modern Arabic women’s writing in relation to Arabic literary criticism and feminist theory. The majority of the course is devoted to analyzing texts originally written in Arabic but significant works by Arab women written in French and English are also discussed. This course is taught in English and no prior knowledge of Arabic is required. Advanced‑level students — i.e. students placed at the 250 level or higher in Arabic language courses — must do the readings and/or submit their work in Arabic.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for this topic under an ENGL 398 or MARA 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Tutorial",
+        "numericCode": "480",
+        "courseCode": "MARA",
+        "description": "This course provides students with the opportunity to study a topic of individual interest under the guidance of a faculty member. Chinese (Modern) THE DEPARTMENT RESERVES THE RIGHT TO TRANSFER A STUDENT TO A HIGHER‑LEVEL LANGUAGE COURSE IF IT IS DEEMED THAT THE COURSE FOR WHICH THE STUDENT HAS REGISTERED IS NOT APPROPRIATE FOR THE EXTENT OF HIS OR HER KNOWLEDGE OF THE LANGUAGE.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Modern Chinese I",
+        "numericCode": "200",
+        "courseCode": "MCHI",
+        "description": "This course provides an intensive introduction to the basic elements of Chinese for the student with no knowledge of the language. Emphasis is on basic grammatical concepts, listening comprehension, and sound reproduction. Approximately 300 characters are studied.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for MCHI 205 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Modern Chinese II",
+        "numericCode": "206",
+        "courseCode": "MCHI",
+        "description": "This course continues the introduction to the basic elements of Chinese, adding approximately 300 further characters.",
+        "prerequisite": "MCHI 200",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate Modern Chinese I",
+        "numericCode": "240",
+        "courseCode": "MCHI",
+        "description": "The aim of this course is to consolidate the knowledge acquired in MCHI 200 and 206 and pursue communication skills on basic general topics in all competencies of the language, adding approximately 300 further characters.",
+        "prerequisite": "MCHI 206 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate Modern Chinese II",
+        "numericCode": "250",
+        "courseCode": "MCHI",
+        "description": "This course is a continuation of MCHI 240. It prepares intermediate language students in diverse aspects of reading, writing, and conversation. In addition to improving listening comprehension and speaking skills, this course places increased emphasis on reading and writing.",
+        "prerequisite": "MCHI 240 or equivalent",
+        "antirequisite": "Students who have received credit for this topic under an MCHI 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Translation",
+        "numericCode": "306",
+        "courseCode": "MCHI",
+        "description": "The emphasis of this course is placed on advanced grammar for the purposes of writing and translation.",
+        "prerequisite": "MCHI 240",
+        "antirequisite": "Students who have received credit for this topic under an MCHI 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Chinese for Business",
+        "numericCode": "308",
+        "courseCode": "MCHI",
+        "description": "This course provides students with marketable skills including linguistic competence, cross‑cultural proficiency, and knowledge about business in China across a variety of fields.",
+        "prerequisite": "MCHI 240",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Modern Chinese Literature",
+        "numericCode": "310",
+        "courseCode": "MCHI",
+        "description": "This course provides an introduction to the works of some of the major writers of contemporary Chinese culture. The course is taught in English and reading materials are in English translation.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Classical Chinese Literature",
+        "numericCode": "311",
+        "courseCode": "MCHI",
+        "description": "Taught in English, this course introduces classical Chinese literature from 1500 BCE to the end of the 19th century in its historical and cultural setting. Covering the four major literary genres of poetry, prose, drama and fiction, students learn both key Chinese aesthetic concepts and Western critical theory, with a view to encouraging cross‑ and intercultural interpretations. Major works are read in English translation.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for this topic under an MCHI 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Chinese Cultural Traditions",
+        "numericCode": "365",
+        "courseCode": "MCHI",
+        "description": "This course is an introduction to the formation and traditions of Chinese culture. Topics may include Confucian and Taoist philosophy, literature, and the arts. This course is taught in English.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for this topic under an MCHI 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Chinese Visual Culture",
+        "numericCode": "366",
+        "courseCode": "MCHI",
+        "description": "Taught in English, this course introduces students to the traditions and achievements of Chinese visual culture. Employing contemporary critical approaches, students explore both mass and high cultures, with a primary focus on the development of Chinese painting from the 10th century to the present, with an emphasis on the interpretation of images.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for this topic under an MCHI 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Special Topics in Chinese Language and Culture",
+        "numericCode": "398",
+        "courseCode": "MCHI",
+        "description": "Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Special Topics in Chinese Language and Culture",
+        "numericCode": "399",
+        "courseCode": "MCHI",
+        "description": "Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Tutorial",
+        "numericCode": "480",
+        "courseCode": "MCHI",
+        "description": "This course provides students with the opportunity to study a topic of individual interest under the guidance of a faculty member. THE DEPARTMENT RESERVES THE RIGHT TO TRANSFER A STUDENT TO A HIGHER‑LEVEL LANGUAGE COURSE IF IT IS DEEMED THAT THE COURSE FOR WHICH THE STUDENT HAS REGISTERED IS NOT APPROPRIATE FOR THE EXTENT OF HIS OR HER KNOWLEDGE OF THE LANGUAGE.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introductory German: Intensive Course",
+        "numericCode": "200",
+        "courseCode": "GERM",
+        "description": "This course provides a comprehensive introduction to most of the basic elements of the German language for the student with no knowledge of German. Practice is provided through short readings, conversation, composition, and lab work.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for GERM 201, 202, or equivalent may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introductory German I",
+        "numericCode": "201",
+        "courseCode": "GERM",
+        "description": "This course provides an introduction to the elements of the German language for the student with no knowledge of German. Practice is provided through short readings, conversation, composition, and lab work.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for GERM 200 or equivalent may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introductory German II",
+        "numericCode": "202",
+        "courseCode": "GERM",
+        "description": "This course is a continuation of GERM 201 and completes the study of the basic elements of the German language. Practice is provided through short readings, conversation, composition, and lab work.",
+        "prerequisite": "GERM 201 or equivalent",
+        "antirequisite": "Students who have received credit for GERM 200 or equivalent may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to German Culture",
+        "numericCode": "230",
+        "courseCode": "GERM",
+        "description": "This course offers a panoramic study of the major components of the culture of German‑speaking countries from the Middle Ages to contemporary times. Attention is given to these countries’ artistic, social, political, and economic life. This course is taught in English.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "German Literature in Translation",
+        "numericCode": "231",
+        "courseCode": "GERM",
+        "description": "This course focuses on reading and discussion of 20th‑century literary works and films from Germany, Austria, and Switzerland. Works translated from German are used. This course is taught in English, but advanced German students are encouraged to read the texts in German.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate German: Intensive Course",
+        "numericCode": "240",
+        "courseCode": "GERM",
+        "description": "This course provides a review of German grammar in a single term and furnishes additional details not dealt with in the introductory courses. Practice is provided through readings, discussions, and composition.",
+        "prerequisite": "GERM 200 or 202",
+        "antirequisite": "Students who have received credit for GERM 241, 242, or equivalent may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate German I",
+        "numericCode": "241",
+        "courseCode": "GERM",
+        "description": "This course provides a review of German grammar and deals with additional details not covered in the introductory courses. Practice is provided through short readings, discussions, and composition.",
+        "prerequisite": "GERM 200 or 202",
+        "antirequisite": "Students who have received credit for GERM 240 or equivalent may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate German II",
+        "numericCode": "242",
+        "courseCode": "GERM",
+        "description": "This course is a continuation of GERM 241. It completes the review of the grammar and includes additional details not covered in the introductory courses. Practice is provided through short readings, discussions, and composition.",
+        "prerequisite": "GERM 241 or equivalent",
+        "antirequisite": "Students who have received credit for GERM 240 or equivalent may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "German for Reading Knowledge",
+        "numericCode": "260",
+        "courseCode": "GERM",
+        "description": "This course introduces the student to reading strategies, grammar, resources, and basic vocabulary and leads to a second‑year reading knowledge of German in 13 weeks. This course is taught in English.",
+        "prerequisite": "",
+        "antirequisite": "Students registered in the German Minor program may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Selected Topics in German",
+        "numericCode": "298",
+        "courseCode": "GERM",
+        "description": "Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Grammar and Composition I",
+        "numericCode": "301",
+        "courseCode": "GERM",
+        "description": "This course is designed to help students understand advanced aspects of German grammar and to provide practice in the correct and effective writing of German.",
+        "prerequisite": "GERM 240 or 242 or permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Grammar and Composition II",
+        "numericCode": "302",
+        "courseCode": "GERM",
+        "description": "This course continues the study of advanced aspects of German grammar and provides practice in the correct and effective writing of German by means of composition such as the summary, description, narration, argumentation, and essay.",
+        "prerequisite": "GERM 301",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Conversational German",
+        "numericCode": "305",
+        "courseCode": "GERM",
+        "description": "This course is offered to non‑native speakers of German. Its main goal is for students to improve their oral proficiency in German. This course aims to increase students’ competence levels in listening, reading, and writing.",
+        "prerequisite": "GERM 240 or 242 or equivalent",
+        "antirequisite": "Students who have received credit for GERM 270 or 370 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Translation",
+        "numericCode": "306",
+        "courseCode": "GERM",
+        "description": "This course examines German and English grammar in a comparative context in order to provide a basis for translation between the two languages. It also aims to develop lexical and semantic knowledge of the German language through analysis of textual materials, with special focus on words and idiomatic expressions that are essential to clear and effective communication. Students translate short texts from a variety of fields, primarily from English to German.",
+        "prerequisite": "GERM 240 or 242",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Translation Practice",
+        "numericCode": "307",
+        "courseCode": "GERM",
+        "description": "This course continues the examination of German and English grammar in a practical context as a basis for translation between the two languages. It also enhances student lexical and semantic knowledge of the German language through direct, practical experience in translation. Students improve their vocabulary and linguistic accuracy by exploring the range of meanings associated with particular structures and idiomatic expressions. Translation is primarily from English to German.",
+        "prerequisite": "GERM 306",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "German for Business",
+        "numericCode": "308",
+        "courseCode": "GERM",
+        "description": "This course provides students with marketable skills including linguistic competence, cross‑cultural proficiency, and knowledge about business in Germany across a variety of fields.",
+        "prerequisite": "GERM 240 or 242 or equivalent",
+        "antirequisite": "Students who have received credit for this topic under a GERM 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Modern German Literature I",
+        "numericCode": "310",
+        "courseCode": "GERM",
+        "description": "This course provides a general overview of the major authors and trends of German literature from 1750 to 1900 within an historical context.",
+        "prerequisite": "GERM 301",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Modern German Literature II",
+        "numericCode": "311",
+        "courseCode": "GERM",
+        "description": "This course provides a general overview of the major authors and trends of German literature in the 20th century within an historical context.",
+        "prerequisite": "GERM 301",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Topics in the Culture of German‑Speaking Nations",
+        "numericCode": "361",
+        "courseCode": "GERM",
+        "description": "Topics vary from year to year. Possible topics include German film; literature of the Counter‑culture; Germany and the Holocaust; immigrant culture and its discourse; women’s writing; popular culture; Medieval Germany: kings, castles, and minstrels; cultural diversity in German‑speaking nations. Specific topics for this course are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "GERM 240 or 242",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Modern Germany",
+        "numericCode": "362",
+        "courseCode": "GERM",
+        "description": "This course gives an overview of the developments in Germany throughout the 20th century. The emphasis of the course may vary from year to year with such topics as Germany between World War I and II, the formative years after WWII and the development of East and West Germany, and the unified Germany. Materials to be studied include historical and topical documents, film, video, and web‑based resources.",
+        "prerequisite": "GERM 240 or 242",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Outreach Experience Practicum",
+        "numericCode": "375",
+        "courseCode": "GERM",
+        "description": "This course is designed to give the student practical experience related to German language and culture and/or German studies. It is designed to complement the student’s academic program with outreach to the larger community in the form of organizing an event, working at an internship in a German cultural or educational institution of Montreal or similar. Students develop an outreach plan in consultation with the Department and produce a final report of their experience.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Selected Topics in German",
+        "numericCode": "398",
+        "courseCode": "GERM",
+        "description": "Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule. GERM 410 Cyborgs, Robots and Automata in German Literature, Film and Video Games (3 credits) This course examines the figure of the android and explores representations of artificial beings in German literature, cinema, and video games. A focus is on issues of technology, art, gender, race, and class. Students receive insights into narrative constructions as well as ludology (including game history, design and reception) by exploring how video games challenge traditional models of understanding and approaching texts. The language of instruction is English, and no prior knowledge of the German language is required. Advanced‑level students — i.e. students placed at the 300 level or higher in German language courses — must do the readings and submit their work in German.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Of German Witches, Ghosts, Daemons and Vampires",
+        "numericCode": "420",
+        "courseCode": "GERM",
+        "description": "This course explores how the strange, the magical, the supernatural and the uncanny ( Das Unheimliche ) are constructed in German texts from 1500 to the present. This course surveys a wide array of texts (novels, short stories, historical documents, fairy tales, films as well as video games) that deal with the phenomena of witches, ghosts, daemons and vampires. The language of instruction is English, and no prior knowledge of the German language is required. Advanced‑level students — i.e. students placed at the 300 level or higher in German language courses — must do the readings and submit their work in German. GERM 440 Dandies, Flâneurs and Tricksters: Crossover Figures in Modernism and Pop Modernism (3 credits) This course introduces international literature and film, mainly from the 20th and 21st centuries with a strong focus on young German authors associated with Popliteratur . Works focus on the perspective of particular literary characters who challenge established boundaries or on allegories of crisis. In addition to becoming acquainted with theoretical texts, students explore contemporary German identity narratives and their deep roots in the metaphysical tradition. The language of instruction is English, and no prior knowledge of the German language is required. Advanced‑level students — i.e. students placed at the 300 level or higher in German language courses — must do the readings and submit their work in German.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for this course under an ENGL 398 or a GERM 498 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "German Women Writers Across the Ages",
+        "numericCode": "450",
+        "courseCode": "GERM",
+        "description": "This course investigates the changing literary and social roles of German women from the 18th to the 21st century. Selected read-ings of women’s literary and cultural productions will also illustrate the history of gender coding from the period of Empfindsamkeit to the fin de siècle . In addition to examining cultural artifacts, such as novels, plays, screen scripts, paintings and advertisements, the course also offers an insight into the Women’s movement (both in Eastern and Western Germany). An introduction to main concepts of gender theory provides the basis to analyze the variety of gender identities and representations. The language of instruction is English, and no prior knowledge of the German language is required. Advanced‑level students — i.e. students placed at the 300 level or higher in German language courses — must do the readings and submit their work in German.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Tutorial I",
+        "numericCode": "480",
+        "courseCode": "GERM",
+        "description": "This course offers guided readings in German language and/or literature, to meet the student’s individual needs. At least one major written assignment is required.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Tutorial II",
+        "numericCode": "481",
+        "courseCode": "GERM",
+        "description": "This course offers guided readings in German language and/or literature, to meet the student’s individual needs. At least one major written assignment is required.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Tutorial III",
+        "numericCode": "482",
+        "courseCode": "GERM",
+        "description": "This course offers guided readings in German language and/or literature, to meet the student’s individual needs. At least one major written assignment is required.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Tutorial IV",
+        "numericCode": "483",
+        "courseCode": "GERM",
+        "description": "This course offers guided readings in German language and/or literature, to meet the student’s individual needs. At least one major written assignment is required.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Honours Essay Tutorial",
+        "numericCode": "490",
+        "courseCode": "GERM",
+        "description": "This course provides the honours candidate with the opportunity to prepare an extensive research essay, on a topic to be chosen by the candidate with the approval of a supervising member of the faculty of the German section.",
+        "prerequisite": "Honours status",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Topics in German",
+        "numericCode": "498",
+        "courseCode": "GERM",
+        "description": "Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule. Italian THE DEPARTMENT RESERVES THE RIGHT TO TRANSFER A STUDENT TO A HIGHER‑LEVEL LANGUAGE COURSE IF IT IS DEEMED THAT THE COURSE FOR WHICH THE STUDENT HAS REGISTERED IS NOT APPROPRIATE FOR THE EXTENT OF HIS OR HER KNOWLEDGE OF THE LANGUAGE.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introductory Italian: Intensive Course",
+        "numericCode": "200",
+        "courseCode": "ITAL",
+        "description": "This course provides a comprehensive introduction to the Italian language, completing the fundamental aspects of grammar in one term.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for ITAL 201 or 202 or 210 or 211 or 253 or 254 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introductory Italian I",
+        "numericCode": "201",
+        "courseCode": "ITAL",
+        "description": "This course provides an introduction to the basic elements of Italian for the student with no knowledge of the language.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for ITAL 200 or 210 or 211 or 253 or 254 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introductory Italian II",
+        "numericCode": "202",
+        "courseCode": "ITAL",
+        "description": "The objective is to complete the study of fundamental aspects of Italian grammar.",
+        "prerequisite": "ITAL 201 or equivalent",
+        "antirequisite": "Students who have received credit for ITAL 200 or 210 or 211 or 253 or 254 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Italian for Heritage Speakers I",
+        "numericCode": "210",
+        "courseCode": "ITAL",
+        "description": "This course provides an introduction to the basic elements of the Italian language and is designed for heritage speakers of Italian and/or students with some previous passive knowledge or exposure to the language, who wish to strengthen their linguistic knowledge of and skills in Italian. Emphasis is placed on grammar, reading and writing, vocabulary development, and exposure to the language and culture of Italian communities. Both oral and written expression are emphasized.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": "Students who have received credit for ITAL 200 or 201 or 202 or 253 or 254, or for this topic under an ITAL 298 number, may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Italian for Heritage Speakers II",
+        "numericCode": "211",
+        "courseCode": "ITAL",
+        "description": "This course is a continuation of ITAL 210 designed for heritage speakers of Italian and/or students with some previous passive knowledge or exposure to the language, who wish to strengthen their linguistic knowledge of and skills in Italian. Emphasis is placed on grammar, reading and writing, vocabulary development, and exposure to the language and culture of Italian communities. Both oral and written expression are emphasized.",
+        "prerequisite": "ITAL 210 or permission of the Department",
+        "antirequisite": "Students who have received credit for ITAL 200 or 201 or 202 or 253 or 254, or for this topic under an ITAL 298 number, may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate Italian: Intensive Course",
+        "numericCode": "240",
+        "courseCode": "ITAL",
+        "description": "This course provides a review of Italian grammar in one term and deals with additional details not covered in the introductory course. Practice is provided through readings, discussions, and composition.",
+        "prerequisite": "ITAL 200 or 202 or 211 or equivalent",
+        "antirequisite": "Students who have received credit for ITAL 241 or 242 or 253 or 254 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate Italian I",
+        "numericCode": "241",
+        "courseCode": "ITAL",
+        "description": "This course provides a review of Italian grammar and deals with additional details not covered in the introductory courses. Practice is provided through short readings, discussions, and composition.",
+        "prerequisite": "ITAL 200 or 202 or 211 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate Italian II",
+        "numericCode": "242",
+        "courseCode": "ITAL",
+        "description": "This course is a continuation of ITAL 241. It completes the review of the grammar and provides additional details not covered in the introductory courses. Practice is provided through short readings, discussions, and composition.",
+        "prerequisite": "ITAL 241 or equivalent",
+        "antirequisite": "Students who have received credit for ITAL 240 or 253 or 254 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Selected Topics in Italian",
+        "numericCode": "298",
+        "courseCode": "ITAL",
+        "description": "",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Selected Topics in Italian",
+        "numericCode": "299",
+        "courseCode": "ITAL",
+        "description": "Specific topics for these courses, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Grammar and Writing I",
+        "numericCode": "301",
+        "courseCode": "ITAL",
+        "description": "This course provides students with a thorough grounding in the essentials of Italian grammar, while revising and improving morpho‑syntactic structures and syntax, as well as developing reading comprehension techniques, commentary writing skills, acquiring competence in essay writing and developing oral and aural skills. Aspects of Italian history, culture, and contemporary life are also introduced through readings, listening materials, videos and films and through the use of online technologies.",
+        "prerequisite": "ITAL 240 or 242 or 254 or equivalent with a grade of C or higher",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Grammar and Writing II",
+        "numericCode": "302",
+        "courseCode": "ITAL",
+        "description": "This course continues to provide students with a thorough grounding in the fundamentals of Italian grammar. The course also focuses on using effective stylistic resources and formal conventions in writing, especially for essays and related texts. Aspects of Italian history, culture, and contemporary life are introduced through readings, listening materials, videos and films and through the use of online technologies.",
+        "prerequisite": "ITAL 301 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Academic Writing in Italian",
+        "numericCode": "303",
+        "courseCode": "ITAL",
+        "description": "This course offers a survey of the major rhetorical devices and methodological tools for the critical reading of literary and other texts, and for the production of academic essays in Italian. The course covers basic notions of narratology and rhetoric, as well as discourse analysis and critical thinking. Activities include close reading of texts and practical work in research and documentation, as well as the presentation of well‑organized, analytical prose.",
+        "prerequisite": "ITAL 240 or 242 or equivalent with a grade of C or higher",
+        "antirequisite": "Students who have received credit for this topic under an ITAL 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Communicative Strategies and Oral Communication",
+        "numericCode": "305",
+        "courseCode": "ITAL",
+        "description": "The main goal of this course is to improve students’ oral communication in Italian. The course also develops other language skills: listening, reading, and to some extent, writing.",
+        "prerequisite": "ITAL 240 or 242 or equivalent with a grade of C or higher",
+        "antirequisite": "Students who have received credit for this topic under an ITAL 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Translation",
+        "numericCode": "306",
+        "courseCode": "ITAL",
+        "description": "This course examines Italian and English grammar in a comparative context to provide a sound basis for translation between the two languages. It also aims to develop lexical and semantic knowledge of the Italian language through analysis of textual materials. Students translate short texts from a variety of fields such as literature, business, journalism, politics, and science. Translation is primarily from English to Italian.",
+        "prerequisite": "ITAL 240 or 242 or equivalent with a grade of C or higher",
+        "antirequisite": "Students who have received credit for ITAL 256 or 257, or for this topic under an ITAL 398 number, may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Translation Practice",
+        "numericCode": "307",
+        "courseCode": "ITAL",
+        "description": "This course is a continuation of ITAL 306. It deals with advanced problems and techniques of translation from Italian and into Italian.",
+        "prerequisite": "ITAL 306 or equivalent",
+        "antirequisite": "Students who have received credit for ITAL 256 or 257, or for this topic under an ITAL 398 number, may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Italian for Business",
+        "numericCode": "308",
+        "courseCode": "ITAL",
+        "description": "This course is designed to give intermediate‑advanced level students a solid foundation in business vocabulary, correspondence, and basic business practices, as well as the cultural concepts necessary to enable them to express themselves in the Italian‑speaking business world.",
+        "prerequisite": "ITAL 240 or 242 or 254 or equivalent with a grade of C or higher",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Survey of Italian Literature I",
+        "numericCode": "310",
+        "courseCode": "ITAL",
+        "description": "This course examines the major authors and trends of Italian literature from its origins to the end of the 16th century.",
+        "prerequisite": "ITAL 240 or 242 or 254 or equivalent with a grade of C or higher",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Survey of Italian Literature II",
+        "numericCode": "311",
+        "courseCode": "ITAL",
+        "description": "This course examines the major authors and trends of Italian literature from the beginning of the 17th century to the present.",
+        "prerequisite": "ITAL 240 or 242 or 254 or equivalent with a grade of C or higher",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Dramatic Representations in Italian Cinema and Culture",
+        "numericCode": "351",
+        "courseCode": "ITAL",
+        "description": "This course offers students the opportunity to understand contemporary Italian society through the works of filmmakers who examine the cultural, political and working environments of present‑day Italy. The films are grouped thematically, covering politics, media, social changes, organized crime, terrorism, the workplace and the new challenges facing the younger generation of Italians. The language of instruction is English, and no prior knowledge of the Italian language is required. Advanced level students — i.e. students placed at the 300 level or higher in Italian — must hand in all their work in Italian.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for this topic under an ITAL 398 or FMST 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Italy and Its Languages",
+        "numericCode": "361",
+        "courseCode": "ITAL",
+        "description": "This course provides an overview of the linguistic situation in present‑day Italy, with attention to the structure of the Italian language and its dialects; regional, social, and communicative variations; linguistic minorities in Italy, and linguistic legislation in Italy. The language of instruction is English, and no prior knowledge of the Italian language is required. Advanced level students — i.e. students placed at the 300 level or higher in Italian — must hand in all their work in Italian.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Italian Civilization: Italy from Dante to Today",
+        "numericCode": "365",
+        "courseCode": "ITAL",
+        "description": "This course aims at familiarizing students with the crucial moments of Italian history and the major issues characterizing Italian culture. The selected topics/artists/authors offer a unique opportunity to analyze and discuss issues related to the historical, political, and socio‑cultural evolution of Italy from the Middle Ages to the present day.",
+        "prerequisite": "ITAL 240 or 242 with a grade of C or higher",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Cultural Views of Italy",
+        "numericCode": "367",
+        "courseCode": "ITAL",
+        "description": "This course focuses on politics, literature, and the arts in Italy from Dante and the Italian Renaissance to the present. The language of instruction is English, and no prior knowledge of the Italian language is required. Advanced‑level students — i.e. students placed at the 300 level or higher in Italian language courses — must submit their work in Italian.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for this topic under an ITAL 298 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Selected Topics in Italian",
+        "numericCode": "398",
+        "courseCode": "ITAL",
+        "description": "",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Selected Topics in Italian",
+        "numericCode": "399",
+        "courseCode": "ITAL",
+        "description": "Specific topics for these courses, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Dante and the Middle Ages",
+        "numericCode": "415",
+        "courseCode": "ITAL",
+        "description": "This course examines a selection of the works of Dante Alighieri and his contribution to the formation of the Italian language, literature and culture. It offers an introduction to Medieval literature and culture (including its historical, social and political context) by analyzing passages from the Vita Nuova , the Convivio , and the Divina Commedia .",
+        "prerequisite": "ITAL 301",
+        "antirequisite": "Students who have received credit for ITAL 416 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Petrarch and Boccaccio",
+        "numericCode": "422",
+        "courseCode": "ITAL",
+        "description": "This course examines the origin and evolution of the early Italian novella. Petrarch and Boccaccio are studied as forerunners of humanism; emphasis is placed on Petrarch’s Canzoniere and Boccaccio’s Decameron .",
+        "prerequisite": "ITAL 301 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Italian Humanism and the Renaissance",
+        "numericCode": "427",
+        "courseCode": "ITAL",
+        "description": "This course deals with the rise of humanism and analyzes the Renaissance as a historical and cultural concept. References are made to the social, historical, and artistic trends in 15th‑ and early‑16th‑century Italy. Emphasis is on representative works of Alberti, Valla, Leonardo da Vinci, Pico della Mirandola and Machiavelli.",
+        "prerequisite": "ITAL 301 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "The Epic Tradition in Italy",
+        "numericCode": "434",
+        "courseCode": "ITAL",
+        "description": "This course explores the nature and evolution of the chivalresque genre in Italy, mainly within the context of the 15th and 16th centuries, and with special emphasis on Ariosto and Tasso.",
+        "prerequisite": "ITAL 301 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Romanticism in Italy",
+        "numericCode": "439",
+        "courseCode": "ITAL",
+        "description": "This course examines the concept of Romanticism in Italy and its relation to Risorgimento. Emphasis is on representative works of Foscolo, Manzoni, and Leopardi. References are made to the role of leading political figures of the period.",
+        "prerequisite": "ITAL 301 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Cultural Expressions in Italy from Neo‑Realism to the Present",
+        "numericCode": "446",
+        "courseCode": "ITAL",
+        "description": "This course examines the debate on Neo‑realism and looks at literary and cinematographic expressions. It also deals with the Neo‑avanguardia movement and questions of gender and post‑modernism. Emphasis is on Calvino, Sciascia, Fellini, Antonioni, and Eco. References are also made to the social and political reality of contemporary Italy.",
+        "prerequisite": "ITAL 301 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Feminist Discourse in Italy",
+        "numericCode": "450",
+        "courseCode": "ITAL",
+        "description": "This course studies the question of gender as a concept and traces its presence within the Italian cultural tradition from the Renaissance to the present. Representative works of figures such as Franco, Marinelli, de Fonseca Pimentel, Deledda, Aleramo, and Maraini are studied.",
+        "prerequisite": "ITAL 301 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "The Contemporary Italian Novel",
+        "numericCode": "452",
+        "courseCode": "ITAL",
+        "description": "This course offers a survey of the contemporary Italian novel, from the end of the 1980s to the present, while introducing the socio‑historical context in which different trends arise and develop. Authors are chosen to provide significant examples of the main trends in Italian fiction writing.",
+        "prerequisite": "ITAL 301",
+        "antirequisite": "Students who have received credit for this topic under an ITAL 498 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "History of the Italian Language",
+        "numericCode": "461",
+        "courseCode": "ITAL",
+        "description": "This course examines the social, cultural and linguistic changes from the formation of the Italian vernaculars to the present day. This course also studies the most representative texts illustrating different medieval, Renaissance, and modern theories on the Italian language (Dante, Pietro Bembo, Alessandro Manzoni, and Pier Paolo Pasolini, for example).",
+        "prerequisite": "ITAL 301",
+        "antirequisite": "Students who have received credit for ITAL 461 under a different title or for ITAL 462 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Language, Politics and Ideology",
+        "numericCode": "463",
+        "courseCode": "ITAL",
+        "description": "This course examines the ideological and political appropriations of Italian as it developed into a standard and unified language from Dante to the present. It explores what motivated political powers to promote a specific type of language or a specific canon of Italian authors. Through a series of thematically arranged case studies, students are encouraged to reflect on the importance of language to understand social and cultural changes in Italy. Course topics may include language and cultural identity, language and politics, and language and gender.",
+        "prerequisite": "ITAL 301",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Tutorial I",
+        "numericCode": "480",
+        "courseCode": "ITAL",
+        "description": "This course consists of guided readings in Italian language and/or literature, and is designed to meet the individual needs of advanced students. Assignments include written and oral criticism of the works studied.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Tutorial II",
+        "numericCode": "481",
+        "courseCode": "ITAL",
+        "description": "This course consists of guided readings in Italian language and/or literature, and is designed to meet the individual needs of advanced students. Assignments include written and oral criticism of the works studied.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Tutorial III",
+        "numericCode": "482",
+        "courseCode": "ITAL",
+        "description": "This course consists of guided readings in Italian language and/or literature, and is designed to meet the individual needs of advanced students. Assignments include written and oral criticism of the works studied.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Tutorial IV",
+        "numericCode": "483",
+        "courseCode": "ITAL",
+        "description": "This course consists of guided readings in Italian language and/or literature, and is designed to meet the individual needs of advanced students. Assignments include written and oral criticism of the works studied.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Honours Essay Tutorial",
+        "numericCode": "490",
+        "courseCode": "ITAL",
+        "description": "This course provides the honours candidate with the opportunity to prepare an extensive research essay, on a topic to be chosen by the candidate with the approval of a supervising member of the faculty of the Italian section.",
+        "prerequisite": "Honours status",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Topics in Italian",
+        "numericCode": "498",
+        "courseCode": "ITAL",
+        "description": "",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Topics in Italian",
+        "numericCode": "499",
+        "courseCode": "ITAL",
+        "description": "Specific topics for these courses, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule. Spanish THE DEPARTMENT RESERVES THE RIGHT TO TRANSFER A STUDENT TO A HIGHER‑LEVEL LANGUAGE COURSE IF IT IS DEEMED THAT THE COURSE FOR WHICH THE STUDENT HAS REGISTERED IS NOT APPROPRIATE FOR THE EXTENT OF HIS OR HER KNOWLEDGE OF THE LANGUAGE.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introductory Spanish: Intensive Course",
+        "numericCode": "200",
+        "courseCode": "SPAN",
+        "description": "This course provides a comprehensive introduction to the Spanish language, completing the fundamental aspects of grammar in one term.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for SPAN 201 or 202 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introductory Spanish I",
+        "numericCode": "201",
+        "courseCode": "SPAN",
+        "description": "This course provides an introduction to the basic elements of Spanish for the student with no knowledge of the language.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for SPAN 200 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introductory Spanish II",
+        "numericCode": "202",
+        "courseCode": "SPAN",
+        "description": "The objective of this course is to complete the study of fundamental aspects of Spanish grammar.",
+        "prerequisite": "SPAN 201 or equivalent",
+        "antirequisite": "Students who have received credit for SPAN 200 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate Spanish: Intensive Course",
+        "numericCode": "240",
+        "courseCode": "SPAN",
+        "description": "This course provides a review of Spanish grammar in a single term and furnishes additional details not dealt with in the introductory courses. Practice is provided through readings, discussions, and composition.",
+        "prerequisite": "SPAN 200 or 202 or equivalent",
+        "antirequisite": "Students who have received credit for SPAN 241 or 242 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate Spanish I",
+        "numericCode": "241",
+        "courseCode": "SPAN",
+        "description": "This course provides a review of Spanish grammar and deals with additional details not covered in the introductory courses. Practice is provided through short readings, discussions, and composition.",
+        "prerequisite": "SPAN 200 or 202 or equivalent",
+        "antirequisite": "Students who have received credit for SPAN 240 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Intermediate Spanish II",
+        "numericCode": "242",
+        "courseCode": "SPAN",
+        "description": "This course is a continuation of SPAN 241. It completes the review of the grammar and includes additional details not covered in the introductory courses. Practice is provided through short readings, discussions, and composition.",
+        "prerequisite": "SPAN 241 or equivalent",
+        "antirequisite": "Students who have received credit for SPAN 240 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Special Topics in Spanish",
+        "numericCode": "298",
+        "courseCode": "SPAN",
+        "description": "",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Special Topics in Spanish",
+        "numericCode": "299",
+        "courseCode": "SPAN",
+        "description": "Specific topics for these courses, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Grammar and the Process of Writing I",
+        "numericCode": "301",
+        "courseCode": "SPAN",
+        "description": "This course offers a practical analysis of the conventions that govern grammar, spelling, punctuation, and syntax in Peninsular and Latin‑American Spanish. It also focuses on the means of identifying, analyzing, and using effective stylistic resources in different forms of writing such as summaries, notes, journals, and short stories.",
+        "prerequisite": "SPAN 240 or 242 or equivalent with a grade of C or higher",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Grammar and the Process of Writing II",
+        "numericCode": "302",
+        "courseCode": "SPAN",
+        "description": "This course continues the practical analysis of grammar and focuses on using effective stylistic resources and formal conventions in writing, especially for essays and related texts.",
+        "prerequisite": "SPAN 301 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Critical Reading of Hispanic Texts",
+        "numericCode": "303",
+        "courseCode": "SPAN",
+        "description": "This course is offered to non‑native speakers of Spanish only. Its main goal is for students to improve their oral production in Spanish. This course also encourages improved levels of competence in the other language skills: listening, reading, and to some extent writing.",
+        "prerequisite": "SPAN 240 or 242 or equivalent with a grade of C or higher",
+        "antirequisite": "Students who have received credit for this topic under a SPAN 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Translation",
+        "numericCode": "306",
+        "courseCode": "SPAN",
+        "description": "This course examines Spanish and English grammar in a comparative context in order to provide a sound basis for translation between the two languages. It also aims to develop lexical and semantic knowledge of the Spanish language through analysis of textual materials. Students translate short texts from a variety of fields such as literature, business, journalism, politics, and science. Translation is primarily from English to Spanish (some reference to French is included).",
+        "prerequisite": "SPAN 240 or 242 or equivalent with a grade of C or higher",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Translation Practice",
+        "numericCode": "307",
+        "courseCode": "SPAN",
+        "description": "This course continues the examination of Spanish and English grammar in a practical context as a basis for translation between the two languages. It also enhances the students’ lexical and semantic knowledge of the Spanish language through direct, practical experience in translation. Students translate texts from a variety of fields, with a particular emphasis on business, finance, tourism, journalism, and the arts. Translation is primarily from English to Spanish (some reference to French is included).",
+        "prerequisite": "SPAN 306 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Spanish for Business",
+        "numericCode": "308",
+        "courseCode": "SPAN",
+        "description": "This course introduces students to the cultural manifestations of the nations of these regions within an historical framework. Emphasis is on the interaction between the events that shape the area, the wide variety of cultures that arose there, and the forms of artistic endeavour through which the peoples express themselves. Mexico, Cuba, and Colombia are given special importance; the history and culture of the Dominican Republic, Venezuela, Puerto Rico, and the Central American countries are also highlighted. Activities may include oral discussions and presentations, analysis of written and visual texts, use of relevant Internet resources, summaries, and brief essays.",
+        "prerequisite": "SPAN 240 or 242 or equivalent with a grade of C or higher",
+        "antirequisite": "Students registered in an Honours in Spanish, Hispanic Cultures and Literatures program may not take this course for program credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Cultures of the Southern Cone and the Andean Region",
+        "numericCode": "363",
+        "courseCode": "SPAN",
+        "description": "This course introduces students to the cultural achievements of the nations of the region within an historical framework. Emphasis is on the interaction between the events that shape the area, the wide variety of cultures that arose there, and the forms of artistic endeavour through which the many different peoples express themselves. Argentina, Peru, and Chile are given special importance; the history and culture of Uruguay, Ecuador, and Bolivia are also highlighted. Activities may include oral discussions and presentations, analysis of written and visual texts, use of relevant Internet resources, summaries, and brief essays.",
+        "prerequisite": "SPAN 240 or 242 or equivalent with a grade of C or higher",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "The History of Spanish Culture",
+        "numericCode": "365",
+        "courseCode": "SPAN",
+        "description": "This course examines important linguistic, literary, and artistic developments of Spanish culture as they relate to the invention, consolidation, and critique of a unique Spanish identity. Activities may include oral discussions and presentations, analysis of written and visual texts, use of relevant Internet resources, summaries, and brief essays.",
+        "prerequisite": "SPAN 240 or 242 or equivalent with a grade of C or higher",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Phonetics and Phonology of Spanish",
+        "numericCode": "371",
+        "courseCode": "SPAN",
+        "description": "Students in this course gain knowledge to describe the sound system of Spanish and to contrast it with English. Practical applications stemming from this course include: (a) gaining awareness and improving one’s Spanish pronunciation; (b) learning to efficiently perceive and describe different varieties of Spanish; and (c) learning to identify pronunciation problems of learners of Spanish as a foreign language.",
+        "prerequisite": "SPAN 301 or permission of the Department",
+        "antirequisite": "Students who have received credit for this topic under a SPAN 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Special Topics in Spanish",
+        "numericCode": "398",
+        "courseCode": "SPAN",
+        "description": "",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Special Topics in Spanish",
+        "numericCode": "399",
+        "courseCode": "SPAN",
+        "description": "Specific topics for these courses, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "From Orality to Literacy in Medieval Spain, 1100‑1500",
+        "numericCode": "406",
+        "courseCode": "SPAN",
+        "description": "This course examines the ways in which oral‑popular discourses are appropriated by the representatives of “official” culture, as well as how emerging institutions fashion their message around a nascent concern with Hispanic identity in works from the late period of Spain’s era of Reconquest. Topics of inquiry may include the social and political function of oral poetry, the importance of ritualistic cultural phenomena, the growing importance of vernacular literature, and the processes of canon formation.",
+        "prerequisite": "SPAN 303, 310",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Freedom and Containment in Spanish Golden Age Prose, 1550‑1700",
+        "numericCode": "411",
+        "courseCode": "SPAN",
+        "description": "This course carries out a comparative study of the rhetorical strategies of literary and extra‑literary representation in Golden Age Spain, and their role in the creation of an early modern subject of mass visual culture. Through close textual analysis and critical discussions of representative works by Spanish poets and playwrights such as Garcilaso, Lope, Góngora, Quevedo, Tirso, and Calderón, students examine a number of literary and theoretical topics. These may include the performative aspects of poetry, the literary uses of pictorial perspective, and the relationship between subjectivity and theatricality.",
+        "prerequisite": "SPAN 303, 310",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Towards Modernity and Liberalism in Spain, 1808‑1898",
+        "numericCode": "415",
+        "courseCode": "SPAN",
+        "description": "This course examines the debates that arose during Spain’s problematic transition towards cultural, political, and economic liberalism in the 19th century, from the outbreak of the Independence War against France until the fall of the Empire in the Americas. Content may vary from year to year and may include authors such as Zorrilla, Bécquer, Galdós, and Clarín. Topics may include competing visions of rationalism and Romanticism, the interplay of literary, scientific, and economic discourses, photography and new ways of seeing reality, and the relationship between the rise of the bourgeoisie and the reconceptualization of private space.",
+        "prerequisite": "SPAN 303 or equivalent",
+        "antirequisite": "Students who have received credit for SPAN 416 or 417 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Cultural Conflicts and Modernity in Spain, 1898‑1939",
+        "numericCode": "418",
+        "courseCode": "SPAN",
+        "description": "This course examines the cultural and ideological conflicts that took place in Spain between the fall of the Spanish Empire and the Civil War. Through close readings and critical discussions of works by authors such as Unamuno, Ortega, García Lorca, and Buñuel, students consider topics that may include the ethics of violence in cultural conflict, the relationship between culture and ideology, the role of emotions in the shaping of national identity, and the tension between humanism and technical progress.",
+        "prerequisite": "SPAN 303 or equivalent",
+        "antirequisite": "Students who have received credit for SPAN 419 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Dictatorship and Exile in Modern Spain, 1939‑1975",
+        "numericCode": "420",
+        "courseCode": "SPAN",
+        "description": "This course examines literary and cultural discourses in Spain during Franco’s dictatorship. Content may vary from year to year and may focus on the literature produced under the dictatorship or in exile. Through close readings and critical discussions of works by authors such as Bergamín, Erice, Aub, and Matute, students consider topics that may include the impact of censorship on cultural history, cultural hegemony and exile, reactionary ideologies of modernity, and the role of silence and fragmentary discourse against official constructions of the nation.",
+        "prerequisite": "SPAN 303 or equivalent",
+        "antirequisite": "Students who have received credit for SPAN 419 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Spain in Transition: 1960 to the Present",
+        "numericCode": "422",
+        "courseCode": "SPAN",
+        "description": "Through the study of representative literary and other cultural texts, as well as the critical debates of the era (such as those concerning industrialization, U.S. hegemony and feminism), this course examines the various phases in the development of a Spanish‑American consciousness towards modernity and cultural autonomy. Students study representative works by authors such as Martí, Gutiérrez Nájera, Darío, Lugones, and some women authors of the period. Students are introduced to the formulation of critical discourse by writing a series of short essays and delivering oral presentations.",
+        "prerequisite": "SPAN 303 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "The Spanish‑American “Boom” and its Predecessors, 1950‑1980",
+        "numericCode": "443",
+        "courseCode": "SPAN",
+        "description": "This course examines a selection of Spanish‑American novels and essays of the period between approximately 1950 and 1975, known as the Boom . Through close textual analysis and a study of critical debates, the course considers literary and extra‑literary issues representative of this period, including lo real maravilloso and magical realism as Latin‑American specificities, the relationship between history and fiction, and the debate between regionalism and cosmopolitism. Authors studied may include Carpentier, García Márquez, Puig and Allende.",
+        "prerequisite": "SPAN 303 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "The Short Narrative in Spain and Spanish America",
+        "numericCode": "450",
+        "courseCode": "SPAN",
+        "description": "From its beginnings as an independent genre in the 19th century to the most recent minifiction, this course examines the short story in light of different theories of narratology, specifically as relating to the short narrative. Texts are taken from representative authors from either or both Spain and Spanish America, within their cultural context. Students are introduced to the formulation of critical discourse through a series of short essays and an oral presentation; students also write their own short fiction.",
+        "prerequisite": "SPAN 303 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Dramatic Representations in Hispanic Cultures",
+        "numericCode": "451",
+        "courseCode": "SPAN",
+        "description": "This course introduces texts from different historical periods from various theoretical perspectives. Particular attention is given to theoretical perspectives pertinent to Spain and Spanish America. The function of gender in Hispanic discourse, representation of women, and strategies of expression in women writers are some of the topics that may be examined.",
+        "prerequisite": "SPAN 303 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Perspectives on the Teaching of Spanish",
+        "numericCode": "455",
+        "courseCode": "SPAN",
+        "description": ". This course provides students with basic knowledge of and structured practice in the principal approaches to the teaching of Spanish to speakers of other languages. Topics may include a selection of approaches to the teaching of Spanish, such as task‑based learning, communicative methods, process writing, grammar for teachers of Spanish, the use of computer technology and Internet resources for the teaching of Spanish, the development of didactic material, as well as the incorporation of Hispanic cultural material.",
+        "prerequisite": "SPAN 303 previously or concurrently",
+        "antirequisite": "Students who have received credit for this topic under a SPAN 498 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "The History of the Spanish Language",
+        "numericCode": "461",
+        "courseCode": "SPAN",
+        "description": "This course examines the historical and cultural evolution of the Spanish language. Topics to be considered may include the phonological and morphological development of Vulgar Latin, the development of variants between Peninsular and Spanish‑American expression, and the dialogic and conflictive nature of linguistic change. In‑class and take‑home activities may include the translation of medieval and early modern Spanish texts into their modern equivalents.",
+        "prerequisite": "SPAN 371 or permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Spanish Linguistics",
+        "numericCode": "462",
+        "courseCode": "SPAN",
+        "description": "This course provides an introduction to the basic concepts and analytical techniques of linguistics as applied specifically to the Spanish language. It covers the main areas of Hispanic linguistics, including phonetics and phonology, morphology and syntax of the Spanish language. It may also cover topics related to semantics, pragmatics, dialectology, sociolinguistics and second language acquisition of Spanish. Activities include linguistic analysis of the sounds, words and sentences of Spanish, as well as comparisons to the structure of English and/or French when applicable. This course provides the basis for further study in the field.",
+        "prerequisite": "SPAN 303 previously or concurrently",
+        "antirequisite": "Students who have received credit for this topic under a SPAN 498 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Current Issues in the Hispanic Cultures: Spanish America",
+        "numericCode": "464",
+        "courseCode": "SPAN",
+        "description": "This course explores current newsworthy events and affairs in the political, social, and cultural spheres of Spanish America as seen through various media sources such as newspapers, magazines, radio and television, and the Internet. It includes a systematic study of techniques of oral expression. As such, activities emphasize oral skills and may include team‑based class work and presentations, brief summaries, journal, and oral exams. Format and content vary from year to year.",
+        "prerequisite": "SPAN 301; 362 or 363, or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Current Issues in the Hispanic Cultures: Spain",
+        "numericCode": "465",
+        "courseCode": "SPAN",
+        "description": "Starting from an introduction to major currents of the historical Avant‑garde (1920‑1940), such as Futurism, Cubism, Dadaism, and Surrealism, the course traces the impact of the avant‑gardes throughout 20th‑century Hispanic poetry and the visual arts. Students explore particular manifestations of these currents in the art and poetry of Spanish America ( Creacionismo and Negrismo ) and Spain ( la Generación del ’27 ). Emphasis is placed on the role of the artist‑poet as engaged actor of radical change in all dimensions of social and political life.",
+        "prerequisite": "SPAN 303 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Hispanic Poetry and Poetics",
+        "numericCode": "469",
+        "courseCode": "SPAN",
+        "description": "This course examines poetic discourse in Hispanic culture. Through close readings and critical discussions of works by Spanish and/or Spanish‑American poets, students consider topics that may include the rhetorical and linguistic strategies of poetic discourse, poetry as ideology, poetry and the body, and the relationship between poetry and other written and oral forms of discourse.",
+        "prerequisite": "SPAN 303 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Spanish‑American Testimonio Discourse",
+        "numericCode": "470",
+        "courseCode": "SPAN",
+        "description": "This course offers a comprehensive study of the struggle between subaltern voices and mainstream culture, as manifested in testimonio discourse. The study includes an examination of the controversy surrounding testimonio with respect to its status as a literary genre and the question of appropriation of marginalized voices. Texts may include journalistic prose, essay, biography, and oral manifestations of subaltern groups. Authors may include Burgos/Menchú, Barnet/Montejo and Davis/Pablo.",
+        "prerequisite": "SPAN 303; 362 or 363; or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "The Art of Persuasion: the Hispanic Essay",
+        "numericCode": "471",
+        "courseCode": "SPAN",
+        "description": "This course examines the colonial subject as s/he appears in early modern articulations of the imperial centre and its relation to the colonial periphery, as well as in the emerging centres of Spanish America. Through close textual analysis and critical dis­cussions of representative works by Peninsular and Colonial authors such as Columbus, Las Casas, Sor Juana and el Inca Garcilaso, stu­dents investigate topics that may include the rhetorical and legal tropes of discovery and their construction of an abject “other,” the historical conditions that inform the chronicles of conquest, and strategies of cultural resistance employed by criollo and Amerindian subjects.",
+        "prerequisite": "SPAN 303, 310",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Literary Translation in Spanish",
+        "numericCode": "473",
+        "courseCode": "SPAN",
+        "description": "This course examines the history and principles of literary translation with reference to translation between the Spanish‑ and English‑speaking worlds. Literary translations both from Spanish to English and vice versa are analyzed within a critical context, and students translate essays, short stories, and poetry into both languages. Equal attention is paid to Spanish and English stylistics.",
+        "prerequisite": "SPAN 303 previously or concurrently; SPAN 306",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Translation for Specific Fields",
+        "numericCode": "474",
+        "courseCode": "SPAN",
+        "description": "This course concentrates on the technical and stylistic elements of translation of texts from a variety of fields such as business, journalism, tourism, telecommunications, and international trade. Material to be translated includes actual texts, and activities involve analysis of translation strategies and of terminological challenges pertinent to effective written communication in each domain. Translation is from both Spanish to English and English to Spanish.",
+        "prerequisite": "SPAN 303 previously or concurrently; SPAN 306",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Translation Issues in Spanish American Culture",
+        "numericCode": "475",
+        "courseCode": "SPAN",
+        "description": "The goal of this course is to critically revise the cultural, literary, and aesthetic role of translation in Latin American culture, particularly with regard to its textual production. Through reading and discussion of theoretical authors such as F. Schleiermacher, J. Ortega y Gasset, L. Venuti, H. K. Bhabha, and W. Mignolo, students analyze representative texts of Latin American culture which practically and aesthetically incorporate different problems and/or strategies of translation in the transcultural context of a globalization process of more than five centuries.",
+        "prerequisite": "SPAN 303 previously or concurrently; SPAN 306",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Tutorial I",
+        "numericCode": "480",
+        "courseCode": "SPAN",
+        "description": "This course consists of guided readings in Spanish language and/or Hispanic literature, culture, and translation, to meet the individual student’s needs.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Tutorial II",
+        "numericCode": "481",
+        "courseCode": "SPAN",
+        "description": "This course consists of guided readings in Spanish language and/or Hispanic literature, culture, and translation, to meet the individual student’s needs.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Tutorial III",
+        "numericCode": "482",
+        "courseCode": "SPAN",
+        "description": "This course consists of guided readings in Spanish language and/or Hispanic literature, culture, and translation, to meet the individual student’s needs.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Tutorial IV",
+        "numericCode": "483",
+        "courseCode": "SPAN",
+        "description": "This course consists of guided readings in Spanish language and/or Hispanic literature, culture, and translation, to meet the individual student’s needs.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Honours Project",
+        "numericCode": "490",
+        "courseCode": "SPAN",
+        "description": "This course provides the honours candidate with the opportunity to prepare an extensive research project on a topic to be chosen by the candidate with the approval of a supervising member of the faculty of the Spanish section.",
+        "prerequisite": "Honours status",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Topics in Spanish",
+        "numericCode": "498",
+        "courseCode": "SPAN",
+        "description": "",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Topics in Spanish",
+        "numericCode": "499",
+        "courseCode": "SPAN",
+        "description": "Specific topics for these courses, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule. Linguistics",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Linguistic Science",
+        "numericCode": "200",
+        "courseCode": "LING",
+        "description": "This course provides an introduction to the principles of general linguistics for beginners in the field. There is an emphasis on synchronic linguistic analysis, with a brief examination of historical and comparative linguistics. LING 222 Language and Mind: The Chomskyan Program (3 credits) This course uses language as a tool to examine the workings of the human mind. It approaches the study of language from the perspective of generative grammar as developed by Noam Chomsky and his collaborators. It deals with patterns of linguistic structure, rather than content or meaning. The goal of this course is to develop an understanding of the field of cognitive science (the study of knowledge and the mind/brain) and determine how linguistics fits in with disciplines like the study of vision, auditory perception and reasoning.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for this topic under a LING 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Selected Topics in Linguistics",
+        "numericCode": "298",
+        "courseCode": "LING",
+        "description": "Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Sociolinguistics",
+        "numericCode": "300",
+        "courseCode": "LING",
+        "description": "This course introduces students to syntactic theory in the generative tradition. Topics include structure‑building operations, constituency, a variety of movement phenomena, and the relationship between the lexicon and syntactic computation. The focus is on contemporary theoretical frameworks but the course also includes some discussion of how these developed from earlier theories.",
+        "prerequisite": "LING 200 with a grade of C or higher",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Linguistics and Cognitive Science",
+        "numericCode": "322",
+        "courseCode": "LING",
+        "description": "This course situates generative linguistics in the cognitive sciences by providing a survey of relevant topics from psychology, artificial intelligence, computer science, ethology, and philosophy.",
+        "prerequisite": "LING 222 or equivalent",
+        "antirequisite": "Students who have received credit for this topic under a LING 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Sanskrit",
+        "numericCode": "330",
+        "courseCode": "LING",
+        "description": "This course provides an introduction to the fundamentals of Sanskrit grammar. After developing a foundation, students are presented with a selection of short, original texts to read and translate.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Historical Linguistics",
+        "numericCode": "335",
+        "courseCode": "LING",
+        "description": "This course provides a survey of the primary tools and methods of historical linguistics. Change and mechanisms of change at the various levels of the grammar (phonological, morphological, and syntactic) are surveyed. The comparative method, including both subgrouping and reconstruction, is treated in detail.",
+        "prerequisite": "LING 200 with a grade of C or higher",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Comparative Indo‑European Linguistics",
+        "numericCode": "336",
+        "courseCode": "LING",
+        "description": "Through a comparative study of the phonology of the various branches of the Indo‑European language family (e.g. Indo‑Iranian, Hellenic, Italic, Germanic, Slavic, Baltic), this course familiarizes the student with the techniques used in linguistic reconstruction. Emphasis is given to the development and differentiation of languages through time.",
+        "prerequisite": "LING 200 with a grade of C or higher",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introduction to Romance Linguistics",
+        "numericCode": "341",
+        "courseCode": "LING",
+        "description": "This course treats current issues in the experimental evaluation of linguistic theories, presenting both methodological concerns and empirical results. Topics covered include sentence processing, speech perception, lexical access and language development.",
+        "prerequisite": "LING 200 or equivalent; or permission of the Department",
+        "antirequisite": "Students who have received credit for this topic under a LING 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Semantics",
+        "numericCode": "371",
+        "courseCode": "LING",
+        "description": "This course introduces the basic notions required for formal analysis of meaning within a theory of language. The central objective is the development of a system for the representation of the logical structure of natural language. Contemporary works in linguistic semantics are critically examined.",
+        "prerequisite": "LING 200 with a grade of C or higher",
+        "antirequisite": "Students who have received credit for LING 320 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Descriptive and Instrumental Phonetics",
+        "numericCode": "372",
+        "courseCode": "LING",
+        "description": "Description of speech sounds in articulatory terms. Identification and description of sounds that occur outside the Indo‑European family of languages. Description of speech sounds as to their acoustic qualities: frequency, amplitude, pitch, stress. Interpretation of sound spectrograms.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Phonology",
+        "numericCode": "373",
+        "courseCode": "LING",
+        "description": "This course consists of a survey of linguistic morphology, the study of word structure, and the tools used to perform morphological analysis. The course also gives some consideration to the issues relating to a theory of morphology.",
+        "prerequisite": "LING 373 or equivalent",
+        "antirequisite": "Students who have received credit for this topic under a LING 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Selected Topics in Linguistics",
+        "numericCode": "398",
+        "courseCode": "LING",
+        "description": "This course considers current developments in the field of syntactic theory and their application to phenomena such as control, movement out of islands and binding.",
+        "prerequisite": "LING 315 with a grade of C or higher",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Non‑Indo‑European Structures",
+        "numericCode": "421",
+        "courseCode": "LING",
+        "description": "This course concentrates on the nature of language change, with an investigation into the relationship between theories of linguistic structure and theories of change. The theoretical foundations of contemporary methods in the study of language change are the central focus.",
+        "prerequisite": "LING 335",
+        "antirequisite": "Students who have received credit for LING 420 or for this topic under a LING 398 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Indo‑European Studies",
+        "numericCode": "436",
+        "courseCode": "LING",
+        "description": "Detailed study of the synchronic and diachronic grammars of one or more Indo‑European dialects essential to the reconstruction of the proto‑language. Extensive readings are undertaken in both original texts and in scholarly contributions to their elucidation. Emphasis is placed on current issues and research in the field.",
+        "prerequisite": "LING 336 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Problems in Indo‑European Comparative Grammar",
+        "numericCode": "437",
+        "courseCode": "LING",
+        "description": "This course explores one or more areas of Indo‑European comparative grammar of particular interest in current research. Extensive reading in the scholarly literature is undertaken with emphasis on the principles by which hypotheses in historical linguistics can be framed and the criteria for testing such hypotheses.",
+        "prerequisite": "LING 336 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Comparative Grammar of Greek and Latin",
+        "numericCode": "446",
+        "courseCode": "LING",
+        "description": "A study of the similarities and differences in the phonology and morphology of Ancient Greek and Latin. Some attention is also given to issues of syntax and the lexicon.",
+        "prerequisite": "LING 336 or CLAS 383 or 391",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Mycenaean Greek",
+        "numericCode": "447",
+        "courseCode": "LING",
+        "description": "Dating from the 14th to the 12th century BCE, Mycenaean — the language of the Linear B tablets — is the earliest form of Greek attested. In this course, selected documents will be read, both in transliteration and in the Mycenaean syllabary, with attention both to linguistic and to cultural issues.",
+        "prerequisite": "LING 336 or CLAS 383",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Homeric Greek",
+        "numericCode": "456",
+        "courseCode": "LING",
+        "description": "An examination of the language of Homer, an artificial mixture of dialectal and diachronic variants, a Kunstsprache . Against the background of a study of the comparative and historical grammar of Greek and its development from Proto‑Indo‑European, the focus is on diachronic aspects of Homeric grammar and diction. Readings are principally from Books One and Three of the Iliad .",
+        "prerequisite": "LING 336 or CLAS 383",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Archaic Latin and the Italic Dialects",
+        "numericCode": "457",
+        "courseCode": "LING",
+        "description": "A study of inscriptions in archaic Latin and the ancient Italic dialects Oscan and Umbrian. Examination of the main features of phonology, morphology, syntax and the lexicon which distinguish Osco‑Umbrian from Latin, with reference to their development from Proto‑Indo‑European.",
+        "prerequisite": "LING 336 or CLAS 391",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Hittite",
+        "numericCode": "461",
+        "courseCode": "LING",
+        "description": "The fundamentals of Hittite grammar are presented through the extensive reading of texts, both in transliteration and cuneiform. Considerable attention is given to problems of comparative grammar.",
+        "prerequisite": "LING 336 or equivalent",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Semantics",
+        "numericCode": "471",
+        "courseCode": "LING",
+        "description": "This course provides students with the opportunity to study a topic of individual interest under the guidance of a faculty member.",
+        "prerequisite": "Permission of the Department",
+        "antirequisite": "Students who have received credit for this topic under a LING 429 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Topics in Linguistics",
+        "numericCode": "498",
+        "courseCode": "LING",
+        "description": "Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule. NON-PROGRAM COURSES: Hebrew THE DEPARTMENT RESERVES THE RIGHT TO TRANSFER A STUDENT TO A HIGHER‑LEVEL LANGUAGE COURSE IF IT IS DEEMED THAT THE COURSE FOR WHICH THE STUDENT HAS REGISTERED IS NOT APPROPRIATE FOR THE EXTENT OF HIS OR HER KNOWLEDGE OF THE LANGUAGE.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Introductory Course in Hebrew",
+        "numericCode": "210",
+        "courseCode": "HEBR",
+        "description": "This course continues the comprehensive review of Hebrew grammar and syntax, and deals with additional details not covered in the introductory course. Practice is provided through compositions and readings of classical and modern Hebrew texts.",
+        "prerequisite": "HEBR 241 or permission of the Department",
+        "antirequisite": "Students who have received credit for HEBR 250 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Topics in Hebrew Literature",
+        "numericCode": "310",
+        "courseCode": "HEBR",
+        "description": "Topics for this course will vary; possibilities may include modern Hebrew literature, masterpieces and genres in Hebrew literature, and others. This course is taught in English. Modern Languages The following courses give instruction in languages and cultures not included in any of the Department’s programs.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Modern Greek",
+        "numericCode": "290",
+        "courseCode": "MGRK",
+        "description": "This course provides an introduction to the basic elements of modern Greek for the student with no knowledge of the language.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for this topic under an MODL 399 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Special Topics in Modern Greek",
+        "numericCode": "398",
+        "courseCode": "MGRK",
+        "description": "Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Modern Irish",
+        "numericCode": "290",
+        "courseCode": "MIRI",
+        "description": "This course provides an introduction to the basic elements of modern Irish for the student with no knowledge of the language.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for this topic under an MODL 399 number may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Special Topics in Modern Irish",
+        "numericCode": "398",
+        "courseCode": "MIRI",
+        "description": "Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Special Topics in Modern Languages",
+        "numericCode": "298",
+        "courseCode": "MODL",
+        "description": "",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Special Topics in Modern Languages",
+        "numericCode": "299",
+        "courseCode": "MODL",
+        "description": "Specific topics for these courses, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Special Topics in Modern Languages",
+        "numericCode": "398",
+        "courseCode": "MODL",
+        "description": "",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Special Topics in Modern Languages",
+        "numericCode": "399",
+        "courseCode": "MODL",
+        "description": "Specific topics for these courses, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Topics in Modern Languages",
+        "numericCode": "498",
+        "courseCode": "MODL",
+        "description": "",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Advanced Topics in Modern Languages",
+        "numericCode": "499",
+        "courseCode": "MODL",
+        "description": "Specific topics for these courses, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule.",
+        "prerequisite": "",
+        "antirequisite": ""
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Russian",
+        "numericCode": "290",
+        "courseCode": "MRUS",
+        "description": "This course provides an introduction to the basic elements of Russian for the student with no knowledge of the language.",
+        "prerequisite": "",
+        "antirequisite": "Students who have received credit for RUSS 330 may not take this course for credit."
+    },
+    {
+        "subjectId": 0,
+        "SubjectName": "Classics, Modern Languages and Linguistics",
+        "name": "Special Topics in Russian",
+        "numericCode": "398",
+        "courseCode": "MRUS",
+        "description": "Specific topics for this course, and prerequisites relevant in each case, are stated in the Undergraduate Class Schedule. 2020-2021 Concordia University Undergraduate Calendar",
+        "prerequisite": "",
+        "antirequisite": ""
+    }
+]

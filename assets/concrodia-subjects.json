@@ -1,0 +1,20 @@
+[
+    {
+        "subjectId": 0,
+        "name": "Classics, Modern Languages and Linguistics",
+        "codes": [
+            "CLAS",
+            "MARA",
+            "MCHI",
+            "GERM",
+            "ITAL",
+            "SPAN",
+            "LING",
+            "HEBR",
+            "MGRK",
+            "MIRI",
+            "MODL",
+            "MRUS"
+        ]
+    }
+]
