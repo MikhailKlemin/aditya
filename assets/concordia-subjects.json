@@ -1,0 +1,586 @@
+[
+    {
+        "subjectId": 57,
+        "name": "81.60.3 Communication Studies Film Courses",
+        "codes": [
+            "FMST"
+        ],
+        "description": "Mel Hoppenheim School of Cinema"
+    },
+    {
+        "subjectId": 33,
+        "name": "Interdisciplinary Studies in Sexuality",
+        "codes": [
+            "SSDB"
+        ],
+        "description": "Simone de Beauvoir Institute and Women's Studies"
+    },
+    {
+        "subjectId": 42,
+        "name": "Statistics",
+        "codes": [
+            "STAT"
+        ],
+        "description": "Mathematics and Statistics"
+    },
+    {
+        "subjectId": 56,
+        "name": "Art History",
+        "codes": [
+            "ARTH"
+        ],
+        "description": "Art History"
+    },
+    {
+        "subjectId": 63,
+        "name": "Faculty of Fine Arts",
+        "codes": [
+            "FASS"
+        ],
+        "description": "Faculty of Fine Arts"
+    },
+    {
+        "subjectId": 67,
+        "name": "Jazz Performance",
+        "codes": [
+            "JPER"
+        ],
+        "description": "Music"
+    },
+    {
+        "subjectId": 8,
+        "name": "Spanish",
+        "codes": [
+            "SPAN"
+        ],
+        "description": "Classics, Modern Languages and Linguistics"
+    },
+    {
+        "subjectId": 61,
+        "name": "Computation Arts",
+        "codes": [
+            "CART"
+        ],
+        "description": "Design and Computation Arts"
+    },
+    {
+        "subjectId": 58,
+        "name": "Film Animation",
+        "codes": [
+            "FMAN"
+        ],
+        "description": "Mel Hoppenheim School of Cinema"
+    },
+    {
+        "subjectId": 34,
+        "name": "Women’s Studies",
+        "codes": [
+            "WSDB"
+        ],
+        "description": "Simone de Beauvoir Institute and Women's Studies"
+    },
+    {
+        "subjectId": 66,
+        "name": "Jazz History",
+        "codes": [
+            "JHIS"
+        ],
+        "description": "Music"
+    },
+    {
+        "subjectId": 6,
+        "name": "German",
+        "codes": [
+            "GERM"
+        ],
+        "description": "Classics, Modern Languages and Linguistics"
+    },
+    {
+        "subjectId": 5,
+        "name": "Chinese (Modern)",
+        "codes": [
+            "MCHI"
+        ],
+        "description": "Classics, Modern Languages and Linguistics"
+    },
+    {
+        "subjectId": 20,
+        "name": "• Langue ou linguistique française",
+        "codes": [
+            "FRAA"
+        ],
+        "description": "Études Françaises"
+    },
+    {
+        "subjectId": 70,
+        "name": "University Skills",
+        "codes": [
+            "UNSS"
+        ],
+        "description": "University Skills"
+    },
+    {
+        "subjectId": 3,
+        "name": "Classics",
+        "codes": [
+            "CLAS"
+        ],
+        "description": "Classics, Modern Languages and Linguistics"
+    },
+    {
+        "subjectId": 36,
+        "name": "Liberal Arts College",
+        "codes": [
+            "LBCL"
+        ],
+        "description": "Liberal Arts College"
+    },
+    {
+        "subjectId": 17,
+        "name": "Traduction",
+        "codes": [
+            "FRAN",
+            "FTRA"
+        ],
+        "description": "Études Françaises"
+    },
+    {
+        "subjectId": 38,
+        "name": "Actuarial Mathematics",
+        "codes": [
+            "ACTU"
+        ],
+        "description": "Mathematics and Statistics"
+    },
+    {
+        "subjectId": 45,
+        "name": "Political Science",
+        "codes": [
+            "POLI"
+        ],
+        "description": "Political Science"
+    },
+    {
+        "subjectId": 52,
+        "name": "Management",
+        "codes": [
+            "MANA"
+        ],
+        "description": "Management"
+    },
+    {
+        "subjectId": 60,
+        "name": "Creative Arts Therapies",
+        "codes": [
+            "CATS",
+            "ATRP",
+            "DTHY",
+            "MTHY"
+        ],
+        "description": "Creative Arts Therapies"
+    },
+    {
+        "subjectId": 12,
+        "name": "Communication Studies",
+        "codes": [
+            "COMS"
+        ],
+        "description": "Communication Studies"
+    },
+    {
+        "subjectId": 30,
+        "name": "KCEP",
+        "codes": [
+            "KCEP"
+        ],
+        "description": "Health, Kinesiology, and Applied Physiology"
+    },
+    {
+        "subjectId": 35,
+        "name": "Journalism",
+        "codes": [
+            "JOUR"
+        ],
+        "description": "Journalism"
+    },
+    {
+        "subjectId": 55,
+        "name": "SUPPLY CHAIN OPERATIONS MANAGEMENT",
+        "codes": [
+            "SCOM"
+        ],
+        "description": "Supply Chain and Business Technology Management"
+    },
+    {
+        "subjectId": 23,
+        "name": "• Époques et aires culturelles",
+        "codes": [
+            "FLIT"
+        ],
+        "description": "Études Françaises"
+    },
+    {
+        "subjectId": 43,
+        "name": "Philosophy",
+        "codes": [
+            "PHIL"
+        ],
+        "description": "Philosophy"
+    },
+    {
+        "subjectId": 64,
+        "name": "Electroacoustic Studies",
+        "codes": [
+            "EAST"
+        ],
+        "description": "Music"
+    },
+    {
+        "subjectId": 11,
+        "name": "Modern Languages",
+        "codes": [
+            "MGRK",
+            "MIRI",
+            "MODL",
+            "MRUS"
+        ],
+        "description": "Classics, Modern Languages and Linguistics"
+    },
+    {
+        "subjectId": 1,
+        "name": "Biology",
+        "codes": [
+            "BIOL"
+        ],
+        "description": "Biology"
+    },
+    {
+        "subjectId": 13,
+        "name": "Program Objectives",
+        "codes": [
+            "SCPA",
+            "FPST"
+        ],
+        "description": "School of Community and Public Affairs"
+    },
+    {
+        "subjectId": 16,
+        "name": "English",
+        "codes": [
+            "ENGL"
+        ],
+        "description": "English"
+    },
+    {
+        "subjectId": 18,
+        "name": "• Linguistique française",
+        "codes": [
+            "FRAA"
+        ],
+        "description": "Études Françaises"
+    },
+    {
+        "subjectId": 31,
+        "name": "History",
+        "codes": [
+            "HIST"
+        ],
+        "description": "History"
+    },
+    {
+        "subjectId": 41,
+        "name": "Mathematics",
+        "codes": [
+            "MATH"
+        ],
+        "description": "Mathematics and Statistics"
+    },
+    {
+        "subjectId": 54,
+        "name": "BUSINESS STATISTICS",
+        "codes": [
+            "BSTA"
+        ],
+        "description": "Supply Chain and Business Technology Management"
+    },
+    {
+        "subjectId": 0,
+        "name": "Applied Human Sciences",
+        "codes": [
+            "AHSC"
+        ],
+        "description": "Applied Human Sciences"
+    },
+    {
+        "subjectId": 62,
+        "name": "Design",
+        "codes": [
+            "DART"
+        ],
+        "description": "Design and Computation Arts"
+    },
+    {
+        "subjectId": 19,
+        "name": "• Langue française",
+        "codes": [
+            "FRAA"
+        ],
+        "description": "Études Françaises"
+    },
+    {
+        "subjectId": 22,
+        "name": "• Introduction aux littératures de langue française",
+        "codes": [
+            "FLIT"
+        ],
+        "description": "Études Françaises"
+    },
+    {
+        "subjectId": 24,
+        "name": "• Thèmes et formes littéraires",
+        "codes": [
+            "FLIT"
+        ],
+        "description": "Études Françaises"
+    },
+    {
+        "subjectId": 25,
+        "name": "Geography",
+        "codes": [
+            "GEOG"
+        ],
+        "description": "Geography, Planning and Environment"
+    },
+    {
+        "subjectId": 32,
+        "name": "Interdisciplinary Courses",
+        "codes": [
+            "INTE"
+        ],
+        "description": "Interdisciplinary Studies"
+    },
+    {
+        "subjectId": 51,
+        "name": "International Business",
+        "codes": [
+            "IBUS"
+        ],
+        "description": "International Business"
+    },
+    {
+        "subjectId": 65,
+        "name": "Jazz Studies",
+        "codes": [
+            "JAZZ"
+        ],
+        "description": "Music"
+    },
+    {
+        "subjectId": 2,
+        "name": "Chemistry and Biochemistry",
+        "codes": [
+            "CHEM"
+        ],
+        "description": "Chemistry and Biochemistry"
+    },
+    {
+        "subjectId": 14,
+        "name": "Economics",
+        "codes": [
+            "ECON"
+        ],
+        "description": "Economics"
+    },
+    {
+        "subjectId": 28,
+        "name": "CATA",
+        "codes": [
+            "CATA"
+        ],
+        "description": "Health, Kinesiology, and Applied Physiology"
+    },
+    {
+        "subjectId": 37,
+        "name": "Loyola College for Diversity and Sustainability",
+        "codes": [
+            "LOYC"
+        ],
+        "description": "Loyola College for Diversity and Sustainability"
+    },
+    {
+        "subjectId": 68,
+        "name": "Music History",
+        "codes": [
+            "MHIS"
+        ],
+        "description": "Music"
+    },
+    {
+        "subjectId": 69,
+        "name": "Studio Arts",
+        "codes": [
+            "ARTX",
+            "ARTT",
+            "CERA",
+            "DRAW",
+            "FBRS",
+            "PTNG",
+            "PHOT",
+            "PRIN",
+            "SCUL"
+        ],
+        "description": "Studio Arts"
+    },
+    {
+        "subjectId": 7,
+        "name": "Italian",
+        "codes": [
+            "ITAL"
+        ],
+        "description": "Classics, Modern Languages and Linguistics"
+    },
+    {
+        "subjectId": 15,
+        "name": "Education",
+        "codes": [
+            "ADED"
+        ],
+        "description": "Education"
+    },
+    {
+        "subjectId": 26,
+        "name": "Geology",
+        "codes": [
+            "GEOL"
+        ],
+        "description": "Geography, Planning and Environment"
+    },
+    {
+        "subjectId": 39,
+        "name": "Mathematical and Computational Finance",
+        "codes": [
+            "MACF"
+        ],
+        "description": "Mathematics and Statistics"
+    },
+    {
+        "subjectId": 44,
+        "name": "Physics",
+        "codes": [
+            "PHYS"
+        ],
+        "description": "Physics"
+    },
+    {
+        "subjectId": 49,
+        "name": "Accountancy",
+        "codes": [
+            "ACCO"
+        ],
+        "description": "Accountancy"
+    },
+    {
+        "subjectId": 53,
+        "name": "Marketing",
+        "codes": [
+            "MARK"
+        ],
+        "description": "Marketing"
+    },
+    {
+        "subjectId": 10,
+        "name": "Hebrew",
+        "codes": [
+            "HEBR"
+        ],
+        "description": "Classics, Modern Languages and Linguistics"
+    },
+    {
+        "subjectId": 29,
+        "name": "EXCI",
+        "codes": [
+            "EXCI"
+        ],
+        "description": "Health, Kinesiology, and Applied Physiology"
+    },
+    {
+        "subjectId": 40,
+        "name": "Mathematics and Statistics",
+        "codes": [
+            "MAST"
+        ],
+        "description": "Mathematics and Statistics"
+    },
+    {
+        "subjectId": 47,
+        "name": "Religions and Cultures",
+        "codes": [
+            "RELI"
+        ],
+        "description": "Religions and Cultures"
+    },
+    {
+        "subjectId": 48,
+        "name": "Theological Studies",
+        "codes": [
+            "THEO"
+        ],
+        "description": "Theological Studies"
+    },
+    {
+        "subjectId": 59,
+        "name": "Film Production",
+        "codes": [
+            "FMPR"
+        ],
+        "description": "Mel Hoppenheim School of Cinema"
+    },
+    {
+        "subjectId": 4,
+        "name": "Arabic (Modern Standard)",
+        "codes": [
+            "MARA"
+        ],
+        "description": "Classics, Modern Languages and Linguistics"
+    },
+    {
+        "subjectId": 21,
+        "name": "• Français langue seconde/étrangère",
+        "codes": [
+            "FLIT"
+        ],
+        "description": "Études Françaises"
+    },
+    {
+        "subjectId": 27,
+        "name": "31.130.1 URBAN PLANNING AND URBAN STUDIES",
+        "codes": [
+            "URBS"
+        ],
+        "description": "Geography, Planning and Environment"
+    },
+    {
+        "subjectId": 9,
+        "name": "Linguistics",
+        "codes": [
+            "LING"
+        ],
+        "description": "Classics, Modern Languages and Linguistics"
+    },
+    {
+        "subjectId": 50,
+        "name": "Finance",
+        "codes": [
+            "FINA"
+        ],
+        "description": "Finance"
+    },
+    {
+        "subjectId": 46,
+        "name": "Psychology",
+        "codes": [
+            "PSYC"
+        ],
+        "description": "Psychology"
+    }
+]

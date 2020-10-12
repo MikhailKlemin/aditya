@@ -12,6 +12,9 @@ type Course struct {
 	SubjectID          int    `json:"subjectId"`
 	SubjectName        string `json:"SubjectName,omitempty"`
 	SubjectDescription string `json:"-"`
+	Link               string `json:"Link,omitempty"`
+	//Pos                int    `json:"Pos,omitempty"`
+
 	//TermID      int    `json:"TermID,omitempty"`
 	//TermName    string `json:"TermName,omitempty"`
 
@@ -51,6 +54,10 @@ type Subject struct {
 // Export exporting the Course into ./assets dir,
 // files are prefixed with prefix
 func Export(cs []Course, prefix string) (err error) {
+	//writing raw formatt
+	rb, _ := json.MarshalIndent(cs, "", "    ")
+	ioutil.WriteFile(fmt.Sprintf("./assets/%s-raw.json", prefix), rb, 0600)
+
 	var subjs []Subject
 	var se = make(map[string]Subject)
 	var xcs []Course

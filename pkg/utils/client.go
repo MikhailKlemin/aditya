@@ -1,8 +1,10 @@
 package utils
 
 import (
+	"bytes"
 	"errors"
 	"fmt"
+	"io/ioutil"
 	"log"
 	"net"
 	"net/http"
@@ -87,6 +89,42 @@ func (m *MyClient) Get(link string) (doc *goquery.Document, err error) {
 			continue
 		}
 		resp.Body.Close()
+		break
+	}
+	return
+
+}
+
+// GetWithByte returns Goquery document and raw byte
+func (m *MyClient) GetWithByte(link string) (doc *goquery.Document, b []byte, err error) {
+	counter := 0
+	var resp *http.Response
+	for {
+		if counter > 2 {
+			return doc, []byte{}, fmt.Errorf("%s: %w", link, ErrRetry)
+		}
+		counter++
+		resp, err = m.client.Get(link)
+		if err != nil {
+			log.Println(err)
+			time.Sleep(10 * time.Second)
+			continue
+		}
+
+		/*doc, err = goquery.NewDocumentFromReader(resp.Body)
+		if err != nil {
+			log.Println(err)
+
+			time.Sleep(10 * time.Second)
+			resp.Body.Close()
+			continue
+		}*/
+		b, err = ioutil.ReadAll(resp.Body)
+		if err != nil {
+			return
+		}
+		resp.Body.Close()
+		doc, _ = goquery.NewDocumentFromReader(bytes.NewReader(b))
 		break
 	}
 	return
