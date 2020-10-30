@@ -1,0 +1,2357 @@
+<html>
+<head>
+<script type="text/javascript" src="includes/jquery-2.1.4.min.js"></script>
+<title>Programs and Courses: Sheridan Course Outlines</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<style type="text/css">
+
+table.detail tr.parent:hover { color: #FFF; background-color: #FF5000; /*#E3ECFA;*/ }
+table.detail tr.parent:hover a { color: #FFF; background-color: #FF5000; /*#E3ECFA;*/ }
+
+table.detail, table.detail td, table.detail th {
+  border-collapse:collapse;
+  border:0px /*solid #F3F3F3*/;
+}
+
+tr.child a:link,a:visited {
+  color:#FFF;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+tr.child a:hover {
+ font-weight:bold;
+ color:#FFF;
+text-decoration: underline;
+}
+
+
+tr.parent a:link,a:visited {
+  color:#CC6600; 
+  background-color: transparent;
+  text-decoration: none;
+}
+
+tr.parent  a:hover {
+ font-weight:bold;
+text-decoration: underline;
+}
+
+a:active {
+text-decoration: underline;
+}
+
+table {
+        font-family: arial;
+font-size: 12px;
+}
+table.detail tr.parent {
+/*  font-weight:bold;*/
+  font-family: arial;
+}
+</style>
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body bgcolor="#FFFFFF" onLoad="switchPeoplesoftBanner();">
+ 
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr align="left" valign="top">
+    <!--TD colspan="3" width="850"-->
+    <td width="770">
+             <form method="post" name="coutlinesearch" onSubmit="if (this.year.value==''){alert('Please enter the year!');this.year.focus();return false;}">
+<input type="hidden" name="appver" value="sal">
+         <table width="100%" border="0">
+        <tr>
+          <td>
+              <!-- <p> -->
+  <label for="subjectCode">Subject Code (eg. BUSM) :</label> <input type="text" name="subjectCode" id="subjectCode" style="width:100px" value="">
+  <br>
+              <label for="courseNumber">Course Number (eg. 50199):</label> <input type="text" name="courseNumber" id="courseNumber" style="width:100px" value=""><br>
+              <label for="title">Keyword in title :</label> <input type="text" name="title" id="title" style="width:150px" value=""><br>
+       <label for="program_ps">Program :</label> <select name="program_ps" id="program_ps" style="width:60%" onChange="document.coutlinesearch.program.value=this.options[this.selectedIndex].value;document.coutlinesearch.programName.value=''">
+ <option value="">Choose program</option>
+
+ 
+ 
+  <option value="CSS21" SELECTED>21st Century Skills Workshop S&nbsp;&nbsp;&nbsp; (CSS21)</option>
+
+ 
+  <option value="J744" >A-Z Truck Driver(6Wk)&nbsp;&nbsp;&nbsp; (J744)</option>
+
+ 
+  <option value="J740" >A-Z Truck Driver(6Wk)&nbsp;&nbsp;&nbsp; (J740)</option>
+
+ 
+  <option value="SACUP" >Academic and Career Entrance&nbsp;&nbsp;&nbsp; (SACUP)</option>
+
+ 
+  <option value="CACCG" >Accounting&nbsp;&nbsp;&nbsp; (CACCG)</option>
+
+ 
+  <option value="CAFOR" >Accounting and Finance Profess&nbsp;&nbsp;&nbsp; (CAFOR)</option>
+
+ 
+  <option value="PACIA" >Accounting in Canada&nbsp;&nbsp;&nbsp; (PACIA)</option>
+
+ 
+  <option value="CACPC" >Accounting Practitioner&nbsp;&nbsp;&nbsp; (CACPC)</option>
+
+ 
+  <option value="CACCP" >ACCPAC Accounting&nbsp;&nbsp;&nbsp; (CACCP)</option>
+
+ 
+  <option value="CACSW" >Adobe Creative Suite&nbsp;&nbsp;&nbsp; (CACSW)</option>
+
+ 
+  <option value="CADED" >Adult Education&nbsp;&nbsp;&nbsp; (CADED)</option>
+
+ 
+  <option value="CACAF" >Adv Cert Accounting & Finance&nbsp;&nbsp;&nbsp; (CACAF)</option>
+
+ 
+  <option value="PAILL" >Advanced Illustration&nbsp;&nbsp;&nbsp; (PAILL)</option>
+
+ 
+  <option value="PASEM" >Advanced Special Effects Makeu&nbsp;&nbsp;&nbsp; (PASEM)</option>
+
+ 
+  <option value="PATAF" >Advanced Television and Film&nbsp;&nbsp;&nbsp; (PATAF)</option>
+
+ 
+  <option value="6705" >Advanced TV & Film&nbsp;&nbsp;&nbsp; (6705)</option>
+
+ 
+  <option value="PADVA" >Advertising&nbsp;&nbsp;&nbsp; (PADVA)</option>
+
+ 
+  <option value="PADVT" >Advertising&nbsp;&nbsp;&nbsp; (PADVT)</option>
+
+ 
+  <option value="PADMK" >Advertising and Marketing Comm&nbsp;&nbsp;&nbsp; (PADMK)</option>
+
+ 
+  <option value="PADGD" >Advertising Management&nbsp;&nbsp;&nbsp; (PADGD)</option>
+
+ 
+  <option value="PADAC" >Advertising-Account Management&nbsp;&nbsp;&nbsp; (PADAC)</option>
+
+ 
+  <option value="PADAM" >Advertising-Account Management&nbsp;&nbsp;&nbsp; (PADAM)</option>
+
+ 
+  <option value="PAMCM" >Advertising/Marketing CommMgmt&nbsp;&nbsp;&nbsp; (PAMCM)</option>
+
+ 
+  <option value="PANCR" >Animal Care&nbsp;&nbsp;&nbsp; (PANCR)</option>
+
+ 
+  <option value="PANIM" >Animation&nbsp;&nbsp;&nbsp; (PANIM)</option>
+
+ 
+  <option value="CXPIM" >APICS - Certified in Productio&nbsp;&nbsp;&nbsp; (CXPIM)</option>
+
+ 
+  <option value="PAPHT" >Applied Photography&nbsp;&nbsp;&nbsp; (PAPHT)</option>
+
+ 
+  <option value="6210" >Applied Photography&nbsp;&nbsp;&nbsp; (6210)</option>
+
+ 
+  <option value="5060" >Architectural Technician&nbsp;&nbsp;&nbsp; (5060)</option>
+
+ 
+  <option value="PATCN" >Architectural Technician&nbsp;&nbsp;&nbsp; (PATCN)</option>
+
+ 
+  <option value="PARTY" >Architectural Technology&nbsp;&nbsp;&nbsp; (PARTY)</option>
+
+ 
+  <option value="5560" >Architectural Technology&nbsp;&nbsp;&nbsp; (5560)</option>
+
+ 
+  <option value="PAAH" >Art and Art History&nbsp;&nbsp;&nbsp; (PAAH)</option>
+
+ 
+  <option value="4260" >Art Education 3&nbsp;&nbsp;&nbsp; (4260)</option>
+
+ 
+  <option value="PARTF" >Art Fundamentals&nbsp;&nbsp;&nbsp; (PARTF)</option>
+
+ 
+  <option value="CACID" >Autocad for Designers&nbsp;&nbsp;&nbsp; (CACID)</option>
+
+ 
+  <option value="PBIDB" >BAA Interior Design Bridge&nbsp;&nbsp;&nbsp; (PBIDB)</option>
+
+ 
+  <option value="PBAM2" >Bach Bus Admin Market Manage&nbsp;&nbsp;&nbsp; (PBAM2)</option>
+
+ 
+  <option value="PBBAM" >Bach Bus Admin Market Manage&nbsp;&nbsp;&nbsp; (PBBAM)</option>
+
+ 
+  <option value="PBCC3" >Bach Business Admin Accounting&nbsp;&nbsp;&nbsp; (PBCC3)</option>
+
+ 
+  <option value="PBACC" >Bach Business Admin Accounting&nbsp;&nbsp;&nbsp; (PBACC)</option>
+
+ 
+  <option value="PBBAF" >Bach Business Admin Finance&nbsp;&nbsp;&nbsp; (PBBAF)</option>
+
+ 
+  <option value="PBACS" >Bach Comp Sci - Mobile Comp&nbsp;&nbsp;&nbsp; (PBACS)</option>
+
+ 
+  <option value="PBHRM" >Bach Human Resources&nbsp;&nbsp;&nbsp; (PBHRM)</option>
+
+ 
+  <option value="PBAII" >Bach Illustration-Interpretive&nbsp;&nbsp;&nbsp; (PBAII)</option>
+
+ 
+  <option value="PBAMB" >Bach Music Theatre Degree Comp&nbsp;&nbsp;&nbsp; (PBAMB)</option>
+
+ 
+  <option value="PBFTV" >Bach of Film and Television&nbsp;&nbsp;&nbsp; (PBFTV)</option>
+
+ 
+  <option value="PBAIB" >Bach.  Illustration-Bridging&nbsp;&nbsp;&nbsp; (PBAIB)</option>
+
+ 
+  <option value="PBATS" >Bach. of Illustr Tech.&Scient.&nbsp;&nbsp;&nbsp; (PBATS)</option>
+
+ 
+  <option value="PBSCM" >BachBus Admin Spply Chain Mgmt&nbsp;&nbsp;&nbsp; (PBSCM)</option>
+
+ 
+  <option value="PBAAA" >Bachelor of Animation&nbsp;&nbsp;&nbsp; (PBAAA)</option>
+
+ 
+  <option value="PBCMS" >Bachelor of Community Safety&nbsp;&nbsp;&nbsp; (PBCMS)</option>
+
+ 
+  <option value="PCNCT" >Bachelor of Comp.& Netw. Comm.&nbsp;&nbsp;&nbsp; (PCNCT)</option>
+
+ 
+  <option value="PBCRD" >Bachelor of Craft & Design&nbsp;&nbsp;&nbsp; (PBCRD)</option>
+
+ 
+  <option value="PBECB" >Bachelor of EC Leadership&nbsp;&nbsp;&nbsp; (PBECB)</option>
+
+ 
+  <option value="PBECL" >Bachelor of EC Leadership&nbsp;&nbsp;&nbsp; (PBECL)</option>
+
+ 
+  <option value="PBENE" >Bachelor of Engineering (Elec)&nbsp;&nbsp;&nbsp; (PBENE)</option>
+
+ 
+  <option value="PBAGD" >Bachelor of Game Design&nbsp;&nbsp;&nbsp; (PBAGD)</option>
+
+ 
+  <option value="PBGDS" >Bachelor of Game Design&nbsp;&nbsp;&nbsp; (PBGDS)</option>
+
+ 
+  <option value="PBIDS" >Bachelor of Interaction Design&nbsp;&nbsp;&nbsp; (PBIDS)</option>
+
+ 
+  <option value="PBAID" >Bachelor of Interior Design&nbsp;&nbsp;&nbsp; (PBAID)</option>
+
+ 
+  <option value="PBENM" >Bachelor of Mech. Engineering&nbsp;&nbsp;&nbsp; (PBENM)</option>
+
+ 
+  <option value="PBAMT" >Bachelor of Music Theatre Perf&nbsp;&nbsp;&nbsp; (PBAMT)</option>
+
+ 
+  <option value="PBAAP" >Bachelor of Photography&nbsp;&nbsp;&nbsp; (PBAAP)</option>
+
+ 
+  <option value="PBAPB" >Bachelor of Photography Bridge&nbsp;&nbsp;&nbsp; (PBAPB)</option>
+
+ 
+  <option value="PBAPS" >Bachelor of Photography Bridge&nbsp;&nbsp;&nbsp; (PBAPS)</option>
+
+ 
+  <option value="PBAHS" >BAHSc  Athletic Therapy&nbsp;&nbsp;&nbsp; (PBAHS)</option>
+
+ 
+  <option value="1914" >BAHSc (Athletic Therapy)&nbsp;&nbsp;&nbsp; (1914)</option>
+
+ 
+  <option value="PBAES" >BAHSc-Ex Sci and  Health Promo&nbsp;&nbsp;&nbsp; (PBAES)</option>
+
+ 
+  <option value="PBAIS" >BAISc (Info Systems Security)&nbsp;&nbsp;&nbsp; (PBAIS)</option>
+
+ 
+  <option value="PBISB" >BAISc(Bridging to Second Year)&nbsp;&nbsp;&nbsp; (PBISB)</option>
+
+ 
+  <option value="PBSSB" >BAISc(Bridging to Third Year)&nbsp;&nbsp;&nbsp; (PBSSB)</option>
+
+ 
+  <option value="PBAWM" >Banking and Wealth Management&nbsp;&nbsp;&nbsp; (PBAWM)</option>
+
+ 
+  <option value="PBAWC" >Banking and Wealth Mgmt Coop&nbsp;&nbsp;&nbsp; (PBAWC)</option>
+
+ 
+  <option value="PBHSK" >BHSK Kinesiology & Health Prom&nbsp;&nbsp;&nbsp; (PBHSK)</option>
+
+ 
+  <option value="CBSCW" >Build Your Way to Success&nbsp;&nbsp;&nbsp; (CBSCW)</option>
+
+ 
+  <option value="CBES2" >Building Env. Sys. Operator-C2&nbsp;&nbsp;&nbsp; (CBES2)</option>
+
+ 
+  <option value="CBESF" >Building Envir Syst Facility M&nbsp;&nbsp;&nbsp; (CBESF)</option>
+
+ 
+  <option value="CBES1" >Building Environmental Systems&nbsp;&nbsp;&nbsp; (CBES1)</option>
+
+ 
+  <option value="CBESS" >Building Environmental Systems&nbsp;&nbsp;&nbsp; (CBESS)</option>
+
+ 
+  <option value="A220" >Bus Admin-Human Resources&nbsp;&nbsp;&nbsp; (A220)</option>
+
+ 
+  <option value="PBAPM" >Bus Analysis & Process Mgmt&nbsp;&nbsp;&nbsp; (PBAPM)</option>
+
+ 
+  <option value="CBUSG" >Business&nbsp;&nbsp;&nbsp; (CBUSG)</option>
+
+ 
+  <option value="PBUSS" >Business&nbsp;&nbsp;&nbsp; (PBUSS)</option>
+
+ 
+  <option value="2150" >Business&nbsp;&nbsp;&nbsp; (2150)</option>
+
+ 
+  <option value="PBUSSS" >Business&nbsp;&nbsp;&nbsp; (PBUSSS)</option>
+
+ 
+  <option value="CBUSA" >Business - Accounting Major&nbsp;&nbsp;&nbsp; (CBUSA)</option>
+
+ 
+  <option value="CBUOR" >Business - Other Related&nbsp;&nbsp;&nbsp; (CBUOR)</option>
+
+ 
+  <option value="PBUSA" >Business Accounting&nbsp;&nbsp;&nbsp; (PBUSA)</option>
+
+ 
+  <option value="CBAMA" >Business Admin - Marketing&nbsp;&nbsp;&nbsp; (CBAMA)</option>
+
+ 
+  <option value="PBSAA" >Business Admin Accounting&nbsp;&nbsp;&nbsp; (PBSAA)</option>
+
+ 
+  <option value="PBSAC" >Business Admin Acctg Coop&nbsp;&nbsp;&nbsp; (PBSAC)</option>
+
+ 
+  <option value="PBAFI" >Business Admin Finance&nbsp;&nbsp;&nbsp; (PBAFI)</option>
+
+ 
+  <option value="PBAHC" >Business Admin Human Coop&nbsp;&nbsp;&nbsp; (PBAHC)</option>
+
+ 
+  <option value="PBAMK" >Business Admin Marketing&nbsp;&nbsp;&nbsp; (PBAMK)</option>
+
+ 
+  <option value="PBAMC" >Business Admin Marketing Coop&nbsp;&nbsp;&nbsp; (PBAMC)</option>
+
+ 
+  <option value="2800" >Business Administration&nbsp;&nbsp;&nbsp; (2800)</option>
+
+ 
+  <option value="PBAHR" >Business Administration Human&nbsp;&nbsp;&nbsp; (PBAHR)</option>
+
+ 
+  <option value="CBUAN" >Business Analysis&nbsp;&nbsp;&nbsp; (CBUAN)</option>
+
+ 
+  <option value="CBUWR" >Business Communication Skills&nbsp;&nbsp;&nbsp; (CBUWR)</option>
+
+ 
+  <option value="PBUFI" >Business Finance&nbsp;&nbsp;&nbsp; (PBUFI)</option>
+
+ 
+  <option value="CBUGD" >Business General&nbsp;&nbsp;&nbsp; (CBUGD)</option>
+
+ 
+  <option value="PBUHRS" >Business Human Resources&nbsp;&nbsp;&nbsp; (PBUHRS)</option>
+
+ 
+  <option value="PBUHR" >Business Human Resources&nbsp;&nbsp;&nbsp; (PBUHR)</option>
+
+ 
+  <option value="CBUMD" >Business Marketing&nbsp;&nbsp;&nbsp; (CBUMD)</option>
+
+ 
+  <option value="PBUMK" >Business Marketing&nbsp;&nbsp;&nbsp; (PBUMK)</option>
+
+ 
+  <option value="PBPRI" >Business Process Management&nbsp;&nbsp;&nbsp; (PBPRI)</option>
+
+ 
+  <option value="A551" >Business-General 2B&nbsp;&nbsp;&nbsp; (A551)</option>
+
+ 
+  <option value="A090" >Business-General 2B&nbsp;&nbsp;&nbsp; (A090)</option>
+
+ 
+  <option value="CCDCM" >CAD/CAM&nbsp;&nbsp;&nbsp; (CCDCM)</option>
+
+ 
+  <option value="CXCIE" >Canadian Institute of Entrepre&nbsp;&nbsp;&nbsp; (CXCIE)</option>
+
+ 
+  <option value="CXCIM" >Canadian Institute of Manageme&nbsp;&nbsp;&nbsp; (CXCIM)</option>
+
+ 
+  <option value="CXCIT" >Canadian Institute of Traffic&nbsp;&nbsp;&nbsp; (CXCIT)</option>
+
+ 
+  <option value="CXCNS" >Canadian Securities - Canadian&nbsp;&nbsp;&nbsp; (CXCNS)</option>
+
+ 
+  <option value="4140" >Ceramics 2&nbsp;&nbsp;&nbsp; (4140)</option>
+
+ 
+  <option value="CCFSA" >Cert Financial Service Advisor&nbsp;&nbsp;&nbsp; (CCFSA)</option>
+
+ 
+  <option value="CXCPM" >Certified Payroll Manager&nbsp;&nbsp;&nbsp; (CXCPM)</option>
+
+ 
+  <option value="CCHGM" >Change Management Leadership&nbsp;&nbsp;&nbsp; (CCHGM)</option>
+
+ 
+  <option value="5891" >Chem Eng Techy Env&nbsp;&nbsp;&nbsp; (5891)</option>
+
+ 
+  <option value="PCETC" >Chem Engineering Techy Coop&nbsp;&nbsp;&nbsp; (PCETC)</option>
+
+ 
+  <option value="PCETE" >Chem. Eng. Tech-Environmental&nbsp;&nbsp;&nbsp; (PCETE)</option>
+
+ 
+  <option value="PCETY" >Chemical Engineering Techy&nbsp;&nbsp;&nbsp; (PCETY)</option>
+
+ 
+  <option value="PCLTN" >Chemical Laboratory Technician&nbsp;&nbsp;&nbsp; (PCLTN)</option>
+
+ 
+  <option value="5210" >Chemical Technician Laboratory&nbsp;&nbsp;&nbsp; (5210)</option>
+
+ 
+  <option value="PCYCD" >Child and Youth Care&nbsp;&nbsp;&nbsp; (PCYCD)</option>
+
+ 
+  <option value="PCYWK" >Child and Youth Worker&nbsp;&nbsp;&nbsp; (PCYWK)</option>
+
+ 
+  <option value="CCCNA" >Cisco Certified Network Associ&nbsp;&nbsp;&nbsp; (CCCNA)</option>
+
+ 
+  <option value="CCCMG" >Commercial Construction Mgmnt&nbsp;&nbsp;&nbsp; (CCCMG)</option>
+
+ 
+  <option value="PCCIT" >Communication, Culture and IT&nbsp;&nbsp;&nbsp; (PCCIT)</option>
+
+ 
+  <option value="PCAJS" >Community and Justice Services&nbsp;&nbsp;&nbsp; (PCAJS)</option>
+
+ 
+  <option value="PCWOD" >Community Worker -Out&Dev&nbsp;&nbsp;&nbsp; (PCWOD)</option>
+
+ 
+  <option value="1001" >Community Worker-Outreach & Dv&nbsp;&nbsp;&nbsp; (1001)</option>
+
+ 
+  <option value="PCADC" >Comp Animation-Dig Char An&nbsp;&nbsp;&nbsp; (PCADC)</option>
+
+ 
+  <option value="PCADV" >Comp Animation-Dig Vis Eff&nbsp;&nbsp;&nbsp; (PCADV)</option>
+
+ 
+  <option value="3240" >Comp Pgr Anal Coop3K*&nbsp;&nbsp;&nbsp; (3240)</option>
+
+ 
+  <option value="PCSTC" >Comp Science Techy Coop&nbsp;&nbsp;&nbsp; (PCSTC)</option>
+
+ 
+  <option value="PCANM" >Computer Animation&nbsp;&nbsp;&nbsp; (PCANM)</option>
+
+ 
+  <option value="PCPEC" >Computer Engineering Tech Coop&nbsp;&nbsp;&nbsp; (PCPEC)</option>
+
+ 
+  <option value="PCPETS" >Computer Engineering Technolog&nbsp;&nbsp;&nbsp; (PCPETS)</option>
+
+ 
+  <option value="PCPET" >Computer Engineering Technolog&nbsp;&nbsp;&nbsp; (PCPET)</option>
+
+ 
+  <option value="PCPEN" >Computer EngineeringTechnician&nbsp;&nbsp;&nbsp; (PCPEN)</option>
+
+ 
+  <option value="PCOMF" >Computer Foundations&nbsp;&nbsp;&nbsp; (PCOMF)</option>
+
+ 
+  <option value="PCPAC" >Computer Prgmr  Analyst Coop&nbsp;&nbsp;&nbsp; (PCPAC)</option>
+
+ 
+  <option value="PCOMI" >Computer Programmer&nbsp;&nbsp;&nbsp; (PCOMI)</option>
+
+ 
+  <option value="PCOMP" >Computer Programmer&nbsp;&nbsp;&nbsp; (PCOMP)</option>
+
+ 
+  <option value="3220" >Computer Programmer&nbsp;&nbsp;&nbsp; (3220)</option>
+
+ 
+  <option value="PCPAN" >Computer Programmer Analyst&nbsp;&nbsp;&nbsp; (PCPAN)</option>
+
+ 
+  <option value="CCPIN" >Computer Programming - Intro&nbsp;&nbsp;&nbsp; (CCPIN)</option>
+
+ 
+  <option value="PCSTN" >Computer Science Techy&nbsp;&nbsp;&nbsp; (PCSTN)</option>
+
+ 
+  <option value="PCSDC" >Computer Science Techy Coop&nbsp;&nbsp;&nbsp; (PCSDC)</option>
+
+ 
+  <option value="E110" >Computer Science Techy Coop&nbsp;&nbsp;&nbsp; (E110)</option>
+
+ 
+  <option value="PCSSNS" >Computer Systems Technician&nbsp;&nbsp;&nbsp; (PCSSNS)</option>
+
+ 
+  <option value="PCSAC" >Computer Systems Technol. Coop&nbsp;&nbsp;&nbsp; (PCSAC)</option>
+
+ 
+  <option value="PCSSC" >Computer Systems Technology&nbsp;&nbsp;&nbsp; (PCSSC)</option>
+
+ 
+  <option value="CCOND" >Condominium Management&nbsp;&nbsp;&nbsp; (CCOND)</option>
+
+ 
+  <option value="CNSTE" >Construction Estimator&nbsp;&nbsp;&nbsp; (CNSTE)</option>
+
+ 
+  <option value="CCESM" >Consulting Essentials&nbsp;&nbsp;&nbsp; (CCESM)</option>
+
+ 
+  <option value="PCCOM" >Corporate Communications&nbsp;&nbsp;&nbsp; (PCCOM)</option>
+
+ 
+  <option value="PCORW" >Correctional Worker&nbsp;&nbsp;&nbsp; (PCORW)</option>
+
+ 
+  <option value="2843" >Cosmetic Techniques & Mgmt&nbsp;&nbsp;&nbsp; (2843)</option>
+
+ 
+  <option value="PCTAM" >Cosmetic Techniques and Mgmt&nbsp;&nbsp;&nbsp; (PCTAM)</option>
+
+ 
+  <option value="CCATA" >Court and Tribunal Agent&nbsp;&nbsp;&nbsp; (CCATA)</option>
+
+ 
+  <option value="PCATA" >Court and Tribunal Agent&nbsp;&nbsp;&nbsp; (PCATA)</option>
+
+ 
+  <option value="PCRDS" >Crafts and Design&nbsp;&nbsp;&nbsp; (PCRDS)</option>
+
+ 
+  <option value="PCRIM" >Creative Industries Management&nbsp;&nbsp;&nbsp; (PCRIM)</option>
+
+ 
+  <option value="CCRWR" >Creative Writing&nbsp;&nbsp;&nbsp; (CCRWR)</option>
+
+ 
+  <option value="CXCUI" >Credit Union Institute of Cana&nbsp;&nbsp;&nbsp; (CXCUI)</option>
+
+ 
+  <option value="CRMPB" >Criminal Psych. and Behaviour&nbsp;&nbsp;&nbsp; (CRMPB)</option>
+
+ 
+  <option value="EBCS" >Cross College Communication&nbsp;&nbsp;&nbsp; (EBCS)</option>
+
+ 
+  <option value="_CCGE" >Cross College Courses&nbsp;&nbsp;&nbsp; (_CCGE)</option>
+
+ 
+  <option value="_CCCC" >Cross-college communications courses&nbsp;&nbsp;&nbsp; (_CCCC)</option>
+
+ 
+  <option value="PSITI" >CST-Info Tech Infrastruct Svc&nbsp;&nbsp;&nbsp; (PSITI)</option>
+
+ 
+  <option value="PSISE" >CST-Information Systems Eng&nbsp;&nbsp;&nbsp; (PSISE)</option>
+
+ 
+  <option value="PCSTS" >CST-Software Dev & Network Eng&nbsp;&nbsp;&nbsp; (PCSTS)</option>
+
+ 
+  <option value="PCSSN" >CST-Software Engineering&nbsp;&nbsp;&nbsp; (PCSSN)</option>
+
+ 
+  <option value="PCSTA" >CST-Systems Analyst&nbsp;&nbsp;&nbsp; (PCSTA)</option>
+
+ 
+  <option value="CCYLG" >Cybersecurity - Legal & Ethic&nbsp;&nbsp;&nbsp; (CCYLG)</option>
+
+ 
+  <option value="CCYFN" >Cybersecurity Foundations&nbsp;&nbsp;&nbsp; (CCYFN)</option>
+
+ 
+  <option value="CDISC" >Data Science&nbsp;&nbsp;&nbsp; (CDISC)</option>
+
+ 
+  <option value="CDABA" >Database - Introductory&nbsp;&nbsp;&nbsp; (CDABA)</option>
+
+ 
+  <option value="_DB" >Degree Breadth&nbsp;&nbsp;&nbsp; (_DB)</option>
+
+ 
+  <option value="BRDTH" >Degree Breadth&nbsp;&nbsp;&nbsp; (BRDTH)</option>
+
+ 
+  <option value="PDSAP" >Design for an Aging Population&nbsp;&nbsp;&nbsp; (PDSAP)</option>
+
+ 
+  <option value="PCDCA" >Digital Creature Animation&nbsp;&nbsp;&nbsp; (PCDCA)</option>
+
+ 
+  <option value="CDGMT" >Digital Marketing&nbsp;&nbsp;&nbsp; (CDGMT)</option>
+
+ 
+  <option value="CDMMT" >Digital Marketing Foundations&nbsp;&nbsp;&nbsp; (CDMMT)</option>
+
+ 
+  <option value="CCPHO" >Digital Photography&nbsp;&nbsp;&nbsp; (CCPHO)</option>
+
+ 
+  <option value="CDPHO" >Digital Photography&nbsp;&nbsp;&nbsp; (CDPHO)</option>
+
+ 
+  <option value="CXDRS" >Dispute Resolution&nbsp;&nbsp;&nbsp; (CXDRS)</option>
+
+ 
+  <option value="CDFAN" >Drawing for Animators&nbsp;&nbsp;&nbsp; (CDFAN)</option>
+
+ 
+  <option value="2035" >E-Commerce Management&nbsp;&nbsp;&nbsp; (2035)</option>
+
+ 
+  <option value="PECOM" >E-commerce Management&nbsp;&nbsp;&nbsp; (PECOM)</option>
+
+ 
+  <option value="PECAT" >Early Childhood Assistant&nbsp;&nbsp;&nbsp; (PECAT)</option>
+
+ 
+  <option value="PECDI" >Early Childhood Educ - Intensi&nbsp;&nbsp;&nbsp; (PECDI)</option>
+
+ 
+  <option value="PECED" >Early Childhood Education&nbsp;&nbsp;&nbsp; (PECED)</option>
+
+ 
+  <option value="PECEI" >Early Childhood Education Int&nbsp;&nbsp;&nbsp; (PECEI)</option>
+
+ 
+  <option value="CECED" >Early Childhood Education-2 yr&nbsp;&nbsp;&nbsp; (CECED)</option>
+
+ 
+  <option value="1192" >Ece (Erin)1K&nbsp;&nbsp;&nbsp; (1192)</option>
+
+ 
+  <option value="PCEAD" >Educational Assistant&nbsp;&nbsp;&nbsp; (PCEAD)</option>
+
+ 
+  <option value="PEDAS" >Educational Assistant&nbsp;&nbsp;&nbsp; (PEDAS)</option>
+
+ 
+  <option value="PEDAI" >Educational Assistant- Intens&nbsp;&nbsp;&nbsp; (PEDAI)</option>
+
+ 
+  <option value="PCESD" >Educational Support&nbsp;&nbsp;&nbsp; (PCESD)</option>
+
+ 
+  <option value="PEDSI" >Educational Support Intensive&nbsp;&nbsp;&nbsp; (PEDSI)</option>
+
+ 
+  <option value="3060" >Elec Eng Techn 1K&nbsp;&nbsp;&nbsp; (3060)</option>
+
+ 
+  <option value="PETEN" >Electrical Engineering Technic&nbsp;&nbsp;&nbsp; (PETEN)</option>
+
+ 
+  <option value="PETEQ" >Electrical Techniques&nbsp;&nbsp;&nbsp; (PETEQ)</option>
+
+ 
+  <option value="SCOTL" >Electrical Techniques&nbsp;&nbsp;&nbsp; (SCOTL)</option>
+
+ 
+  <option value="AELCM" >Electrician - Const/Maint&nbsp;&nbsp;&nbsp; (AELCM)</option>
+
+ 
+  <option value="SEPRT" >Electrician - Pre Trade&nbsp;&nbsp;&nbsp; (SEPRT)</option>
+
+ 
+  <option value="PEPRT" >Electrician Pre-Trade&nbsp;&nbsp;&nbsp; (PEPRT)</option>
+
+ 
+  <option value="PELTNM" >Electromech Eng Technician&nbsp;&nbsp;&nbsp; (PELTNM)</option>
+
+ 
+  <option value="5015" >Electromech Eng Technician&nbsp;&nbsp;&nbsp; (5015)</option>
+
+ 
+  <option value="PEMTC" >Electromech Eng Techy Coop&nbsp;&nbsp;&nbsp; (PEMTC)</option>
+
+ 
+  <option value="PELTN" >Electromechanical Eng Technic&nbsp;&nbsp;&nbsp; (PELTN)</option>
+
+ 
+  <option value="PEMTY" >Electromechanical Engi Technol&nbsp;&nbsp;&nbsp; (PEMTY)</option>
+
+ 
+  <option value="5170" >Electronics Eng Techn&nbsp;&nbsp;&nbsp; (5170)</option>
+
+ 
+  <option value="PEETN" >Electronics Eng Technician&nbsp;&nbsp;&nbsp; (PEETN)</option>
+
+ 
+  <option value="PELTY" >Electronics Eng Technology&nbsp;&nbsp;&nbsp; (PELTY)</option>
+
+ 
+  <option value="PEETC" >Electronics Eng Techy Coop&nbsp;&nbsp;&nbsp; (PEETC)</option>
+
+ 
+  <option value="PEETT" >Electronics Eng Techy Telecomm&nbsp;&nbsp;&nbsp; (PEETT)</option>
+
+ 
+  <option value="PEMGD" >Emergency Management (1 yr.)&nbsp;&nbsp;&nbsp; (PEMGD)</option>
+
+ 
+  <option value="SESLG" >English as a Second Language&nbsp;&nbsp;&nbsp; (SESLG)</option>
+
+ 
+  <option value="SESL1" >English as a Second Language&nbsp;&nbsp;&nbsp; (SESL1)</option>
+
+ 
+  <option value="_ESLLINC" >English as a Second Language-LINC&nbsp;&nbsp;&nbsp; (_ESLLINC)</option>
+
+ 
+  <option value="PGASE" >English Language Studies (ESL)&nbsp;&nbsp;&nbsp; (PGASE)</option>
+
+ 
+  <option value="CEFTW" >English/French Trans Workplace&nbsp;&nbsp;&nbsp; (CEFTW)</option>
+
+ 
+  <option value="SPELT" >Enhanced Lang Train Pathway&nbsp;&nbsp;&nbsp; (SPELT)</option>
+
+ 
+  <option value="SELTH" >Enhanced LangTrain Human Serv&nbsp;&nbsp;&nbsp; (SELTH)</option>
+
+ 
+  <option value="3056" >Enterprise Database Management&nbsp;&nbsp;&nbsp; (3056)</option>
+
+ 
+  <option value="PEDMD" >Enterprise Database Management&nbsp;&nbsp;&nbsp; (PEDMD)</option>
+
+ 
+  <option value="CENBU" >Entrepreneurship and Small Bus&nbsp;&nbsp;&nbsp; (CENBU)</option>
+
+ 
+  <option value="PENCT" >Environmental Control&nbsp;&nbsp;&nbsp; (PENCT)</option>
+
+ 
+  <option value="CENDS" >Environmental Development&nbsp;&nbsp;&nbsp; (CENDS)</option>
+
+ 
+  <option value="X011" >Environmental Sc Tn&nbsp;&nbsp;&nbsp; (X011)</option>
+
+ 
+  <option value="PENST" >Environmental Techn&nbsp;&nbsp;&nbsp; (PENST)</option>
+
+ 
+  <option value="PESTH" >Esthetician&nbsp;&nbsp;&nbsp; (PESTH)</option>
+
+ 
+  <option value="1340" >Esthetician&nbsp;&nbsp;&nbsp; (1340)</option>
+
+ 
+  <option value="CESTH" >Esthetics&nbsp;&nbsp;&nbsp; (CESTH)</option>
+
+ 
+  <option value="CEVNT" >Event Management&nbsp;&nbsp;&nbsp; (CEVNT)</option>
+
+ 
+  <option value="CEMVB" >Excel Macros & VB for Apps&nbsp;&nbsp;&nbsp; (CEMVB)</option>
+
+ 
+  <option value="4180" >Fabrics 2&nbsp;&nbsp;&nbsp; (4180)</option>
+
+ 
+  <option value="CFITV" >Film and Television&nbsp;&nbsp;&nbsp; (CFITV)</option>
+
+ 
+  <option value="CFNPL" >Financial Planning&nbsp;&nbsp;&nbsp; (CFNPL)</option>
+
+ 
+  <option value="PFINP" >Financial Planning&nbsp;&nbsp;&nbsp; (PFINP)</option>
+
+ 
+  <option value="CFFAR" >Fine Arts&nbsp;&nbsp;&nbsp; (CFFAR)</option>
+
+ 
+  <option value="CFAOR" >Fine Arts -  Other Related&nbsp;&nbsp;&nbsp; (CFAOR)</option>
+
+ 
+  <option value="PFITL" >Fitness Leadership&nbsp;&nbsp;&nbsp; (PFITL)</option>
+
+ 
+  <option value="CXCFS" >Food Systems&nbsp;&nbsp;&nbsp; (CXCFS)</option>
+
+ 
+  <option value="CFROR" >French - Online learning&nbsp;&nbsp;&nbsp; (CFROR)</option>
+
+ 
+  <option value="CFREP" >French Convers. Proficiency&nbsp;&nbsp;&nbsp; (CFREP)</option>
+
+ 
+  <option value="CFEWD" >Front-End Web Developer Founda&nbsp;&nbsp;&nbsp; (CFEWD)</option>
+
+ 
+  <option value="CFEWC" >Front-End Web Development&nbsp;&nbsp;&nbsp; (CFEWC)</option>
+
+ 
+  <option value="CFCDS" >Fundamentals of Craft & Design&nbsp;&nbsp;&nbsp; (CFCDS)</option>
+
+ 
+  <option value="CFPHO" >Fundamentals of Photography&nbsp;&nbsp;&nbsp; (CFPHO)</option>
+
+ 
+  <option value="4100" >Furniture 2&nbsp;&nbsp;&nbsp; (4100)</option>
+
+ 
+  <option value="PGDAP" >Game Development Advanced Prog&nbsp;&nbsp;&nbsp; (PGDAP)</option>
+
+ 
+  <option value="PGLDS" >Game Level Design&nbsp;&nbsp;&nbsp; (PGLDS)</option>
+
+ 
+  <option value="B330" >Gen Arts & Science 1B&nbsp;&nbsp;&nbsp; (B330)</option>
+
+ 
+  <option value="13H1" >Gen Arts & Science Pre Health&nbsp;&nbsp;&nbsp; (13H1)</option>
+
+ 
+  <option value="13G1" >General Arts & Science Col&nbsp;&nbsp;&nbsp; (13G1)</option>
+
+ 
+  <option value="PGASB" >General Arts & Science Pre-Bus&nbsp;&nbsp;&nbsp; (PGASB)</option>
+
+ 
+  <option value="PGASC" >General Arts and Sci General&nbsp;&nbsp;&nbsp; (PGASC)</option>
+
+ 
+  <option value="PGASH" >General Arts and Sci Health&nbsp;&nbsp;&nbsp; (PGASH)</option>
+
+ 
+  <option value="PCGAS" >General Arts and Science&nbsp;&nbsp;&nbsp; (PCGAS)</option>
+
+ 
+  <option value="13D0" >General Arts and Science&nbsp;&nbsp;&nbsp; (13D0)</option>
+
+ 
+  <option value="PGAST" >General Arts and Science Techy&nbsp;&nbsp;&nbsp; (PGAST)</option>
+
+ 
+  <option value="PGASU" >General Arts&Science-Universit&nbsp;&nbsp;&nbsp; (PGASU)</option>
+
+ 
+  <option value="GENED" >General Education&nbsp;&nbsp;&nbsp; (GENED)</option>
+
+ 
+  <option value="CENED" >General Education Electives&nbsp;&nbsp;&nbsp; (CENED)</option>
+
+ 
+  <option value="AGENI" >General Machinist&nbsp;&nbsp;&nbsp; (AGENI)</option>
+
+ 
+  <option value="CGASU" >General Studies&nbsp;&nbsp;&nbsp; (CGASU)</option>
+
+ 
+  <option value="CGISY" >Geographic Information Systems&nbsp;&nbsp;&nbsp; (CGISY)</option>
+
+ 
+  <option value="4220" >Glass 2&nbsp;&nbsp;&nbsp; (4220)</option>
+
+ 
+  <option value="PBGBM" >Global Business Management&nbsp;&nbsp;&nbsp; (PBGBM)</option>
+
+ 
+  <option value="CHSRM" >Health & Safety Risk Mgmt&nbsp;&nbsp;&nbsp; (CHSRM)</option>
+
+ 
+  <option value="PHDTN" >Help Desk Technician&nbsp;&nbsp;&nbsp; (PHDTN)</option>
+
+ 
+  <option value="CHITP" >Home Inspection Training Prog&nbsp;&nbsp;&nbsp; (CHITP)</option>
+
+ 
+  <option value="PBCWP" >Hon Bach Creative Writ & Publ&nbsp;&nbsp;&nbsp; (PBCWP)</option>
+
+ 
+  <option value="PBAAI" >Honours Bach of Illustration&nbsp;&nbsp;&nbsp; (PBAAI)</option>
+
+ 
+  <option value="CHORT" >Horticultural Studies&nbsp;&nbsp;&nbsp; (CHORT)</option>
+
+ 
+  <option value="CHPTR" >Human Performance Training&nbsp;&nbsp;&nbsp; (CHPTR)</option>
+
+ 
+  <option value="CCHRL" >Human Resource - Certified Hum&nbsp;&nbsp;&nbsp; (CCHRL)</option>
+
+ 
+  <option value="CCHRP" >Human Resource -Certified Hum&nbsp;&nbsp;&nbsp; (CCHRP)</option>
+
+ 
+  <option value="CHRMT" >Human Resource Management&nbsp;&nbsp;&nbsp; (CHRMT)</option>
+
+ 
+  <option value="CHROR" >Human Resources - Other Relate&nbsp;&nbsp;&nbsp; (CHROR)</option>
+
+ 
+  <option value="PHRMC" >Human Resources Management&nbsp;&nbsp;&nbsp; (PHRMC)</option>
+
+ 
+  <option value="PHSAD" >Human Services Administration&nbsp;&nbsp;&nbsp; (PHSAD)</option>
+
+ 
+  <option value="CIELT" >IELTS Academic Preparation Crs&nbsp;&nbsp;&nbsp; (CIELT)</option>
+
+ 
+  <option value="PILLS" >Illustration&nbsp;&nbsp;&nbsp; (PILLS)</option>
+
+ 
+  <option value="PILLI" >Illustration - Interpretive&nbsp;&nbsp;&nbsp; (PILLI)</option>
+
+ 
+  <option value="PILLT" >Illustration - Tech and Sci&nbsp;&nbsp;&nbsp; (PILLT)</option>
+
+ 
+  <option value="AIMM3" >Ind Mech Millwright Advanced&nbsp;&nbsp;&nbsp; (AIMM3)</option>
+
+ 
+  <option value="AIMM1" >Ind Mech Millwright Basic&nbsp;&nbsp;&nbsp; (AIMM1)</option>
+
+ 
+  <option value="AIMM2" >Ind Mech Millwright Interm&nbsp;&nbsp;&nbsp; (AIMM2)</option>
+
+ 
+  <option value="AINMM" >Industrial Maintenance Mechan&nbsp;&nbsp;&nbsp; (AINMM)</option>
+
+ 
+  <option value="PITPI" >Information Tech Prof Intern&nbsp;&nbsp;&nbsp; (PITPI)</option>
+
+ 
+  <option value="3614" >Information Technologies Suppo&nbsp;&nbsp;&nbsp; (3614)</option>
+
+ 
+  <option value="3610" >Information Technologies Suppo&nbsp;&nbsp;&nbsp; (3610)</option>
+
+ 
+  <option value="CXLCO" >Institute of Law Clerks of Ont&nbsp;&nbsp;&nbsp; (CXLCO)</option>
+
+ 
+  <option value="PCIMG" >Integrated Manufacturing Syst&nbsp;&nbsp;&nbsp; (PCIMG)</option>
+
+ 
+  <option value="PINME" >Interactive Media Management&nbsp;&nbsp;&nbsp; (PINME)</option>
+
+ 
+  <option value="PINMM" >Interactive Multimedia&nbsp;&nbsp;&nbsp; (PINMM)</option>
+
+ 
+  <option value="PINDE" >Interior Decorating&nbsp;&nbsp;&nbsp; (PINDE)</option>
+
+ 
+  <option value="CIDEC" >Interior Decorating&nbsp;&nbsp;&nbsp; (CIDEC)</option>
+
+ 
+  <option value="CIDOR" >Interior Decorating - Workshop&nbsp;&nbsp;&nbsp; (CIDOR)</option>
+
+ 
+  <option value="PINTD" >Interior Design&nbsp;&nbsp;&nbsp; (PINTD)</option>
+
+ 
+  <option value="6950" >Interior Design&nbsp;&nbsp;&nbsp; (6950)</option>
+
+ 
+  <option value="PINTB" >International Business&nbsp;&nbsp;&nbsp; (PINTB)</option>
+
+ 
+  <option value="PINTC" >International Business Coop&nbsp;&nbsp;&nbsp; (PINTC)</option>
+
+ 
+  <option value="CINBM" >International Business Managem&nbsp;&nbsp;&nbsp; (CINBM)</option>
+
+ 
+  <option value="PINBM" >International Business Mgmt&nbsp;&nbsp;&nbsp; (PINBM)</option>
+
+ 
+  <option value="CITGL" >International Trade and Global&nbsp;&nbsp;&nbsp; (CITGL)</option>
+
+ 
+  <option value="PICTCM" >Internet Commun Techno Modify&nbsp;&nbsp;&nbsp; (PICTCM)</option>
+
+ 
+  <option value="PICTC" >Internet Communic Technol Coop&nbsp;&nbsp;&nbsp; (PICTC)</option>
+
+ 
+  <option value="PICTE" >Internet Communications Tecnol&nbsp;&nbsp;&nbsp; (PICTE)</option>
+
+ 
+  <option value="CIOSD" >Intro to iOS Development&nbsp;&nbsp;&nbsp; (CIOSD)</option>
+
+ 
+  <option value="1002" >Investigation-Public & Private&nbsp;&nbsp;&nbsp; (1002)</option>
+
+ 
+  <option value="PIPAP" >Investigation-Public and Priv&nbsp;&nbsp;&nbsp; (PIPAP)</option>
+
+ 
+  <option value="CXIFC" >Investment Funds in Canada&nbsp;&nbsp;&nbsp; (CXIFC)</option>
+
+ 
+  <option value="CITOP" >IT Operations&nbsp;&nbsp;&nbsp; (CITOP)</option>
+
+ 
+  <option value="PITSS" >IT Support Services&nbsp;&nbsp;&nbsp; (PITSS)</option>
+
+ 
+  <option value="PITSSS" >IT Support Services&nbsp;&nbsp;&nbsp; (PITSSS)</option>
+
+ 
+  <option value="PITSC" >IT Support Services Coop&nbsp;&nbsp;&nbsp; (PITSC)</option>
+
+ 
+  <option value="PITSCM" >IT Support Services Coop&nbsp;&nbsp;&nbsp; (PITSCM)</option>
+
+ 
+  <option value="CITOR" >Italian&nbsp;&nbsp;&nbsp; (CITOR)</option>
+
+ 
+  <option value="CJAPN" >Japanese&nbsp;&nbsp;&nbsp; (CJAPN)</option>
+
+ 
+  <option value="CJAVA" >Java Foundations&nbsp;&nbsp;&nbsp; (CJAVA)</option>
+
+ 
+  <option value="PJRNL" >Journalism&nbsp;&nbsp;&nbsp; (PJRNL)</option>
+
+ 
+  <option value="PBRJR" >Journalism - Broadcast&nbsp;&nbsp;&nbsp; (PBRJR)</option>
+
+ 
+  <option value="PJOUR" >Journalism - Print&nbsp;&nbsp;&nbsp; (PJOUR)</option>
+
+ 
+  <option value="2747" >Journalism New Media&nbsp;&nbsp;&nbsp; (2747)</option>
+
+ 
+  <option value="PJRNM" >Journalism-New Media&nbsp;&nbsp;&nbsp; (PJRNM)</option>
+
+ 
+  <option value="2741" >Journalism-Print&nbsp;&nbsp;&nbsp; (2741)</option>
+
+ 
+  <option value="CJUOR" >Justice&nbsp;&nbsp;&nbsp; (CJUOR)</option>
+
+ 
+  <option value="CLBRL" >Labour Relations&nbsp;&nbsp;&nbsp; (CLBRL)</option>
+
+ 
+  <option value="PLAPS" >Law and Security Admin-Private&nbsp;&nbsp;&nbsp; (PLAPS)</option>
+
+ 
+  <option value="CLDVS" >Leadership Development Series&nbsp;&nbsp;&nbsp; (CLDVS)</option>
+
+ 
+  <option value="CSIXS" >Lean Six Sigma and Continuous&nbsp;&nbsp;&nbsp; (CSIXS)</option>
+
+ 
+  <option value="CLIAP" >Literature Appreciation&nbsp;&nbsp;&nbsp; (CLIAP)</option>
+
+ 
+  <option value="CMUAR" >Make-up Artistry&nbsp;&nbsp;&nbsp; (CMUAR)</option>
+
+ 
+  <option value="PMMCA" >Makeup for Media Creative Art&nbsp;&nbsp;&nbsp; (PMMCA)</option>
+
+ 
+  <option value="CMKAR" >Makeup Fundamentals&nbsp;&nbsp;&nbsp; (CMKAR)</option>
+
+ 
+  <option value="CMDSP" >Management Development Studies&nbsp;&nbsp;&nbsp; (CMDSP)</option>
+
+ 
+  <option value="CMSGN" >Management Studies (General)&nbsp;&nbsp;&nbsp; (CMSGN)</option>
+
+ 
+  <option value="CMSPR" >Management Studies-Production&nbsp;&nbsp;&nbsp; (CMSPR)</option>
+
+ 
+  <option value="PMFTN" >Manufacturing Engineering Tech&nbsp;&nbsp;&nbsp; (PMFTN)</option>
+
+ 
+  <option value="PMFET" >Manufacturing Engineering Tech&nbsp;&nbsp;&nbsp; (PMFET)</option>
+
+ 
+  <option value="PMFMT" >Manufacturing Management&nbsp;&nbsp;&nbsp; (PMFMT)</option>
+
+ 
+  <option value="CMKAS" >Marketing & Sales Certificate&nbsp;&nbsp;&nbsp; (CMKAS)</option>
+
+ 
+  <option value="CMKOR" >Marketing - Other Related&nbsp;&nbsp;&nbsp; (CMKOR)</option>
+
+ 
+  <option value="PMKMT" >Marketing Management&nbsp;&nbsp;&nbsp; (PMKMT)</option>
+
+ 
+  <option value="PMKMC" >Marketing Management Coop&nbsp;&nbsp;&nbsp; (PMKMC)</option>
+
+ 
+  <option value="CMSCP" >Math and Science - College Pre&nbsp;&nbsp;&nbsp; (CMSCP)</option>
+
+ 
+  <option value="CCEAD" >Mature Consumer Studies&nbsp;&nbsp;&nbsp; (CCEAD)</option>
+
+ 
+  <option value="5410" >Mech Eng Techn&nbsp;&nbsp;&nbsp; (5410)</option>
+
+ 
+  <option value="PMETD" >Mech Eng Techn Des Draft&nbsp;&nbsp;&nbsp; (PMETD)</option>
+
+ 
+  <option value="PMTDC" >Mech Eng Techn Draft Coop&nbsp;&nbsp;&nbsp; (PMTDC)</option>
+
+ 
+  <option value="5020" >Mech Eng Techn-Draft&nbsp;&nbsp;&nbsp; (5020)</option>
+
+ 
+  <option value="PMETY" >Mech Eng Technology&nbsp;&nbsp;&nbsp; (PMETY)</option>
+
+ 
+  <option value="PMETYM" >Mech Eng Technology&nbsp;&nbsp;&nbsp; (PMETYM)</option>
+
+ 
+  <option value="5100" >Mech Eng Techy&nbsp;&nbsp;&nbsp; (5100)</option>
+
+ 
+  <option value="PMEDD" >Mech Eng Techy Des Draft&nbsp;&nbsp;&nbsp; (PMEDD)</option>
+
+ 
+  <option value="PMDDC" >Mech Eng Techy-Des Draft Coop&nbsp;&nbsp;&nbsp; (PMDDC)</option>
+
+ 
+  <option value="5500" >Mech Eng Techy-Des/Dr&nbsp;&nbsp;&nbsp; (5500)</option>
+
+ 
+  <option value="PMETN" >Mech EngTechnician&nbsp;&nbsp;&nbsp; (PMETN)</option>
+
+ 
+  <option value="PMTTDS" >Mech Tech - Tool and Die Maker&nbsp;&nbsp;&nbsp; (PMTTDS)</option>
+
+ 
+  <option value="PMTTD" >Mech Tech - Tool and Die Maker&nbsp;&nbsp;&nbsp; (PMTTD)</option>
+
+ 
+  <option value="PMTTM" >Mechan. Technician Tool Making&nbsp;&nbsp;&nbsp; (PMTTM)</option>
+
+ 
+  <option value="PLUMB" >Mechanical Techniques Plumbing&nbsp;&nbsp;&nbsp; (PLUMB)</option>
+
+ 
+  <option value="PMEDA" >Media Arts&nbsp;&nbsp;&nbsp; (PMEDA)</option>
+
+ 
+  <option value="6700" >Media Arts&nbsp;&nbsp;&nbsp; (6700)</option>
+
+ 
+  <option value="PJITW" >Media for Global Professionals&nbsp;&nbsp;&nbsp; (PJITW)</option>
+
+ 
+  <option value="PMDAF" >Media Fundamentals&nbsp;&nbsp;&nbsp; (PMDAF)</option>
+
+ 
+  <option value="CMHAW" >Mental Health and Work&nbsp;&nbsp;&nbsp; (CMHAW)</option>
+
+ 
+  <option value="CMSHR" >Mgmt. Studies-Human Resources&nbsp;&nbsp;&nbsp; (CMSHR)</option>
+
+ 
+  <option value="CMSSB" >Mgmt. Studies-Small Business&nbsp;&nbsp;&nbsp; (CMSSB)</option>
+
+ 
+  <option value="CMSAC" >Microsoft Office Applications&nbsp;&nbsp;&nbsp; (CMSAC)</option>
+
+ 
+  <option value="CMBMK" >Mobile Marketing&nbsp;&nbsp;&nbsp; (CMBMK)</option>
+
+ 
+  <option value="PMCTE" >Montessori EC Teacher Ed&nbsp;&nbsp;&nbsp; (PMCTE)</option>
+
+ 
+  <option value="CMRAP" >Mortgage Agent Program&nbsp;&nbsp;&nbsp; (CMRAP)</option>
+
+ 
+  <option value="AMLDM" >Mould Maker&nbsp;&nbsp;&nbsp; (AMLDM)</option>
+
+ 
+  <option value="PMSVE" >Music Stge Scrn VisEnv MASSIVE&nbsp;&nbsp;&nbsp; (PMSVE)</option>
+
+ 
+  <option value="PMUST" >Music Theatre - Performance&nbsp;&nbsp;&nbsp; (PMUST)</option>
+
+ 
+  <option value="6320" >Music Theatre-Performance&nbsp;&nbsp;&nbsp; (6320)</option>
+
+ 
+  <option value="COHSA" >Occupational Health and Safety&nbsp;&nbsp;&nbsp; (COHSA)</option>
+
+ 
+  <option value="2180" >Off Admin-Exec&nbsp;&nbsp;&nbsp; (2180)</option>
+
+ 
+  <option value="2120" >Office Admin&nbsp;&nbsp;&nbsp; (2120)</option>
+
+ 
+  <option value="POFAE" >Office Admin - Executive&nbsp;&nbsp;&nbsp; (POFAE)</option>
+
+ 
+  <option value="POAHS" >Office Admin - Health Services&nbsp;&nbsp;&nbsp; (POAHS)</option>
+
+ 
+  <option value="POFLC" >Office Admin. Legal Coop&nbsp;&nbsp;&nbsp; (POFLC)</option>
+
+ 
+  <option value="COFAD" >Office Administration&nbsp;&nbsp;&nbsp; (COFAD)</option>
+
+ 
+  <option value="POFAD" >Office Administration&nbsp;&nbsp;&nbsp; (POFAD)</option>
+
+ 
+  <option value="COACB" >Office Administration - Comput&nbsp;&nbsp;&nbsp; (COACB)</option>
+
+ 
+  <option value="COAMD" >Office Administration -Medical&nbsp;&nbsp;&nbsp; (COAMD)</option>
+
+ 
+  <option value="POFAL" >Office Administration Legal&nbsp;&nbsp;&nbsp; (POFAL)</option>
+
+ 
+  <option value="POFAI" >Office Administration Med Int&nbsp;&nbsp;&nbsp; (POFAI)</option>
+
+ 
+  <option value="POFAM" >Office Administration Medical&nbsp;&nbsp;&nbsp; (POFAM)</option>
+
+ 
+  <option value="COAGE" >Office Administration-General&nbsp;&nbsp;&nbsp; (COAGE)</option>
+
+ 
+  <option value="COALG" >Office Administration-Legal&nbsp;&nbsp;&nbsp; (COALG)</option>
+
+ 
+  <option value="COTMT" >Office Technology Management&nbsp;&nbsp;&nbsp; (COTMT)</option>
+
+ 
+  <option value="COMBM" >OMDP - Business Mgmt. Skills&nbsp;&nbsp;&nbsp; (COMBM)</option>
+
+ 
+  <option value="COMLS" >OMDP - Leadership Skills&nbsp;&nbsp;&nbsp; (COMLS)</option>
+
+ 
+  <option value="PARAL" >Paralegal&nbsp;&nbsp;&nbsp; (PARAL)</option>
+
+ 
+  <option value="CPRAD" >Payroll Administration&nbsp;&nbsp;&nbsp; (CPRAD)</option>
+
+ 
+  <option value="CXPCP" >Payroll Compliance Practitione&nbsp;&nbsp;&nbsp; (CXPCP)</option>
+
+ 
+  <option value="PPAPN" >Performing Arts - Preparation&nbsp;&nbsp;&nbsp; (PPAPN)</option>
+
+ 
+  <option value="CPFTC" >Personal Fitness Trainer&nbsp;&nbsp;&nbsp; (CPFTC)</option>
+
+ 
+  <option value="PPSWK" >Personal Support Worker&nbsp;&nbsp;&nbsp; (PPSWK)</option>
+
+ 
+  <option value="PPHTN" >Pharmacy Technician&nbsp;&nbsp;&nbsp; (PPHTN)</option>
+
+ 
+  <option value="CPHOR" >Photography - Other Related&nbsp;&nbsp;&nbsp; (CPHOR)</option>
+
+ 
+  <option value="CPHOF" >Photography Fundamentals&nbsp;&nbsp;&nbsp; (CPHOF)</option>
+
+ 
+  <option value="CPHWK" >Photography Workshops&nbsp;&nbsp;&nbsp; (CPHWK)</option>
+
+ 
+  <option value="PLUMN" >Plumbing Technician&nbsp;&nbsp;&nbsp; (PLUMN)</option>
+
+ 
+  <option value="PPOLF" >Police Foundations&nbsp;&nbsp;&nbsp; (PPOLF)</option>
+
+ 
+  <option value="CPOLS" >Police Studies&nbsp;&nbsp;&nbsp; (CPOLS)</option>
+
+ 
+  <option value="CFILL" >Portfolio Dev for Illustrators&nbsp;&nbsp;&nbsp; (CFILL)</option>
+
+ 
+  <option value="CPDAN" >Portfolio Dev. for Animators&nbsp;&nbsp;&nbsp; (CPDAN)</option>
+
+ 
+  <option value="PPNSG" >Practical Nursing&nbsp;&nbsp;&nbsp; (PPNSG)</option>
+
+ 
+  <option value="PPHSS" >Pre-Health Sciences Pathway&nbsp;&nbsp;&nbsp; (PPHSS)</option>
+
+ 
+  <option value="CPMCH" >Precision Machining&nbsp;&nbsp;&nbsp; (CPMCH)</option>
+
+ 
+  <option value="CMACS" >Precision Machining&nbsp;&nbsp;&nbsp; (CMACS)</option>
+
+ 
+  <option value="CXPOM" >Principle Operation Management&nbsp;&nbsp;&nbsp; (CXPOM)</option>
+
+ 
+  <option value="PPACG" >Professional Accounting Grad&nbsp;&nbsp;&nbsp; (PPACG)</option>
+
+ 
+  <option value="CHLTC" >Professional Development for M&nbsp;&nbsp;&nbsp; (CHLTC)</option>
+
+ 
+  <option value="CPFDV" >Professional Development Works&nbsp;&nbsp;&nbsp; (CPFDV)</option>
+
+ 
+  <option value="CFREN" >Proficiency in Convers. French&nbsp;&nbsp;&nbsp; (CFREN)</option>
+
+ 
+  <option value="CPLCL" >Programmable Logic Control&nbsp;&nbsp;&nbsp; (CPLCL)</option>
+
+ 
+  <option value="CPRMT" >Project Management&nbsp;&nbsp;&nbsp; (CPRMT)</option>
+
+ 
+  <option value="CPJMG" >Project Management&nbsp;&nbsp;&nbsp; (CPJMG)</option>
+
+ 
+  <option value="PPRJM" >Project Management&nbsp;&nbsp;&nbsp; (PPRJM)</option>
+
+ 
+  <option value="CPJOR" >Project Management - Other rel&nbsp;&nbsp;&nbsp; (CPJOR)</option>
+
+ 
+  <option value="CPSWN" >PSW to PN Courses&nbsp;&nbsp;&nbsp; (CPSWN)</option>
+
+ 
+  <option value="PPRCC" >Public Relations Corporate Com&nbsp;&nbsp;&nbsp; (PPRCC)</option>
+
+ 
+  <option value="CPYTH" >Python Web Developer&nbsp;&nbsp;&nbsp; (CPYTH)</option>
+
+ 
+  <option value="PQUAC" >Quality Assurance&nbsp;&nbsp;&nbsp; (PQUAC)</option>
+
+ 
+  <option value="PQUAS" >Quality Assurance&nbsp;&nbsp;&nbsp; (PQUAS)</option>
+
+ 
+  <option value="CQAMT" >Quality Assurance & Management&nbsp;&nbsp;&nbsp; (CQAMT)</option>
+
+ 
+  <option value="CRINM" >Records and Information Mgmt&nbsp;&nbsp;&nbsp; (CRINM)</option>
+
+ 
+  <option value="CXRIB" >Register Insurance Broker Ont&nbsp;&nbsp;&nbsp; (CXRIB)</option>
+
+ 
+  <option value="PRNRF" >Registered Nurse - Refresher&nbsp;&nbsp;&nbsp; (PRNRF)</option>
+
+ 
+  <option value="CRTLM" >Retail Management&nbsp;&nbsp;&nbsp; (CRTLM)</option>
+
+ 
+  <option value="PRPHA" >Retail Pharmacy Assistant&nbsp;&nbsp;&nbsp; (PRPHA)</option>
+
+ 
+  <option value="CRISK" >Risk Mgmt for Business Owners&nbsp;&nbsp;&nbsp; (CRISK)</option>
+
+ 
+  <option value="CSALE" >Sales&nbsp;&nbsp;&nbsp; (CSALE)</option>
+
+ 
+  <option value="CSASB" >SAS Base Programming&nbsp;&nbsp;&nbsp; (CSASB)</option>
+
+ 
+  <option value="PSSID" >Security System Imp and Des&nbsp;&nbsp;&nbsp; (PSSID)</option>
+
+ 
+  <option value="CSMSS" >Siemens Mechatronics Systems&nbsp;&nbsp;&nbsp; (CSMSS)</option>
+
+ 
+  <option value="CSBBK" >Small Business Bookkeeping&nbsp;&nbsp;&nbsp; (CSBBK)</option>
+
+ 
+  <option value="1151" >Soc Serv Wkr-Ger&nbsp;&nbsp;&nbsp; (1151)</option>
+
+ 
+  <option value="CDMES" >Social Media Writing&nbsp;&nbsp;&nbsp; (CDMES)</option>
+
+ 
+  <option value="1170" >Social Service Worker&nbsp;&nbsp;&nbsp; (1170)</option>
+
+ 
+  <option value="PSSWK" >Social Service Worker&nbsp;&nbsp;&nbsp; (PSSWK)</option>
+
+ 
+  <option value="PSSWI" >Social Service Worker- Immig&nbsp;&nbsp;&nbsp; (PSSWI)</option>
+
+ 
+  <option value="PSSWG" >Social Service Worker-Geron&nbsp;&nbsp;&nbsp; (PSSWG)</option>
+
+ 
+  <option value="PSMOD" >Solid Modeling&nbsp;&nbsp;&nbsp; (PSMOD)</option>
+
+ 
+  <option value="CSPOR" >Spanish&nbsp;&nbsp;&nbsp; (CSPOR)</option>
+
+ 
+  <option value="CSREL" >Spec Recreational Leadership&nbsp;&nbsp;&nbsp; (CSREL)</option>
+
+ 
+  <option value="PSPIM" >Sports Injury Management&nbsp;&nbsp;&nbsp; (PSPIM)</option>
+
+ 
+  <option value="CSAIT" >Summer Arts Institute&nbsp;&nbsp;&nbsp; (CSAIT)</option>
+
+ 
+  <option value="CXSCM" >Supply Chain Management Assoc&nbsp;&nbsp;&nbsp; (CXSCM)</option>
+
+ 
+  <option value="CECSA" >Supv. & Admin in ELC Programs&nbsp;&nbsp;&nbsp; (CECSA)</option>
+
+ 
+  <option value="PSYAN" >Systems Analyst&nbsp;&nbsp;&nbsp; (PSYAN)</option>
+
+ 
+  <option value="PSYAC" >Systems Analyst Coop&nbsp;&nbsp;&nbsp; (PSYAC)</option>
+
+ 
+  <option value="CBTXA" >Tax Accounting&nbsp;&nbsp;&nbsp; (CBTXA)</option>
+
+ 
+  <option value="PTTLP" >Tchn Prod Thtre and Live Evnts&nbsp;&nbsp;&nbsp; (PTTLP)</option>
+
+ 
+  <option value="PTESL" >Teaching Engl to Spkrs Languag&nbsp;&nbsp;&nbsp; (PTESL)</option>
+
+ 
+  <option value="CTYOG" >Teaching Hatha Yoga&nbsp;&nbsp;&nbsp; (CTYOG)</option>
+
+ 
+  <option value="PTPPA" >Techn Prod for Performing Arts&nbsp;&nbsp;&nbsp; (PTPPA)</option>
+
+ 
+  <option value="PTECH" >Technology Fundamentals&nbsp;&nbsp;&nbsp; (PTECH)</option>
+
+ 
+  <option value="PTELT" >Telecommunications Techy&nbsp;&nbsp;&nbsp; (PTELT)</option>
+
+ 
+  <option value="PTLTC" >Telecommunications Techy Coop&nbsp;&nbsp;&nbsp; (PTLTC)</option>
+
+ 
+  <option value="CTLFC" >Telemedicine Facilitation&nbsp;&nbsp;&nbsp; (CTLFC)</option>
+
+ 
+  <option value="CTHDD" >Thanatology (Death & Dying)&nbsp;&nbsp;&nbsp; (CTHDD)</option>
+
+ 
+  <option value="PTADS" >Theatre and Drama Studies&nbsp;&nbsp;&nbsp; (PTADS)</option>
+
+ 
+  <option value="PTATP" >Theatre Arts - Tech Production&nbsp;&nbsp;&nbsp; (PTATP)</option>
+
+ 
+  <option value="6737" >Theatre Arts-Tech Prod&nbsp;&nbsp;&nbsp; (6737)</option>
+
+ 
+  <option value="STADM" >Tool and Die Maker&nbsp;&nbsp;&nbsp; (STADM)</option>
+
+ 
+  <option value="ATLDM" >Tool and Die Maker Apprentice&nbsp;&nbsp;&nbsp; (ATLDM)</option>
+
+ 
+  <option value="PTGTL" >Tourism - Global Travel&nbsp;&nbsp;&nbsp; (PTGTL)</option>
+
+ 
+  <option value="PTOTR" >Tourism and Travel&nbsp;&nbsp;&nbsp; (PTOTR)</option>
+
+ 
+  <option value="2840" >Travel & Tourism&nbsp;&nbsp;&nbsp; (2840)</option>
+
+ 
+  <option value="0001" >Undeclared&nbsp;&nbsp;&nbsp; (0001)</option>
+
+ 
+  <option value="UNDC1" >Undeclared&nbsp;&nbsp;&nbsp; (UNDC1)</option>
+
+ 
+  <option value="UNDC" >Undeclared&nbsp;&nbsp;&nbsp; (UNDC)</option>
+
+ 
+  <option value="CUNOP" >UNIX Operating Systems&nbsp;&nbsp;&nbsp; (CUNOP)</option>
+
+ 
+  <option value="CVTAD" >Veterinary Office Admin&nbsp;&nbsp;&nbsp; (CVTAD)</option>
+
+ 
+  <option value="PVETT" >Veterinary Technician&nbsp;&nbsp;&nbsp; (PVETT)</option>
+
+ 
+  <option value="PCVAT" >Visual and Creative Arts&nbsp;&nbsp;&nbsp; (PCVAT)</option>
+
+ 
+  <option value="PCVAD" >Visual and Creative Arts - Adv&nbsp;&nbsp;&nbsp; (PCVAD)</option>
+
+ 
+  <option value="CVSID" >Visual Design Interior Decorat&nbsp;&nbsp;&nbsp; (CVSID)</option>
+
+ 
+  <option value="CVDCN" >Visual Design Introductory&nbsp;&nbsp;&nbsp; (CVDCN)</option>
+
+ 
+  <option value="CVDDS" >Visual Display and Design&nbsp;&nbsp;&nbsp; (CVDDS)</option>
+
+ 
+  <option value="PVEFF" >Visual Effects&nbsp;&nbsp;&nbsp; (PVEFF)</option>
+
+ 
+  <option value="PVMAS" >Visual Merchandising Arts&nbsp;&nbsp;&nbsp; (PVMAS)</option>
+
+ 
+  <option value="CVMAS" >Visual Merchandising Arts&nbsp;&nbsp;&nbsp; (CVMAS)</option>
+
+ 
+  <option value="CWWCL" >Wastewater Collection&nbsp;&nbsp;&nbsp; (CWWCL)</option>
+
+ 
+  <option value="CWDWC" >Water Dist.and Wastewat.Collec&nbsp;&nbsp;&nbsp; (CWDWC)</option>
+
+ 
+  <option value="CWWDS" >Water Distribution and Supply&nbsp;&nbsp;&nbsp; (CWWDS)</option>
+
+ 
+  <option value="CWEBD" >Web Design&nbsp;&nbsp;&nbsp; (CWEBD)</option>
+
+ 
+  <option value="PNMED" >Web Design&nbsp;&nbsp;&nbsp; (PNMED)</option>
+
+ 
+  <option value="CWPRP" >Web Development Workshops&nbsp;&nbsp;&nbsp; (CWPRP)</option>
+
+ 
+  <option value="CWBSD" >Website Developer&nbsp;&nbsp;&nbsp; (CWBSD)</option>
+
+ 
+  <option value="PWLFT" >Welding and Fabrication Tech&nbsp;&nbsp;&nbsp; (PWLFT)</option>
+
+ 
+  <option value="CWELO" >Welding Fundamentals&nbsp;&nbsp;&nbsp; (CWELO)</option>
+
+ 
+  <option value="PWLDT" >Welding Techniques&nbsp;&nbsp;&nbsp; (PWLDT)</option>
+
+ 
+  <option value="CWRIT" >Writing&nbsp;&nbsp;&nbsp; (CWRIT)</option>
+
+ 
+  <option value="CWTDM" >Writing for Digital Media&nbsp;&nbsp;&nbsp; (CWTDM)</option>
+
+ 
+ </select></select><label for="program_old">&nbsp;</label><select name="program_old" id="program_old" style="width:60%" onChange="document.coutlinesearch.program.value=this.options[this.selectedIndex].value;document.coutlinesearch.programName.value=''">
+ <option value="">Choose program</option>
+
+ 
+ 
+  <option value="C101" >Adult Education&nbsp;&nbsp;&nbsp; (C101)</option>
+
+ 
+  <option value="6192" >Advanced Illustration&nbsp;&nbsp;&nbsp; (6192)</option>
+
+ 
+  <option value="6705" >Advanced Television & Film&nbsp;&nbsp;&nbsp; (6705)</option>
+
+ 
+  <option value="2835" >Advertising&nbsp;&nbsp;&nbsp; (2835)</option>
+
+ 
+  <option value="5430" >Animal Care&nbsp;&nbsp;&nbsp; (5430)</option>
+
+ 
+  <option value="6010" >Animation - Classical&nbsp;&nbsp;&nbsp; (6010)</option>
+
+ 
+  <option value="6011" >Animation - Classical (ISSA)&nbsp;&nbsp;&nbsp; (6011)</option>
+
+ 
+  <option value="6015" >Animation - Filmmaking&nbsp;&nbsp;&nbsp; (6015)</option>
+
+ 
+  <option value="6210" >Applied Photography&nbsp;&nbsp;&nbsp; (6210)</option>
+
+ 
+  <option value="5060" >Architectural Technician&nbsp;&nbsp;&nbsp; (5060)</option>
+
+ 
+  <option value="5560" >Architectural Technology&nbsp;&nbsp;&nbsp; (5560)</option>
+
+ 
+  <option value="6370" >Art and Art History&nbsp;&nbsp;&nbsp; (6370)</option>
+
+ 
+  <option value="6350" >Art Fundamentals&nbsp;&nbsp;&nbsp; (6350)</option>
+
+ 
+  <option value="6014" >BA Arts (Animation)&nbsp;&nbsp;&nbsp; (6014)</option>
+
+ 
+  <option value="6072" >BA Arts (Illustration)&nbsp;&nbsp;&nbsp; (6072)</option>
+
+ 
+  <option value="1914" >BAHSc (Athletic Therapy)&nbsp;&nbsp;&nbsp; (1914)</option>
+
+ 
+  <option value="3290" >BAISc Info Systems Security&nbsp;&nbsp;&nbsp; (3290)</option>
+
+ 
+  <option value="C501" >Building Env. Sys. Operator-C1&nbsp;&nbsp;&nbsp; (C501)</option>
+
+ 
+  <option value="C502" >Building Env. Sys. Operator-C2&nbsp;&nbsp;&nbsp; (C502)</option>
+
+ 
+  <option value="2370" >Business&nbsp;&nbsp;&nbsp; (2370)</option>
+
+ 
+  <option value="2450" >Business - Accounting&nbsp;&nbsp;&nbsp; (2450)</option>
+
+ 
+  <option value="2400" >Business - Accounting Co-op&nbsp;&nbsp;&nbsp; (2400)</option>
+
+ 
+  <option value="A060" >Business - Finance&nbsp;&nbsp;&nbsp; (A060)</option>
+
+ 
+  <option value="2150" >Business - General&nbsp;&nbsp;&nbsp; (2150)</option>
+
+ 
+  <option value="A120" >Business - Human Resources&nbsp;&nbsp;&nbsp; (A120)</option>
+
+ 
+  <option value="2170" >Business - Marketing&nbsp;&nbsp;&nbsp; (2170)</option>
+
+ 
+  <option value="2600" >Business - Marketing Co-op&nbsp;&nbsp;&nbsp; (2600)</option>
+
+ 
+  <option value="2050" >Business Admin - Accounting&nbsp;&nbsp;&nbsp; (2050)</option>
+
+ 
+  <option value="A210" >Business Admin - Finance&nbsp;&nbsp;&nbsp; (A210)</option>
+
+ 
+  <option value="2800" >Business Admin - General&nbsp;&nbsp;&nbsp; (2800)</option>
+
+ 
+  <option value="2830" >Business Admin - Marketing&nbsp;&nbsp;&nbsp; (2830)</option>
+
+ 
+  <option value="2520" >Business Admin Mktg Co-op&nbsp;&nbsp;&nbsp; (2520)</option>
+
+ 
+  <option value="5891" >Chem Eng Techy Env&nbsp;&nbsp;&nbsp; (5891)</option>
+
+ 
+  <option value="5460" >Chemical Engineering Techy&nbsp;&nbsp;&nbsp; (5460)</option>
+
+ 
+  <option value="5210" >Chemical Techn - Laboratory&nbsp;&nbsp;&nbsp; (5210)</option>
+
+ 
+  <option value="T331" >CNC Set Up Operator&nbsp;&nbsp;&nbsp; (T331)</option>
+
+ 
+  <option value="C602" >Commercial Photography&nbsp;&nbsp;&nbsp; (C602)</option>
+
+ 
+  <option value="1001" >Community Outreach & Develop&nbsp;&nbsp;&nbsp; (1001)</option>
+
+ 
+  <option value="6124" >Comp Anim-Digital Char Anin&nbsp;&nbsp;&nbsp; (6124)</option>
+
+ 
+  <option value="6125" >Comp Anim-Digital Vis Effects&nbsp;&nbsp;&nbsp; (6125)</option>
+
+ 
+  <option value="6120" >Computer Animation&nbsp;&nbsp;&nbsp; (6120)</option>
+
+ 
+  <option value="6121" >Computer Animation - Tech Dir&nbsp;&nbsp;&nbsp; (6121)</option>
+
+ 
+  <option value="3460" >Computer Foundations&nbsp;&nbsp;&nbsp; (3460)</option>
+
+ 
+  <option value="3220" >Computer Programmer&nbsp;&nbsp;&nbsp; (3220)</option>
+
+ 
+  <option value="3221" >Computer Programmer Intensive&nbsp;&nbsp;&nbsp; (3221)</option>
+
+ 
+  <option value="E110" >Computer Science Techy Co-op&nbsp;&nbsp;&nbsp; (E110)</option>
+
+ 
+  <option value="2013" >Corporate Communications&nbsp;&nbsp;&nbsp; (2013)</option>
+
+ 
+  <option value="2019" >Corporate Communications Co-op&nbsp;&nbsp;&nbsp; (2019)</option>
+
+ 
+  <option value="1691" >Correctional Worker&nbsp;&nbsp;&nbsp; (1691)</option>
+
+ 
+  <option value="2843" >Cosmetic Techniques & Mgmt&nbsp;&nbsp;&nbsp; (2843)</option>
+
+ 
+  <option value="1004" >Court and Tribunal Agent&nbsp;&nbsp;&nbsp; (1004)</option>
+
+ 
+  <option value="4010" >Crafts & Design&nbsp;&nbsp;&nbsp; (4010)</option>
+
+ 
+  <option value="4090" >Crafts & Design - Ceramics&nbsp;&nbsp;&nbsp; (4090)</option>
+
+ 
+  <option value="4150" >Crafts & Design - Fabrics&nbsp;&nbsp;&nbsp; (4150)</option>
+
+ 
+  <option value="4210" >Crafts & Design - Furniture&nbsp;&nbsp;&nbsp; (4210)</option>
+
+ 
+  <option value="4270" >Crafts & Design - Glass&nbsp;&nbsp;&nbsp; (4270)</option>
+
+ 
+  <option value="ART" >Cross-college course&nbsp;&nbsp;&nbsp; (ART)</option>
+
+ 
+  <option value="1000" >Developmental Disabilities Wkr&nbsp;&nbsp;&nbsp; (1000)</option>
+
+ 
+  <option value="2035" >E-commerce Management&nbsp;&nbsp;&nbsp; (2035)</option>
+
+ 
+  <option value="1840" >Early Childhood Assistant&nbsp;&nbsp;&nbsp; (1840)</option>
+
+ 
+  <option value="C103" >Early Childhood E-Superv. & Ad&nbsp;&nbsp;&nbsp; (C103)</option>
+
+ 
+  <option value="1197" >Early Childhood Ed Intensive&nbsp;&nbsp;&nbsp; (1197)</option>
+
+ 
+  <option value="1190" >Early Childhood Education&nbsp;&nbsp;&nbsp; (1190)</option>
+
+ 
+  <option value="1500" >Educational Assistant&nbsp;&nbsp;&nbsp; (1500)</option>
+
+ 
+  <option value="T260" >Electrician - Const/Maint&nbsp;&nbsp;&nbsp; (T260)</option>
+
+ 
+  <option value="5012" >Electromechanical Eng Techy&nbsp;&nbsp;&nbsp; (5012)</option>
+
+ 
+  <option value="5015" >Electromechanical Eng Tn&nbsp;&nbsp;&nbsp; (5015)</option>
+
+ 
+  <option value="5115" >Electromechanical Eng Tn Co-op&nbsp;&nbsp;&nbsp; (5115)</option>
+
+ 
+  <option value="5112" >Electromechanical Eng Ty Co-op&nbsp;&nbsp;&nbsp; (5112)</option>
+
+ 
+  <option value="5300" >Electronics Eng Techy Co-op&nbsp;&nbsp;&nbsp; (5300)</option>
+
+ 
+  <option value="5170" >Electronics Engineering Techn&nbsp;&nbsp;&nbsp; (5170)</option>
+
+ 
+  <option value="5120" >Electronics Engineering Techy&nbsp;&nbsp;&nbsp; (5120)</option>
+
+ 
+  <option value="1391" >English as a Second Language&nbsp;&nbsp;&nbsp; (1391)</option>
+
+ 
+  <option value="3056" >Enterprise Database Management&nbsp;&nbsp;&nbsp; (3056)</option>
+
+ 
+  <option value="3055" >Enterprise Database Mgt Intern&nbsp;&nbsp;&nbsp; (3055)</option>
+
+ 
+  <option value="5365" >Environmental Control&nbsp;&nbsp;&nbsp; (5365)</option>
+
+ 
+  <option value="5366" >Environmental Science Techn&nbsp;&nbsp;&nbsp; (5366)</option>
+
+ 
+  <option value="1340" >Esthetician&nbsp;&nbsp;&nbsp; (1340)</option>
+
+ 
+  <option value="C104" >Esthetics&nbsp;&nbsp;&nbsp; (C104)</option>
+
+ 
+  <option value="2026" >Financial Planning&nbsp;&nbsp;&nbsp; (2026)</option>
+
+ 
+  <option value="C603" >Fundamentals of Craft & Design&nbsp;&nbsp;&nbsp; (C603)</option>
+
+ 
+  <option value="C604" >Fundamentals of Fine Arts&nbsp;&nbsp;&nbsp; (C604)</option>
+
+ 
+  <option value="C605" >Fundamentals of Illustration&nbsp;&nbsp;&nbsp; (C605)</option>
+
+ 
+  <option value="C606" >Fundamentals of Photography&nbsp;&nbsp;&nbsp; (C606)</option>
+
+ 
+  <option value="6180" >GAS - Interdisciplinary Arts&nbsp;&nbsp;&nbsp; (6180)</option>
+
+ 
+  <option value="13A0" >General Arts & Science&nbsp;&nbsp;&nbsp; (13A0)</option>
+
+ 
+  <option value="13D0" >General Arts and Science&nbsp;&nbsp;&nbsp; (13D0)</option>
+
+ 
+  <option value="13D1" >General Arts and Science&nbsp;&nbsp;&nbsp; (13D1)</option>
+
+ 
+  <option value="T020" >General Machinist&nbsp;&nbsp;&nbsp; (T020)</option>
+
+ 
+  <option value="1240" >Gerontology-Multidiscipline&nbsp;&nbsp;&nbsp; (1240)</option>
+
+ 
+  <option value="6130" >Graphic Design&nbsp;&nbsp;&nbsp; (6130)</option>
+
+ 
+  <option value="C106" >Horticultural Studies&nbsp;&nbsp;&nbsp; (C106)</option>
+
+ 
+  <option value="C209" >Human Resource Management&nbsp;&nbsp;&nbsp; (C209)</option>
+
+ 
+  <option value="A690" >Human Resource Management&nbsp;&nbsp;&nbsp; (A690)</option>
+
+ 
+  <option value="A680" >Human Resource Mgmt Co-op&nbsp;&nbsp;&nbsp; (A680)</option>
+
+ 
+  <option value="1570" >Human Services Administration&nbsp;&nbsp;&nbsp; (1570)</option>
+
+ 
+  <option value="6071" >Illustration&nbsp;&nbsp;&nbsp; (6071)</option>
+
+ 
+  <option value="6091" >Illustration - Interpretive&nbsp;&nbsp;&nbsp; (6091)</option>
+
+ 
+  <option value="6191" >Illustration - Tech & Scien&nbsp;&nbsp;&nbsp; (6191)</option>
+
+ 
+  <option value="T011" >Industrial Maint Millwright&nbsp;&nbsp;&nbsp; (T011)</option>
+
+ 
+  <option value="3610" >Info Techy - Support Services&nbsp;&nbsp;&nbsp; (3610)</option>
+
+ 
+  <option value="3614" >Info Techy-Support Serv Co-op&nbsp;&nbsp;&nbsp; (3614)</option>
+
+ 
+  <option value="3613" >Information Techy Professional&nbsp;&nbsp;&nbsp; (3613)</option>
+
+ 
+  <option value="C107" >Instr. for Teachers of Yoga&nbsp;&nbsp;&nbsp; (C107)</option>
+
+ 
+  <option value="3600" >Interactive Multimedia&nbsp;&nbsp;&nbsp; (3600)</option>
+
+ 
+  <option value="C607" >Interior Decorating&nbsp;&nbsp;&nbsp; (C607)</option>
+
+ 
+  <option value="6950" >Interior Design&nbsp;&nbsp;&nbsp; (6950)</option>
+
+ 
+  <option value="2014" >International Business&nbsp;&nbsp;&nbsp; (2014)</option>
+
+ 
+  <option value="2011" >International Business Co-op&nbsp;&nbsp;&nbsp; (2011)</option>
+
+ 
+  <option value="1002" >Investigation-Public & Private&nbsp;&nbsp;&nbsp; (1002)</option>
+
+ 
+  <option value="2741" >Journalism - Print&nbsp;&nbsp;&nbsp; (2741)</option>
+
+ 
+  <option value="2747" >Journalism-New Media&nbsp;&nbsp;&nbsp; (2747)</option>
+
+ 
+  <option value="13M1" >Law & Sec Adm-Private Security&nbsp;&nbsp;&nbsp; (13M1)</option>
+
+ 
+  <option value="13M0" >Law & Security Admin -Loss&nbsp;&nbsp;&nbsp; (13M0)</option>
+
+ 
+  <option value="C506" >Machine Shop&nbsp;&nbsp;&nbsp; (C506)</option>
+
+ 
+  <option value="C108" >Make-up Artistry&nbsp;&nbsp;&nbsp; (C108)</option>
+
+ 
+  <option value="C211" >Management Studies (General)&nbsp;&nbsp;&nbsp; (C211)</option>
+
+ 
+  <option value="C213" >Management Studies-Production&nbsp;&nbsp;&nbsp; (C213)</option>
+
+ 
+  <option value="2017" >Marketing Management&nbsp;&nbsp;&nbsp; (2017)</option>
+
+ 
+  <option value="2016" >Marketing Management Co-op&nbsp;&nbsp;&nbsp; (2016)</option>
+
+ 
+  <option value="5630" >Mech Eng Techn Draft Co-op&nbsp;&nbsp;&nbsp; (5630)</option>
+
+ 
+  <option value="5550" >Mech Eng Techy Des Dr Co-op&nbsp;&nbsp;&nbsp; (5550)</option>
+
+ 
+  <option value="5720" >Mechanical Eng Techn Co-op&nbsp;&nbsp;&nbsp; (5720)</option>
+
+ 
+  <option value="5380" >Mechanical Eng Techy Co-op&nbsp;&nbsp;&nbsp; (5380)</option>
+
+ 
+  <option value="5500" >Mechanical Eng Techy Des Dr&nbsp;&nbsp;&nbsp; (5500)</option>
+
+ 
+  <option value="5020" >Mechanical Eng. Techn - Draft&nbsp;&nbsp;&nbsp; (5020)</option>
+
+ 
+  <option value="5410" >Mechanical Engineering Techn&nbsp;&nbsp;&nbsp; (5410)</option>
+
+ 
+  <option value="5100" >Mechanical Engineering Techy&nbsp;&nbsp;&nbsp; (5100)</option>
+
+ 
+  <option value="6700" >Media Arts&nbsp;&nbsp;&nbsp; (6700)</option>
+
+ 
+  <option value="C212" >Mgmt. Studies-Human Resouces&nbsp;&nbsp;&nbsp; (C212)</option>
+
+ 
+  <option value="C214" >Mgmt. Studies-Small Business&nbsp;&nbsp;&nbsp; (C214)</option>
+
+ 
+  <option value="T140" >Mold Maker&nbsp;&nbsp;&nbsp; (T140)</option>
+
+ 
+  <option value="1198" >Montessori EC Teacher Ed.&nbsp;&nbsp;&nbsp; (1198)</option>
+
+ 
+  <option value="6320" >Music Theatre - Performance&nbsp;&nbsp;&nbsp; (6320)</option>
+
+ 
+  <option value="6122" >New Media Design&nbsp;&nbsp;&nbsp; (6122)</option>
+
+ 
+  <option value="2221" >Office Adm Medical - Intensive&nbsp;&nbsp;&nbsp; (2221)</option>
+
+ 
+  <option value="2180" >Office Admin - Executive&nbsp;&nbsp;&nbsp; (2180)</option>
+
+ 
+  <option value="2140" >Office Admin - General&nbsp;&nbsp;&nbsp; (2140)</option>
+
+ 
+  <option value="2200" >Office Admin - Legal&nbsp;&nbsp;&nbsp; (2200)</option>
+
+ 
+  <option value="2220" >Office Admin - Medical&nbsp;&nbsp;&nbsp; (2220)</option>
+
+ 
+  <option value="2120" >Office Administration&nbsp;&nbsp;&nbsp; (2120)</option>
+
+ 
+  <option value="C309" >Office Administration-Medical&nbsp;&nbsp;&nbsp; (C309)</option>
+
+ 
+  <option value="C310" >Office Technology Management&nbsp;&nbsp;&nbsp; (C310)</option>
+
+ 
+  <option value="C216" >OMDP - Business Mgmt. Skills&nbsp;&nbsp;&nbsp; (C216)</option>
+
+ 
+  <option value="C218" >OMDP - Leadership Skills&nbsp;&nbsp;&nbsp; (C218)</option>
+
+ 
+  <option value="6194" >Performing Arts - Preparation&nbsp;&nbsp;&nbsp; (6194)</option>
+
+ 
+  <option value="1926" >Personal Support Worker&nbsp;&nbsp;&nbsp; (1926)</option>
+
+ 
+  <option value="1915" >Pharmacy Assistant Co-op&nbsp;&nbsp;&nbsp; (1915)</option>
+
+ 
+  <option value="1916" >Pharmacy Technician Co-op&nbsp;&nbsp;&nbsp; (1916)</option>
+
+ 
+  <option value="1101" >Police Foundations&nbsp;&nbsp;&nbsp; (1101)</option>
+
+ 
+  <option value="13R0" >Police Recruit Ed & Prep&nbsp;&nbsp;&nbsp; (13R0)</option>
+
+ 
+  <option value="C223" >Police Studies&nbsp;&nbsp;&nbsp; (C223)</option>
+
+ 
+  <option value="C608" >Portfolio Dev. for Animators&nbsp;&nbsp;&nbsp; (C608)</option>
+
+ 
+  <option value="1935" >Practical Nursing&nbsp;&nbsp;&nbsp; (1935)</option>
+
+ 
+  <option value="C109" >Proficiency in Convers. French&nbsp;&nbsp;&nbsp; (C109)</option>
+
+ 
+  <option value="C508" >Programmable Logic Control&nbsp;&nbsp;&nbsp; (C508)</option>
+
+ 
+  <option value="5013" >Quality Assurance Mfg & Mgt&nbsp;&nbsp;&nbsp; (5013)</option>
+
+ 
+  <option value="1904" >Registered Nursing - Refresher&nbsp;&nbsp;&nbsp; (1904)</option>
+
+ 
+  <option value="2825" >Retail Management&nbsp;&nbsp;&nbsp; (2825)</option>
+
+ 
+  <option value="1215" >Risk Analyst&nbsp;&nbsp;&nbsp; (1215)</option>
+
+ 
+  <option value="C908" >RN - Critical Care&nbsp;&nbsp;&nbsp; (C908)</option>
+
+ 
+  <option value="C909" >RN - Emergency Nursing&nbsp;&nbsp;&nbsp; (C909)</option>
+
+ 
+  <option value="C910" >RN-Obstetric Nursing&nbsp;&nbsp;&nbsp; (C910)</option>
+
+ 
+  <option value="C912" >RN-Oncology Nursing&nbsp;&nbsp;&nbsp; (C912)</option>
+
+ 
+  <option value="1005" >Security Sys Implement'n & Des&nbsp;&nbsp;&nbsp; (1005)</option>
+
+ 
+  <option value="1195" >Sign Language Communicator&nbsp;&nbsp;&nbsp; (1195)</option>
+
+ 
+  <option value="1196" >Sign Language Interpretor&nbsp;&nbsp;&nbsp; (1196)</option>
+
+ 
+  <option value="1152" >Soc Service Wkr-Gerontology DE&nbsp;&nbsp;&nbsp; (1152)</option>
+
+ 
+  <option value="1151" >Social Service Wkr-Gerontology&nbsp;&nbsp;&nbsp; (1151)</option>
+
+ 
+  <option value="1150" >Social Service Worker&nbsp;&nbsp;&nbsp; (1150)</option>
+
+ 
+  <option value="1911" >Sports Injury Management&nbsp;&nbsp;&nbsp; (1911)</option>
+
+ 
+  <option value="1932" >Sports Injury Management DE&nbsp;&nbsp;&nbsp; (1932)</option>
+
+ 
+  <option value="E060" >Systems Analyst Co-op&nbsp;&nbsp;&nbsp; (E060)</option>
+
+ 
+  <option value="3413" >Telecom-Network Management&nbsp;&nbsp;&nbsp; (3413)</option>
+
+ 
+  <option value="3415" >Telecommunications Management&nbsp;&nbsp;&nbsp; (3415)</option>
+
+ 
+  <option value="3410" >Telecommunications Mgmt Intern&nbsp;&nbsp;&nbsp; (3410)</option>
+
+ 
+  <option value="5361" >Telecommunications Techy Co-op&nbsp;&nbsp;&nbsp; (5361)</option>
+
+ 
+  <option value="6401" >Theatre & Drama Studies (Erin)&nbsp;&nbsp;&nbsp; (6401)</option>
+
+ 
+  <option value="6737" >Theatre Arts - Tech Production&nbsp;&nbsp;&nbsp; (6737)</option>
+
+ 
+  <option value="J400" >Tool & Die Maker&nbsp;&nbsp;&nbsp; (J400)</option>
+
+ 
+  <option value="T080" >Tool & Die Maker Apprentice&nbsp;&nbsp;&nbsp; (T080)</option>
+
+ 
+  <option value="2840" >Tourism & Travel&nbsp;&nbsp;&nbsp; (2840)</option>
+
+ 
+  <option value="0000" >Undeclared&nbsp;&nbsp;&nbsp; (0000)</option>
+
+ 
+  <option value="0001" >Undeclared&nbsp;&nbsp;&nbsp; (0001)</option>
+
+ 
+  <option value="C610" >Visual Display and Design&nbsp;&nbsp;&nbsp; (C610)</option>
+
+ 
+  <option value="6815" >Visual Merchandising Arts&nbsp;&nbsp;&nbsp; (6815)</option>
+
+ 
+  <option value="C609" >Visual Merchandising Arts&nbsp;&nbsp;&nbsp; (C609)</option>
+
+ 
+  <option value="C915" >Wellness Education&nbsp;&nbsp;&nbsp; (C915)</option>
+
+ 
+ </select>
+ <input type="hidden" name="program">
+ <br>
+ <label for="programName">or</label> <input type="text" name="programName" id="programName" style="width:100px" value="" onchange="document.coutlinesearch.program_ps.selectedIndex=0;document.coutlinesearch.program_old.selectedIndex=0;document.coutlinesearch.program.value='';"><br>
+<label for="season">Term :</label> <select name = "season" id = "season" onChange="termFix(1);" style="width:150px">
+ <option value="05" >Summer</option>
+ <option value="01" >Winter</option>
+  <option value="09" SELECTED>Fall</option>
+ </select> <br>
+ <label for="year">Year:</label> <input type="text" name="year" id="year" style="width:100px" value="2020" onChange="termFix(2);">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" name="archived" id="archived"  style="width:17px" >&nbsp;&nbsp;<label for="archived">Include Previous Versions</label>
+ 
+        <br>
+                <center><input type="submit" name="Search" value="Search" style="width:100px">&nbsp;&nbsp;&nbsp;<input type="button" name="reset" value="Reset" onClick="clearform();" style="width:100px"></center>
+<!--        <br>Currently courses link to administration view of course outlines. This will be changed when released to the public. -->
+
+
+             <!-- </p> -->
+          </td>
+        </tr>
+      </table>
+    </form>
+<script>
+$(function() {
+  $('tr.parent')
+    .css("cursor","pointer")
+    .attr("title","Click to expand/collapse")
+    .click(function(){
+      $(this).siblings('.child-'+this.id).toggle();
+    });
+  $('tr[class^=child-]').hide().children('td');
+ $('tr[class^=child-]').css('background-color','#0084B4').css('color','#FFF');
+$('tr[class^=child-]').hover(function(){ $('a',this).css('color','#FFF'); });
+});</script>
+
+                <table width="600" border="0" cellspacing="0" cellpadding="0"><tr><td>
+    <center>
+    
+                </center></td></tr></table>
+
+      <table  id="detail_table" class="detail" width="100%" border="0" cellspacing="0" cellpadding="5">
+        <tr align="left" valign="bottom" bgcolor="#003767">
+          <td colspan="4"><font color="#FFF">Search Results</font></td>
+        </tr>
+
+
+
+        <tr align="left" valign="bottom">
+          <td width="13%" align="left"><b>Course&nbsp;Code</b></td>
+          <td width="36%"><b>Title</b></td>
+          <td width="36%"><b>Program(s)</b></td>
+          <td width="15%" align="left"><b>Effective&nbsp;as&nbsp;of</b></td>
+
+ <!--<td width="15%" align="left"><b>Version</b></td>
+ <td width="15%" align="left"><b>Strm</b></td>
+ <td width="15%" align="left"><b>Database</b></td>-->
+        </tr>
+    
+        <tr  align="left" valign="top">
+          <td width="13%" align="left"><a href="coutlineview_sal.jsp?appver=sal&subjectCode=WKSP&courseCode=78142&version=2019090300&sec=0&reload=true">WKSP78142</a></td>
+          <td width="36%">The 21st Century Skills - The Foundations Workshop Series</td>
+          <td width="36%">21st Century Smart Skills� Wor</td>
+          <td width="15%" align="left">Fall 2019</td>
+
+<!--<td width="15%" align="left">2019090300</td>
+<td width="15%" align="left">1199</td>
+<td width="15%" align="left">sal</td>-->
+        </tr>
+     
+        <tr  align="left" valign="top">
+          <td width="13%" align="left"><a href="coutlineview_sal.jsp?appver=sal&subjectCode=WKSP&courseCode=78158&version=2018090400&sec=0&reload=true">WKSP78158</a></td>
+          <td width="36%">The 21st Century Problem Solving and Communication Skills Workshop Series</td>
+          <td width="36%">21st Century Smart Skills� Wor</td>
+          <td width="15%" align="left">Fall 2018</td>
+
+<!--<td width="15%" align="left">2018090400</td>
+<td width="15%" align="left">1189</td>
+<td width="15%" align="left">sal</td>-->
+        </tr>
+     
+      </table>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </td>
+  </tr>
+</table>
+
+<script language="javascript">
+  function clearform()
+  {
+    frm = document.coutlinesearch;
+    frm.subjectCode.value = "";
+    frm.courseNumber.value = "";
+    frm.programName.value = "";
+    frm.title.value = "";
+
+//    frm.program.selectedIndex = 0;
+        frm.program_ps.selectedIndex = 0;
+        frm.program_old.selectedIndex = 0;
+        frm.program.value = "";
+
+    frm.season.selectedIndex = 2;
+    frm.year.value="2020";
+        frm.appver.value="ps";
+
+        switchPeoplesoftBanner();
+  }
+
+    function switchPeoplesoftBanner()
+    {
+        frm = document.coutlinesearch;
+
+        if (frm.year.value=="" || frm.year.value > "2004" || (frm.year.value == "2004" && frm.season.selectedIndex == 2 ) )
+        {
+            // use PS
+             frm.program_old.style.display="none";
+             frm.program_ps.style.display="";
+             frm.appver.value="ps";
+             frm.program.value=frm.program_ps.options[frm.program_ps.selectedIndex].value;
+        }
+        else
+        {
+            // use banner
+             frm.program_old.style.display="";
+             frm.program_ps.style.display="none";
+             frm.appver.value="ba";
+             frm.program.value=frm.program_old.options[frm.program_old.selectedIndex].value;
+        }
+    }
+
+  function termFix(inputbox)
+  {
+    frm = document.coutlinesearch;
+    if ( inputbox == 1 )
+    {
+      // user modified the season
+//      if ( frm.season.selectedIndex == 0 )
+//        frm.year.value="";
+//      else if ( frm.year.value =='')
+/* LISA REQUEST ALLOW BLANK
+      if ( frm.year.value =='')
+        frm.year.value = '2020';
+*/
+    }
+    else
+    {
+      // user modified the year
+
+/* LISA REQUEST ALLOW BLANK
+      if ( frm.year.value == '' )
+                frm.year.value = '2020';
+     */
+               /*
+        frm.season.selectedIndex = 0;
+       else if (frm.season.selectedIndex == 0)
+        frm.season.selectedIndex = 1;
+                */
+    }
+
+        // outlines prior to Fall 2000
+        if (frm.year.value != "" && (frm.year.value < "2000" || (frm.year.value == "2000" && frm.season.selectedIndex != 2 )) )
+        {
+            alert ("This course outline search is only for outlines for Fall 2000 and later.");
+            if (frm.year.value < "2000")
+                frm.year.value = '2020';
+            else
+                frm.season.selectedIndex = 2;
+        }
+
+        switchPeoplesoftBanner();
+  }
+</script>
+
+
+
+
+
+
+</body>
+</html>

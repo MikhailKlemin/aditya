@@ -1,0 +1,3022 @@
+[
+    {
+        "subjectId": 59,
+        "name": "Documentary \u0026 Non-Fiction Media Production",
+        "codes": [
+            "DNM"
+        ]
+    },
+    {
+        "subjectId": 82,
+        "name": "Financial Technology",
+        "codes": [
+            "FNT"
+        ]
+    },
+    {
+        "subjectId": 85,
+        "name": "Firefighter, Pre-Service Education and Training",
+        "codes": [
+            "FIR",
+            "FFF"
+        ]
+    },
+    {
+        "subjectId": 111,
+        "name": "Honours Bachelor of Data Science and Analytics",
+        "codes": [
+            "BDM",
+            "BDA",
+            "BDP",
+            "ENG",
+            "BDD",
+            "LSO",
+            "BDB",
+            "LSP",
+            "WTP",
+            "BDC",
+            "CIA",
+            "BAN",
+            "MRT",
+            "SRT",
+            "SPR"
+        ]
+    },
+    {
+        "subjectId": 171,
+        "name": "Social Service Worker – Immigrants and Refugees",
+        "codes": [
+            "COM",
+            "SSW",
+            "WIR",
+            "MHB",
+            "SOC",
+            "SCL"
+        ]
+    },
+    {
+        "subjectId": 179,
+        "name": "Underwater Skills",
+        "codes": [
+            "COM",
+            "UWS"
+        ]
+    },
+    {
+        "subjectId": 36,
+        "name": "Chemical Laboratory Technician",
+        "codes": [
+            "COM",
+            "BIO",
+            "CHM",
+            "MTH",
+            "SSA",
+            "ACA",
+            "AIC",
+            "CHO",
+            "MBG",
+            "PHY",
+            "SES",
+            "BIC",
+            "IPM",
+            "IMB",
+            "IOC",
+            "ITM"
+        ]
+    },
+    {
+        "subjectId": 125,
+        "name": "International Business Management",
+        "codes": [
+            "IBS",
+            "CAP"
+        ]
+    },
+    {
+        "subjectId": 170,
+        "name": "Social Service Worker – Gerontology",
+        "codes": [
+            "COM",
+            "GWL",
+            "SLL",
+            "SSW",
+            "MHB",
+            "SOC",
+            "SCL"
+        ]
+    },
+    {
+        "subjectId": 22,
+        "name": "Building Systems Engineering Technician",
+        "codes": [
+            "BES",
+            "BGD",
+            "BGS",
+            "COM",
+            "EBE",
+            "MTH",
+            "BGL",
+            "IPS",
+            "WTP",
+            "BTS",
+            "BGM",
+            "BGP",
+            "BGB",
+            "TEC",
+            "BGA",
+            "BGN"
+        ]
+    },
+    {
+        "subjectId": 99,
+        "name": "Honours Bachelor of Aviation Technology",
+        "codes": [
+            "COM",
+            "ELE",
+            "ISR",
+            "MEC",
+            "AER",
+            "MTH",
+            "CHM",
+            "PHY",
+            "AVN",
+            "MTS",
+            "ARO",
+            "ASD",
+            "MET",
+            "THE",
+            "IRT",
+            "ASY",
+            "BAB",
+            "FLP",
+            "HUM",
+            "AAS",
+            "ACP",
+            "ASC",
+            "CPA",
+            "SMS",
+            "FPR",
+            "ADM",
+            "ADV",
+            "FLO",
+            "FSL",
+            "LSP",
+            "AOP",
+            "FLY",
+            "WTP",
+            "CWT",
+            "CPP"
+        ]
+    },
+    {
+        "subjectId": 114,
+        "name": "Honours Bachelor of Technology - Informatics and Security",
+        "codes": [
+            "DCN",
+            "ENG",
+            "OPS",
+            "SPR",
+            "BTC",
+            "SRT",
+            "LSP",
+            "RIS",
+            "REA",
+            "WTP",
+            "IFS",
+            "DPI",
+            "BTR",
+            "PRJ",
+            "BTW",
+            "CPP"
+        ]
+    },
+    {
+        "subjectId": 20,
+        "name": "Broadcasting – Television",
+        "codes": [
+            "COM",
+            "RTV",
+            "SCA"
+        ]
+    },
+    {
+        "subjectId": 120,
+        "name": "Illustration",
+        "codes": [
+            "COM",
+            "ILU"
+        ]
+    },
+    {
+        "subjectId": 124,
+        "name": "Interactive Media Design",
+        "codes": [
+            "INM",
+            "COM",
+            "PSY"
+        ]
+    },
+    {
+        "subjectId": 166,
+        "name": "Recreation \u0026 Leisure Services",
+        "codes": [
+            "COM",
+            "FHP",
+            "PSY",
+            "RLS",
+            "REC",
+            "RCT",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 184,
+        "name": "Workplace Safety \u0026 Prevention",
+        "codes": [
+            "COM",
+            "MGS",
+            "HRA"
+        ]
+    },
+    {
+        "subjectId": 50,
+        "name": "Computer Programming \u0026 Analysis",
+        "codes": [
+            "APS",
+            "CPR",
+            "COM",
+            "IPC",
+            "ULI",
+            "DBS",
+            "DCF",
+            "OOP",
+            "WEB",
+            "WTP",
+            "CPA",
+            "BCI",
+            "EAC",
+            "JAC",
+            "PRJ",
+            "CVI",
+            "BAC",
+            "DBA",
+            "DBJ",
+            "DBL",
+            "DBT",
+            "DBW",
+            "DOM",
+            "DSA",
+            "EJB",
+            "GAM",
+            "GPU",
+            "GUI",
+            "ISP",
+            "MAP",
+            "MCL",
+            "OSD",
+            "NET",
+            "PMC",
+            "PRO",
+            "RPG",
+            "SDR",
+            "SPO",
+            "TEC",
+            "UNX",
+            "VBA",
+            "WSA",
+            "SYS",
+            "APC"
+        ]
+    },
+    {
+        "subjectId": 67,
+        "name": "Environmental Technology",
+        "codes": [
+            "BEA",
+            "COM",
+            "EVP",
+            "GTY",
+            "EVS",
+            "MTA",
+            "CHE",
+            "ECD",
+            "SIP",
+            "SVC",
+            "WTP",
+            "TEC",
+            "EMT",
+            "ATE",
+            "GEM",
+            "STA",
+            "ELR",
+            "GIS",
+            "HDG",
+            "HYD",
+            "RMS",
+            "ETR",
+            "PLR",
+            "WRM",
+            "WSM",
+            "EPM",
+            "MPT",
+            "PPE",
+            "WMD",
+            "SVE",
+            "PLN",
+            "EAC"
+        ]
+    },
+    {
+        "subjectId": 73,
+        "name": "Event Management – Event \u0026 Exhibit Design",
+        "codes": [
+            "CLP",
+            "EVT",
+            "EVD",
+            "LOG",
+            "BRP"
+        ]
+    },
+    {
+        "subjectId": 91,
+        "name": "Game Art \u0026 Animation",
+        "codes": [
+            "GAM"
+        ]
+    },
+    {
+        "subjectId": 104,
+        "name": "Honours Bachelor of Commerce – Accounting \u0026 Finance",
+        "codes": [
+            "BAB",
+            "ENG",
+            "IAF",
+            "LSP",
+            "HST",
+            "WTP",
+            "CWT",
+            "CPP"
+        ]
+    },
+    {
+        "subjectId": 141,
+        "name": "Mechanical Techniques (Tool \u0026 Die/Mould Making)",
+        "codes": [
+            "CNC",
+            "BPR",
+            "COM",
+            "MTH",
+            "MAT",
+            "THY",
+            "CAM",
+            "SHP",
+            "TLD"
+        ]
+    },
+    {
+        "subjectId": 167,
+        "name": "Social Media",
+        "codes": [
+            "SMD",
+            "CRM",
+            "FPL"
+        ]
+    },
+    {
+        "subjectId": 172,
+        "name": "Social Service Worker – Immigrants and Refugees (Accelerated)",
+        "codes": [
+            "SSW",
+            "WIR"
+        ]
+    },
+    {
+        "subjectId": 4,
+        "name": "Accounting \u0026 Finance",
+        "codes": [
+            "BAM",
+            "ACC",
+            "COM",
+            "MBF",
+            "ISC",
+            "MRK",
+            "ECN",
+            "SMS",
+            "QNM",
+            "EAC",
+            "ALW",
+            "ETH",
+            "FIN",
+            "OBR",
+            "WTP",
+            "ACF",
+            "CAP"
+        ]
+    },
+    {
+        "subjectId": 51,
+        "name": "Computer Systems Technology",
+        "codes": [
+            "COM",
+            "CSN",
+            "MST",
+            "SPS",
+            "ULI",
+            "WTP",
+            "CTY",
+            "EAC",
+            "OPS",
+            "APL",
+            "CPO",
+            "DBS",
+            "DBW",
+            "INT",
+            "IPC",
+            "PHP",
+            "PMC",
+            "SBR",
+            "SEC",
+            "SPO",
+            "TEC",
+            "WIN",
+            "IOS",
+            "HWD",
+            "DCN",
+            "DAT",
+            "NDD",
+            "CIS",
+            "APC"
+        ]
+    },
+    {
+        "subjectId": 77,
+        "name": "Fashion Business Management",
+        "codes": [
+            "FAB",
+            "COM",
+            "FBF",
+            "RBC",
+            "RRM",
+            "FSH",
+            "AMA",
+            "REM",
+            "RCS",
+            "RMC",
+            "FTX",
+            "RSO",
+            "FCA",
+            "FPD",
+            "RFB",
+            "ROM",
+            "FBM",
+            "FDM",
+            "FLD",
+            "FIN",
+            "FME",
+            "EAC"
+        ]
+    },
+    {
+        "subjectId": 126,
+        "name": "International Transportation \u0026 Customs",
+        "codes": [
+            "COM",
+            "ISC",
+            "ITC",
+            "MBF",
+            "ACC",
+            "ITA",
+            "NAT",
+            "CAP",
+            "WTP",
+            "EAC",
+            "TCS",
+            "SMS",
+            "MGS"
+        ]
+    },
+    {
+        "subjectId": 127,
+        "name": "Journalism",
+        "codes": [
+            "COM",
+            "JRN"
+        ]
+    },
+    {
+        "subjectId": 9,
+        "name": "Airline Pilot Flight Operations",
+        "codes": [
+            "ADM",
+            "ASY",
+            "FLO",
+            "HUM",
+            "FLY",
+            "AAS",
+            "ACP",
+            "CPA",
+            "SMS"
+        ]
+    },
+    {
+        "subjectId": 31,
+        "name": "Business – Insurance",
+        "codes": [
+            "CIP",
+            "BAM",
+            "COM",
+            "ISC",
+            "MBF",
+            "ACC",
+            "FCS",
+            "MRK",
+            "WTP",
+            "BIN",
+            "BUS",
+            "EAC",
+            "SMS",
+            "MGS"
+        ]
+    },
+    {
+        "subjectId": 48,
+        "name": "Computer Systems Technician",
+        "codes": [
+            "COM",
+            "CSN",
+            "ULI",
+            "SPS",
+            "MST",
+            "WTP",
+            "EAC",
+            "CPO",
+            "DCN",
+            "IPC",
+            "OPS",
+            "PMC",
+            "TEC",
+            "WIN"
+        ]
+    },
+    {
+        "subjectId": 54,
+        "name": "Cosmetic Techniques \u0026 Management",
+        "codes": [
+            "COB",
+            "COM",
+            "COS"
+        ]
+    },
+    {
+        "subjectId": 66,
+        "name": "Environmental Technician",
+        "codes": [
+            "BEA",
+            "COM",
+            "EVP",
+            "EVS",
+            "GTY",
+            "MTA",
+            "CHE",
+            "ECD",
+            "SIP",
+            "SVC",
+            "TEC",
+            "WTP",
+            "ETM",
+            "ATE",
+            "GEM",
+            "STA",
+            "ELR",
+            "GIS",
+            "HDG",
+            "HYD",
+            "RMS",
+            "SVE"
+        ]
+    },
+    {
+        "subjectId": 70,
+        "name": "Esthetician",
+        "codes": [
+            "COM",
+            "ETC",
+            "SPM",
+            "ETB",
+            "EST"
+        ]
+    },
+    {
+        "subjectId": 147,
+        "name": "Office Administration – Health Services",
+        "codes": [
+            "BCM",
+            "BMA",
+            "COM",
+            "DPW",
+            "ECS",
+            "MAT",
+            "OPR",
+            "ICP",
+            "MOP",
+            "TRT",
+            "CPD",
+            "DMS",
+            "MHB",
+            "MOS",
+            "TRM",
+            "CLJ"
+        ]
+    },
+    {
+        "subjectId": 24,
+        "name": "Business Administration – Financial Planning",
+        "codes": [
+            "COM",
+            "BAM",
+            "ISC",
+            "MBF",
+            "MRK",
+            "ACC",
+            "MGS",
+            "SMS",
+            "EAC",
+            "HRA",
+            "BUS",
+            "FIS",
+            "OBR",
+            "OPM",
+            "RFC",
+            "CAP",
+            "WTP",
+            "BAF",
+            "QNM"
+        ]
+    },
+    {
+        "subjectId": 29,
+        "name": "Business Administration – Purchasing \u0026 Supply Management",
+        "codes": [
+            "COM",
+            "BAM",
+            "ISC",
+            "MBF",
+            "PPS",
+            "MAN",
+            "MRK",
+            "OBR",
+            "ACC",
+            "SMS",
+            "CSS",
+            "EAC",
+            "HRA",
+            "OPM",
+            "BUS",
+            "CRM",
+            "CAP",
+            "MGS",
+            "IBM",
+            "QNM",
+            "ERP"
+        ]
+    },
+    {
+        "subjectId": 98,
+        "name": "Graphic Design",
+        "codes": [
+            "COM",
+            "GRA",
+            "EAC",
+            "FPL"
+        ]
+    },
+    {
+        "subjectId": 117,
+        "name": "Hospitality Foundations",
+        "codes": [
+            "COM",
+            "HSP",
+            "HTM",
+            "TRV"
+        ]
+    },
+    {
+        "subjectId": 157,
+        "name": "Pre-Business",
+        "codes": [
+            "BAM",
+            "ACC",
+            "COM",
+            "ISC",
+            "MBF",
+            "PPS",
+            "SMS"
+        ]
+    },
+    {
+        "subjectId": 3,
+        "name": "Accounting",
+        "codes": [
+            "BAM",
+            "ACC",
+            "COM",
+            "ISC",
+            "MBF",
+            "MRK",
+            "ECN",
+            "SMS",
+            "QNM",
+            "EAC",
+            "ALW",
+            "OBR",
+            "ETH"
+        ]
+    },
+    {
+        "subjectId": 65,
+        "name": "Environmental Landscape Management",
+        "codes": [
+            "COM",
+            "EVL",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 86,
+        "name": "Fitness \u0026 Health Promotion",
+        "codes": [
+            "COM",
+            "FHP",
+            "RLS",
+            "PSY"
+        ]
+    },
+    {
+        "subjectId": 175,
+        "name": "Technical Communication",
+        "codes": [
+            "TCN",
+            "WTP",
+            "TEC"
+        ]
+    },
+    {
+        "subjectId": 37,
+        "name": "Chemical Laboratory Technology – Pharmaceutical",
+        "codes": [
+            "BIO",
+            "COM",
+            "CHM",
+            "MTH",
+            "ACA",
+            "SSA",
+            "CHO",
+            "CMI",
+            "PHA",
+            "SES",
+            "TAC",
+            "WTP",
+            "CLP",
+            "BIC",
+            "MBG",
+            "STA",
+            "PHM",
+            "BPH",
+            "PHC",
+            "PPF",
+            "PYM",
+            "PAC",
+            "EAC",
+            "PHY",
+            "PHT"
+        ]
+    },
+    {
+        "subjectId": 74,
+        "name": "Event Marketing – Sports, Entertainment, Arts",
+        "codes": [
+            "SEA",
+            "WTP",
+            "EVM"
+        ]
+    },
+    {
+        "subjectId": 87,
+        "name": "Flight Services",
+        "codes": [
+            "COM",
+            "FSO",
+            "HSP"
+        ]
+    },
+    {
+        "subjectId": 103,
+        "name": "Honours Bachelor of Commerce – Human Resources Management",
+        "codes": [
+            "BAB",
+            "ENG",
+            "HST",
+            "LSP",
+            "LSO",
+            "WTP",
+            "CPP",
+            "CWT"
+        ]
+    },
+    {
+        "subjectId": 153,
+        "name": "Pharmaceutical Regulatory Affairs \u0026 Quality Operations",
+        "codes": [
+            "PBB",
+            "PQA",
+            "PFM",
+            "PRA",
+            "WTP",
+            "TWC",
+            "RAQ",
+            "PCR",
+            "IRA",
+            "PEC"
+        ]
+    },
+    {
+        "subjectId": 6,
+        "name": "Accounting Techniques",
+        "codes": [
+            "ACC",
+            "BAM",
+            "ISC",
+            "COM",
+            "MBF",
+            "SMS",
+            "EAC"
+        ]
+    },
+    {
+        "subjectId": 155,
+        "name": "Police Foundations",
+        "codes": [
+            "LAW",
+            "COM",
+            "PFD",
+            "PSY"
+        ]
+    },
+    {
+        "subjectId": 162,
+        "name": "Public Administration",
+        "codes": [
+            "PAD",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 178,
+        "name": "Tourism – Travel Operations",
+        "codes": [
+            "COM",
+            "BAM",
+            "TRV",
+            "HSP",
+            "TIS",
+            "GCB",
+            "TSA"
+        ]
+    },
+    {
+        "subjectId": 0,
+        "name": "3D Animation",
+        "codes": [
+            "MAY",
+            "ANI",
+            "ACT",
+            "MGL",
+            "STR",
+            "DGT"
+        ]
+    },
+    {
+        "subjectId": 94,
+        "name": "Global Hospitality Business Development",
+        "codes": [
+            "GBD",
+            "MKM",
+            "OPR",
+            "MGM",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 113,
+        "name": "Honours Bachelor of Interdisciplinary Studies",
+        "codes": [
+            "INS",
+            "ENG",
+            "INT",
+            "INW",
+            "INR",
+            "INX",
+            "LSP",
+            "WTP",
+            "CPP",
+            "CWT"
+        ]
+    },
+    {
+        "subjectId": 43,
+        "name": "Civil Engineering Technology",
+        "codes": [
+            "BEA",
+            "COM",
+            "ENS",
+            "EVS",
+            "MTA",
+            "CRX",
+            "IPS",
+            "STM",
+            "SVC",
+            "WTP",
+            "CVT",
+            "MTR",
+            "GIS",
+            "SDS",
+            "GTQ",
+            "TEC",
+            "HDY",
+            "HWT",
+            "SMF",
+            "SRC",
+            "BLC",
+            "BSC",
+            "ETR",
+            "MPT",
+            "PLR",
+            "CDA",
+            "BIM",
+            "TRN",
+            "CMG",
+            "BUD",
+            "MED",
+            "STW",
+            "WMC",
+            "APM",
+            "BEN",
+            "CDM",
+            "PPE",
+            "RBE",
+            "EBE",
+            "EAC"
+        ]
+    },
+    {
+        "subjectId": 47,
+        "name": "Computer Engineering Technology",
+        "codes": [
+            "COM",
+            "ETY",
+            "ICO",
+            "LIN",
+            "MTH",
+            "PRG",
+            "APL",
+            "IPS",
+            "HSI",
+            "LNX",
+            "DGS",
+            "MCO",
+            "WTP",
+            "NET",
+            "ECT",
+            "ECP",
+            "NSP",
+            "TEC",
+            "ETD",
+            "SEC",
+            "WCM",
+            "AMT",
+            "TPJ",
+            "ACC",
+            "BAM",
+            "MEC",
+            "OLS",
+            "PHY",
+            "PPE",
+            "EAC",
+            "ECR",
+            "ELD",
+            "MIR"
+        ]
+    },
+    {
+        "subjectId": 101,
+        "name": "Honours Bachelor of Child Development",
+        "codes": [
+            "BCD",
+            "ENG",
+            "LSO",
+            "WTP",
+            "EAD",
+            "LSP",
+            "CPP",
+            "CWT"
+        ]
+    },
+    {
+        "subjectId": 163,
+        "name": "Public Relations – Corporate Communications",
+        "codes": [
+            "CCM",
+            "WTP",
+            "PRC"
+        ]
+    },
+    {
+        "subjectId": 174,
+        "name": "Sustainable Business Management",
+        "codes": [
+            "SMB",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 17,
+        "name": "Brand Management",
+        "codes": [
+            "BMK",
+            "CRM",
+            "MRK",
+            "MKM",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 57,
+        "name": "Cybersecurity \u0026 Threat Management",
+        "codes": [
+            "CYT",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 79,
+        "name": "Financial Planning",
+        "codes": [
+            "FIP",
+            "CSC",
+            "FPL",
+            "FCA",
+            "FSP"
+        ]
+    },
+    {
+        "subjectId": 108,
+        "name": "Honours Bachelor of Commerce – Marketing",
+        "codes": [
+            "BAB",
+            "ENG",
+            "HST",
+            "LSP",
+            "BMT",
+            "COM",
+            "MRT",
+            "OPT",
+            "BMR",
+            "WTP",
+            "ACC",
+            "MGT"
+        ]
+    },
+    {
+        "subjectId": 156,
+        "name": "Practical Nursing",
+        "codes": [
+            "COM",
+            "MDM",
+            "PNA",
+            "PNC",
+            "PNH",
+            "PNL",
+            "PSY",
+            "PNR",
+            "PNE",
+            "PNP",
+            "PNM"
+        ]
+    },
+    {
+        "subjectId": 46,
+        "name": "College Opportunities",
+        "codes": [
+            "COM",
+            "MTH",
+            "SCR"
+        ]
+    },
+    {
+        "subjectId": 128,
+        "name": "Journalism (For Applicants Currently Attending York University)",
+        "codes": [
+            "COM",
+            "JRN"
+        ]
+    },
+    {
+        "subjectId": 169,
+        "name": "Social Service Worker (Accelerated)",
+        "codes": [
+            "SSW",
+            "GWL"
+        ]
+    },
+    {
+        "subjectId": 173,
+        "name": "Supply Chain Management – Global Logistics",
+        "codes": [
+            "SCM",
+            "CAP"
+        ]
+    },
+    {
+        "subjectId": 182,
+        "name": "Visual Effects for Film \u0026 Television",
+        "codes": [
+            "VFT"
+        ]
+    },
+    {
+        "subjectId": 35,
+        "name": "Chemical Engineering Technology",
+        "codes": [
+            "COM",
+            "BIO",
+            "CHM",
+            "MTH",
+            "SSA",
+            "CHO",
+            "STA",
+            "WTP",
+            "CHY",
+            "PHY",
+            "CNG",
+            "ACA",
+            "CIT",
+            "CMI",
+            "SES",
+            "TAC",
+            "BIC",
+            "OCC",
+            "CHP",
+            "CPM",
+            "PTC",
+            "ECI",
+            "MTR",
+            "EII",
+            "EAC"
+        ]
+    },
+    {
+        "subjectId": 13,
+        "name": "Aviation Operations",
+        "codes": [
+            "ACA",
+            "AER",
+            "AVM",
+            "AVS",
+            "COM",
+            "MTH",
+            "FLP",
+            "FDP",
+            "MET",
+            "SMS",
+            "ASO",
+            "FPD",
+            "WTP",
+            "TEC",
+            "AVO",
+            "ALO",
+            "EPP",
+            "SEC",
+            "TPL"
+        ]
+    },
+    {
+        "subjectId": 18,
+        "name": "Broadcasting – Radio",
+        "codes": [
+            "COM",
+            "RAD",
+            "RTV"
+        ]
+    },
+    {
+        "subjectId": 69,
+        "name": "Esports Marketing Management",
+        "codes": [
+            "EMK",
+            "SEA",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 84,
+        "name": "Fire Protection Engineering Technology",
+        "codes": [
+            "MTH",
+            "ALG",
+            "COM",
+            "FSS",
+            "FPF",
+            "CAD",
+            "OBC",
+            "CHM",
+            "FAS",
+            "AFS",
+            "FWS",
+            "TEC",
+            "FDY",
+            "HOM",
+            "OFC",
+            "WTP",
+            "FPT",
+            "STK",
+            "HBF",
+            "ENG",
+            "FLS",
+            "FIP",
+            "FMO",
+            "FPP",
+            "FST",
+            "INS",
+            "PBC",
+            "PRM",
+            "WFS",
+            "PRV",
+            "SPR",
+            "CXS",
+            "ALS",
+            "BDC",
+            "ELR",
+            "FRC",
+            "HDS",
+            "SPD",
+            "ADT",
+            "EXP",
+            "FSB",
+            "FSF",
+            "EAC",
+            "CFE",
+            "PSH"
+        ]
+    },
+    {
+        "subjectId": 116,
+        "name": "Honours Bachelor of Therapeutic Recreation",
+        "codes": [
+            "ENG",
+            "HSC",
+            "LSO",
+            "REC",
+            "TRC",
+            "LLS",
+            "HCM",
+            "LSP",
+            "SWO",
+            "PHY",
+            "FTR",
+            "SCO",
+            "LSL",
+            "PDM",
+            "PCP",
+            "STA",
+            "WTP",
+            "HUM",
+            "RSC",
+            "DTR",
+            "PCM",
+            "PDP",
+            "CPP",
+            "CWT"
+        ]
+    },
+    {
+        "subjectId": 1,
+        "name": "911 \u0026 Emergency Services Communications",
+        "codes": [
+            "ECP",
+            "COM",
+            "PSY"
+        ]
+    },
+    {
+        "subjectId": 60,
+        "name": "Early Childhood Education",
+        "codes": [
+            "COM",
+            "ECE",
+            "PSY"
+        ]
+    },
+    {
+        "subjectId": 62,
+        "name": "Electromechanical Engineering Technology – Automation",
+        "codes": [
+            "COM",
+            "ETY",
+            "ICO",
+            "MTH",
+            "LIN",
+            "PRG",
+            "CAD",
+            "DGS",
+            "IPS",
+            "ELM",
+            "THY",
+            "CSF",
+            "ECP",
+            "MEC",
+            "WTP",
+            "MME",
+            "MMF",
+            "PCS",
+            "TEC",
+            "TIA",
+            "CNC",
+            "MOM",
+            "ROB",
+            "TPJ",
+            "ACC",
+            "BAM",
+            "PHY",
+            "PPE",
+            "TLD"
+        ]
+    },
+    {
+        "subjectId": 168,
+        "name": "Social Service Worker",
+        "codes": [
+            "COM",
+            "SLL",
+            "SSW",
+            "MHB",
+            "BHS",
+            "CYW",
+            "GWL",
+            "SOC",
+            "NAT",
+            "SCL",
+            "SWL"
+        ]
+    },
+    {
+        "subjectId": 177,
+        "name": "Tourism – Services Management – Travel Services Specialization",
+        "codes": [
+            "COM",
+            "BAM",
+            "PPS",
+            "HSP",
+            "SMS",
+            "TIS",
+            "TRV",
+            "ECO",
+            "TAC",
+            "MRK",
+            "WTP",
+            "CRM",
+            "GCB",
+            "TSA",
+            "HTM",
+            "MAN",
+            "TCS"
+        ]
+    },
+    {
+        "subjectId": 30,
+        "name": "Business Analytics",
+        "codes": [
+            "BAN"
+        ]
+    },
+    {
+        "subjectId": 100,
+        "name": "Honours Bachelor of Behavioural Psychology",
+        "codes": [
+            "BBP",
+            "ENG",
+            "PSY",
+            "LSP",
+            "CMH",
+            "SWO",
+            "WTP",
+            "STA",
+            "BPR",
+            "SOC",
+            "MNS",
+            "LSO",
+            "CPP",
+            "CWT"
+        ]
+    },
+    {
+        "subjectId": 140,
+        "name": "Mechanical Technician – CNC Programming",
+        "codes": [
+            "COM",
+            "CNC",
+            "BPR",
+            "MAT",
+            "SHP",
+            "THY",
+            "CAM",
+            "MTH",
+            "TLD",
+            "WTP",
+            "TEC",
+            "TPJ",
+            "ETY",
+            "JFX",
+            "MDD",
+            "PLC",
+            "QLA",
+            "SWK"
+        ]
+    },
+    {
+        "subjectId": 15,
+        "name": "Behavioural Sciences",
+        "codes": [
+            "BHS",
+            "COM",
+            "PSY",
+            "SSW",
+            "SWL"
+        ]
+    },
+    {
+        "subjectId": 11,
+        "name": "Art Fundamentals",
+        "codes": [
+            "AFD",
+            "COM"
+        ]
+    },
+    {
+        "subjectId": 32,
+        "name": "Business – International Business",
+        "codes": [
+            "COM",
+            "BAM",
+            "INB",
+            "ISC",
+            "MBF",
+            "SMS",
+            "MRK",
+            "ACC",
+            "OBR",
+            "SIB",
+            "SOC",
+            "EAC",
+            "QNM",
+            "CAP",
+            "BUS",
+            "PMP",
+            "PPS",
+            "OPM"
+        ]
+    },
+    {
+        "subjectId": 88,
+        "name": "Flight Services: Operations \u0026 Cabin Management",
+        "codes": [
+            "COM",
+            "FSO",
+            "HSP",
+            "MLT",
+            "TEA",
+            "TIS",
+            "TCS",
+            "TSA"
+        ]
+    },
+    {
+        "subjectId": 93,
+        "name": "General Arts – One Year Certificate",
+        "codes": [
+            "COM",
+            "MTH",
+            "NAT",
+            "PSY",
+            "SOC",
+            "CAN",
+            "CUL",
+            "PHL",
+            "ACC",
+            "BUS",
+            "MRK"
+        ]
+    },
+    {
+        "subjectId": 136,
+        "name": "Marketing Management",
+        "codes": [
+            "CRM",
+            "MKM",
+            "MRK",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 150,
+        "name": "Paralegal",
+        "codes": [
+            "COM",
+            "LGL",
+            "PLA",
+            "PLE",
+            "PLO",
+            "PLR",
+            "PLY",
+            "FPL",
+            "PLC",
+            "PLD",
+            "PLN",
+            "PLP"
+        ]
+    },
+    {
+        "subjectId": 151,
+        "name": "Paralegal (Accelerated)",
+        "codes": [
+            "LGL",
+            "PLA",
+            "PLE",
+            "PLO",
+            "PLT",
+            "PLY",
+            "FPL",
+            "PLC",
+            "PLD",
+            "PLN",
+            "PLP",
+            "PLR"
+        ]
+    },
+    {
+        "subjectId": 5,
+        "name": "Accounting \u0026 Payroll",
+        "codes": [
+            "ACC",
+            "COM",
+            "BAM",
+            "ISC",
+            "MBF",
+            "APP",
+            "HRA",
+            "OBR",
+            "SMS",
+            "EAC",
+            "WTP",
+            "CAP"
+        ]
+    },
+    {
+        "subjectId": 160,
+        "name": "Project Management – Environmental",
+        "codes": [
+            "PME"
+        ]
+    },
+    {
+        "subjectId": 154,
+        "name": "Photography",
+        "codes": [
+            "COM",
+            "IDP"
+        ]
+    },
+    {
+        "subjectId": 110,
+        "name": "Honours Bachelor of Crime \u0026 Intelligence Analysis",
+        "codes": [
+            "CIA",
+            "ENG",
+            "LSP",
+            "LSO",
+            "RSC",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 137,
+        "name": "Mechanical Engineering Technician (Tool Design)",
+        "codes": [
+            "CNC",
+            "COM",
+            "BPR",
+            "MAT",
+            "MTH",
+            "SHP",
+            "THY",
+            "CAM",
+            "TLD",
+            "HPN",
+            "JFX",
+            "MDD",
+            "MAN",
+            "DIE",
+            "EST",
+            "PLC",
+            "MCD",
+            "QLA"
+        ]
+    },
+    {
+        "subjectId": 97,
+        "name": "Government Relations",
+        "codes": [
+            "GRM",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 49,
+        "name": "Computer Programming",
+        "codes": [
+            "COM",
+            "CPR",
+            "APS",
+            "IPC",
+            "ULI",
+            "DCF",
+            "OOP",
+            "DBS",
+            "WEB",
+            "BCI",
+            "EAC",
+            "JAC",
+            "BAC",
+            "DBA",
+            "DBJ",
+            "DBL",
+            "DBT",
+            "DBW",
+            "DSA",
+            "EJB",
+            "GAM",
+            "DOM",
+            "GPU",
+            "GUI",
+            "ISP",
+            "INT",
+            "MAP",
+            "MCL",
+            "NET",
+            "OSD",
+            "PMC",
+            "PRO",
+            "RPG",
+            "SPO",
+            "SYS",
+            "UNX",
+            "VBA",
+            "WSA",
+            "APC"
+        ]
+    },
+    {
+        "subjectId": 52,
+        "name": "Coronary Care Nursing",
+        "codes": [
+            "CNC",
+            "CPR"
+        ]
+    },
+    {
+        "subjectId": 76,
+        "name": "Fashion Business",
+        "codes": [
+            "COM",
+            "FAB",
+            "FBF",
+            "RBC",
+            "RRM",
+            "AMA",
+            "FSH",
+            "RCS",
+            "REM",
+            "FTX",
+            "RMC",
+            "RSO",
+            "FCA",
+            "FPD",
+            "RFB",
+            "ROM"
+        ]
+    },
+    {
+        "subjectId": 83,
+        "name": "Fire Protection Engineering Technician",
+        "codes": [
+            "MTH",
+            "ALG",
+            "COM",
+            "FPF",
+            "FSS",
+            "OBC",
+            "CAD",
+            "CHM",
+            "FAS",
+            "OFC",
+            "TEC",
+            "AFS",
+            "HOM",
+            "FDY",
+            "FSF",
+            "FSP",
+            "INS",
+            "PRM",
+            "WFS",
+            "PRV",
+            "SPR",
+            "ELR",
+            "BDC",
+            "ALS",
+            "FRC",
+            "CXS",
+            "ADT",
+            "FLS",
+            "FSB",
+            "PSH"
+        ]
+    },
+    {
+        "subjectId": 105,
+        "name": "Honours Bachelor of Commerce - International Business Management",
+        "codes": [
+            "BAB",
+            "ENG",
+            "BMT",
+            "HST",
+            "LSP",
+            "BMI",
+            "WTP",
+            "CPP",
+            "CWT"
+        ]
+    },
+    {
+        "subjectId": 106,
+        "name": "Honours Bachelor of Commerce – Business Management",
+        "codes": [
+            "BAB",
+            "ENG",
+            "BMT",
+            "HST",
+            "LSP",
+            "WTP",
+            "BBM",
+            "CPP",
+            "CWT"
+        ]
+    },
+    {
+        "subjectId": 28,
+        "name": "Business Administration – Marketing",
+        "codes": [
+            "COM",
+            "BAM",
+            "ISC",
+            "MBF",
+            "MRK",
+            "ACC",
+            "EAC",
+            "OBR",
+            "ECN",
+            "QNM",
+            "CAP",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 10,
+        "name": "Animation",
+        "codes": [
+            "ANI",
+            "CHR",
+            "COM",
+            "HIS",
+            "LAY",
+            "LIF",
+            "STR",
+            "AAP",
+            "ACT",
+            "PRT",
+            "PRD",
+            "DES",
+            "FXX",
+            "EAC"
+        ]
+    },
+    {
+        "subjectId": 27,
+        "name": "Business Administration – Management",
+        "codes": [
+            "BAM",
+            "COM",
+            "MBF",
+            "ISC",
+            "ACC",
+            "PPS",
+            "MAN",
+            "MRK",
+            "OBR",
+            "SMS",
+            "CSS",
+            "EAC",
+            "HRA",
+            "OPM",
+            "BUS",
+            "CAP",
+            "CRM",
+            "MGS",
+            "FIS",
+            "IBM",
+            "MSC",
+            "QNM",
+            "ECN",
+            "EQQ",
+            "SIB",
+            "BMI",
+            "LSP",
+            "BAB",
+            "BMT",
+            "CSR"
+        ]
+    },
+    {
+        "subjectId": 44,
+        "name": "Civil Engineering Technology (For Applicants Currently Attending York University)",
+        "codes": [
+            "BSC",
+            "BEA",
+            "ENS",
+            "MTA",
+            "TEC",
+            "CMG",
+            "HDY",
+            "HWT",
+            "STM",
+            "SVC",
+            "CRX",
+            "MTR",
+            "GTQ",
+            "SDS",
+            "BLC",
+            "ETR",
+            "MPT",
+            "BIM",
+            "CDA",
+            "TRN",
+            "SRC",
+            "SMF",
+            "BUD",
+            "MED",
+            "STW",
+            "WMC"
+        ]
+    },
+    {
+        "subjectId": 45,
+        "name": "Clinical Research",
+        "codes": [
+            "CRP",
+            "PQA",
+            "TWC",
+            "WTP",
+            "CRQ"
+        ]
+    },
+    {
+        "subjectId": 58,
+        "name": "Database Application Developer",
+        "codes": [
+            "JAV",
+            "DES",
+            "SQL",
+            "WEB",
+            "CJV",
+            "DBD",
+            "DBW",
+            "SEC",
+            "WTP",
+            "DAD",
+            "OPS"
+        ]
+    },
+    {
+        "subjectId": 80,
+        "name": "Financial Services Compliance Administration",
+        "codes": [
+            "FCA",
+            "FPL"
+        ]
+    },
+    {
+        "subjectId": 96,
+        "name": "Global Hospitality Services Leadership",
+        "codes": [
+            "GBD",
+            "MKM",
+            "OPR",
+            "GSL",
+            "MGM",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 7,
+        "name": "Acting for Camera \u0026 Voice",
+        "codes": [
+            "ACV",
+            "COM"
+        ]
+    },
+    {
+        "subjectId": 181,
+        "name": "Veterinary Technician",
+        "codes": [
+            "APY",
+            "BOA",
+            "CCA",
+            "COM",
+            "CLP",
+            "ETY",
+            "MED",
+            "VMT",
+            "BUG",
+            "NOA",
+            "PMY",
+            "RAD",
+            "LAS",
+            "SGT",
+            "EXO",
+            "GEB",
+            "VPL",
+            "VTE"
+        ]
+    },
+    {
+        "subjectId": 161,
+        "name": "Project Management – Information Technology",
+        "codes": [
+            "PMC",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 61,
+        "name": "Early Childhood Education (Accelerated)",
+        "codes": [
+            "ECY",
+            "EFP"
+        ]
+    },
+    {
+        "subjectId": 130,
+        "name": "Justice Administration Services (Articulated)",
+        "codes": [
+            "JAS",
+            "LGL",
+            "FPL"
+        ]
+    },
+    {
+        "subjectId": 134,
+        "name": "Library \u0026 Information Technician",
+        "codes": [
+            "COM",
+            "LIT",
+            "FPL"
+        ]
+    },
+    {
+        "subjectId": 42,
+        "name": "Civil Engineering Technician",
+        "codes": [
+            "COM",
+            "BEA",
+            "ENS",
+            "EVS",
+            "MTA",
+            "CRX",
+            "IPS",
+            "MTR",
+            "STM",
+            "SVC",
+            "WTP",
+            "CVL",
+            "GTQ",
+            "HWT",
+            "SPX",
+            "TEC",
+            "CPX",
+            "CTE",
+            "MPP",
+            "BIX",
+            "STW",
+            "EBE"
+        ]
+    },
+    {
+        "subjectId": 78,
+        "name": "Fashion Studies",
+        "codes": [
+            "COM",
+            "FST",
+            "RBC"
+        ]
+    },
+    {
+        "subjectId": 89,
+        "name": "Floral Design",
+        "codes": [
+            "RTF",
+            "COM",
+            "FDP",
+            "FSH"
+        ]
+    },
+    {
+        "subjectId": 95,
+        "name": "Global Hospitality Operations Management",
+        "codes": [
+            "GBD",
+            "MKM",
+            "FIN",
+            "OPR",
+            "HSP",
+            "GOM",
+            "MGM",
+            "OPM",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 119,
+        "name": "Human Resources Management",
+        "codes": [
+            "HRM",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 146,
+        "name": "Office Administration – Executive",
+        "codes": [
+            "BCM",
+            "BMA",
+            "COM",
+            "DPW",
+            "ECS",
+            "ICP",
+            "OPR",
+            "ACI",
+            "DBA",
+            "SDE",
+            "TRT",
+            "ACS",
+            "CPD",
+            "EFP",
+            "EOP",
+            "IPM",
+            "IHR",
+            "SWI",
+            "CLJ"
+        ]
+    },
+    {
+        "subjectId": 165,
+        "name": "Real Property Administration (Assessment \u0026 Appraisal) (Accelerated)",
+        "codes": [
+            "FPL",
+            "CSP",
+            "RPA"
+        ]
+    },
+    {
+        "subjectId": 16,
+        "name": "Biotechnology – Advanced",
+        "codes": [
+            "BIO",
+            "CHM",
+            "COM",
+            "MTH",
+            "ACA",
+            "SSA",
+            "BIC",
+            "BIT",
+            "MBG",
+            "CHO",
+            "SES",
+            "CWT",
+            "BTA",
+            "AIN",
+            "PHY",
+            "STA",
+            "IMU",
+            "BNF",
+            "TIC",
+            "MOB",
+            "FMB",
+            "VIR",
+            "BPH",
+            "CPY",
+            "ANH",
+            "PHA",
+            "PHM",
+            "OCC",
+            "EAC"
+        ]
+    },
+    {
+        "subjectId": 71,
+        "name": "Esthetics \u0026 Spa Therapies",
+        "codes": [
+            "COM",
+            "ETC",
+            "SPM",
+            "ETB",
+            "EST",
+            "EAC"
+        ]
+    },
+    {
+        "subjectId": 118,
+        "name": "Hospitality – Hotel \u0026 Restaurant Services Management",
+        "codes": [
+            "COM",
+            "HSP",
+            "HTM",
+            "TCS",
+            "TRV",
+            "MRK",
+            "HPL",
+            "BUS",
+            "MCE",
+            "ECO",
+            "GCB",
+            "MLT"
+        ]
+    },
+    {
+        "subjectId": 129,
+        "name": "Justice Administration Services",
+        "codes": [
+            "CSL",
+            "COM",
+            "JAS",
+            "LGL",
+            "FPL"
+        ]
+    },
+    {
+        "subjectId": 131,
+        "name": "Law Clerk",
+        "codes": [
+            "CSL",
+            "COM",
+            "LGL",
+            "LXY",
+            "LXC",
+            "LXD",
+            "LXM",
+            "LXP",
+            "FPL",
+            "LXR",
+            "LXE",
+            "LXJ"
+        ]
+    },
+    {
+        "subjectId": 138,
+        "name": "Mechanical Engineering Technology – Building Sciences",
+        "codes": [
+            "BES",
+            "BGD",
+            "BGS",
+            "COM",
+            "EBE",
+            "MTH",
+            "BGL",
+            "IPS",
+            "WTP",
+            "MBT",
+            "BGM",
+            "BGP",
+            "BGB",
+            "BGN",
+            "TEC",
+            "BGI",
+            "BGT",
+            "PMA",
+            "BGC",
+            "BAM",
+            "MEC",
+            "MIR",
+            "NET",
+            "PHY",
+            "PLC",
+            "PPE",
+            "BGA",
+            "BGQ",
+            "BGE",
+            "FPL",
+            "EAC",
+            "EMG"
+        ]
+    },
+    {
+        "subjectId": 40,
+        "name": "Child Development Practitioner (Pre-Apprenticeship)",
+        "codes": [
+            "CSM",
+            "CDF",
+            "CDP"
+        ]
+    },
+    {
+        "subjectId": 56,
+        "name": "Creative Advertising (For Applicants Currently Attending York University)",
+        "codes": [
+            "CAB",
+            "COM",
+            "FPL",
+            "MRK"
+        ]
+    },
+    {
+        "subjectId": 115,
+        "name": "Honours Bachelor of Technology - Software Development",
+        "codes": [
+            "BTP",
+            "BTO",
+            "ENG",
+            "BTC",
+            "BTD",
+            "ACC",
+            "BTI",
+            "BTS",
+            "LSP",
+            "BTN",
+            "BTR",
+            "BTB",
+            "BTH",
+            "BTE",
+            "WTP",
+            "BSD",
+            "BAB",
+            "DPI",
+            "DPS",
+            "CPP",
+            "BTW"
+        ]
+    },
+    {
+        "subjectId": 143,
+        "name": "Non-Profit \u0026 Social Sector Management",
+        "codes": [
+            "NPM",
+            "IBS",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 183,
+        "name": "Visual Merchandising Arts",
+        "codes": [
+            "DDV",
+            "DSP",
+            "DSG",
+            "VML",
+            "COM",
+            "DMM",
+            "FSM",
+            "FSH",
+            "PSD",
+            "FPS"
+        ]
+    },
+    {
+        "subjectId": 55,
+        "name": "Creative Advertising",
+        "codes": [
+            "CAB",
+            "COM",
+            "FPL",
+            "MRK"
+        ]
+    },
+    {
+        "subjectId": 19,
+        "name": "Broadcasting – Radio (For Applicants Currently Attending York University)",
+        "codes": [
+            "COM",
+            "RAD",
+            "RTV"
+        ]
+    },
+    {
+        "subjectId": 38,
+        "name": "Child \u0026 Youth Care",
+        "codes": [
+            "CYC",
+            "COM",
+            "CYW",
+            "BHS",
+            "SSW",
+            "SOC",
+            "MHB",
+            "SWL",
+            "EAC"
+        ]
+    },
+    {
+        "subjectId": 63,
+        "name": "Electronics Engineering Technician",
+        "codes": [
+            "COM",
+            "ETY",
+            "LIN",
+            "MTH",
+            "ICO",
+            "PRG",
+            "ECR",
+            "ELD",
+            "IPS",
+            "MIR",
+            "WTP",
+            "DGS",
+            "MCO",
+            "MEC",
+            "NET",
+            "EEN",
+            "TEC",
+            "ECP",
+            "TPJ",
+            "IMI",
+            "CSF",
+            "PHY",
+            "PPE",
+            "NSP"
+        ]
+    },
+    {
+        "subjectId": 75,
+        "name": "Fashion Arts",
+        "codes": [
+            "CGC",
+            "DSW",
+            "COM",
+            "FSH",
+            "PTW",
+            "CAD",
+            "TXF",
+            "KND",
+            "PMW",
+            "TMW",
+            "PRM",
+            "EAC"
+        ]
+    },
+    {
+        "subjectId": 112,
+        "name": "Honours Bachelor of Healthcare Management",
+        "codes": [
+            "BAB",
+            "BHM",
+            "ENG",
+            "ACC",
+            "MRT",
+            "LSP",
+            "HST",
+            "MGT",
+            "BMT",
+            "WTP",
+            "RES"
+        ]
+    },
+    {
+        "subjectId": 135,
+        "name": "Library \u0026 Information Technician (Accelerated)",
+        "codes": [
+            "LIT",
+            "FPL"
+        ]
+    },
+    {
+        "subjectId": 145,
+        "name": "Nursing Leadership \u0026 Management",
+        "codes": [
+            "NLM",
+            "ENG",
+            "HRA"
+        ]
+    },
+    {
+        "subjectId": 2,
+        "name": "Academic Upgrading",
+        "codes": [
+            "BIO",
+            "CHM",
+            "CSM"
+        ]
+    },
+    {
+        "subjectId": 148,
+        "name": "Office Administration – Legal",
+        "codes": [
+            "BCM",
+            "BMA",
+            "COM",
+            "DPW",
+            "ECS",
+            "ICP",
+            "LCT",
+            "OPR",
+            "DMS",
+            "LDP",
+            "LPL",
+            "LPI",
+            "TRT",
+            "CPD",
+            "LFP",
+            "LPE",
+            "LPC",
+            "LPR",
+            "LTR",
+            "CLJ"
+        ]
+    },
+    {
+        "subjectId": 21,
+        "name": "Broadcasting – Television (For Applicants Currently Attending York University)",
+        "codes": [
+            "RTV",
+            "COM",
+            "SCA"
+        ]
+    },
+    {
+        "subjectId": 39,
+        "name": "Child Development Practitioner",
+        "codes": [
+            "CDP",
+            "CDF",
+            "COM",
+            "PSY"
+        ]
+    },
+    {
+        "subjectId": 102,
+        "name": "Honours Bachelor of Commerce – Financial Planning",
+        "codes": [
+            "BAB",
+            "ENG",
+            "FSM",
+            "HST",
+            "IAF",
+            "LSP",
+            "WTP",
+            "CPP",
+            "CWT"
+        ]
+    },
+    {
+        "subjectId": 133,
+        "name": "Liberal Arts University Transfer",
+        "codes": [
+            "COM",
+            "HUM",
+            "PSY",
+            "YKC",
+            "MTH",
+            "ARW",
+            "FLS",
+            "SPN",
+            "SCL",
+            "CAN",
+            "YKL"
+        ]
+    },
+    {
+        "subjectId": 14,
+        "name": "Aviation Safety",
+        "codes": [
+            "ACA",
+            "AER",
+            "AVM",
+            "AVS",
+            "COM",
+            "MTH",
+            "FDP",
+            "FLP",
+            "MET",
+            "SMS",
+            "ASO",
+            "FPD",
+            "TEC",
+            "WTP",
+            "ASE",
+            "ALO",
+            "EPP",
+            "SEC",
+            "TPL",
+            "DDM",
+            "HUM",
+            "AII",
+            "AVP",
+            "HAS",
+            "PPM",
+            "SAF",
+            "EAC"
+        ]
+    },
+    {
+        "subjectId": 34,
+        "name": "Cannabis Regulation \u0026 Quality Assurance",
+        "codes": [
+            "CAQ",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 81,
+        "name": "Financial Services – Client Services",
+        "codes": [
+            "ACC",
+            "BAM",
+            "COM",
+            "ISC",
+            "MBF",
+            "FCS",
+            "MRK",
+            "SOC",
+            "OBR",
+            "BUS",
+            "EAC",
+            "CAP",
+            "MAP",
+            "RFC",
+            "SMS",
+            "CIP",
+            "MGS"
+        ]
+    },
+    {
+        "subjectId": 142,
+        "name": "Mental Health Intervention",
+        "codes": [
+            "MHI",
+            "PSY",
+            "SOC"
+        ]
+    },
+    {
+        "subjectId": 152,
+        "name": "Personal Support Worker",
+        "codes": [
+            "COM",
+            "PSW"
+        ]
+    },
+    {
+        "subjectId": 159,
+        "name": "Professional Accounting Practice",
+        "codes": [
+            "BAB",
+            "IAF",
+            "LSP"
+        ]
+    },
+    {
+        "subjectId": 164,
+        "name": "Real Property Administration (Assessment \u0026 Appraisal)",
+        "codes": [
+            "COM",
+            "RPA",
+            "FPL",
+            "CSP"
+        ]
+    },
+    {
+        "subjectId": 25,
+        "name": "Business Administration – Human Resources",
+        "codes": [
+            "BAM",
+            "COM",
+            "ISC",
+            "MBF",
+            "MRK",
+            "ACC",
+            "CSS",
+            "EAC",
+            "HRA",
+            "PPS",
+            "SMS",
+            "OBR",
+            "BUS",
+            "WTP",
+            "BHR",
+            "CAN",
+            "APP",
+            "QNM",
+            "CAP",
+            "CSR",
+            "IBM",
+            "GCN"
+        ]
+    },
+    {
+        "subjectId": 68,
+        "name": "Environmental Technology (For Applicants Currently Attending York University)",
+        "codes": [
+            "GEM",
+            "EVP",
+            "BEA",
+            "GTY",
+            "MTA",
+            "TEC",
+            "CHE",
+            "ECD",
+            "HDG",
+            "HYD",
+            "SVE",
+            "SIP",
+            "ETR",
+            "WRM",
+            "WSM",
+            "EPM",
+            "WMD",
+            "MPT",
+            "PPE"
+        ]
+    },
+    {
+        "subjectId": 72,
+        "name": "Event \u0026 Media Production",
+        "codes": [
+            "COM",
+            "EMP"
+        ]
+    },
+    {
+        "subjectId": 109,
+        "name": "Honours Bachelor of Community Mental Health",
+        "codes": [
+            "CMH",
+            "ENG",
+            "LSO",
+            "SOC",
+            "LSP",
+            "PSY",
+            "WTP",
+            "STA",
+            "MHR",
+            "CPP",
+            "CWT"
+        ]
+    },
+    {
+        "subjectId": 123,
+        "name": "Infant \u0026 Early Child Mental Health",
+        "codes": [
+            "IMH"
+        ]
+    },
+    {
+        "subjectId": 158,
+        "name": "Pre-Health Sciences Pathway to Advanced Diplomas \u0026 Degrees",
+        "codes": [
+            "BIO",
+            "CHM",
+            "COM",
+            "MTH",
+            "SCI"
+        ]
+    },
+    {
+        "subjectId": 180,
+        "name": "Veterinary Assistant",
+        "codes": [
+            "BOA",
+            "COM",
+            "VAH",
+            "VAP",
+            "VCR",
+            "VLP",
+            "VMP",
+            "VAC",
+            "VCP",
+            "VGR",
+            "VLL",
+            "VSA",
+            "VSR"
+        ]
+    },
+    {
+        "subjectId": 64,
+        "name": "Electronics Engineering Technology",
+        "codes": [
+            "COM",
+            "ETY",
+            "LIN",
+            "ICO",
+            "MTH",
+            "PRG",
+            "ECR",
+            "ELD",
+            "IPS",
+            "MIR",
+            "DGS",
+            "MCO",
+            "NET",
+            "MEC",
+            "PHY",
+            "WTP",
+            "EET",
+            "CSF",
+            "ECP",
+            "TEC",
+            "ELM",
+            "ETD",
+            "TRN",
+            "AMT",
+            "TPJ",
+            "ACC",
+            "BAM",
+            "PPE",
+            "ROB",
+            "TIA",
+            "MOM",
+            "LNX",
+            "EAC"
+        ]
+    },
+    {
+        "subjectId": 23,
+        "name": "Business",
+        "codes": [
+            "COM",
+            "BAM",
+            "ISC",
+            "MBF",
+            "PPS",
+            "ACC",
+            "MAN",
+            "MRK",
+            "OBR",
+            "SMS",
+            "CSS",
+            "EAC",
+            "HRA",
+            "OPM",
+            "BUS",
+            "CAP",
+            "CRM",
+            "MGS",
+            "QNM"
+        ]
+    },
+    {
+        "subjectId": 33,
+        "name": "Business – Marketing",
+        "codes": [
+            "BAM",
+            "COM",
+            "ISC",
+            "MBF",
+            "MRK",
+            "ACC",
+            "EAC",
+            "OBR",
+            "ECN",
+            "QNM",
+            "CAP"
+        ]
+    },
+    {
+        "subjectId": 53,
+        "name": "Cosmetic Science",
+        "codes": [
+            "CSP",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 121,
+        "name": "Independent Music Production",
+        "codes": [
+            "IMP"
+        ]
+    },
+    {
+        "subjectId": 122,
+        "name": "Independent Songwriting \u0026 Performance",
+        "codes": [
+            "COM",
+            "IMP",
+            "IPS"
+        ]
+    },
+    {
+        "subjectId": 132,
+        "name": "Law Clerk (Accelerated)",
+        "codes": [
+            "LGL",
+            "LXR",
+            "LXY",
+            "LXC",
+            "LXD",
+            "LXP",
+            "LXM",
+            "FPL",
+            "LXE",
+            "LXJ"
+        ]
+    },
+    {
+        "subjectId": 144,
+        "name": "Nursing (Collaborative with York University)",
+        "codes": [
+            "HAP",
+            "NUR",
+            "PSY",
+            "HDP"
+        ]
+    },
+    {
+        "subjectId": 8,
+        "name": "Advanced Investigations \u0026 Enforcement",
+        "codes": [
+            "PPI"
+        ]
+    },
+    {
+        "subjectId": 176,
+        "name": "Tourism – Services Management – Global Tourism Business Specialization",
+        "codes": [
+            "COM",
+            "BAM",
+            "PPS",
+            "SMS",
+            "HSP",
+            "TIS",
+            "TRV",
+            "ECO",
+            "TAC",
+            "MRK",
+            "WTP",
+            "GTB",
+            "CRM",
+            "HTM",
+            "TSA",
+            "BUS",
+            "MAN",
+            "GCB",
+            "TCS",
+            "HPL",
+            "MLT",
+            "TEA"
+        ]
+    },
+    {
+        "subjectId": 26,
+        "name": "Business Administration – International Business",
+        "codes": [
+            "COM",
+            "BAM",
+            "ISC",
+            "INB",
+            "MBF",
+            "SMS",
+            "ACC",
+            "MRK",
+            "OBR",
+            "SOC",
+            "EAC",
+            "SIB",
+            "QNM",
+            "BUS",
+            "MAN",
+            "WTP",
+            "BAB",
+            "CAP",
+            "PMP",
+            "PPS",
+            "OPM"
+        ]
+    },
+    {
+        "subjectId": 41,
+        "name": "Chronic Disease Management",
+        "codes": [
+            "CDM"
+        ]
+    },
+    {
+        "subjectId": 90,
+        "name": "Fraud Examination \u0026 Forensic Accounting",
+        "codes": [
+            "FAC"
+        ]
+    },
+    {
+        "subjectId": 92,
+        "name": "General Arts – English for Academic Purposes",
+        "codes": [
+            "CLL",
+            "EAP",
+            "ICA",
+            "ISC",
+            "CAN"
+        ]
+    },
+    {
+        "subjectId": 107,
+        "name": "Honours Bachelor of Commerce – Business Technology Management",
+        "codes": [
+            "BAB",
+            "BTM",
+            "ENG",
+            "LSP",
+            "HST",
+            "BMT",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 139,
+        "name": "Mechanical Engineering Technology – Industrial Design",
+        "codes": [
+            "CNC",
+            "BPR",
+            "COM",
+            "MTH",
+            "MAT",
+            "SHP",
+            "CAM",
+            "THY",
+            "TLD",
+            "JFX",
+            "HPN",
+            "MAN",
+            "MDD",
+            "PLC",
+            "EST",
+            "DIE",
+            "MCD",
+            "QLA",
+            "ADM",
+            "ACC",
+            "ELF",
+            "IND",
+            "MKM",
+            "BMK",
+            "EEA",
+            "IBL",
+            "ETR",
+            "PRD",
+            "TEC",
+            "EAC"
+        ]
+    },
+    {
+        "subjectId": 149,
+        "name": "Opticianry",
+        "codes": [
+            "COM",
+            "OPT",
+            "BAM",
+            "BUS",
+            "WTP"
+        ]
+    },
+    {
+        "subjectId": 12,
+        "name": "Arts and Science – University Transfer",
+        "codes": [
+            "BIO",
+            "COM",
+            "PSY",
+            "YKC",
+            "MTH",
+            "ARW",
+            "CHM",
+            "SCL",
+            "PHY",
+            "YKL",
+            "CAN"
+        ]
+    }
+]

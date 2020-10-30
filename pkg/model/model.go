@@ -12,6 +12,7 @@ type Course struct {
 	SubjectID          int    `json:"subjectId"`
 	SubjectName        string `json:"SubjectName,omitempty"`
 	SubjectDescription string `json:"-"`
+	SubjectCode        string `json:"-"`
 	Link               string `json:"Link,omitempty"`
 	//Pos                int    `json:"Pos,omitempty"`
 
@@ -70,6 +71,7 @@ func Export(cs []Course, prefix string) (err error) {
 			subj.SubjectName = c.SubjectName
 			subj.Description = c.SubjectDescription
 			subj.SubjectCode = []string{c.CourseCode}
+			//subj.SubjectCode = []string{c.SubjectCode}
 			se[c.SubjectName] = subj //adding to "exists" map
 			scount++
 		} else {

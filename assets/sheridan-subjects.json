@@ -1,0 +1,5128 @@
+[
+    {
+        "subjectId": 187,
+        "name": "Educational Support Intensive",
+        "codes": [
+            "COMM",
+            "EDUC",
+            "FLPL",
+            "PSYC"
+        ]
+    },
+    {
+        "subjectId": 408,
+        "name": "Python Foundations",
+        "codes": [
+            "PROG"
+        ]
+    },
+    {
+        "subjectId": 0,
+        "name": "21st Century Smart Skills� Wor",
+        "codes": [
+            "WKSP"
+        ]
+    },
+    {
+        "subjectId": 177,
+        "name": "Dispute Resolution",
+        "codes": [
+            "HRMT"
+        ]
+    },
+    {
+        "subjectId": 436,
+        "name": "Supply Chain Management Assoc",
+        "codes": [
+            "MATM"
+        ]
+    },
+    {
+        "subjectId": 148,
+        "name": "Correctional Worker",
+        "codes": [
+            "BUSM",
+            "COMM",
+            "LEIS",
+            "INFO",
+            "PHIL",
+            "PSYC"
+        ]
+    },
+    {
+        "subjectId": 360,
+        "name": "Mortgage Agent Program",
+        "codes": [
+            "BUSM"
+        ]
+    },
+    {
+        "subjectId": 269,
+        "name": "Illustration",
+        "codes": [
+            "CNST",
+            "COMM",
+            "COMP",
+            "DESN",
+            "DRAW",
+            "PNTG"
+        ]
+    },
+    {
+        "subjectId": 370,
+        "name": "Office Admin",
+        "codes": [
+            "APPL"
+        ]
+    },
+    {
+        "subjectId": 83,
+        "name": "Business Admin Accounting",
+        "codes": [
+            "APPL",
+            "BUSM",
+            "ECOM",
+            "COWT",
+            "ECON",
+            "FINA"
+        ]
+    },
+    {
+        "subjectId": 112,
+        "name": "Chemical Engineering Techy",
+        "codes": [
+            "COWT",
+            "ENGI",
+            "MATH",
+            "LIFE",
+            "PHYS",
+            "PSYC"
+        ]
+    },
+    {
+        "subjectId": 287,
+        "name": "International Business Managem",
+        "codes": [
+            "BUSM"
+        ]
+    },
+    {
+        "subjectId": 448,
+        "name": "Telecommunications Techy Coop",
+        "codes": [
+            "DBAS",
+            "FINA",
+            "INFO",
+            "HUMN",
+            "LIFE",
+            "MATH",
+            "PROG",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 20,
+        "name": "Advertising Management",
+        "codes": [
+            "ADVG",
+            "LAWS",
+            "BUSM",
+            "MEDA"
+        ]
+    },
+    {
+        "subjectId": 71,
+        "name": "Building Env. Sys. Operator-C2",
+        "codes": [
+            "ENGI"
+        ]
+    },
+    {
+        "subjectId": 155,
+        "name": "Credit Union Institute of Cana",
+        "codes": [
+            "ECON"
+        ]
+    },
+    {
+        "subjectId": 264,
+        "name": "Human Resource Management",
+        "codes": [
+            "ACCG",
+            "HRMT",
+            "MGMT",
+            "WKSP",
+            "BUSM"
+        ]
+    },
+    {
+        "subjectId": 348,
+        "name": "Mech Tech - Tool and Die Maker",
+        "codes": [
+            "ENGI",
+            "MATH",
+            "PMTC",
+            "APPL",
+            "CADD",
+            "CNCM",
+            "COMM",
+            "HEAS",
+            "TSKL"
+        ]
+    },
+    {
+        "subjectId": 455,
+        "name": "Tool and Die Maker Apprentice",
+        "codes": [
+            "PMTC",
+            "TLDI"
+        ]
+    },
+    {
+        "subjectId": 84,
+        "name": "Business Admin. Finance",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "BUSM",
+            "COMM",
+            "ECOM",
+            "ECON",
+            "FINA",
+            "HRMT",
+            "INFO",
+            "LAWS",
+            "MATH",
+            "MGMT",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 124,
+        "name": "Community Outreach \u0026 Develop",
+        "codes": [
+            "COMM",
+            "BUSM",
+            "COMP",
+            "COMV",
+            "FLPL",
+            "FUND",
+            "HEAL",
+            "HRMT",
+            "HUMD",
+            "LAWS",
+            "PUBR",
+            "PSYC",
+            "RESE",
+            "SOCI",
+            "SOCS",
+            "SPEN"
+        ]
+    },
+    {
+        "subjectId": 219,
+        "name": "Environmental Sc Tn",
+        "codes": [
+            "CHEM"
+        ]
+    },
+    {
+        "subjectId": 452,
+        "name": "Theatre Arts - Tech Production",
+        "codes": [
+            "CADD",
+            "COMM",
+            "HIST",
+            "PERF",
+            "THET",
+            "CADE",
+            "CRED",
+            "THEA"
+        ]
+    },
+    {
+        "subjectId": 98,
+        "name": "CAD/CAM",
+        "codes": [
+            "CADD"
+        ]
+    },
+    {
+        "subjectId": 190,
+        "name": "Electrical Techniques",
+        "codes": [
+            "APPL",
+            "COMM",
+            "ELEY",
+            "ENGI",
+            "MATH",
+            "TECH"
+        ]
+    },
+    {
+        "subjectId": 400,
+        "name": "Professional Development for M",
+        "codes": [
+            "HEAL"
+        ]
+    },
+    {
+        "subjectId": 94,
+        "name": "Business General",
+        "codes": [
+            "ACCG",
+            "BUSM",
+            "LAWS"
+        ]
+    },
+    {
+        "subjectId": 325,
+        "name": "Marketing \u0026 Sales Certificate",
+        "codes": [
+            "ADVG",
+            "BUSM",
+            "MKTG",
+            "SALE"
+        ]
+    },
+    {
+        "subjectId": 129,
+        "name": "Computer Animation",
+        "codes": [
+            "ANIM",
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 385,
+        "name": "Personal Support Worker",
+        "codes": [
+            "FLPL",
+            "BIOL",
+            "HEAL",
+            "NURS"
+        ]
+    },
+    {
+        "subjectId": 92,
+        "name": "Business Communication Skills",
+        "codes": [
+            "COMM"
+        ]
+    },
+    {
+        "subjectId": 236,
+        "name": "Fundamentals of Craft \u0026 Design",
+        "codes": [
+            "CERM",
+            "FURN",
+            "GLAS",
+            "TEXT",
+            "TXTL"
+        ]
+    },
+    {
+        "subjectId": 294,
+        "name": "Intro to iOS Development",
+        "codes": [
+            "PROG"
+        ]
+    },
+    {
+        "subjectId": 10,
+        "name": "Adobe Creative Suite",
+        "codes": [
+            "APPL"
+        ]
+    },
+    {
+        "subjectId": 59,
+        "name": "Bachelor of Photography Bridge",
+        "codes": [
+            "BUSM",
+            "HIST",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 413,
+        "name": "Registered Nurse - Refresher",
+        "codes": [
+            "BIOL",
+            "FLPL",
+            "NURS",
+            "PHAR"
+        ]
+    },
+    {
+        "subjectId": 443,
+        "name": "TESOL Plus",
+        "codes": [
+            "EDUC"
+        ]
+    },
+    {
+        "subjectId": 281,
+        "name": "Interactive Multimedia",
+        "codes": [
+            "ANIM",
+            "APPL",
+            "DSGN",
+            "INFO",
+            "MEDA",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 285,
+        "name": "International Business",
+        "codes": [
+            "APPL",
+            "BUSM",
+            "CULT",
+            "FINA",
+            "ECON",
+            "LANG",
+            "LAWS",
+            "LIFE",
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 142,
+        "name": "Computer Systems Technol. Coop",
+        "codes": [
+            "INFO",
+            "MATH",
+            "PROG",
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 272,
+        "name": "Ind Mech Millwright Basic",
+        "codes": [
+            "MWIM"
+        ]
+    },
+    {
+        "subjectId": 273,
+        "name": "Industrial Mechanic Millwright",
+        "codes": [
+            "MWIM"
+        ]
+    },
+    {
+        "subjectId": 387,
+        "name": "Photography - Other Related",
+        "codes": [
+            "APPL"
+        ]
+    },
+    {
+        "subjectId": 21,
+        "name": "Advertising-Account Management",
+        "codes": [
+            "ADVG",
+            "COWT",
+            "MKTG",
+            "FLPL",
+            "SALE"
+        ]
+    },
+    {
+        "subjectId": 224,
+        "name": "Excel Macros \u0026 VB for Apps",
+        "codes": [
+            "APPL",
+            "WKSP"
+        ]
+    },
+    {
+        "subjectId": 335,
+        "name": "Mech Eng Techn Draft Coop",
+        "codes": [
+            "CADD"
+        ]
+    },
+    {
+        "subjectId": 403,
+        "name": "Programmable Logic Control",
+        "codes": [
+            "ENGI",
+            "TSKL"
+        ]
+    },
+    {
+        "subjectId": 165,
+        "name": "Cybersecurity - Legal \u0026 Ethic",
+        "codes": [
+            "INFO"
+        ]
+    },
+    {
+        "subjectId": 291,
+        "name": "Internet Communications Techno",
+        "codes": [
+            "COMM",
+            "DBAS",
+            "INFO",
+            "MATH",
+            "PROG",
+            "SYST",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 96,
+        "name": "Business Marketing",
+        "codes": [
+            "ADVG",
+            "ACCG",
+            "SALE",
+            "APPL",
+            "BUSM",
+            "COMM",
+            "ECOM",
+            "FINA",
+            "ECON",
+            "HRMT",
+            "MATH",
+            "INFO",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 440,
+        "name": "Tax Accounting",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "BUSM",
+            "LAWS"
+        ]
+    },
+    {
+        "subjectId": 322,
+        "name": "Manufacturing Engineering Tech",
+        "codes": [
+            "ENGI",
+            "MATH",
+            "CADD"
+        ]
+    },
+    {
+        "subjectId": 364,
+        "name": "Music Theatre - Performance",
+        "codes": [
+            "APPL",
+            "HIST",
+            "PERF",
+            "THET"
+        ]
+    },
+    {
+        "subjectId": 453,
+        "name": "Theatre Arts-Tech Prod",
+        "codes": [
+            "THET"
+        ]
+    },
+    {
+        "subjectId": 120,
+        "name": "Communication, Culture \u0026 Info.",
+        "codes": [
+            "CCT"
+        ]
+    },
+    {
+        "subjectId": 293,
+        "name": "Investigation-Public \u0026 Private",
+        "codes": [
+            "BUSM",
+            "COMP",
+            "CRIM",
+            "ECON",
+            "FLPL",
+            "INSU",
+            "JUST",
+            "LAWS",
+            "POLS",
+            "PSYC",
+            "PUBR"
+        ]
+    },
+    {
+        "subjectId": 136,
+        "name": "Computer Programmer",
+        "codes": [
+            "INFO",
+            "LIFE",
+            "PROG",
+            "COMP",
+            "DBAS",
+            "HUMN",
+            "MATH",
+            "SYST",
+            "TELE",
+            "BUSM",
+            "CAPP",
+            "CBUS",
+            "CDBM",
+            "CDTC",
+            "CGEN",
+            "COMM",
+            "CPGM",
+            "CSYS",
+            "CTCH",
+            "SOCS"
+        ]
+    },
+    {
+        "subjectId": 70,
+        "name": "Build Your Way to Success",
+        "codes": [
+            "COMM"
+        ]
+    },
+    {
+        "subjectId": 99,
+        "name": "Business-General 2B",
+        "codes": [
+            "BUSM"
+        ]
+    },
+    {
+        "subjectId": 446,
+        "name": "Technology Fundamentals",
+        "codes": [
+            "COMM",
+            "ENGI",
+            "LIFE",
+            "HEAL",
+            "MACH",
+            "MATH",
+            "TECH"
+        ]
+    },
+    {
+        "subjectId": 458,
+        "name": "Tourism \u0026 Travel",
+        "codes": [
+            "COEF",
+            "COMP",
+            "DEVD",
+            "CRED",
+            "FLPL",
+            "OAPR",
+            "MKTG",
+            "SALE",
+            "TRAV"
+        ]
+    },
+    {
+        "subjectId": 241,
+        "name": "Gen Arts \u0026 Science 1B",
+        "codes": [
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 246,
+        "name": "General Arts and Sci Health",
+        "codes": [
+            "BIOL",
+            "CHEM",
+            "LIFE",
+            "MATH",
+            "PHYS",
+            "SCIE"
+        ]
+    },
+    {
+        "subjectId": 145,
+        "name": "Construction Estimator",
+        "codes": [
+            "ENGI"
+        ]
+    },
+    {
+        "subjectId": 469,
+        "name": "Visual Display and Design",
+        "codes": [
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 473,
+        "name": "Water Dist.and Wastewat.Collec",
+        "codes": [
+            "ENGI",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 68,
+        "name": "Banking and Wealth Management",
+        "codes": [
+            "APPL",
+            "BUSM",
+            "COMM",
+            "COWT",
+            "ECON",
+            "FINA",
+            "LAWS",
+            "MATH",
+            "SALE"
+        ]
+    },
+    {
+        "subjectId": 295,
+        "name": "Investigation-Public and Priv",
+        "codes": [
+            "BUSM",
+            "FLPL",
+            "FINA",
+            "INFO",
+            "JUST"
+        ]
+    },
+    {
+        "subjectId": 258,
+        "name": "Hon Bach Creative Writ \u0026 Publ",
+        "codes": [
+            "BUSM",
+            "COMM",
+            "CULT",
+            "CWRT",
+            "GAME",
+            "LITT",
+            "MGMT",
+            "PUBL",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 467,
+        "name": "Visual Design Interior Decorat",
+        "codes": [
+            "ATDN",
+            "DESN"
+        ]
+    },
+    {
+        "subjectId": 207,
+        "name": "Emergency Management (1 yr.)",
+        "codes": [
+            "HEAS",
+            "HRMT",
+            "PSRV"
+        ]
+    },
+    {
+        "subjectId": 209,
+        "name": "English as a Second Language-LINC",
+        "codes": [
+            "LINC"
+        ]
+    },
+    {
+        "subjectId": 308,
+        "name": "Journalism-New Media",
+        "codes": [
+            "COMM",
+            "DCOM",
+            "DESN",
+            "FLPL",
+            "JOUR",
+            "LAWS",
+            "VIDE",
+            "MEDA"
+        ]
+    },
+    {
+        "subjectId": 371,
+        "name": "Office Admin - Health Services",
+        "codes": [
+            "APPL",
+            "COMM",
+            "FLPL",
+            "MGMT",
+            "OADM",
+            "PHAR"
+        ]
+    },
+    {
+        "subjectId": 337,
+        "name": "Mech Eng Technology",
+        "codes": [
+            "CADD",
+            "COWT",
+            "ENGI",
+            "LIFE",
+            "MATH",
+            "PHYS"
+        ]
+    },
+    {
+        "subjectId": 316,
+        "name": "Make-up Artistry",
+        "codes": [
+            "ARTS",
+            "COSM"
+        ]
+    },
+    {
+        "subjectId": 334,
+        "name": "Mechanical Eng. Techn - Draft",
+        "codes": [
+            "CADD",
+            "CADE",
+            "COEF",
+            "COMM",
+            "COMP",
+            "CRED",
+            "DRAF",
+            "MATH",
+            "MATL",
+            "MECE",
+            "METR",
+            "MNFG",
+            "SOCI",
+            "PHYC"
+        ]
+    },
+    {
+        "subjectId": 228,
+        "name": "Fine Arts",
+        "codes": [
+            "ARTS",
+            "DESN"
+        ]
+    },
+    {
+        "subjectId": 366,
+        "name": "Occupational Health and Safety",
+        "codes": [
+            "HEAL",
+            "ENGI",
+            "HRMT",
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 1,
+        "name": "Academic and Career Entrance",
+        "codes": [
+            "APPL",
+            "BIOL",
+            "COMM",
+            "MATH",
+            "CHEM"
+        ]
+    },
+    {
+        "subjectId": 211,
+        "name": "Enhanced Lang Train Pathway",
+        "codes": [
+            "ELTA"
+        ]
+    },
+    {
+        "subjectId": 305,
+        "name": "Journalism",
+        "codes": [
+            "COMM",
+            "CULT",
+            "FLPL",
+            "JOUR",
+            "LAWS",
+            "LIFE",
+            "VDES",
+            "PUBR"
+        ]
+    },
+    {
+        "subjectId": 319,
+        "name": "Management Development Studies",
+        "codes": [
+            "ACCG",
+            "BUSM",
+            "COMM",
+            "HRMT",
+            "MGMT",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 24,
+        "name": "Animation",
+        "codes": [
+            "ANIM",
+            "CNST",
+            "COMM",
+            "COMP",
+            "DRAW",
+            "FILM"
+        ]
+    },
+    {
+        "subjectId": 191,
+        "name": "Electrician - Const/Maint",
+        "codes": [
+            "ELCC",
+            "ELCM"
+        ]
+    },
+    {
+        "subjectId": 240,
+        "name": "Game Level Design",
+        "codes": [
+            "GAME",
+            "MGMT",
+            "HIST",
+            "PROG"
+        ]
+    },
+    {
+        "subjectId": 276,
+        "name": "Information Technologies Suppo",
+        "codes": [
+            "APPL",
+            "BUSM",
+            "SYST",
+            "INFO"
+        ]
+    },
+    {
+        "subjectId": 341,
+        "name": "Mech Eng Techy-Des Draft",
+        "codes": [
+            "CADD",
+            "ENGI",
+            "CULT",
+            "HEAL",
+            "MATH",
+            "PROG",
+            "QUAL"
+        ]
+    },
+    {
+        "subjectId": 119,
+        "name": "Commercial Construction Mgmnt",
+        "codes": [
+            "ENGI"
+        ]
+    },
+    {
+        "subjectId": 196,
+        "name": "Electromech Eng Techy Coop",
+        "codes": [
+            "ENGI"
+        ]
+    },
+    {
+        "subjectId": 402,
+        "name": "Proficiency in Convers. French",
+        "codes": [
+            "LANG"
+        ]
+    },
+    {
+        "subjectId": 12,
+        "name": "Adv Cert Accounting \u0026 Finance",
+        "codes": [
+            "ACAF"
+        ]
+    },
+    {
+        "subjectId": 186,
+        "name": "Educational Support",
+        "codes": [
+            "COMM",
+            "EDUC",
+            "FLPL",
+            "PSYC"
+        ]
+    },
+    {
+        "subjectId": 31,
+        "name": "Autocad for Designers",
+        "codes": [
+            "INFO"
+        ]
+    },
+    {
+        "subjectId": 149,
+        "name": "Cosmetic Techniques \u0026 Mgmt",
+        "codes": [
+            "ADVG",
+            "COMP",
+            "COSM",
+            "CRED",
+            "DRAW",
+            "ESTH",
+            "FLPL",
+            "GNED",
+            "MANS",
+            "MATH",
+            "MKAR",
+            "MKTG",
+            "PHOT",
+            "SALE",
+            "VISM"
+        ]
+    },
+    {
+        "subjectId": 156,
+        "name": "Criminal Psych. and Behaviour",
+        "codes": [
+            "JUST",
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 252,
+        "name": "Geographic Information Systems",
+        "codes": [
+            "APPL"
+        ]
+    },
+    {
+        "subjectId": 257,
+        "name": "Home Inspection Training Prog",
+        "codes": [
+            "COMM",
+            "ENGI"
+        ]
+    },
+    {
+        "subjectId": 339,
+        "name": "Mechanical Engineering Techy",
+        "codes": [
+            "CADD",
+            "CALC",
+            "COEF",
+            "COMP",
+            "CTRL",
+            "CRED",
+            "DESN",
+            "DRAF",
+            "DVCS",
+            "ELEY",
+            "FABN",
+            "ENVS",
+            "FLUD",
+            "HEAL",
+            "INDT",
+            "MANS",
+            "MATH",
+            "MATL",
+            "MECD",
+            "METR",
+            "MNFG",
+            "PHYC",
+            "RESE",
+            "STAT",
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 22,
+        "name": "Advertising/Marketing CommMgmt",
+        "codes": [
+            "ADVG",
+            "APPL",
+            "COMM",
+            "HUMN",
+            "MKTG",
+            "SALE"
+        ]
+    },
+    {
+        "subjectId": 100,
+        "name": "Computer-Aided Design (CAD)",
+        "codes": [
+            "CADD"
+        ]
+    },
+    {
+        "subjectId": 253,
+        "name": "Glass 2",
+        "codes": [
+            "DESN",
+            "ARTS",
+            "DRAW"
+        ]
+    },
+    {
+        "subjectId": 395,
+        "name": "Practical Nursing",
+        "codes": [
+            "COMM",
+            "HEAL",
+            "MATH",
+            "NURS",
+            "PHAR",
+            "SCIE",
+            "SOCS"
+        ]
+    },
+    {
+        "subjectId": 435,
+        "name": "Summer Arts Institute",
+        "codes": [
+            "ARTS",
+            "VDES",
+            "CERM",
+            "TXTL",
+            "GLAS"
+        ]
+    },
+    {
+        "subjectId": 466,
+        "name": "Visual and Creative Arts - Adv",
+        "codes": [
+            "ARTS",
+            "BUSM",
+            "DESN",
+            "DSGN",
+            "HIST"
+        ]
+    },
+    {
+        "subjectId": 200,
+        "name": "Electronics Eng Techn",
+        "codes": [
+            "ENGI"
+        ]
+    },
+    {
+        "subjectId": 250,
+        "name": "General Machinist",
+        "codes": [
+            "GMCH",
+            "PMTC"
+        ]
+    },
+    {
+        "subjectId": 139,
+        "name": "Computer Science Techy",
+        "codes": [
+            "INFO",
+            "PROG"
+        ]
+    },
+    {
+        "subjectId": 388,
+        "name": "Photography Workshops",
+        "codes": [
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 202,
+        "name": "Electronics Eng Technician",
+        "codes": [
+            "ENGI",
+            "MATH",
+            "PSYC",
+            "QUAL",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 320,
+        "name": "Management Studies (General)",
+        "codes": [
+            "MGMT",
+            "OMDP"
+        ]
+    },
+    {
+        "subjectId": 459,
+        "name": "Travel \u0026 Tourism",
+        "codes": [
+            "COMM"
+        ]
+    },
+    {
+        "subjectId": 53,
+        "name": "Bachelor of Game Design",
+        "codes": [
+            "GAME",
+            "COWT",
+            "HIST",
+            "PROG"
+        ]
+    },
+    {
+        "subjectId": 180,
+        "name": "Early Childhood Assistant",
+        "codes": [
+            "COMM",
+            "EDUC",
+            "FLPL"
+        ]
+    },
+    {
+        "subjectId": 195,
+        "name": "Electromech Eng Technician",
+        "codes": [
+            "ENGI",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 47,
+        "name": "Bachelor of Comp.\u0026 Netw. Comm.",
+        "codes": [
+            "DBAS",
+            "INFO",
+            "PROG",
+            "SYST",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 169,
+        "name": "Degree Breadth",
+        "codes": [
+            "ANTH",
+            "BIOL",
+            "CRIM",
+            "CULT",
+            "CWRT",
+            "ENGL",
+            "HIST",
+            "HUMA",
+            "HUMN",
+            "LITT",
+            "MATH",
+            "MEDA",
+            "PHIL",
+            "PHYS",
+            "POLI",
+            "PSYC",
+            "RELG",
+            "SCIE",
+            "SOCI",
+            "SOCS"
+        ]
+    },
+    {
+        "subjectId": 418,
+        "name": "Sales",
+        "codes": [
+            "SALE"
+        ]
+    },
+    {
+        "subjectId": 134,
+        "name": "Computer Prgmr  Analyst Coop",
+        "codes": [
+            "COMP",
+            "DBAS",
+            "INFO"
+        ]
+    },
+    {
+        "subjectId": 326,
+        "name": "Marketing - Other Related",
+        "codes": [
+            "BUSM"
+        ]
+    },
+    {
+        "subjectId": 410,
+        "name": "Quality Assurance \u0026 Management",
+        "codes": [
+            "QUAL"
+        ]
+    },
+    {
+        "subjectId": 442,
+        "name": "Teaching Engl to Spkrs Languag",
+        "codes": [
+            "EDUC",
+            "FLPL"
+        ]
+    },
+    {
+        "subjectId": 57,
+        "name": "Bach. Music Theatre Perform.",
+        "codes": [
+            "THET"
+        ]
+    },
+    {
+        "subjectId": 97,
+        "name": "Business Process Management",
+        "codes": [
+            "BUSM",
+            "COWT",
+            "DSGN",
+            "FINA",
+            "LAWS",
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 93,
+        "name": "Business Finance",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "COMM",
+            "ECOM",
+            "ECON",
+            "FINA",
+            "HRMT",
+            "INFO",
+            "MATH",
+            "MKTG",
+            "SALE"
+        ]
+    },
+    {
+        "subjectId": 199,
+        "name": "Electronics Engineering Techn",
+        "codes": [
+            "CALC",
+            "CIRC",
+            "COEF",
+            "COMM",
+            "COMP",
+            "DIGL",
+            "DVCS",
+            "ELEY",
+            "FABN",
+            "HUMD",
+            "MATH",
+            "PSYC",
+            "STAT",
+            "VIDE"
+        ]
+    },
+    {
+        "subjectId": 342,
+        "name": "Mech Eng Techy Des Draft",
+        "codes": [
+            "CADD",
+            "COMM",
+            "COWT",
+            "ENGI",
+            "MATH",
+            "LIFE",
+            "PHYS",
+            "QUAL",
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 343,
+        "name": "Mechanical Eng Techy Des Dr",
+        "codes": [
+            "BLDG",
+            "CADD",
+            "CADE",
+            "COMM",
+            "COEF",
+            "COMP",
+            "DRAF",
+            "CRED",
+            "DVCS",
+            "MATH",
+            "MATL",
+            "MECE",
+            "METR",
+            "MNFG",
+            "PHYC",
+            "QUAL",
+            "STAT",
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 424,
+        "name": "Soc Serv Wkr-Ger",
+        "codes": [
+            "FLPL"
+        ]
+    },
+    {
+        "subjectId": 8,
+        "name": "Accounting Practitioner",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "BUSM"
+        ]
+    },
+    {
+        "subjectId": 88,
+        "name": "Business Admin - General",
+        "codes": [
+            "ACCG",
+            "ADVG",
+            "BUSM",
+            "COMP",
+            "LAWS",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 164,
+        "name": "CST-Systems Analyst",
+        "codes": [
+            "COMM",
+            "COWT",
+            "DBAS",
+            "INFO",
+            "MATH",
+            "PROG",
+            "SYST",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 183,
+        "name": "Early Childhood Education Int",
+        "codes": [
+            "EDUC",
+            "COMM",
+            "FLPL"
+        ]
+    },
+    {
+        "subjectId": 204,
+        "name": "Electronics Engineering Techno",
+        "codes": [
+            "COMM",
+            "CULT",
+            "ENGI",
+            "INFO",
+            "MATH",
+            "PROG",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 223,
+        "name": "Event Management",
+        "codes": [
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 229,
+        "name": "Fine Arts -  Other Related",
+        "codes": [
+            "ARTS"
+        ]
+    },
+    {
+        "subjectId": 299,
+        "name": "Info Tech Support Services",
+        "codes": [
+            "APPL",
+            "BUSM",
+            "COMM",
+            "DBAS",
+            "INFO",
+            "MATH",
+            "PROG",
+            "SYST",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 26,
+        "name": "Applied Photography",
+        "codes": [
+            "PHOT",
+            "VDES",
+            "COMM",
+            "PORT",
+            "PROF"
+        ]
+    },
+    {
+        "subjectId": 28,
+        "name": "Architectural Technology",
+        "codes": [
+            "ARCH",
+            "BLDG",
+            "BUSM",
+            "CADD",
+            "CALC",
+            "COWT",
+            "ENGI",
+            "HEAL",
+            "HIST",
+            "MATH",
+            "MGMT",
+            "TECH",
+            "PHYS",
+            "ARCT",
+            "COEF",
+            "COMP",
+            "DESN",
+            "DRAF",
+            "MANS",
+            "OFAD",
+            "PHYC",
+            "STRC"
+        ]
+    },
+    {
+        "subjectId": 311,
+        "name": "Labour Relations",
+        "codes": [
+            "HRMT",
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 37,
+        "name": "Bach ApplCompSci - Mobile Comp",
+        "codes": [
+            "INFO",
+            "PROG",
+            "SYST",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 359,
+        "name": "Montessori EC Teacher Ed",
+        "codes": [
+            "EDUC",
+            "FLPL"
+        ]
+    },
+    {
+        "subjectId": 478,
+        "name": "Website Developer",
+        "codes": [
+            "APPL",
+            "PROG"
+        ]
+    },
+    {
+        "subjectId": 266,
+        "name": "Human Resources Management",
+        "codes": [
+            "BUSM",
+            "COWT",
+            "HRMT",
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 277,
+        "name": "Info Techy - Support Services",
+        "codes": [
+            "CBUS"
+        ]
+    },
+    {
+        "subjectId": 369,
+        "name": "Office Administration",
+        "codes": [
+            "ACCG",
+            "CGEN",
+            "COMP",
+            "ECON",
+            "OAMN",
+            "OAPR",
+            "APPL",
+            "COMM",
+            "MGMT",
+            "OADM",
+            "FINA",
+            "HUMN",
+            "LIFE",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 380,
+        "name": "OMDP - Leadership Skills",
+        "codes": [
+            "OMDP"
+        ]
+    },
+    {
+        "subjectId": 480,
+        "name": "Welding Fundamentals",
+        "codes": [
+            "TSKL"
+        ]
+    },
+    {
+        "subjectId": 78,
+        "name": "Business - Other Related",
+        "codes": [
+            "ECON",
+            "LAWS",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 125,
+        "name": "Community Worker-Outreach \u0026 Dv",
+        "codes": [
+            "CSRV"
+        ]
+    },
+    {
+        "subjectId": 361,
+        "name": "Mould Maker",
+        "codes": [
+            "PMTC"
+        ]
+    },
+    {
+        "subjectId": 377,
+        "name": "Office Administration Medical",
+        "codes": [
+            "ACCG",
+            "ANAT",
+            "APPL",
+            "COMM",
+            "FLPL",
+            "OADM",
+            "MATH",
+            "MGMT",
+            "PHAR"
+        ]
+    },
+    {
+        "subjectId": 349,
+        "name": "Mechan. Technician Tool Making",
+        "codes": [
+            "APPL",
+            "BUSM",
+            "CADD",
+            "CNCM",
+            "COMM",
+            "ENGI",
+            "MATH",
+            "PMTC"
+        ]
+    },
+    {
+        "subjectId": 398,
+        "name": "Principle Operation Management",
+        "codes": [
+            "MATM"
+        ]
+    },
+    {
+        "subjectId": 126,
+        "name": "Comp Animation-Dig Char An",
+        "codes": [
+            "ANIM",
+            "ARTS",
+            "SYST",
+            "THET"
+        ]
+    },
+    {
+        "subjectId": 179,
+        "name": "E-commerce Management",
+        "codes": [
+            "BGEN",
+            "BUSM",
+            "COMM",
+            "COMP",
+            "ECOM",
+            "FINA",
+            "ECON",
+            "LAWS",
+            "MKTG",
+            "PROG",
+            "APPL",
+            "CULT",
+            "FLPL",
+            "HRMT"
+        ]
+    },
+    {
+        "subjectId": 414,
+        "name": "Retail Management",
+        "codes": [
+            "MATM",
+            "MGMT",
+            "OMDP"
+        ]
+    },
+    {
+        "subjectId": 49,
+        "name": "Bachelor of Craft \u0026 Design",
+        "codes": [
+            "HIST"
+        ]
+    },
+    {
+        "subjectId": 167,
+        "name": "Data Science",
+        "codes": [
+            "INFO"
+        ]
+    },
+    {
+        "subjectId": 76,
+        "name": "Bus Admin-Human Resources",
+        "codes": [
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 82,
+        "name": "Business Admin. Accounting",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "BUSM",
+            "COMM",
+            "ECON",
+            "FINA",
+            "HRMT",
+            "INFO",
+            "MATH",
+            "MGMT",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 102,
+        "name": "Canadian Institute of Manageme",
+        "codes": [
+            "ACCG",
+            "BUSM",
+            "COMM",
+            "ECON",
+            "HRMT",
+            "MGMT",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 150,
+        "name": "Cosmetic Techniques and Mgmt",
+        "codes": [
+            "COMM",
+            "COSM",
+            "ESTH",
+            "FLPL",
+            "INFO",
+            "MATH",
+            "VDES",
+            "SALE"
+        ]
+    },
+    {
+        "subjectId": 351,
+        "name": "Media Arts",
+        "codes": [
+            "APPL",
+            "COMM",
+            "DESN",
+            "FLPL",
+            "MEDA",
+            "MKTG",
+            "BUSM",
+            "COMP",
+            "DIGM",
+            "FILM",
+            "PERF",
+            "PORT"
+        ]
+    },
+    {
+        "subjectId": 430,
+        "name": "Social Service Worker-Geron",
+        "codes": [
+            "CSRV",
+            "FLPL",
+            "GERO",
+            "PSRV",
+            "PSYC"
+        ]
+    },
+    {
+        "subjectId": 27,
+        "name": "Architectural Technician",
+        "codes": [
+            "ARCT",
+            "BLDG",
+            "CADD",
+            "COEF",
+            "DRAF",
+            "MATH",
+            "OFAD",
+            "PHYC",
+            "STRC",
+            "ARCH",
+            "CALC",
+            "ENGI",
+            "HEAL",
+            "HIST",
+            "MGMT",
+            "TECH",
+            "PHYS"
+        ]
+    },
+    {
+        "subjectId": 29,
+        "name": "Art and Art History",
+        "codes": [
+            "FAS"
+        ]
+    },
+    {
+        "subjectId": 450,
+        "name": "Thanatology (Death \u0026 Dying)",
+        "codes": [
+            "HUMN"
+        ]
+    },
+    {
+        "subjectId": 296,
+        "name": "Investigation-Public and Priva",
+        "codes": [
+            "FLPL",
+            "JUST",
+            "LAWS",
+            "PSRV",
+            "PSYC"
+        ]
+    },
+    {
+        "subjectId": 427,
+        "name": "Social Service Worker",
+        "codes": [
+            "CSRV",
+            "APPL",
+            "FLPL",
+            "PSYC",
+            "PSRV",
+            "SOCS"
+        ]
+    },
+    {
+        "subjectId": 461,
+        "name": "UNIX Operating Systems",
+        "codes": [
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 131,
+        "name": "Computer Engineering Technolog",
+        "codes": [
+            "COMM",
+            "TELE",
+            "DBAS",
+            "CULT",
+            "COWT",
+            "ENGI",
+            "INFO",
+            "MATH",
+            "PROG",
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 288,
+        "name": "International Business Mgmt",
+        "codes": [
+            "APPL",
+            "BUSM",
+            "CULT",
+            "ECON",
+            "FINA",
+            "LAWS",
+            "LIFE",
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 220,
+        "name": "Environmental Techn",
+        "codes": [
+            "MATH",
+            "LIFE",
+            "PSYC",
+            "QUAL"
+        ]
+    },
+    {
+        "subjectId": 310,
+        "name": "Justice",
+        "codes": [
+            "JUST"
+        ]
+    },
+    {
+        "subjectId": 389,
+        "name": "Plumbing Technician",
+        "codes": [
+            "TSKL"
+        ]
+    },
+    {
+        "subjectId": 399,
+        "name": "Professional Accounting Grad",
+        "codes": [
+            "ACCG",
+            "BUSM",
+            "ECON",
+            "FINA",
+            "INFO",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 90,
+        "name": "Business Administration Human",
+        "codes": [
+            "COWT"
+        ]
+    },
+    {
+        "subjectId": 172,
+        "name": "Digital Marketing",
+        "codes": [
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 381,
+        "name": "Paralegal",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "COMM",
+            "FLPL",
+            "LAWS",
+            "MGMT",
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 479,
+        "name": "Welding and Fabrication Techni",
+        "codes": [
+            "APPL",
+            "BUSM",
+            "CADD",
+            "COMM",
+            "ENGI",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 153,
+        "name": "Creative Industries Management",
+        "codes": [
+            "BUSM",
+            "FINA",
+            "LAWS",
+            "MGMT",
+            "HRMT",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 331,
+        "name": "Mature Consumer Studies",
+        "codes": [
+            "BUSM"
+        ]
+    },
+    {
+        "subjectId": 101,
+        "name": "Canadian Institute of Entrepre",
+        "codes": [
+            "BUSM",
+            "HRMT",
+            "SALE"
+        ]
+    },
+    {
+        "subjectId": 141,
+        "name": "Computer Science Techy Coop",
+        "codes": [
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 317,
+        "name": "Makeup for Media Creative Art",
+        "codes": [
+            "ADVG",
+            "COMM",
+            "COSM",
+            "CULT",
+            "FLPL",
+            "MGMT",
+            "MKTG",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 323,
+        "name": "Advanced Manufacturing Mgmt",
+        "codes": [
+            "COMM",
+            "ECON",
+            "ENGI",
+            "HEAL",
+            "MGMT",
+            "QUAL",
+            "TECH"
+        ]
+    },
+    {
+        "subjectId": 428,
+        "name": "Social Service Worker- Immig",
+        "codes": [
+            "CSRV",
+            "FLPL"
+        ]
+    },
+    {
+        "subjectId": 13,
+        "name": "Advanced Illustration",
+        "codes": [
+            "ARTS",
+            "ILLS",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 85,
+        "name": "Business Admin Finance",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "BUSM",
+            "COWT",
+            "ECON",
+            "FINA",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 327,
+        "name": "Marketing Management",
+        "codes": [
+            "ADVG",
+            "APPL",
+            "LIFE",
+            "MKTG",
+            "SALE"
+        ]
+    },
+    {
+        "subjectId": 483,
+        "name": "Writing for Digital Media",
+        "codes": [
+            "MEDA"
+        ]
+    },
+    {
+        "subjectId": 135,
+        "name": "Computer Programming",
+        "codes": [
+            "COMM",
+            "CULT",
+            "DBAS",
+            "INFO",
+            "MATH",
+            "PROG",
+            "SYST",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 249,
+        "name": "General Education Electives",
+        "codes": [
+            "COMM",
+            "CULT",
+            "ECON",
+            "HIST",
+            "HUMN",
+            "LITT",
+            "NUTR",
+            "PHIL",
+            "SOCI",
+            "SOCS"
+        ]
+    },
+    {
+        "subjectId": 237,
+        "name": "Fundamentals of Photography",
+        "codes": [
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 41,
+        "name": "Bach of Film and Television",
+        "codes": [
+            "BUSM",
+            "CULT",
+            "DESN",
+            "HIST",
+            "LITT",
+            "MEDA",
+            "MGMT",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 420,
+        "name": "Security System Imp and Des",
+        "codes": [
+            "BUSM",
+            "DESN",
+            "ENGI",
+            "FLPL",
+            "JUST",
+            "PHIL",
+            "PSYC"
+        ]
+    },
+    {
+        "subjectId": 460,
+        "name": "Undeclared",
+        "codes": [
+            "COMP",
+            "IDSN",
+            "INFO",
+            "LANG",
+            "LEIS",
+            "APPL",
+            "CADD",
+            "COMM",
+            "ENGI",
+            "FINA",
+            "HEAL",
+            "LITT",
+            "PSYC",
+            "SOCI",
+            "TSKL"
+        ]
+    },
+    {
+        "subjectId": 464,
+        "name": "Veterinary Technician",
+        "codes": [
+            "ANAT",
+            "FLPL",
+            "MATH",
+            "SCIE"
+        ]
+    },
+    {
+        "subjectId": 5,
+        "name": "Accounting and Finance Profess",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "INFO"
+        ]
+    },
+    {
+        "subjectId": 16,
+        "name": "Advanced Television \u0026 Film",
+        "codes": [
+            "AVID",
+            "DIGM",
+            "FILM",
+            "LAWS",
+            "MKTG",
+            "PORT",
+            "VCMD",
+            "VIDE"
+        ]
+    },
+    {
+        "subjectId": 123,
+        "name": "Community Worker -Out\u0026Dev",
+        "codes": [
+            "APPL",
+            "PSRV",
+            "PSYC"
+        ]
+    },
+    {
+        "subjectId": 110,
+        "name": "Chem. Eng. Tech-Environmental",
+        "codes": [
+            "BIOL",
+            "CHEM",
+            "COWT",
+            "ENGI",
+            "CULT",
+            "HEAL",
+            "MATH",
+            "LIFE",
+            "MGMT",
+            "PHYS",
+            "PSYC"
+        ]
+    },
+    {
+        "subjectId": 333,
+        "name": "Mech Eng Techn Des Draft",
+        "codes": [
+            "CADD",
+            "COMM",
+            "ENGI",
+            "CULT",
+            "HEAL",
+            "MATH",
+            "LIFE",
+            "PROG",
+            "PHYS",
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 46,
+        "name": "Bachelor of Community Safety",
+        "codes": [
+            "PSRV",
+            "LAWS",
+            "PSYC",
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 72,
+        "name": "Building Envir Syst Facility M",
+        "codes": [
+            "COMM",
+            "ENGI",
+            "MGMT",
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 132,
+        "name": "Computer EngineeringTechnician",
+        "codes": [
+            "COMM",
+            "CULT",
+            "DBAS",
+            "ENGI",
+            "INFO",
+            "MATH",
+            "PROG",
+            "SYST",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 60,
+        "name": "BAHSc Athletic Therapy",
+        "codes": [
+            "ANAT",
+            "ATHL",
+            "BIOL",
+            "BUSM",
+            "FLPL",
+            "PHYG",
+            "PSYC",
+            "SCIE"
+        ]
+    },
+    {
+        "subjectId": 81,
+        "name": "Business Admin - Marketing",
+        "codes": [
+            "BUSM",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 230,
+        "name": "Fitness Leadership",
+        "codes": [
+            "BUSM",
+            "FLPL",
+            "HEAL",
+            "NUTR"
+        ]
+    },
+    {
+        "subjectId": 248,
+        "name": "General Education",
+        "codes": [
+            "ANTH",
+            "BUSM",
+            "CULT",
+            "HEAL",
+            "HIST",
+            "HUMN",
+            "INFO",
+            "LITT",
+            "MEDA",
+            "NUTR",
+            "PHIL",
+            "POLI",
+            "PSYC",
+            "RELG",
+            "SCIE",
+            "SOCI",
+            "SOCS"
+        ]
+    },
+    {
+        "subjectId": 318,
+        "name": "Makeup Fundamentals",
+        "codes": [
+            "COSM"
+        ]
+    },
+    {
+        "subjectId": 423,
+        "name": "Social Service Wkr-Gerontology",
+        "codes": [
+            "COMM",
+            "COMV",
+            "FLPL",
+            "GERT",
+            "HUMD",
+            "HUMS",
+            "PROF",
+            "PSYC",
+            "SOCI",
+            "SOCS",
+            "SOSV"
+        ]
+    },
+    {
+        "subjectId": 434,
+        "name": "Sports Injury Management",
+        "codes": [
+            "BIOL",
+            "BUSM",
+            "FLPL",
+            "PHYS",
+            "HUMD",
+            "PSYC",
+            "SPOR"
+        ]
+    },
+    {
+        "subjectId": 147,
+        "name": "Corporate Communications",
+        "codes": [
+            "BUSM",
+            "MEDA",
+            "PUBR",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 178,
+        "name": "Drawing for Animators",
+        "codes": [
+            "ANIM"
+        ]
+    },
+    {
+        "subjectId": 465,
+        "name": "Visual and Creative Arts",
+        "codes": [
+            "ARTS",
+            "BUSM",
+            "DESN",
+            "DSGN",
+            "HIST"
+        ]
+    },
+    {
+        "subjectId": 17,
+        "name": "Advanced TV \u0026 Film",
+        "codes": [
+            "MEDA"
+        ]
+    },
+    {
+        "subjectId": 189,
+        "name": "Electrical Engineering Technic",
+        "codes": [
+            "APPL",
+            "COMM",
+            "ELEY",
+            "ENGI",
+            "MATH",
+            "TECH"
+        ]
+    },
+    {
+        "subjectId": 205,
+        "name": "Electronics Eng Techy Coop",
+        "codes": [
+            "ENGI",
+            "INFO",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 244,
+        "name": "General Arts \u0026 Science Pre-Bus",
+        "codes": [
+            "BUSM",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 265,
+        "name": "Human Resources - Other Relate",
+        "codes": [
+            "HRMT"
+        ]
+    },
+    {
+        "subjectId": 52,
+        "name": "Bachelor of Engineering (Elec)",
+        "codes": [
+            "ENGR",
+            "MATH",
+            "PHYS"
+        ]
+    },
+    {
+        "subjectId": 111,
+        "name": "Chemical Eng. Technology",
+        "codes": [
+            "BIOL",
+            "CHEM",
+            "CULT",
+            "ENGI",
+            "HEAL",
+            "MATH",
+            "PHYS",
+            "SCIE"
+        ]
+    },
+    {
+        "subjectId": 393,
+        "name": "Portfolio Dev for Illustrators",
+        "codes": [
+            "DESN",
+            "ILLS"
+        ]
+    },
+    {
+        "subjectId": 416,
+        "name": "Retail Pharmacy Assistant",
+        "codes": [
+            "FLPL",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 213,
+        "name": "Enterprise Database Management",
+        "codes": [
+            "CDBM",
+            "COMP",
+            "CPGM",
+            "COWT",
+            "DBAS",
+            "DSGN",
+            "FLPL",
+            "INFO",
+            "PROG"
+        ]
+    },
+    {
+        "subjectId": 278,
+        "name": "Institute of Law Clerks of Ont",
+        "codes": [
+            "LAWS"
+        ]
+    },
+    {
+        "subjectId": 143,
+        "name": "Computer Systems Technology",
+        "codes": [
+            "INFO",
+            "MATH",
+            "PROG",
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 170,
+        "name": "Design for an Aging Population",
+        "codes": [
+            "GERO"
+        ]
+    },
+    {
+        "subjectId": 214,
+        "name": "Enhanced LangTrain Human Serv",
+        "codes": [
+            "ELTA"
+        ]
+    },
+    {
+        "subjectId": 225,
+        "name": "Fabrics 2",
+        "codes": [
+            "ARTS",
+            "DESN",
+            "DRAW"
+        ]
+    },
+    {
+        "subjectId": 268,
+        "name": "IELTS Academic Preparation Crs",
+        "codes": [
+            "COMM"
+        ]
+    },
+    {
+        "subjectId": 441,
+        "name": "Tchn Prod Thtre and Live Evnts",
+        "codes": [
+            "CADD",
+            "FLPL",
+            "THET"
+        ]
+    },
+    {
+        "subjectId": 73,
+        "name": "Building Env. Sys. Operator-C1",
+        "codes": [
+            "ENGI"
+        ]
+    },
+    {
+        "subjectId": 104,
+        "name": "Canadian Securities - Canadian",
+        "codes": [
+            "FINA"
+        ]
+    },
+    {
+        "subjectId": 245,
+        "name": "General Arts and Science",
+        "codes": [
+            "HUMN",
+            "LIFE",
+            "PSYC",
+            "SCIE",
+            "HUMA",
+            "GERT",
+            "GERO",
+            "ENGL",
+            "INFO",
+            "LITT",
+            "MATH",
+            "PHIL",
+            "SOCI",
+            "SOCS"
+        ]
+    },
+    {
+        "subjectId": 256,
+        "name": "Help Desk Technician",
+        "codes": [
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 329,
+        "name": "Math and Science - College Pre",
+        "codes": [
+            "BIOL",
+            "MATH",
+            "CHEM"
+        ]
+    },
+    {
+        "subjectId": 352,
+        "name": "Media for Global Professionals",
+        "codes": [
+            "COMM",
+            "APPL",
+            "CULT",
+            "FLPL",
+            "HIST",
+            "JOUR",
+            "LIFE",
+            "LITT",
+            "MEDA",
+            "SOCS"
+        ]
+    },
+    {
+        "subjectId": 396,
+        "name": "Pre-Health Sciences Pathway",
+        "codes": [
+            "BIOL",
+            "CHEM",
+            "ENGL",
+            "LIFE",
+            "MATH",
+            "PHYS",
+            "SCIE"
+        ]
+    },
+    {
+        "subjectId": 462,
+        "name": "Veterinary Office Admin",
+        "codes": [
+            "OADM"
+        ]
+    },
+    {
+        "subjectId": 38,
+        "name": "Bach Human Resources",
+        "codes": [
+            "ACCG",
+            "BUSM",
+            "COMM",
+            "ECON",
+            "FINA",
+            "HRMT",
+            "INFO",
+            "LAWS",
+            "MATH",
+            "MGMT",
+            "MKTG",
+            "PORT"
+        ]
+    },
+    {
+        "subjectId": 182,
+        "name": "Early Childhood Education",
+        "codes": [
+            "COMM",
+            "EDUC",
+            "FLPL",
+            "SOCI",
+            "SOCS"
+        ]
+    },
+    {
+        "subjectId": 468,
+        "name": "Visual Design Introductory",
+        "codes": [
+            "ATDN",
+            "DESN"
+        ]
+    },
+    {
+        "subjectId": 451,
+        "name": "Theatre and Drama Studies",
+        "codes": [
+            "DRS",
+            "PERF",
+            "THET"
+        ]
+    },
+    {
+        "subjectId": 221,
+        "name": "Esthetician",
+        "codes": [
+            "ADVG",
+            "APPL",
+            "BUSM",
+            "ESTH",
+            "FLPL",
+            "LIFE",
+            "SALE",
+            "SCIE",
+            "ANAT",
+            "CAPW",
+            "COMP",
+            "CRED",
+            "GNED",
+            "VISM"
+        ]
+    },
+    {
+        "subjectId": 238,
+        "name": "Game Development Advanced Prog",
+        "codes": [
+            "INFO",
+            "MATH",
+            "PROG"
+        ]
+    },
+    {
+        "subjectId": 422,
+        "name": "Small Business Bookkeeping",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "BUSM"
+        ]
+    },
+    {
+        "subjectId": 40,
+        "name": "Bach Music Theatre Degree Comp",
+        "codes": [
+            "THET"
+        ]
+    },
+    {
+        "subjectId": 103,
+        "name": "Canadian Institute of Traffic",
+        "codes": [
+            "MATM"
+        ]
+    },
+    {
+        "subjectId": 374,
+        "name": "Office Administration -Medical",
+        "codes": [
+            "ANAT",
+            "APPL",
+            "HEAL",
+            "NURS",
+            "OADM",
+            "PHAR"
+        ]
+    },
+    {
+        "subjectId": 198,
+        "name": "Electromechanical Engi Technol",
+        "codes": [
+            "CADD",
+            "ENGI",
+            "CULT",
+            "COWT",
+            "HEAL",
+            "LIFE",
+            "MATH",
+            "QUAL",
+            "PHYS"
+        ]
+    },
+    {
+        "subjectId": 261,
+        "name": "Human Performance Training",
+        "codes": [
+            "HEAL"
+        ]
+    },
+    {
+        "subjectId": 259,
+        "name": "Honours Bach of Illustration",
+        "codes": [
+            "APPL",
+            "ARTS",
+            "BUSM",
+            "COMM",
+            "COMP",
+            "COWT",
+            "DESN",
+            "DRAW",
+            "HIST",
+            "ILLS",
+            "INFO",
+            "VDES",
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 283,
+        "name": "Interior Decorating - Workshop",
+        "codes": [
+            "ATDN"
+        ]
+    },
+    {
+        "subjectId": 346,
+        "name": "Mechanical Engineering Technic",
+        "codes": [
+            "CADD",
+            "ENGI",
+            "CULT",
+            "HEAL",
+            "MATH",
+            "QUAL"
+        ]
+    },
+    {
+        "subjectId": 445,
+        "name": "Techn Prod for Performing Arts",
+        "codes": [
+            "CADD",
+            "THET"
+        ]
+    },
+    {
+        "subjectId": 79,
+        "name": "Business - Accounting Major",
+        "codes": [
+            "LAWS"
+        ]
+    },
+    {
+        "subjectId": 242,
+        "name": "Gen Arts \u0026 Science Pre Health",
+        "codes": [
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 91,
+        "name": "Business Analysis",
+        "codes": [
+            "BUSM",
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 286,
+        "name": "International Business Coop",
+        "codes": [
+            "FINA",
+            "LAWS",
+            "MGMT",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 328,
+        "name": "Marketing Management Coop",
+        "codes": [
+            "ADVG",
+            "APPL",
+            "ECON",
+            "MKTG",
+            "LIFE",
+            "SALE"
+        ]
+    },
+    {
+        "subjectId": 439,
+        "name": "Systems Analyst Coop",
+        "codes": [
+            "DBAS",
+            "INFO",
+            "LIFE",
+            "MATH",
+            "PROG",
+            "SYST",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 36,
+        "name": "Hon Bach CompSci - Mobile Comp",
+        "codes": [
+            "DBAS",
+            "INFO",
+            "MATH",
+            "PROG",
+            "SYST",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 48,
+        "name": "Bachelor of Craft and Design",
+        "codes": [
+            "ARTS",
+            "BUSM",
+            "CERM",
+            "DESN",
+            "DSGN",
+            "FURN",
+            "GLAS",
+            "HIST",
+            "INDD",
+            "RDES",
+            "TXTL"
+        ]
+    },
+    {
+        "subjectId": 109,
+        "name": "Chem Eng Techy Env",
+        "codes": [
+            "BIOL",
+            "CALC",
+            "CHEM",
+            "CHMA",
+            "CHMI",
+            "CHMO",
+            "CHMP",
+            "COEF",
+            "CRED",
+            "CTRL",
+            "ELEY",
+            "ENVS",
+            "HEAS",
+            "INDT",
+            "INSA",
+            "MATH",
+            "PHYC",
+            "RESE",
+            "PSYC",
+            "UNOP"
+        ]
+    },
+    {
+        "subjectId": 406,
+        "name": "PSW to PN Courses",
+        "codes": [
+            "HEAC"
+        ]
+    },
+    {
+        "subjectId": 482,
+        "name": "Writing",
+        "codes": [
+            "LITT"
+        ]
+    },
+    {
+        "subjectId": 376,
+        "name": "Office Administration Med Int",
+        "codes": [
+            "OADM"
+        ]
+    },
+    {
+        "subjectId": 386,
+        "name": "Pharmacy Technician",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "BIOL",
+            "CHEM",
+            "FLPL",
+            "COMM",
+            "HEAL",
+            "INFO",
+            "MATH",
+            "PHAR"
+        ]
+    },
+    {
+        "subjectId": 108,
+        "name": "Change Management Leadership",
+        "codes": [
+            "HRMT",
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 122,
+        "name": "Community Worker - Out\u0026Dev",
+        "codes": [
+            "BUSM",
+            "CSRV",
+            "FLPL",
+            "HEAL",
+            "PSRV",
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 51,
+        "name": "Bachelor of  EC Leadership",
+        "codes": [
+            "COMM",
+            "EDUC",
+            "FLPL",
+            "INFO",
+            "MGMT",
+            "PSYC",
+            "SOCS"
+        ]
+    },
+    {
+        "subjectId": 175,
+        "name": "Digital Photography",
+        "codes": [
+            "APPL",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 457,
+        "name": "Tourism and Travel",
+        "codes": [
+            "FLPL",
+            "APPL",
+            "INFO",
+            "LIFE",
+            "OADM",
+            "SALE",
+            "TRTV"
+        ]
+    },
+    {
+        "subjectId": 392,
+        "name": "Police Studies",
+        "codes": [
+            "COMM",
+            "JUST",
+            "LAWS",
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 58,
+        "name": "Bachelor of Photography",
+        "codes": [
+            "BUSM",
+            "COWT",
+            "HIST",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 324,
+        "name": "Manufacturing Management",
+        "codes": [
+            "COWT",
+            "HEAL",
+            "QUAL",
+            "TECH"
+        ]
+    },
+    {
+        "subjectId": 397,
+        "name": "Precision Machining",
+        "codes": [
+            "TSKL"
+        ]
+    },
+    {
+        "subjectId": 409,
+        "name": "Quality Assurance",
+        "codes": [
+            "QUAL",
+            "APPL",
+            "ENGI",
+            "COWT",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 160,
+        "name": "CST-Info Tech Infrastruct Svc",
+        "codes": [
+            "TELE",
+            "COMM",
+            "APPL"
+        ]
+    },
+    {
+        "subjectId": 383,
+        "name": "Performing Arts - Preparation",
+        "codes": [
+            "INFO",
+            "THET"
+        ]
+    },
+    {
+        "subjectId": 146,
+        "name": "Consulting Essentials",
+        "codes": [
+            "MGMT",
+            "SALE"
+        ]
+    },
+    {
+        "subjectId": 314,
+        "name": "Lean Six Sigma and Continuous",
+        "codes": [
+            "BUSM"
+        ]
+    },
+    {
+        "subjectId": 263,
+        "name": "Human Resource -Certified Hum",
+        "codes": [
+            "ACCG",
+            "HRMT"
+        ]
+    },
+    {
+        "subjectId": 347,
+        "name": "Mech EngTechnician",
+        "codes": [
+            "ENGI",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 419,
+        "name": "SAS Base Programming",
+        "codes": [
+            "PROG"
+        ]
+    },
+    {
+        "subjectId": 4,
+        "name": "Accounting and Finance Courses",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "FINA",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 117,
+        "name": "Child and Youth Worker",
+        "codes": [
+            "CSRV",
+            "FLPL"
+        ]
+    },
+    {
+        "subjectId": 63,
+        "name": "BAHSc-Ex Sci and  Health Promo",
+        "codes": [
+            "ANAT",
+            "ATHL",
+            "BIOL",
+            "BUSM",
+            "COWT",
+            "FLPL",
+            "HEAL",
+            "HEAS",
+            "PHYG",
+            "HRMT",
+            "PSYC",
+            "SCIE"
+        ]
+    },
+    {
+        "subjectId": 404,
+        "name": "Project Management",
+        "codes": [
+            "APPL",
+            "MGMT",
+            "BUSM",
+            "HRMT",
+            "COWT",
+            "FINA"
+        ]
+    },
+    {
+        "subjectId": 64,
+        "name": "BAISc (Info Systems Security)",
+        "codes": [
+            "CDTC",
+            "COMM",
+            "COWT",
+            "INFO",
+            "MATH",
+            "PROG",
+            "SOCI",
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 161,
+        "name": "CST-Information Systems Eng",
+        "codes": [
+            "COMM",
+            "PROG",
+            "SYST",
+            "MATH",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 188,
+        "name": "Elec Eng Techn 1K",
+        "codes": [
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 307,
+        "name": "Journalism - Print",
+        "codes": [
+            "CULT",
+            "FLPL",
+            "HIST",
+            "JOUR",
+            "LIFE",
+            "VDES",
+            "COMP",
+            "GRPH",
+            "LAWS",
+            "MANS",
+            "PHOT",
+            "POLI",
+            "RESE"
+        ]
+    },
+    {
+        "subjectId": 45,
+        "name": "Bachelor of Animation",
+        "codes": [
+            "ANIM",
+            "ARTS",
+            "BUSM",
+            "COMM",
+            "PNTG",
+            "COWT",
+            "DRAW",
+            "THET",
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 95,
+        "name": "Business Human Resources",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "BUSM",
+            "COMM",
+            "ECOM",
+            "ECON",
+            "FINA",
+            "HRMT",
+            "INFO",
+            "MATH",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 193,
+        "name": "Electrician Pre-Trade",
+        "codes": [
+            "DRAF"
+        ]
+    },
+    {
+        "subjectId": 234,
+        "name": "Front-End Web Developer Founda",
+        "codes": [
+            "APPL",
+            "PROG"
+        ]
+    },
+    {
+        "subjectId": 373,
+        "name": "Office Administration - Comput",
+        "codes": [
+            "OADM"
+        ]
+    },
+    {
+        "subjectId": 470,
+        "name": "Visual Effects",
+        "codes": [
+            "ANIM",
+            "MEDA"
+        ]
+    },
+    {
+        "subjectId": 33,
+        "name": "Bach Bus Admin Market Manage",
+        "codes": [
+            "MGMT",
+            "ACCG",
+            "BUSM",
+            "COMM",
+            "ECON",
+            "FINA",
+            "HRMT",
+            "INFO",
+            "LAWS",
+            "MATH",
+            "MKTG",
+            "PORT"
+        ]
+    },
+    {
+        "subjectId": 35,
+        "name": "Bach Business Admin Finance",
+        "codes": [
+            "ACCG",
+            "BUSM",
+            "COMM",
+            "ECON",
+            "FINA",
+            "HRMT",
+            "INFO",
+            "LAWS",
+            "MATH",
+            "MGMT",
+            "MKTG",
+            "PORT"
+        ]
+    },
+    {
+        "subjectId": 301,
+        "name": "IT Support Services Coop",
+        "codes": [
+            "APPL",
+            "COMM",
+            "COWT",
+            "DBAS",
+            "ECOM",
+            "FINA",
+            "INFO",
+            "LIFE",
+            "MATH",
+            "PROG",
+            "SYST",
+            "TELE",
+            "BUSM"
+        ]
+    },
+    {
+        "subjectId": 330,
+        "name": "Mechanical Engineering Techn",
+        "codes": [
+            "COEF",
+            "MATH",
+            "STAT"
+        ]
+    },
+    {
+        "subjectId": 384,
+        "name": "Personal Fitness Trainer",
+        "codes": [
+            "HEAL"
+        ]
+    },
+    {
+        "subjectId": 121,
+        "name": "Community and Justice Services",
+        "codes": [
+            "CSRV",
+            "FLPL",
+            "JUST",
+            "LEIS",
+            "PSYC",
+            "SOCI",
+            "SOCS"
+        ]
+    },
+    {
+        "subjectId": 251,
+        "name": "General Studies",
+        "codes": [
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 239,
+        "name": "Furniture 2",
+        "codes": [
+            "ARTS",
+            "DESN",
+            "DRAW"
+        ]
+    },
+    {
+        "subjectId": 292,
+        "name": "Internet Communications Tecnol",
+        "codes": [
+            "COWT"
+        ]
+    },
+    {
+        "subjectId": 390,
+        "name": "Photography Fundamentals",
+        "codes": [
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 23,
+        "name": "Animal Care",
+        "codes": [
+            "ANAT",
+            "ANIC",
+            "BIOL",
+            "BUSM",
+            "CHEM",
+            "FLPL",
+            "DISE",
+            "NURS",
+            "GRMG",
+            "NUTN",
+            "PHIL",
+            "NUTR",
+            "PSRV",
+            "SCIE"
+        ]
+    },
+    {
+        "subjectId": 163,
+        "name": "CST-Software Engineering",
+        "codes": [
+            "COMM",
+            "DBAS",
+            "INFO",
+            "MATH",
+            "PROG",
+            "SYST",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 115,
+        "name": "Chemical Technician Laboratory",
+        "codes": [
+            "CHEM",
+            "ENGI",
+            "MATH",
+            "LIFE",
+            "PHYS",
+            "PSYC",
+            "QUAL",
+            "SCIE"
+        ]
+    },
+    {
+        "subjectId": 159,
+        "name": "Cross-college communications courses",
+        "codes": [
+            "COMM"
+        ]
+    },
+    {
+        "subjectId": 184,
+        "name": "Early Childhood Education-2 yr",
+        "codes": [
+            "EDUC",
+            "FLPL"
+        ]
+    },
+    {
+        "subjectId": 210,
+        "name": "English Language Studies (ESL)",
+        "codes": [
+            "EASL"
+        ]
+    },
+    {
+        "subjectId": 297,
+        "name": "Investment Funds in Canada",
+        "codes": [
+            "FINA"
+        ]
+    },
+    {
+        "subjectId": 340,
+        "name": "Mech Eng Techy",
+        "codes": [
+            "CADD",
+            "ENGI"
+        ]
+    },
+    {
+        "subjectId": 34,
+        "name": "Bach Business Admin Accounting",
+        "codes": [
+            "ACCG",
+            "BUSM",
+            "COMM",
+            "ECON",
+            "FINA",
+            "HRMT",
+            "INFO",
+            "LAWS",
+            "MATH",
+            "MGMT",
+            "MKTG",
+            "PORT"
+        ]
+    },
+    {
+        "subjectId": 77,
+        "name": "Business",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "BUSM",
+            "COMM",
+            "ECON",
+            "FINA",
+            "HRMT",
+            "INFO",
+            "LITT",
+            "MATH",
+            "MKTG",
+            "NUTR",
+            "PHIL",
+            "SOCI",
+            "SOCS",
+            "ECOM",
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 456,
+        "name": "Tourism - Global Travel",
+        "codes": [
+            "FLPL",
+            "SALE",
+            "TRTV"
+        ]
+    },
+    {
+        "subjectId": 432,
+        "name": "Spanish",
+        "codes": [
+            "LANG"
+        ]
+    },
+    {
+        "subjectId": 433,
+        "name": "Spec Recreational Leadership",
+        "codes": [
+            "MGMT",
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 378,
+        "name": "Office Technology Management",
+        "codes": [
+            "ACCG"
+        ]
+    },
+    {
+        "subjectId": 353,
+        "name": "Media Fundamentals",
+        "codes": [
+            "ARTS",
+            "CULT",
+            "MEDA"
+        ]
+    },
+    {
+        "subjectId": 372,
+        "name": "Office Admin. Legal Coop",
+        "codes": [
+            "APPL",
+            "COMM"
+        ]
+    },
+    {
+        "subjectId": 368,
+        "name": "Off Admin-Exec",
+        "codes": [
+            "OADM"
+        ]
+    },
+    {
+        "subjectId": 69,
+        "name": "BHSK Kinesiology \u0026 Health Prom",
+        "codes": [
+            "ATHL",
+            "ANAT",
+            "BIOL",
+            "BUSM",
+            "FLPL",
+            "HEAL",
+            "HRMT",
+            "MGMT",
+            "PHYG",
+            "PSYC",
+            "SCIE",
+            "SOCS"
+        ]
+    },
+    {
+        "subjectId": 362,
+        "name": "Music Stge Scrn VisEnv MASSIVE",
+        "codes": [
+            "BUSM",
+            "MEDA",
+            "MUSI",
+            "THET"
+        ]
+    },
+    {
+        "subjectId": 375,
+        "name": "Office Administration Legal",
+        "codes": [
+            "APPL",
+            "ACCG",
+            "COMM",
+            "FLPL",
+            "LAWS",
+            "COWT",
+            "MGMT",
+            "OADM",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 394,
+        "name": "Portfolio Dev. for Animators",
+        "codes": [
+            "ANIM"
+        ]
+    },
+    {
+        "subjectId": 65,
+        "name": "B Applied Information Science",
+        "codes": [
+            "DBAS",
+            "INFO",
+            "MATH",
+            "PROG",
+            "SYST",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 338,
+        "name": "Mechanical Engineering Technol",
+        "codes": [
+            "CADD",
+            "ENGI",
+            "CULT",
+            "HEAL",
+            "MATH",
+            "QUAL"
+        ]
+    },
+    {
+        "subjectId": 271,
+        "name": "Illustration - Tech and Sci",
+        "codes": [
+            "COMP",
+            "COMM",
+            "DESN",
+            "DRAW",
+            "GRPH",
+            "ILLS",
+            "MEDA"
+        ]
+    },
+    {
+        "subjectId": 152,
+        "name": "Crafts and Design",
+        "codes": [
+            "APPL",
+            "ARTS",
+            "ATDN",
+            "BUSM",
+            "CERM",
+            "CADD",
+            "COMM",
+            "DESN",
+            "FURN",
+            "DRAW",
+            "GLAS",
+            "HIST",
+            "ILLS",
+            "MEDA",
+            "PHOT",
+            "TSKL",
+            "TXTL"
+        ]
+    },
+    {
+        "subjectId": 262,
+        "name": "Human Resource - Certified Hum",
+        "codes": [
+            "ACCG",
+            "HRMT"
+        ]
+    },
+    {
+        "subjectId": 174,
+        "name": "Digital Marketing Foundations",
+        "codes": [
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 365,
+        "name": "Music Theatre-Performance",
+        "codes": [
+            "APPL"
+        ]
+    },
+    {
+        "subjectId": 471,
+        "name": "Visual Merchandising Arts",
+        "codes": [
+            "APPL",
+            "ARTS",
+            "ATDN",
+            "BUSM",
+            "COMM",
+            "DESN",
+            "FLPL",
+            "INFO",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 18,
+        "name": "Advertising",
+        "codes": [
+            "ADVG",
+            "BUSM",
+            "COMM",
+            "COMP",
+            "FLPL",
+            "INFO",
+            "MKTG",
+            "SALE"
+        ]
+    },
+    {
+        "subjectId": 127,
+        "name": "Comp Animation-Dig Vis Eff",
+        "codes": [
+            "ANIM",
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 379,
+        "name": "OMDP - Business Mgmt. Skills",
+        "codes": [
+            "OMDP"
+        ]
+    },
+    {
+        "subjectId": 447,
+        "name": "Telecommunications Techy",
+        "codes": [
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 114,
+        "name": "Chemical Techn - Laboratory",
+        "codes": [
+            "BIOL",
+            "CALC",
+            "CHEM",
+            "CHMA",
+            "CHMI",
+            "CHMO",
+            "ELEY",
+            "CRED",
+            "ENVS",
+            "INDT",
+            "INSA",
+            "MATH",
+            "PHYC",
+            "PSYC",
+            "STAT"
+        ]
+    },
+    {
+        "subjectId": 232,
+        "name": "French - Other Related",
+        "codes": [
+            "LANG"
+        ]
+    },
+    {
+        "subjectId": 429,
+        "name": "Social Service Worker-Gerontol",
+        "codes": [
+            "CSRV",
+            "FLPL",
+            "GERO",
+            "HUMN",
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 449,
+        "name": "Telemedicine Facilitation",
+        "codes": [
+            "ANAT",
+            "HEAL"
+        ]
+    },
+    {
+        "subjectId": 7,
+        "name": "Accounting in Canada",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "BUSM",
+            "COMM",
+            "LAWS"
+        ]
+    },
+    {
+        "subjectId": 140,
+        "name": "Computer Science Techy Co-op",
+        "codes": [
+            "BUSM",
+            "CAPP",
+            "CDBM",
+            "CDTC",
+            "CGEN",
+            "COMM",
+            "COMP",
+            "COMS",
+            "CPGM",
+            "CSYS",
+            "CTCH",
+            "MATH",
+            "PROG",
+            "SOCS",
+            "TCOM"
+        ]
+    },
+    {
+        "subjectId": 247,
+        "name": "General Arts\u0026Science-Universit",
+        "codes": [
+            "BIOL",
+            "CHEM",
+            "COMM",
+            "EASL",
+            "HEAL",
+            "HIST",
+            "HUMN",
+            "LIFE",
+            "LITT",
+            "MATH",
+            "MEDA",
+            "PHIL",
+            "PSYC",
+            "SCIE",
+            "SOCI",
+            "SOCS"
+        ]
+    },
+    {
+        "subjectId": 280,
+        "name": "Interactive Media Management",
+        "codes": [
+            "APPL",
+            "DSGN",
+            "INFO",
+            "MEDA",
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 290,
+        "name": "Internet Communic Technol Coop",
+        "codes": [
+            "MATH",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 358,
+        "name": "Mobile Marketing",
+        "codes": [
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 382,
+        "name": "Payroll Compliance Practitione",
+        "codes": [
+            "ACCG",
+            "BUSM"
+        ]
+    },
+    {
+        "subjectId": 106,
+        "name": "Cert Financial Service Advisor",
+        "codes": [
+            "FINA"
+        ]
+    },
+    {
+        "subjectId": 206,
+        "name": "Electronics Eng Techy Telecomm",
+        "codes": [
+            "ELEC"
+        ]
+    },
+    {
+        "subjectId": 137,
+        "name": "Computer Programmer Analyst",
+        "codes": [
+            "MATH",
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 357,
+        "name": "Microsoft Office Applications",
+        "codes": [
+            "APPL",
+            "COMP"
+        ]
+    },
+    {
+        "subjectId": 243,
+        "name": "General Arts \u0026 Science Col",
+        "codes": [
+            "LIFE",
+            "SCIE",
+            "PSYC"
+        ]
+    },
+    {
+        "subjectId": 274,
+        "name": "Information Tech Prof Intern",
+        "codes": [
+            "DBAS",
+            "FLPL",
+            "INFO",
+            "MGMT",
+            "PROG",
+            "SYST",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 270,
+        "name": "Illustration - Interpretive",
+        "codes": [
+            "COMP",
+            "COMM",
+            "DESN",
+            "DRAW",
+            "ILLS",
+            "MEDA",
+            "PNTG"
+        ]
+    },
+    {
+        "subjectId": 282,
+        "name": "Interior Decorating",
+        "codes": [
+            "BUSM",
+            "DESN",
+            "INFO",
+            "HIST",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 116,
+        "name": "Child and Youth Care",
+        "codes": [
+            "CSRV",
+            "FLPL",
+            "PSYC"
+        ]
+    },
+    {
+        "subjectId": 154,
+        "name": "Creative Writing",
+        "codes": [
+            "COMM",
+            "LITT"
+        ]
+    },
+    {
+        "subjectId": 298,
+        "name": "IT Operations",
+        "codes": [
+            "APPL",
+            "INFO",
+            "SYST",
+            "COMM",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 14,
+        "name": "Advanced Special Effects Makeu",
+        "codes": [
+            "APPL",
+            "COSM",
+            "FLPL"
+        ]
+    },
+    {
+        "subjectId": 166,
+        "name": "Cybersecurity Foundations",
+        "codes": [
+            "INFO"
+        ]
+    },
+    {
+        "subjectId": 463,
+        "name": "Veterinary  Technician",
+        "codes": [
+            "ANAT",
+            "FLPL",
+            "MATH",
+            "PHAR",
+            "SCIE"
+        ]
+    },
+    {
+        "subjectId": 74,
+        "name": "Building Environmental Systems",
+        "codes": [
+            "ENGI"
+        ]
+    },
+    {
+        "subjectId": 309,
+        "name": "Journalism New Media",
+        "codes": [
+            "JOUR"
+        ]
+    },
+    {
+        "subjectId": 235,
+        "name": "Front-End Web Development",
+        "codes": [
+            "INFO",
+            "PROG"
+        ]
+    },
+    {
+        "subjectId": 284,
+        "name": "Interior Design",
+        "codes": [
+            "ATDN",
+            "BUSM",
+            "COMM",
+            "DESN",
+            "HIST",
+            "INFO",
+            "CADE",
+            "COMP",
+            "DRAF",
+            "DRAW",
+            "IDSN",
+            "MEDA",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 313,
+        "name": "Leadership Development Series",
+        "codes": [
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 475,
+        "name": "Digital Product Design",
+        "codes": [
+            "DESN",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 477,
+        "name": "The Web Professional Plus",
+        "codes": [
+            "APPL"
+        ]
+    },
+    {
+        "subjectId": 56,
+        "name": "Bachelor of Engineering (Mech)",
+        "codes": [
+            "CHEM",
+            "ELEE",
+            "COMM",
+            "ENGR",
+            "MATH",
+            "MECE",
+            "PHYS"
+        ]
+    },
+    {
+        "subjectId": 226,
+        "name": "Film and Television",
+        "codes": [
+            "MEDA"
+        ]
+    },
+    {
+        "subjectId": 32,
+        "name": "BAA Interior Design Bridge",
+        "codes": [
+            "DESN",
+            "HUMN",
+            "SOCS"
+        ]
+    },
+    {
+        "subjectId": 344,
+        "name": "Mech Eng Techy-Des Draft Coop",
+        "codes": [
+            "CADD",
+            "ENGI"
+        ]
+    },
+    {
+        "subjectId": 9,
+        "name": "ACCPAC Accounting",
+        "codes": [
+            "APPL"
+        ]
+    },
+    {
+        "subjectId": 15,
+        "name": "Advanced Television and Film",
+        "codes": [
+            "ANIM",
+            "APPL",
+            "CULT",
+            "DESN",
+            "ENGI",
+            "FLPL",
+            "LIFE",
+            "LITT",
+            "MEDA",
+            "MGMT",
+            "SOCS",
+            "TECH",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 321,
+        "name": "Management Studies-Production",
+        "codes": [
+            "MGMT",
+            "OMDP"
+        ]
+    },
+    {
+        "subjectId": 481,
+        "name": "Welding Techniques",
+        "codes": [
+            "APPL",
+            "CADD",
+            "COMM",
+            "ENGI",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 201,
+        "name": "Electronics Engineering Techni",
+        "codes": [
+            "COMM",
+            "CULT",
+            "ENGI",
+            "MATH",
+            "PROG"
+        ]
+    },
+    {
+        "subjectId": 216,
+        "name": "Environmental Control",
+        "codes": [
+            "CHEM",
+            "ENGI",
+            "COWT",
+            "FLPL",
+            "HEAL",
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 304,
+        "name": "Java Foundations",
+        "codes": [
+            "PROG"
+        ]
+    },
+    {
+        "subjectId": 6,
+        "name": "Accounting and Finance",
+        "codes": [
+            "ACCG",
+            "FINA"
+        ]
+    },
+    {
+        "subjectId": 279,
+        "name": "Integrated Manufacturing Syst",
+        "codes": [
+            "TECH"
+        ]
+    },
+    {
+        "subjectId": 336,
+        "name": "Mech Eng Techn-Draft",
+        "codes": [
+            "ENGI",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 417,
+        "name": "Risk Mgmt for Business Owners",
+        "codes": [
+            "FINA"
+        ]
+    },
+    {
+        "subjectId": 89,
+        "name": "Business Admin. - HR",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "BUSM",
+            "COMM",
+            "ECOM",
+            "ECON",
+            "FINA",
+            "HRMT",
+            "INFO",
+            "MATH",
+            "MGMT",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 107,
+        "name": "Certified Payroll Manager",
+        "codes": [
+            "ACCG",
+            "BUSM",
+            "HRMT"
+        ]
+    },
+    {
+        "subjectId": 405,
+        "name": "Project Management - Other rel",
+        "codes": [
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 3,
+        "name": "Accounting",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "ECON",
+            "FINA",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 67,
+        "name": "BAISc(Bridging to Third Year)",
+        "codes": [
+            "PROG",
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 312,
+        "name": "Law and Security Admin-Private",
+        "codes": [
+            "BUSM",
+            "COMM",
+            "FLPL",
+            "INFO",
+            "JUST",
+            "LAWS",
+            "LEIS",
+            "PHIL",
+            "PSRV",
+            "PSYC"
+        ]
+    },
+    {
+        "subjectId": 332,
+        "name": "Mech Eng Techn",
+        "codes": [
+            "CADD",
+            "ENGI",
+            "HEAL",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 444,
+        "name": "Teaching Hatha Yoga",
+        "codes": [
+            "EDUC",
+            "GENI",
+            "NUTR"
+        ]
+    },
+    {
+        "subjectId": 50,
+        "name": "Bachelor of EC Leadership",
+        "codes": [
+            "EDUC",
+            "ACCG",
+            "COWT",
+            "LAWS",
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 260,
+        "name": "Horticultural Studies",
+        "codes": [
+            "APPL",
+            "DESN",
+            "ENGI",
+            "SCIE"
+        ]
+    },
+    {
+        "subjectId": 315,
+        "name": "Literature Appreciation",
+        "codes": [
+            "LITT"
+        ]
+    },
+    {
+        "subjectId": 11,
+        "name": "Adult Education",
+        "codes": [
+            "EDUC"
+        ]
+    },
+    {
+        "subjectId": 113,
+        "name": "Chemical Laboratory Technician",
+        "codes": [
+            "BIOL",
+            "CHEM",
+            "ENGI",
+            "CULT",
+            "MATH",
+            "PHYS",
+            "SCIE"
+        ]
+    },
+    {
+        "subjectId": 144,
+        "name": "Condominium Management",
+        "codes": [
+            "FINA",
+            "LAWS",
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 217,
+        "name": "Environmental Development",
+        "codes": [
+            "BUSM",
+            "MGMT",
+            "PHIL"
+        ]
+    },
+    {
+        "subjectId": 231,
+        "name": "Food Systems",
+        "codes": [
+            "BUSM"
+        ]
+    },
+    {
+        "subjectId": 356,
+        "name": "Mgmt. Studies-Small Business",
+        "codes": [
+            "MGMT",
+            "OMDP"
+        ]
+    },
+    {
+        "subjectId": 363,
+        "name": "Music Scoring for Scrn \u0026 Stge",
+        "codes": [
+            "BUSM",
+            "MUSI"
+        ]
+    },
+    {
+        "subjectId": 426,
+        "name": "Digital Media Series",
+        "codes": [
+            "MEDA"
+        ]
+    },
+    {
+        "subjectId": 75,
+        "name": "Business Analys \u0026 Process Mgmt",
+        "codes": [
+            "BUSM",
+            "DSGN",
+            "FINA",
+            "LAWS",
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 105,
+        "name": "Ceramics 2",
+        "codes": [
+            "ARTS",
+            "DESN",
+            "DRAW"
+        ]
+    },
+    {
+        "subjectId": 233,
+        "name": "French Convers. Proficiency",
+        "codes": [
+            "LANG"
+        ]
+    },
+    {
+        "subjectId": 345,
+        "name": "Mech Eng Techy-Des/Dr",
+        "codes": [
+            "ENGI"
+        ]
+    },
+    {
+        "subjectId": 133,
+        "name": "Computer Foundations",
+        "codes": [
+            "APPL",
+            "COMM",
+            "INFO",
+            "PROG"
+        ]
+    },
+    {
+        "subjectId": 192,
+        "name": "Electrician - Pre Trade",
+        "codes": [
+            "HEAS",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 411,
+        "name": "Records and Information Mgmt",
+        "codes": [
+            "COMM",
+            "INFO"
+        ]
+    },
+    {
+        "subjectId": 289,
+        "name": "International Trade and Global",
+        "codes": [
+            "BUSM",
+            "MATM"
+        ]
+    },
+    {
+        "subjectId": 300,
+        "name": "IT Support Services",
+        "codes": [
+            "COMM",
+            "ECOM",
+            "MATH",
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 212,
+        "name": "English/French Trans Workplace",
+        "codes": [
+            "COMM"
+        ]
+    },
+    {
+        "subjectId": 218,
+        "name": "Environmental Science Tchn",
+        "codes": [
+            "BIOL",
+            "CHEM",
+            "CULT",
+            "ENGI",
+            "HEAL",
+            "MATH",
+            "MGMT",
+            "PHYS",
+            "SCIE"
+        ]
+    },
+    {
+        "subjectId": 275,
+        "name": "Info Techy-Support Serv Co-op",
+        "codes": [
+            "CAPP",
+            "CDTC",
+            "CGEN",
+            "COMM",
+            "COMP",
+            "ECON",
+            "MANS",
+            "OAOS",
+            "SOCS",
+            "TCOM"
+        ]
+    },
+    {
+        "subjectId": 39,
+        "name": "Bach Illustration-Interpretive",
+        "codes": [
+            "COMP",
+            "DRAW",
+            "ILLS",
+            "INFO"
+        ]
+    },
+    {
+        "subjectId": 173,
+        "name": "Digital Marketing Management",
+        "codes": [
+            "BUSM",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 227,
+        "name": "Financial Planning",
+        "codes": [
+            "FINA",
+            "APPL"
+        ]
+    },
+    {
+        "subjectId": 412,
+        "name": "Register Insurance Broker Ont",
+        "codes": [
+            "BUSM"
+        ]
+    },
+    {
+        "subjectId": 415,
+        "name": "Community Pharmacy Assistant",
+        "codes": [
+            "ACCG",
+            "CHEM",
+            "HEAL",
+            "MKTG",
+            "PHAR"
+        ]
+    },
+    {
+        "subjectId": 2,
+        "name": "Academic Upgrading",
+        "codes": [
+            "LIFE"
+        ]
+    },
+    {
+        "subjectId": 162,
+        "name": "CST-Software Dev \u0026 Network Eng",
+        "codes": [
+            "COMM",
+            "DBAS",
+            "COWT",
+            "INFO",
+            "MATH",
+            "PROG",
+            "SYST",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 354,
+        "name": "Mental Health and Work",
+        "codes": [
+            "HEAL"
+        ]
+    },
+    {
+        "subjectId": 407,
+        "name": "Public Relations Corporate Com",
+        "codes": [
+            "FLPL",
+            "LAWS",
+            "LIFE",
+            "MEDA",
+            "PUBR",
+            "SOCS",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 472,
+        "name": "Wastewater Collection",
+        "codes": [
+            "ENGI",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 87,
+        "name": "Business Admin Marketing",
+        "codes": [
+            "APPL",
+            "BUSM",
+            "COWT",
+            "ECON",
+            "MKTG",
+            "SALE"
+        ]
+    },
+    {
+        "subjectId": 157,
+        "name": "Cross College Communication",
+        "codes": [
+            "COMM"
+        ]
+    },
+    {
+        "subjectId": 421,
+        "name": "Siemens Mechatronics Systems",
+        "codes": [
+            "ENGI"
+        ]
+    },
+    {
+        "subjectId": 454,
+        "name": "Tool and Die Maker",
+        "codes": [
+            "MATH",
+            "COMM",
+            "TECH",
+            "TSKL"
+        ]
+    },
+    {
+        "subjectId": 118,
+        "name": "Cisco Certified Network Associ",
+        "codes": [
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 303,
+        "name": "Japanese",
+        "codes": [
+            "LANG"
+        ]
+    },
+    {
+        "subjectId": 171,
+        "name": "Digital Creature Animation",
+        "codes": [
+            "ANIM",
+            "ARTS",
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 30,
+        "name": "Art Fundamentals",
+        "codes": [
+            "ARTS",
+            "CULT",
+            "DESN"
+        ]
+    },
+    {
+        "subjectId": 80,
+        "name": "Business Accounting",
+        "codes": [
+            "ACCG",
+            "APPL",
+            "BUSM",
+            "COMM",
+            "ECON",
+            "FINA",
+            "HRMT",
+            "INFO",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 86,
+        "name": "Business Admin. Marketing",
+        "codes": [
+            "ACCG",
+            "ADVG",
+            "APPL",
+            "BUSM",
+            "COMM",
+            "ECOM",
+            "ECON",
+            "FINA",
+            "HRMT",
+            "INFO",
+            "MATH",
+            "MKTG",
+            "SALE"
+        ]
+    },
+    {
+        "subjectId": 203,
+        "name": "Electronics Eng Technology",
+        "codes": [
+            "BUSM",
+            "COWT",
+            "ENGI",
+            "INFO",
+            "MATH",
+            "PSYC",
+            "PHYS",
+            "QUAL"
+        ]
+    },
+    {
+        "subjectId": 215,
+        "name": "Entrepreneurship and Small Bus",
+        "codes": [
+            "BUSM",
+            "MGMT",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 355,
+        "name": "Mgmt. Studies-Human Resources",
+        "codes": [
+            "MGMT",
+            "OMDP"
+        ]
+    },
+    {
+        "subjectId": 425,
+        "name": "Social Media Writing",
+        "codes": [
+            "MEDA"
+        ]
+    },
+    {
+        "subjectId": 25,
+        "name": "Production \u0026 Inventory Manage",
+        "codes": [
+            "MATM"
+        ]
+    },
+    {
+        "subjectId": 44,
+        "name": "BachBus Admin Spply Chain Mgmt",
+        "codes": [
+            "ACCG",
+            "BUSM",
+            "COMM",
+            "ECON",
+            "FINA",
+            "HRMT",
+            "INFO",
+            "LAWS",
+            "MATH",
+            "MGMT",
+            "MKTG",
+            "PORT"
+        ]
+    },
+    {
+        "subjectId": 62,
+        "name": "BAHSc (Athletic Therapy)",
+        "codes": [
+            "BIOL",
+            "COMM",
+            "COWT",
+            "ENGL",
+            "NUTR",
+            "PHYS",
+            "PSYC",
+            "SOCI",
+            "SPOR"
+        ]
+    },
+    {
+        "subjectId": 254,
+        "name": "Global Business Management",
+        "codes": [
+            "ACCG",
+            "BUSM",
+            "COWT",
+            "CULT",
+            "ECON",
+            "FINA",
+            "HRMT",
+            "INFO",
+            "LAWS",
+            "MATH",
+            "MGMT",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 306,
+        "name": "Journalism - Broadcast",
+        "codes": [
+            "COMM",
+            "JOUR",
+            "LAWS"
+        ]
+    },
+    {
+        "subjectId": 43,
+        "name": "Bach. of Illustr Tech.\u0026Scient.",
+        "codes": [
+            "ARTS",
+            "COMP",
+            "ATDN",
+            "ILLS",
+            "INFO"
+        ]
+    },
+    {
+        "subjectId": 55,
+        "name": "Bachelor of Interior Design",
+        "codes": [
+            "CERM",
+            "DESN",
+            "COWT",
+            "FURN",
+            "TXTL",
+            "DSGN"
+        ]
+    },
+    {
+        "subjectId": 185,
+        "name": "Educational Assistant",
+        "codes": [
+            "COMM",
+            "EDUC",
+            "FLPL",
+            "SOCS",
+            "HEAL"
+        ]
+    },
+    {
+        "subjectId": 194,
+        "name": "Electromechanical Eng Tn",
+        "codes": [
+            "CIRC",
+            "COEF",
+            "CTRL",
+            "CRED",
+            "DVCS",
+            "FLUD",
+            "MNFG",
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 222,
+        "name": "Esthetics",
+        "codes": [
+            "BUSM",
+            "ESTH",
+            "FLPL",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 255,
+        "name": "Health \u0026 Safety Risk Mgmt",
+        "codes": [
+            "HRMT"
+        ]
+    },
+    {
+        "subjectId": 350,
+        "name": "Mechanical Techniques Plumbing",
+        "codes": [
+            "APPL",
+            "COMM",
+            "ENGI",
+            "MATH",
+            "TSKL"
+        ]
+    },
+    {
+        "subjectId": 474,
+        "name": "Water Distribution and Supply",
+        "codes": [
+            "MATH",
+            "SCIE"
+        ]
+    },
+    {
+        "subjectId": 66,
+        "name": "BAISc(Bridging to Second Year)",
+        "codes": [
+            "INFO",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 208,
+        "name": "English as a Second Language",
+        "codes": [
+            "EASL"
+        ]
+    },
+    {
+        "subjectId": 267,
+        "name": "Human Services Administration",
+        "codes": [
+            "APPL",
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 151,
+        "name": "Court and Tribunal Agent",
+        "codes": [
+            "FLPL",
+            "APPL",
+            "LAWS"
+        ]
+    },
+    {
+        "subjectId": 197,
+        "name": "Electromechanical Eng Technic",
+        "codes": [
+            "CADD",
+            "CULT",
+            "ENGI",
+            "HEAL",
+            "MATH",
+            "LIFE",
+            "QUAL"
+        ]
+    },
+    {
+        "subjectId": 158,
+        "name": "Cross College Courses",
+        "codes": [
+            "ANTH",
+            "BUSM",
+            "COMM",
+            "CULT",
+            "ECON",
+            "HEAL",
+            "HIST",
+            "HUMA",
+            "HUMN",
+            "INFO",
+            "LIFE",
+            "LITT",
+            "MEDA",
+            "NUTR",
+            "PHIL",
+            "POLI",
+            "PSYC",
+            "RELG",
+            "S0CI",
+            "SCIE",
+            "SOCI",
+            "SOCS"
+        ]
+    },
+    {
+        "subjectId": 176,
+        "name": "Photography - Digital",
+        "codes": [
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 367,
+        "name": "Office Admin - Executive",
+        "codes": [
+            "BUSM",
+            "CGEN",
+            "COMM",
+            "COMP",
+            "OAMN",
+            "OAPR",
+            "APPL",
+            "ACCG",
+            "FLPL",
+            "LIFE",
+            "MGMT",
+            "OADM",
+            "MATH"
+        ]
+    },
+    {
+        "subjectId": 401,
+        "name": "Professional Development Works",
+        "codes": [
+            "WKSP"
+        ]
+    },
+    {
+        "subjectId": 130,
+        "name": "Computer Engineering Tech Coop",
+        "codes": [
+            "DBAS",
+            "INFO",
+            "PROG",
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 138,
+        "name": "Computer Programming - Intro",
+        "codes": [
+            "PROG"
+        ]
+    },
+    {
+        "subjectId": 476,
+        "name": "Web Design",
+        "codes": [
+            "INFO",
+            "MKTG",
+            "LIFE",
+            "TECH",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 168,
+        "name": "Database - Introductory",
+        "codes": [
+            "DBAS",
+            "APPL",
+            "SYST"
+        ]
+    },
+    {
+        "subjectId": 302,
+        "name": "Italian",
+        "codes": [
+            "LANG"
+        ]
+    },
+    {
+        "subjectId": 181,
+        "name": "Early Childhood Educ - Intensi",
+        "codes": [
+            "EDUC",
+            "FLPL"
+        ]
+    },
+    {
+        "subjectId": 391,
+        "name": "Police Foundations",
+        "codes": [
+            "COMM",
+            "CRIM",
+            "CSRV",
+            "INFO",
+            "JUST",
+            "PSRV",
+            "LEIS",
+            "PHIL",
+            "PSYC",
+            "SOCS",
+            "SOCI"
+        ]
+    },
+    {
+        "subjectId": 431,
+        "name": "Solid Modeling",
+        "codes": [
+            "CADD"
+        ]
+    },
+    {
+        "subjectId": 19,
+        "name": "Advertising and Marketing Comm",
+        "codes": [
+            "ADVG",
+            "COMM",
+            "MKTG",
+            "HUMN",
+            "APPL",
+            "SALE"
+        ]
+    },
+    {
+        "subjectId": 54,
+        "name": "Bachelor of Interaction Design",
+        "codes": [
+            "ATDN",
+            "BUSM",
+            "DESN",
+            "HIST",
+            "INFO",
+            "VDES"
+        ]
+    },
+    {
+        "subjectId": 438,
+        "name": "Supv. \u0026 Admin in ELC Programs",
+        "codes": [
+            "EDUC",
+            "MGMT",
+            "MKTG"
+        ]
+    },
+    {
+        "subjectId": 128,
+        "name": "Comp Science Techy Coop",
+        "codes": [
+            "DBAS",
+            "INFO",
+            "LIFE",
+            "MATH",
+            "PROG",
+            "SYST",
+            "TELE"
+        ]
+    },
+    {
+        "subjectId": 437,
+        "name": "Supv. \u0026 Admin in ELC Program",
+        "codes": [
+            "COMM",
+            "EDUC",
+            "FLPL",
+            "FINA",
+            "MGMT"
+        ]
+    },
+    {
+        "subjectId": 42,
+        "name": "Bach.  Illustration-Bridging",
+        "codes": [
+            "ILLS"
+        ]
+    },
+    {
+        "subjectId": 61,
+        "name": "BAHSc  Athletic Therapy",
+        "codes": [
+            "ANAT",
+            "ATHL",
+            "BIOL",
+            "COMM",
+            "FLPL",
+            "PHYG",
+            "PSYC",
+            "SOCI"
+        ]
+    }
+]

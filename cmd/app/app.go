@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/MikhailKlemin/aditya/pkg/unis/concordia"
+	"github.com/MikhailKlemin/aditya/pkg/unis/seneca"
 )
 
 func main() {
@@ -25,7 +25,12 @@ func main() {
 	//commerce.Start()
 	//mcgill.Start()
 	//mcgill.ToCSV()
-	concordia.Start()
+	seneca.Start()
+	//seneca.ParseCourseLink([]string{"Crap", "https://apps.senecacollege.ca/ssos/findOutline.do?subjectCode=YKC100"})
+	//seneca.Start()
+	//sheridan.Start()
+	//sheridan.Parse("coutlineview.jsp?appver=ba&subjectCode=VISM&courseCode=4013&version=3.0&sec=0&reload=true")
+	//sheridan.Start()
 	fmt.Printf("Took %s to finish\n", time.Since(t))
 
 }
